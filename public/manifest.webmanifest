@@ -1,0 +1,17 @@
+{
+  "name": "UPPSC RO/ARO Master",
+  "short_name": "RO/ARO Master",
+  "description": "Complete Review Officer & Assistant Review Officer Preparation System",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#b45309",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

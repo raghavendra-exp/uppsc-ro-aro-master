@@ -1,0 +1,63 @@
+{
+  "id": "ro-aro-2026",
+  "versionYear": 2026,
+  "status": "CURRENT",
+  "title": {
+    "hi": "उत्तर प्रदेश लोक सेवा आयोग RO/ARO नवीनतम आधिकारिक परीक्षा पैटर्न (अद्यतन)",
+    "en": "UPPSC RO/ARO Latest Official Examination Pattern (Current Baseline)"
+  },
+  "notificationNumber": "UPPSC/RO-ARO/CURRENT-STANDARD",
+  "notificationDate": "2026",
+  "lastVerified": "2026-09-27",
+  "officialSourceUrl": "https://uppsc.up.nic.in",
+  "negativeMarking": 0.33,
+  "prelimsPattern": {
+    "paper1GS": { "questions": 140, "marks": 140, "durationMinutes": 120 },
+    "paper2Hindi": { "questions": 60, "marks": 60, "durationMinutes": 60 },
+    "totalQuestions": 200,
+    "totalMarks": 200
+  },
+  "mainsPattern": {
+    "paper1GS": { "questions": 120, "marks": 120, "durationMinutes": 120 },
+    "paper2PartAConventional": { "marks": 100, "durationMinutes": 150 },
+    "paper2PartBVocab": { "questions": 30, "marks": 60, "durationMinutes": 30 },
+    "paper3Essay": { "essaysCount": 3, "wordsPerEssay": 600, "marks": 120, "durationMinutes": 180 },
+    "totalMarks": 400
+  },
+  "eligibility": {
+    "qualificationRO": {
+      "hi": "भारत में विधि द्वारा स्थापित विश्वविद्यालय से स्नातक उपाधि। विशेष पदों (उदा. लेखा, हिन्दी, उर्दू) हेतु विशिष्ट अर्हता।",
+      "en": "Bachelor's degree from recognized Indian University. Specialized posts (Accounts, Hindi, Urdu) require specific degree/proficiency."
+    },
+    "qualificationARO": {
+      "hi": "स्नातक उपाधि + NIELIT 'O' लेवल प्रमाणपत्र अथवा शासनादेश द्वारा मान्य समकक्ष डिप्लोमा + हिन्दी टंकण में न्यूनतम 25 श.प्र.मि. (कम्प्यूटर पर)।",
+      "en": "Bachelor's degree + NIELIT 'O' level or recognized equivalent diploma/degree as per UP Govt GOs + Minimum 25 wpm Hindi typing speed on computer."
+    },
+    "typingCriteriaARO": {
+      "hi": "हिन्दी टाइपिंग टेस्ट अनिवार्य रूप से कम्प्यूटर पर (कृतिदेव 010 या मंगल इनस्क्रिप्ट फॉन्ट)। अंग्रेजी टाइपिंग (30 श.प्र.मि.) वरीयता हेतु।",
+      "en": "Mandatory Hindi typing test on computer (Kruti Dev 010 or Mangal Inscript). English typing (30 wpm) provides preferential merit."
+    },
+    "ageLimit": {
+      "min": 21,
+      "max": 40,
+      "relaxationDetails": {
+        "hi": "उ.प्र. के आरक्षित वर्ग (SC, ST, OBC) हेतु 5 वर्ष की छूट; दिव्यांग अभ्यर्थियों हेतु 15 वर्ष की छूट।",
+        "en": "5 years relaxation for UP reserved categories (SC, ST, OBC); 15 years for PwD candidates as per UP rules."
+      }
+    }
+  },
+  "changesFromPrevious": [
+    {
+      "hi": "ओटीआर (One Time Registration) संख्या अनिवार्य; आवेदन से पूर्व 72 घंटे पहले ओटीआर जनरेट होना आवश्यक।",
+      "en": "Mandatory OTR (One Time Registration); must be generated at least 72 hours before form submission."
+    },
+    {
+      "hi": "उत्तर पुस्तिकाओं के मूल्यांकन में मानक मानकीकरण और बहुस्तरीय सत्यापन प्रणाली।",
+      "en": "Strict multi-tier verification and standardized evaluation for conventional papers."
+    },
+    {
+      "hi": "ओ-लेवल समकक्षता संबंधी 5 मई 2022 के शासनादेश के अनुरूप स्पष्ट डिप्लोमा सूची मान्य।",
+      "en": "Explicit equivalent diploma list as per UP Government GO dated 5 May 2022 strictly recognized."
+    }
+  ]
+}

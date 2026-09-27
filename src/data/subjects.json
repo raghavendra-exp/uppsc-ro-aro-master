@@ -1,0 +1,197 @@
+[
+  {
+    "id": "inm",
+    "title": { "hi": "भारतीय राष्ट्रीय आन्दोलन", "en": "Indian National Movement" },
+    "icon": "Flame",
+    "prelimsQuestionsAvg": 15,
+    "mainsRelevance": true,
+    "color": "from-red-500 to-orange-600",
+    "description": {
+      "hi": "1857 की क्रांति, कांग्रेस स्थापना, उदारवादी, उग्रवादी, गांधीवादी आंदोलन, 1947 तक पूर्ण स्वतंत्रता संग्राम एवं उ.प्र. का योगदान।",
+      "en": "1857 Revolt, INC formation, Moderates, Extremists, Gandhian movements up to 1947 independence & UP's special role."
+    },
+    "recommendedBooks": ["India's Struggle for Independence — Bipan Chandra", "Spectrum Modern India — Rajiv Ahir", "Ghatna Chakra Purvavlokan"]
+  },
+  {
+    "id": "up-gk",
+    "title": { "hi": "उत्तर प्रदेश विशेष ज्ञान", "en": "Uttar Pradesh Special Knowledge" },
+    "icon": "Landmark",
+    "prelimsQuestionsAvg": 18,
+    "mainsRelevance": true,
+    "color": "from-amber-500 to-amber-700",
+    "description": {
+      "hi": "उत्तर प्रदेश का इतिहास, भूगोल, अर्थव्यवस्था, कृषि, उद्योग, ओडीओपी (ODOP), संस्कृति, मेले, त्योहार एवं समसामयिकी।",
+      "en": "UP History, Geography, Economy, Agriculture, Industry, ODOP, Folk Culture, Fairs, Festivals & UP Current Affairs."
+    },
+    "recommendedBooks": ["Uttar Pradesh Samagra — Ghatna Chakra / Pariksha Vani", "UP Budget & Economic Survey", "Official UP Govt Portals"]
+  },
+  {
+    "id": "general-hindi",
+    "title": { "hi": "सामान्य हिन्दी (प्रारंभिक एवं मुख्य)", "en": "General Hindi (Prelims & Mains)" },
+    "icon": "Languages",
+    "prelimsQuestionsAvg": 60,
+    "mainsRelevance": true,
+    "color": "from-emerald-600 to-teal-700",
+    "description": {
+      "hi": "प्रारंभिक 6 मुख्य विषय: विलोम, वाक्य एवं वर्तनी शुद्धि, अनेक शब्दों के लिए एक शब्द, तत्सम-तद्भव, विशेष्य-विशेषण, पर्यायवाची (60 अंक)।",
+      "en": "Prelims 6 core modules: Antonyms, Sentence & Spelling Correction, One Word, Tatsam-Tadbhav, Visheshya-Visheshan, Synonyms (60 Marks)."
+    },
+    "recommendedBooks": ["Dr. Hardev Bahri — General Hindi", "Prithvi Nath Pandey", "Dheya / Ghatna Chakra Hindi RO/ARO Solved"]
+  },
+  {
+    "id": "history",
+    "title": { "hi": "भारत का इतिहास", "en": "History of India" },
+    "icon": "BookOpen",
+    "prelimsQuestionsAvg": 14,
+    "mainsRelevance": true,
+    "color": "from-amber-600 to-yellow-600",
+    "description": {
+      "hi": "प्राचीन भारत (सिंधु घाटी, वैदिक, मौर्य, गुप्त), मध्यकालीन भारत (सल्तनत, मुगल, मराठा, भक्ति-सूफी) एवं आधुनिक भारत।",
+      "en": "Ancient India (IVC, Vedic, Maurya, Gupta), Medieval India (Sultanate, Mughal, Marathas, Bhakti-Sufi) and Modern India."
+    },
+    "recommendedBooks": ["Old NCERT Class 11-12 History", "Lucent's General Knowledge", "Ghatna Chakra Purvavlokan History"]
+  },
+  {
+    "id": "polity",
+    "title": { "hi": "भारतीय राज्यव्यवस्था एवं संविधान", "en": "Indian Polity & Constitution" },
+    "icon": "Scale",
+    "prelimsQuestionsAvg": 12,
+    "mainsRelevance": true,
+    "color": "from-blue-600 to-indigo-700",
+    "description": {
+      "hi": "संविधान सभा, प्रस्तावना, मूल अधिकार, नीति निदेशक तत्व, संसद, न्यायपालिका, राज्यपाल, पंचायती राज व संवैधानिक निकाय।",
+      "en": "Constituent Assembly, Preamble, Fundamental Rights, DPSP, Parliament, Judiciary, Governor, Panchayati Raj & Constitutional Bodies."
+    },
+    "recommendedBooks": ["Indian Polity — M. Laxmikanth", "NCERT Class 11 Indian Constitution at Work", "Constitution Bare Act"]
+  },
+  {
+    "id": "geography",
+    "title": { "hi": "भारत एवं विश्व का भूगोल", "en": "Indian & World Geography" },
+    "icon": "Globe",
+    "prelimsQuestionsAvg": 16,
+    "mainsRelevance": true,
+    "color": "from-cyan-600 to-blue-700",
+    "description": {
+      "hi": "भौतिक भूगोल, नदियाँ, पर्वत, जलवायु, मिट्टियाँ, खनिज, कृषि, उद्योग एवं विश्व के महाद्वीप, महासागरीय धाराएं, जलसंधियां।",
+      "en": "Physical Geography, Indian Rivers, Mountains, Climate, Soils, Minerals, Global Continents, Ocean Currents and Straits."
+    },
+    "recommendedBooks": ["Certificate Physical & Human Geography — G.C. Leong", "Majid Husain / Mahesh Barnwal", "NCERT Class 11-12 Geography"]
+  },
+  {
+    "id": "economy",
+    "title": { "hi": "भारतीय अर्थव्यवस्था, वाणिज्य एवं व्यापार", "en": "Indian Economy, Commerce & Trade" },
+    "icon": "TrendingUp",
+    "prelimsQuestionsAvg": 10,
+    "mainsRelevance": true,
+    "color": "from-violet-600 to-purple-700",
+    "description": {
+      "hi": "जीडीपी, मुद्रास्फीति, राजकोषीय व मौद्रिक नीति, आरबीआई, बैंकिंग, बजट, कर व्यवस्था (जीएसटी), विदेशी व्यापार, डब्ल्यूटीओ, एमएसएमई।",
+      "en": "GDP, Inflation, Fiscal & Monetary policy, RBI, Banking, Union & UP Budget, GST, Foreign Trade, WTO, MSME & Economic Schemes."
+    },
+    "recommendedBooks": ["Indian Economy — Ramesh Singh / Nitin Singhania", "Union Budget & Economic Survey Highlights", "Mrunal Economy Notes"]
+  },
+  {
+    "id": "science",
+    "title": { "hi": "सामान्य विज्ञान", "en": "General Science" },
+    "icon": "FlaskConical",
+    "prelimsQuestionsAvg": 15,
+    "mainsRelevance": true,
+    "color": "from-teal-500 to-emerald-600",
+    "description": {
+      "hi": "भौतिकी, रसायन विज्ञान एवं जीव विज्ञान (मानव शरीर, पोषण, रोग, आनुवंशिकी, जैव विविधता एवं दैनिक विज्ञान)।",
+      "en": "Physics, Chemistry and Biology (Human Body, Nutrition, Diseases, Genetics, Biodiversity and Everyday Applications)."
+    },
+    "recommendedBooks": ["Lucent General Science", "NCERT Class 9-10 Science", "Ghatna Chakra Purvavlokan Samanya Vigyan"]
+  },
+  {
+    "id": "environment",
+    "title": { "hi": "पर्यावरण एवं पारिस्थितिकी", "en": "Ecology & Environment" },
+    "icon": "Trees",
+    "prelimsQuestionsAvg": 10,
+    "mainsRelevance": true,
+    "color": "from-green-600 to-emerald-700",
+    "description": {
+      "hi": "पारिस्थितिकी तंत्र, जैव विविधता, राष्ट्रीय उद्यान, वन्यजीव अभयारण्य, रामसर स्थल, जलवायु परिवर्तन, वैश्विक तापमान, अंतर्राष्ट्रीय सम्मेलन।",
+      "en": "Ecosystem, Biodiversity, National Parks, Sanctuaries, Ramsar Sites, Climate Change, Global Warming, UNFCCC & SDGs."
+    },
+    "recommendedBooks": ["Environment — Shankar IAS / Drishti IAS", "Ghatna Chakra Ecology & Environment", "Ministry of Environment Annual Report"]
+  },
+  {
+    "id": "agriculture",
+    "title": { "hi": "भारतीय कृषि", "en": "Indian Agriculture" },
+    "icon": "Sprout",
+    "prelimsQuestionsAvg": 8,
+    "mainsRelevance": true,
+    "color": "from-lime-600 to-green-700",
+    "description": {
+      "hi": "फसल चक्र (खरीफ, रबी, जायद), सिंचाई, हरित क्रांति, एमएसपी (MSP), कृषि विपणन, उर्वरक, ग्रामीण साख एवं प्रमुख कृषि योजनाएं।",
+      "en": "Cropping patterns (Kharif, Rabi, Zaid), Irrigation, Green Revolution, MSP, APMC, Fertilizers, Rural Credit & Agri Schemes."
+    },
+    "recommendedBooks": ["Agricultural Statistics at a Glance", "Kurukshetra / Yojana Magazines", "Ghatna Chakra Agriculture Section"]
+  },
+  {
+    "id": "population-urbanization",
+    "title": { "hi": "जनसंख्या एवं नगरीकरण (भारतीय परिप्रेक्ष्य)", "en": "Population & Urbanization" },
+    "icon": "Users",
+    "prelimsQuestionsAvg": 6,
+    "mainsRelevance": false,
+    "color": "from-rose-500 to-pink-600",
+    "description": {
+      "hi": "जनगणना (विशेषकर 2011 भारत एवं उ.प्र.), लिंगानुपात, साक्षरता, घनत्व, नगरीय वृद्धि, स्मार्ट सिटी मिशन, अमृत योजना, झुग्गी बस्तियां।",
+      "en": "Census 2011 (India & UP), Sex Ratio, Literacy, Density, Urban Growth, Smart Cities Mission, AMRUT, Urban Governance."
+    },
+    "recommendedBooks": ["Census 2011 Data Compendium — Govt of India & UP", "Pariksha Vani Population & Urbanization"]
+  },
+  {
+    "id": "current-affairs",
+    "title": { "hi": "राष्ट्रीय एवं अंतर्राष्ट्रीय महत्वपूर्ण घटनाक्रम", "en": "Current National & International Events" },
+    "icon": "Newspaper",
+    "prelimsQuestionsAvg": 20,
+    "mainsRelevance": true,
+    "color": "from-sky-500 to-indigo-600",
+    "description": {
+      "hi": "गत 1 वर्ष की प्रमुख राष्ट्रीय, अंतर्राष्ट्रीय, उत्तर प्रदेश, खेलकूद, पुरस्कार, सूचकांक, युद्धाभ्यास, सम्मेलन एवं सरकारी योजनाएं।",
+      "en": "Past 1 year national, international, UP state affairs, sports, awards, indices, military exercises, summits and Govt schemes."
+    },
+    "recommendedBooks": ["Drishti Current Affairs / Ghatna Chakra Drishti Eye", "Yojana & Kurukshetra", "Press Information Bureau (PIB)"]
+  },
+  {
+    "id": "reasoning",
+    "title": { "hi": "सामान्य बौद्धिक क्षमता (तर्कशक्ति)", "en": "General Intelligence (Reasoning)" },
+    "icon": "Brain",
+    "prelimsQuestionsAvg": 12,
+    "mainsRelevance": false,
+    "color": "from-purple-500 to-pink-600",
+    "description": {
+      "hi": "सादृश्यता, श्रृंखला, कोडिंग-डिकोडिंग, रक्त संबंध, दिशा ज्ञान, न्यायवाक्य (Syllogism), वेन आरेख, कैलेंडर, घड़ी, विश्लेषणात्मक तर्क।",
+      "en": "Analogy, Series, Coding-Decoding, Blood Relations, Direction, Syllogism, Venn Diagrams, Calendar, Clock and Logical Puzzles."
+    },
+    "recommendedBooks": ["A Modern Approach to Verbal & Non-Verbal Reasoning — R.S. Aggarwal", "PYQ Practice Sets"]
+  },
+  {
+    "id": "mains-drafting",
+    "title": { "hi": "मुख्य परीक्षा: सामान्य हिन्दी एवं आलेखन", "en": "Mains: General Hindi & Drafting" },
+    "icon": "FileText",
+    "prelimsQuestionsAvg": 0,
+    "mainsRelevance": true,
+    "color": "from-amber-600 to-red-700",
+    "description": {
+      "hi": "गद्यांश शीर्षक, सारांश, रेखांकित अंश, शासकीय पत्र का सारणी रूप (टेबुलर फॉर्म), 9 प्रकार के पत्र-व्यवहार, प्रशासनिक शब्दावली, मुहावरे, कम्प्यूटर।",
+      "en": "Passage Précis, Govt Letter Tabular Précis, 9 Official Correspondence formats, Administrative Terminology, Idioms and Computer Knowledge."
+    },
+    "recommendedBooks": ["UPPSC RO/ARO Mains Drafting Guide — Ghatna Chakra / Dheya IAS", "UP Secretariat Manual of Office Procedure"]
+  },
+  {
+    "id": "mains-essay",
+    "title": { "hi": "मुख्य परीक्षा: हिन्दी निबंध (3 खंड, 600 शब्द)", "en": "Mains: Hindi Essay (3 Sections, 600 Words)" },
+    "icon": "PenTool",
+    "prelimsQuestionsAvg": 0,
+    "mainsRelevance": true,
+    "color": "from-indigo-600 to-violet-800",
+    "description": {
+      "hi": "खंड क (साहित्य-संस्कृति, सामाजिक, राजनीतिक), खंड ख (विज्ञान-पर्यावरण, अर्थव्यवस्था, कृषि-व्यापार), खंड ग (राष्ट्रीय-अंतर्राष्ट्रीय, आपदा, योजनाएं)।",
+      "en": "Section A (Literature/Culture, Social, Political), Section B (Science/Environment, Economy, Agriculture/Trade), Section C (National/International, Disasters, Plans)."
+    },
+    "recommendedBooks": ["Nibandh Manjusha — Dheya IAS / Ghatna Chakra", "Drishti Essay Compendium", "Editorial Columns (Dainik Jagran Rashtriya Sanskaran)"]
+  }
+]

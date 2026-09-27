@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ROARO-PYQ-2021-GS-001",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "Constitutional Amendments",
+    "subtopic": "Panchayati Raj",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के 73वें संशोधन अधिनियम, 1992 द्वारा संविधान में कौन सी अनुसूची जोड़ी गई थी?",
+      "en": "Which Schedule was added to the Constitution by the 73rd Constitutional Amendment Act, 1992?"
+    },
+    "options": {
+      "hi": ["9वीं अनुसूची", "10वीं अनुसूची", "11वीं अनुसूची", "12वीं अनुसूची"],
+      "en": ["9th Schedule", "10th Schedule", "11th Schedule", "12th Schedule"]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "73वें संविधान संशोधन अधिनियम, 1992 द्वारा संविधान में भाग-9 और 11वीं अनुसूची जोड़ी गई, जिसमें पंचायतों के कार्य हेतु 29 विषय शामिल हैं। (12वीं अनुसूची 74वें संशोधन द्वारा नगरपालिकाओं हेतु जोड़ी गई थी)।",
+      "en": "The 73rd Constitutional Amendment Act, 1992 inserted Part IX and the 11th Schedule listing 29 functional items for Panchayats. (12th Schedule relates to Municipalities under 74th Amendment)."
+    },
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": ["polity", "panchayat", "73rd-amendment", "pyq-2021"]
+  },
+  {
+    "id": "ROARO-PYQ-2021-HINDI-001",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'जंगम' शब्द का सही विलोम क्या है?",
+      "en": "What is the correct antonym of the Hindi word 'Jangam' (Movable)?"
+    },
+    "options": {
+      "hi": ["अगम", "दुर्गम", "स्थावर", "चंचल"],
+      "en": ["Agam", "Durgam", "Sthavar", "Chanchal"]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "'जंगम' का अर्थ है जो चल सकता हो (चलायमान)। इसका सटीक विलोम 'स्थावर' है (जो स्थिर रहे, अचल)। 'अगम' का विलोम 'सुगम' होता है।",
+      "en": "'Jangam' denotes mobile/movable. Its classic antonym is 'Sthavar' (immobile/stationary)."
+    },
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": ["hindi", "vilom", "pyq-2021"]
+  },
+  {
+    "id": "ROARO-PYQ-2021-UPGK-001",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "Geography & Districts",
+    "subtopic": "District Borders",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश का निम्नलिखित में से कौन सा जिला चार राज्यों की सीमाओं को स्पर्श करता है?",
+      "en": "Which of the following districts of Uttar Pradesh touches the borders of four states?"
+    },
+    "options": {
+      "hi": ["सहारनपुर", "सोनभद्र", "बलिया", "ललितपुर"],
+      "en": ["Saharanpur", "Sonbhadra", "Ballia", "Lalitpur"]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "सोनभद्र भारत का एकमात्र ऐसा जिला है जो चार राज्यों (मध्य प्रदेश, छत्तीसगढ़, झारखंड और बिहार) की सीमाओं को स्पर्श करता है। सहारनपुर तीन राज्यों (उत्तराखंड, हिमाचल प्रदेश, हरियाणा) को छूता है।",
+      "en": "Sonbhadra is the unique district in India bordering four states: MP, Chhattisgarh, Jharkhand, and Bihar. Saharanpur borders three states."
+    },
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": ["up-gk", "geography", "borders", "pyq-2021"]
+  },
+  {
+    "id": "ROARO-PYQ-2016-INM-001",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian National Movement",
+    "topic": "1942 Movement",
+    "subtopic": "Parallel Government",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान उत्तर प्रदेश के किस जिले में समानांतर सरकार की स्थापना हुई थी?",
+      "en": "During the Quit India Movement of 1942, in which district of UP was a parallel government formed?"
+    },
+    "options": {
+      "hi": ["इलाहाबाद", "बलिया", "लखनऊ", "गोरखपुर"],
+      "en": ["Allahabad", "Ballia", "Lucknow", "Gorakhpur"]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "अगस्त 1942 में चित्तू पांडे के नेतृत्व में बलिया में समानांतर सरकार की स्थापना हुई थी, जिसे 'बागी बलिया' भी कहा जाता है।",
+      "en": "In August 1942, Chittu Pandey formed a parallel government in Ballia, which lasted for several days."
+    },
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": ["inm", "quit-india", "ballia", "pyq-2016"]
+  },
+  {
+    "id": "ROARO-PYQ-2017-HINDI-001",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विशेष्य और विशेषण",
+    "subtopic": "Adjectives",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "'एक चतुर बालक ने बहुत सारा दूध पी लिया' — इस वाक्य में कितने विशेषण और कितने विशेष्य हैं?",
+      "en": "In the sentence 'Ek chatur balak ne bahut sara doodh pee liya', how many adjectives and nouns (visheshya) are present?"
+    },
+    "options": {
+      "hi": ["दो विशेषण, दो विशेष्य", "तीन विशेषण, दो विशेष्य", "चार विशेषण, दो विशेष्य", "तीन विशेषण, तीन विशेष्य"],
+      "en": ["Two adjectives, two visheshya", "Three adjectives, two visheshya", "Four adjectives, two visheshya", "Three adjectives, three visheshya"]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "विशेषण: (1) एक (संख्यावाचक), (2) चतुर (गुणवाचक), (3) बहुत सारा (अनिश्चित परिमाणवाचक) = 3 विशेषण। विशेष्य: (1) बालक, (2) दूध = 2 विशेष्य। अतः 'तीन विशेषण, दो विशेष्य' सही है।",
+      "en": "Adjectives: 'एक', 'चतुर', 'बहुत सारा' (3 adjectives). Visheshya (nouns qualified): 'बालक', 'दूध' (2 visheshya)."
+    },
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": ["hindi", "visheshan", "visheshya", "pyq-2017"]
+  },
+  {
+    "id": "ROARO-PYQ-2016-SCIENCE-001",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "General Science",
+    "topic": "Biology",
+    "subtopic": "Vitamins",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस विटामिन में कोबाल्ट धातु पाई जाती है?",
+      "en": "In which of the following vitamins is Cobalt metal present?"
+    },
+    "options": {
+      "hi": ["विटामिन B1", "विटामिन B2", "विटामिन B6", "विटामिन B12"],
+      "en": ["Vitamin B1", "Vitamin B2", "Vitamin B6", "Vitamin B12"]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "विटामिन B12 का रासायनिक नाम साइनोकोबालामिन (Cyanocobalamin) है। इसमें कोबाल्ट धातु पाई जाती है। इसकी कमी से प्रणाशी रक्ताल्पता (Pernicious Anemia) होती है।",
+      "en": "Vitamin B12 contains Cobalt in its core porphyrin ring. Its chemical designation is Cyanocobalamin."
+    },
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": ["science", "biology", "vitamins", "pyq-2016"]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "essay-cat-a-01",
+    "category": "A_LITERATURE_CULTURE_SOCIAL_POLITICAL",
+    "categoryLabel": { "hi": "खंड 1: साहित्य, संस्कृति, सामाजिक एवं राजनीतिक क्षेत्र", "en": "Section 1: Literature, Culture, Social & Political Spheres" },
+    "title": { "hi": "साहित्य समाज का दर्पण ही नहीं, अपितु दीपक भी है", "en": "Literature is Not Just a Mirror of Society, but a Guiding Beacon" },
+    "wordCountLimit": 600,
+    "understanding": {
+      "hi": "यह निबंध दोहरी भूमिका पर केंद्रित है: (1) दर्पण के रूप में साहित्य सामाजिक यथार्थ, कुरीतियों और संघर्षों को प्रतिबिंबित करता है, तथा (2) दीपक के रूप में वह समाज को नई दिशा, मूल्य, संवेदना और प्रगतिशील चेतना प्रदान करता है।",
+      "en": "Dual perspective: Literature as mirror reflects socio-cultural realities and flaws; as beacon it illuminates progressive values and conscience."
+    },
+    "introductionFramework": [
+      { "hi": "आचार्य महावीर प्रसाद द्विवेदी या मैथिलीशरण गुप्त की पंक्तियों से आरंभ: 'साहित्य समाज की संचित चित्तवृत्तियों का प्रतिबिंब है'।", "en": "Begin with classical quote on literature being reflective consciousness of humankind." },
+      { "hi": "दर्पण और दीपक के रूपक (Metaphor) की दार्शनिक व्याख्या करें।", "en": "Unpack the metaphor: passive reflection versus active enlightenment." }
+    ],
+    "backgroundContext": {
+      "hi": "भक्ति आंदोलन से लेकर स्वतंत्रता संग्राम और आधुनिक डिजिटल युग तक साहित्य ने सदैव सामाजिक परिवर्तन का पथ प्रशस्त किया है।",
+      "en": "From Bhakti movement to freedom movement and modern cyber-era, literature paved systemic reform."
+    },
+    "dimensions": [
+      {
+        "dimension": { "hi": "सांस्कृतिक एवं नैतिक आयाम", "en": "Cultural & Ethical Dimension" },
+        "points": [
+          { "hi": "कबीर, तुलसी और सूरदास ने तत्कालीन विषमताओं को दिखाया और मानवीय समरसता का दीपक जलाया।", "en": "Kabir, Tulsi highlighted bigotry while preaching fraternal humanism." }
+        ]
+      },
+      {
+        "dimension": { "hi": "राष्ट्रवादी एवं राजनीतिक आयाम", "en": "Nationalist & Political Dimension" },
+        "points": [
+          { "hi": "भारतेंदु हरिश्चंद्र ('भारत दुर्दशा'), प्रेमचंद ('गोदान', 'कफ़न') और दिनकर ('हुंकार') ने जनता में स्वराज की लौ प्रज्वलित की।", "en": "Premchand, Bharatendu Harishchandra stirred anti-colonial resistance and peasant awakening." }
+        ]
+      },
+      {
+        "dimension": { "hi": "समकालीन सामाजिक विमर्श (दलित, स्त्री व हाशिए का समाज)", "en": "Contemporary Subaltern & Gender Discourse" },
+        "points": [
+          { "hi": "महादेवी वर्मा, मन्नू भंडारी, ओमप्रकाश वाल्मीकि ने उपेक्षित वर्गों की वेदना को मुखर किया।", "en": "Women and subaltern writers illuminating systemic inequities and dignity." }
+        ]
+      }
+    ],
+    "keyArguments": [
+      { "hi": "यदि साहित्य केवल यथार्थ (दर्पण) दिखाए तो निराशा उत्पन्न हो सकती है; दीपक के रूप में वह समाधान और आशा का संचार करता है।", "en": "Mirror alone breeds cynicism; beacon provides constructive hope and ethical direction." }
+    ],
+    "relevantFactsAndData": [
+      { "hi": "मुंशी प्रेमचंद की पत्रिका 'हंस' और गणेश शंकर विद्यार्थी का 'प्रताप' स्वतंत्रता की वैचारिक पीठिका बने।", "en": "Premchand's 'Hans' and Ganesh Shankar Vidyarthi's 'Pratap' served as intellectual launchpads of freedom." }
+    ],
+    "govtInitiatives": [
+      { "hi": "साहित्य अकादमी पुरस्कार, ज्ञानपीठ, उत्तर प्रदेश हिन्दी संस्थान द्वारा भारत भारती पुरस्कार।", "en": "Sahitya Akademi, Jnanpith, and UP Hindi Sansthan Bharat Bharati awards celebrating literary merit." }
+    ],
+    "upPerspective": [
+      { "hi": "उत्तर प्रदेश हिन्दी साहित्य का उद्गम स्थल रहा है: कबीर (काशी), तुलसी (चित्रकूट/वाराणसी), प्रेमचंद (लमही), निराला (प्रयागराज), महादेवी वर्मा (प्रयागराज)।", "en": "UP is the heartland of Hindi: Kabir & Tulsi (Kashi), Premchand (Lamhi), Nirala & Mahadevi (Prayagraj)." }
+    ],
+    "wayForward": [
+      { "hi": "डिजिटल एवं सोशल मीडिया के दौर में गंभीर पठन संस्कृति को बढ़ावा देना, पुस्तकालयों का पुनरुद्धार और स्थानीय बोलियों का संरक्षण।", "en": "Fostering deep reading culture in digital age, revitalizing public libraries and preserving folk dialects." }
+    ],
+    "conclusionFramework": [
+      { "hi": "साहित्य केवल शब्दों का विन्यास नहीं, राष्ट्र की आत्मा है। जब तक समाज में अन्याय रहेगा, साहित्य का दीपक जलता रहेगा।", "en": "Literature is the soul of the commonwealth, an unquenchable light upholding truth." }
+    ],
+    "keywords": ["प्रतिबिंब", "दिशा-बोध", "संवेदना", "मानवतावाद", "सामाजिक कुरीतियां", "जागृति", "उत्तर प्रदेश साहित्य पीठ"],
+    "quotations": [
+      "साहित्य जनसमूह के हृदय का विकास है। — पं. बालकृष्ण भट्ट",
+      "साहित्य वह जादू की लकड़ी है जो पशुओं में ईंट-पत्थरों में भी जान फूंक देती है। — मुंशी प्रेमचंद"
+    ],
+    "commonPitfalls": [
+      { "hi": "केवल कवियों की जीवनी लिख देना और विषय के विश्लेषणात्मक पक्ष को छोड़ देना।", "en": "Writing poet biographies instead of analytical synthesis of social impact." },
+      { "hi": "शब्द सीमा (600 शब्द) से बहुत अधिक या कम लिखना।", "en": "Deviating drastically from 600 words target." }
+    ],
+    "checklist": [
+      { "hi": "क्या प्रस्तावना में शीर्षक का अर्थ स्पष्ट किया गया है?", "en": "Is the core premise clarified in introduction?" },
+      { "hi": "क्या दर्पण और दीपक दोनों पक्षों पर संतुलित विचार है?", "en": "Is balance maintained between reflection (mirror) and enlightenment (beacon)?" },
+      { "hi": "क्या उ.प्र. के साहित्यकारों के प्रासंगिक उदाहरण दिए गए हैं?", "en": "Are UP literary legends suitably cited?" },
+      { "hi": "क्या शब्द संख्या 550 से 650 के मध्य है?", "en": "Is word count strictly 550 - 650 words?" }
+    ]
+  },
+  {
+    "id": "essay-cat-b-01",
+    "category": "B_SCIENCE_TECH_ECONOMY_AGRI",
+    "categoryLabel": { "hi": "खंड 2: विज्ञान, पर्यावरण, प्रौद्योगिकी, अर्थव्यवस्था, कृषि एवं व्यापार", "en": "Section 2: Science, Environment, Tech, Economy, Agri & Trade" },
+    "title": { "hi": "कृत्रिम बुद्धिमत्ता (AI): विकास का संवाहक अथवा मानवता हेतु चुनौती", "en": "Artificial Intelligence (AI): Engine of Growth or Existential Challenge to Humanity" },
+    "wordCountLimit": 600,
+    "understanding": {
+      "hi": "आधुनिक युग में जेनरेटिव एआई एवं मशीन लर्निंग के अभूतपूर्व प्रसार से आर्थिक समृद्धि और प्रशासनिक दक्षता बढ़ी है, किंतु डेटा सुरक्षा, रोजगार संकट और नैतिक संकट भी उभरे हैं।",
+      "en": "Surge of Generative AI accelerating economic efficiency and public service delivery while raising data privacy, job disruption and existential ethical dilemmas."
+    },
+    "introductionFramework": [
+      { "hi": "चौथी औद्योगिक क्रांति (Industry 4.0) के केंद्र में एआई की उपस्थिति को रेखांकित करते हुए निबंध आरंभ करें।", "en": "Open with Fourth Industrial Revolution framing AI as the transformative electricity of 21st century." }
+    ],
+    "backgroundContext": {
+      "hi": "चैटजीपीटी, डीपफेक, ऑटोनॉमस सिस्टम्स एवं स्वास्थ्य-कृषि में एआई के बढ़ते अनुप्रयोग।",
+      "en": "Rapid adoption of LLMs, robotics, precision agriculture and smart governance diagnostics."
+    },
+    "dimensions": [
+      {
+        "dimension": { "hi": "प्रशासनिक एवं आर्थिक समृद्धि (सकारात्मक)", "en": "Governance & Economic Dividends" },
+        "points": [
+          { "hi": "ई-ऑफिस, जन शिकायतों का ऑटोमेटेड विश्लेषण, कृषि में कीट पहचान और मौसम पूर्वानुमान।", "en": "Predictive maintenance, automated grievance redressal, smart agricultural advisory." }
+        ]
+      },
+      {
+        "dimension": { "hi": "रोजगार एवं आर्थिक विषमता (चुनौती)", "en": "Employment & Economic Disparity" },
+        "points": [
+          { "hi": "व्हाइट-कॉलर नौकरियों पर संकट, रोबोटिक्स से श्रम विस्थापन, तकनीकी एकाधिकार।", "en": "Risk of disruption in entry-level analytical and clerical roles; algorithmic bias." }
+        ]
+      },
+      {
+        "dimension": { "hi": "नैतिक, कानूनी एवं साइबर सुरक्षा पहलू", "en": "Ethical, Legal & Cybersecurity Dimensions" },
+        "points": [
+          { "hi": "डीपफेक से भ्रामक सूचनाएं, निजता का हनन (डीपीडीपी एक्ट 2023), स्वायत्त हथियारों का खतरा।", "en": "Deepfakes eroding democratic trust; personal data infringement; weaponization of AI." }
+        ]
+      }
+    ],
+    "keyArguments": [
+      { "hi": "प्रौद्योगिकी स्वयं में तटस्थ होती है; उसका मानवीय कल्याण या विनाशकारी उपयोग हमारे विनियामक ढांचे पर निर्भर करता है।", "en": "Technology is intrinsically neutral; human agency and regulatory guardrails govern its ultimate outcome." }
+    ],
+    "relevantFactsAndData": [
+      { "hi": "नीति आयोग का 'AI for All' विजन; वैश्विक एआई बाजार 2030 तक 1.3 ट्रिलियन डॉलर पहुंचने का अनुमान।", "en": "NITI Aayog's 'AI for All' initiative; Global AI market projected to surpass $1.3 Trillion by 2030." }
+    ],
+    "govtInitiatives": [
+      { "hi": "डिजिटल इंडिया भाषिणी (स्थानीय भारतीय भाषाओं में एआई अनुवाद), इंडिया एआई मिशन (IndiaAI Mission - ₹10,372 करोड़)।", "en": "Bhashini AI language bridge; IndiaAI Mission with allocation of over ₹10,372 Crores." }
+    ],
+    "upPerspective": [
+      { "hi": "उत्तर प्रदेश सरकार लखनऊ को देश की प्रथम 'एआई सिटी' (AI City) के रूप में विकसित कर रही है; नोएडा में आईटी-एआई हब।", "en": "UP Govt establishing India's first dedicated 'AI City' in Lucknow; expanding Noida IT/AI corridor." }
+    ],
+    "wayForward": [
+      { "hi": "कड़े नैतिक मानक (Responsible AI), व्यापक डिजिटल पुनर्-कौशलीकरण (Reskilling), और मजबूत डेटा सुरक्षा कानून का क्रियान्वयन।", "en": "Implementation of ethical AI benchmarks, mass workforce reskilling, and robust data protection enforcement." }
+    ],
+    "conclusionFramework": [
+      { "hi": "एआई को मानव का विकल्प नहीं बल्कि मानव बुद्धि का पूरक बनना चाहिए। 'प्रौद्योगिकी मानव की सेवा के लिए है, मानव प्रौद्योगिकी की नहीं'।", "en": "AI must augment human intellect rather than replace it, anchored in empathy and constitutional values." }
+    ],
+    "keywords": ["कृत्रिम बुद्धिमत्ता", "चतुर्थ औद्योगिक क्रांति", "जिम्मेदार एआई", "भाषिणी", "लखनऊ एआई सिटी", "पुनर्कौशलीकरण"],
+    "quotations": [
+      "विज्ञान वरदान है या अभिशाप, यह इस बात पर निर्भर करता है कि उसका उपयोग कौन और किस उद्देश्य से कर रहा है।"
+    ],
+    "commonPitfalls": [
+      { "hi": "केवल तकनीकी परिभाषाओं में उलझ जाना और सामाजिक-प्रशासनिक पहलुओं की अनदेखी करना।", "en": "Overemphasizing technical jargon while ignoring socio-economic and ethical impacts." }
+    ],
+    "checklist": [
+      { "hi": "क्या एआई के लाभ और खतरे दोनों निष्पक्ष रूप से प्रस्तुत किए गए हैं?", "en": "Are both benefits and perils balanced equitably?" },
+      { "hi": "क्या भारत एवं उ.प्र. सरकार (उदा. लखनऊ एआई सिटी) का उल्लेख है?", "en": "Are Govt of India & UP initiatives (e.g. Lucknow AI City) cited?" },
+      { "hi": "क्या समाधानपरक निष्कर्ष (Way Forward) दिया गया है?", "en": "Is a forward-looking conclusion articulated?" }
+    ]
+  },
+  {
+    "id": "essay-cat-c-01",
+    "category": "C_NATIONAL_INTERNATIONAL_DISASTER_PLANS",
+    "categoryLabel": { "hi": "खंड 3: राष्ट्रीय एवं अंतर्राष्ट्रीय घटनाक्रम, प्राकृतिक आपदाएं एवं राष्ट्रीय विकास योजनाएं", "en": "Section 3: National/International Events, Natural Calamities & National Development Plans" },
+    "title": { "hi": "जलवायु परिवर्तन, बाढ़ एवं सूखा: उत्तर प्रदेश के संदर्भ में आपदा प्रबंधन", "en": "Climate Change, Floods & Droughts: Disaster Management in UP's Context" },
+    "wordCountLimit": 600,
+    "understanding": {
+      "hi": "वैश्विक जलवायु परिवर्तन के कारण अनपेक्षित मौसमी घटनाएं बढ़ी हैं। उत्तर प्रदेश में एक ओर पूर्वांचल और तराई में भीषण बाढ़ तथा दूसरी ओर बुंदेलखंड में सूखे की विभीषिका एक गंभीर विकासात्मक चुनौती है।",
+      "en": "Climate change triggers asymmetric extremes: recurrent flooding in Eastern UP/Terai alongside perpetual drought cycles in Bundelkhand."
+    },
+    "introductionFramework": [
+      { "hi": "आईपीसीसी (IPCC) की नवीनतम रिपोर्ट के हवाले से जलवायु संकट की तीव्रता और खाद्य-सुरक्षा पर इसके खतरे से शुरुआत।", "en": "Begin with IPCC warning on accelerating weather anomalies and threats to food security in Gangetic basin." }
+    ],
+    "backgroundContext": {
+      "hi": "उ.प्र. की भौगोलिक विविधता: घाघरा, राप्ती, गंगा में बाढ़ की पुनरावृत्ति तथा विंध्य-बुंदेलखंड की जल संकटग्रस्त स्थिति।",
+      "en": "Geographical contrast: Ghaghra, Rapti, Gandak causing floods, while Betwa and Ken basins suffer acute rain deficits."
+    },
+    "dimensions": [
+      {
+        "dimension": { "hi": "कृषि एवं आजीविका पर प्रभाव", "en": "Agricultural & Livelihood Impact" },
+        "points": [
+          { "hi": "खड़ी फसलों का विनाश, पशुधन हानि, किसानों का मौसमी पलायन।", "en": "Crop destruction, livestock losses, and distress migration of marginal farmers." }
+        ]
+      },
+      {
+        "dimension": { "hi": "स्वास्थ्य एवं पारिस्थितिक संकट", "en": "Health & Ecological Fallout" },
+        "points": [
+          { "hi": "जलजनित बीमारियां (डायरिया, हैजा), भूजल स्तर में भारी गिरावट।", "en": "Spread of water-borne epidemics and alarming depletion of groundwater tables." }
+        ]
+      },
+      {
+        "dimension": { "hi": "प्रशासनिक एवं आपदा प्रबंधन तंत्र", "en": "Administrative & Disaster Management Architecture" },
+        "points": [
+          { "hi": "राहत वितरण से आगे बढ़कर 'आपदा-पूर्व तैयारी' और जोखिम न्यूनीकरण (Sendai Framework) की आवश्यकता।", "en": "Shifting from reactive relief to proactive Sendai Framework of disaster risk reduction." }
+        ]
+      }
+    ],
+    "keyArguments": [
+      { "hi": "नदियों के जल का वैज्ञानिक प्रबंधन और इंटरलिंकिंग (उदा. केन-बेतवा लिंक) सूखे और बाढ़ दोनों का स्थायी समाधान बन सकता है।", "en": "Scientific watershed management and Ken-Betwa river interlinking offer twin solutions to flood-drought imbalance." }
+    ],
+    "relevantFactsAndData": [
+      { "hi": "उ.प्र. का लगभग 27% भूभाग बाढ़ संवेदनशील है, विशेषकर तराई व पूर्वी जिले।", "en": "Nearly 27% of UP's geographical expanse is flood-prone, predominantly Terai and Purvanchal." }
+    ],
+    "govtInitiatives": [
+      { "hi": "प्रधानमंत्री कृषि सिंचाई योजना, अटल भूजल योजना, राज्य आपदा मोचन निधि (SDRF), राहत आयुक्त कार्यालय का डिजिटल डैशबोर्ड।", "en": "PM Krishi Sinchayee Yojana, Atal Bhujal Yojana, UP SDRF modernization and Relief Commissioner real-time portal." }
+    ],
+    "upPerspective": [
+      { "hi": "बुंदेलखंड में 'खेत-तालाब योजना' एवं केन-बेतवा लिंक परियोजना; गोरखपुर-महराजगंज में तटबंधों की जियो-टैगिंग।", "en": "Bundelkhand Khet-Talab Yojana, Ken-Betwa link project, and geo-tagging of embankments in Gorakhpur/Maharajganj." }
+    ],
+    "wayForward": [
+      { "hi": "पारंपरिक जल स्रोतों (बावड़ियों, पोखरों) का पुनर्जीवन, अर्ली वॉर्निंग सिस्टम का विस्तार, सामुदायिक आपदा मित्रों का प्रशिक्षण।", "en": "Revival of traditional ponds/baolis, Doppler radar early warnings, and training grassroots Aapda Mitra volunteers." }
+    ],
+    "conclusionFramework": [
+      { "hi": "प्रकृति के साथ समन्वय ही टिकाऊ विकास का मार्ग है। आपदा-प्रतिरोधी अवसंरचना से ही उत्तर प्रदेश 'एक ट्रिलियन डॉलर अर्थव्यवस्था' का लक्ष्य प्राप्त कर सकेगा।", "en": "Disaster-resilient infrastructure is vital for UP to realize its vision of a $1 Trillion economy sustainably." }
+    ],
+    "keywords": ["जलवायु परिवर्तन", "आपदा प्रबंधन", "सेंडाई फ्रेमवर्क", "केन-बेतवा लिंक", "बुंदेलखंड जल संकट", "आपदा मित्र"],
+    "quotations": [
+      "धरती के पास सबकी जरूरत पूरा करने के लिए पर्याप्त है, किंतु किसी के लालच के लिए नहीं। — महात्मा गांधी"
+    ],
+    "commonPitfalls": [
+      { "hi": "केवल बाढ़ का वर्णन करना और बुंदेलखंड के सूखे तथा समाधानों को भूल जाना।", "en": "Focusing solely on floods while neglecting drought mitigation and structural solutions." }
+    ],
+    "checklist": [
+      { "hi": "क्या बाढ़ और सूखा दोनों पक्षों को संतुलित रूप से उठाया गया है?", "en": "Are both flood and drought dimensions addressed?" },
+      { "hi": "क्या केन-बेतवा एवं उ.प्र. विशिष्ट योजनाओं का उल्लेख है?", "en": "Are Ken-Betwa and UP specific relief schemes cited?" },
+      { "hi": "क्या आपदा पूर्व तैयारी (Disaster Preparedness) पर जोर है?", "en": "Is disaster preparedness emphasized over mere post-facto relief?" }
+    ]
+  }
+]

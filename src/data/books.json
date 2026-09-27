@@ -1,0 +1,213 @@
+{
+  "books": [
+    {
+      "id": "book-polity-laxmikanth",
+      "title": { "hi": "भारतीय राज्यव्यवस्था (Indian Polity)", "en": "Indian Polity" },
+      "author": "एम. लक्ष्मीकांत (M. Laxmikanth)",
+      "publisher": "मैकग्रा हिल (McGraw Hill)",
+      "stage": "Both",
+      "subject": "Indian Polity & Constitution",
+      "purpose": {
+        "hi": "संविधान के मूल सिद्धांतों, अनुच्छेदों, संशोधनों, संघ व राज्य सरकार, न्यायपालिका एवं संवैधानिक निकायों का प्रामाणिक व व्यापक संदर्भ।",
+        "en": "Definitive authority for constitutional articles, amendments, executive, legislature, judiciary and constitutional bodies."
+      },
+      "level": "Standard",
+      "syllabusMapping": [
+        {
+          "subject": "Polity",
+          "chapters": [
+            "Chapter 2: Making of the Constitution (संविधान का निर्माण)",
+            "Chapter 7: Fundamental Rights (मूल अधिकार - अनुच्छेद 12 से 35)",
+            "Chapter 8: Directive Principles of State Policy (नीति निदेशक तत्व)",
+            "Chapter 9: Fundamental Duties (मूल कर्तव्य)",
+            "Chapter 17: President (राष्ट्रपति)",
+            "Chapter 22: Parliament (संसद)",
+            "Chapter 26: Supreme Court (सर्वोच्च न्यायालय)",
+            "Chapter 38: Panchayati Raj (पंचायती राज - 73वां संशोधन)"
+          ],
+          "mappedTopics": [
+            "Making of Constitution → Constituent Assembly → Drafting Committee",
+            "Article 32 & Writs (Habeas Corpus, Mandamus, Quo Warranto)",
+            "Article 368 → Constitutional Amendment Process",
+            "Panchayati Raj 11th Schedule (29 Subjects)"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Most tested book in UPPSC GS papers; directly addresses 12-15 questions."
+    },
+    {
+      "id": "book-modern-bipanchandra",
+      "title": { "hi": "भारत का स्वतंत्रता संघर्ष (India's Struggle for Independence)", "en": "India's Struggle for Independence" },
+      "author": "बिपिन चंद्र एवं अन्य (Bipan Chandra et al.)",
+      "publisher": "ओरिएंट ब्लैकस्वान / हिंदी माध्यम कार्यान्वयन निदेशालय",
+      "stage": "Both",
+      "subject": "Indian National Movement",
+      "purpose": {
+        "hi": "1857 से 1947 तक के राष्ट्रीय आंदोलन का विश्लेषणात्मक व राष्ट्रवादी परिप्रेक्ष्य में गहन अध्ययन। मुख्य परीक्षा निबंध व जीएस दोनों हेतु अपरिहार्य।",
+        "en": "In-depth analytical foundation of nationalist mobilization 1857-1947, essential for Mains analytical questions & essays."
+      },
+      "level": "Advanced",
+      "syllabusMapping": [
+        {
+          "subject": "INM",
+          "chapters": [
+            "The First Major Challenge: The Revolt of 1857",
+            "Socio-Religious Reforms and the National Awakening",
+            "An Economic Critique of Colonialism (Dadabhai Naoroji)",
+            "The Swadeshi Movement — 1903-08",
+            "The Non-Cooperation Movement — 1920-22",
+            "The Civil Disobedience Movement — 1930-34",
+            "Quit India Movement & The INA"
+          ],
+          "mappedTopics": [
+            "Swaraj Party formation at Allahabad (1923)",
+            "Chauri Chaura incident dynamics",
+            "Kakori conspiracy trial and martyrdom",
+            "Quit India parallel government in Ballia"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Critical for conceptual clarity in GS-1 and Indian National Movement weightage."
+    },
+    {
+      "id": "book-hindi-bahri",
+      "title": { "hi": "सामान्य हिन्दी (General Hindi for Competitive Exams)", "en": "General Hindi" },
+      "author": "डॉ. हरदेव बाहरी (Dr. Hardev Bahri)",
+      "publisher": "लोकभारती प्रकाशन, प्रयागराज",
+      "stage": "Both",
+      "subject": "General Hindi",
+      "purpose": {
+        "hi": "यूपीपीएससी द्वारा मान्य मानक शब्दकोश। प्रारंभिक परीक्षा के 6 विषयों (विलोम, शुद्धि, वाक्यांश, तत्सम-तद्भव, विशेषण, पर्यायवाची) का अकादमिक प्रामाणिक स्रोत।",
+        "en": "The premier academic standard recognized in UPPSC answer evaluations for all 6 Prelims Hindi modules."
+      },
+      "level": "Standard",
+      "syllabusMapping": [
+        {
+          "subject": "General Hindi",
+          "chapters": [
+            "विलोम शब्द संकलन",
+            "वाक्य शुद्धि एवं वर्तनी विधान",
+            "अनेक शब्दों के लिए एक शब्द",
+            "संस्कृत मूल तत्सम एवं तद्भव",
+            "विशेष्य और विशेषण की कोटियां",
+            "पर्यायवाची शब्द भेद"
+          ],
+          "mappedTopics": [
+            "Prelims Paper 2: 60/60 target",
+            "Mains Paper 2 Part B: 60/60 target"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Primary dispute resolution reference used by UPPSC expert review committees."
+    },
+    {
+      "id": "book-geography-gcleong",
+      "title": { "hi": "प्रमाणिक भौतिक एवं मानव भूगोल (Certificate Physical & Human Geography)", "en": "Certificate Physical & Human Geography" },
+      "author": "जी.सी. लियोंग (G.C. Leong)",
+      "publisher": "ऑक्सफोर्ड यूनिवर्सिटी प्रेस (Oxford)",
+      "stage": "Prelims",
+      "subject": "Geography",
+      "purpose": {
+        "hi": "विश्व जलवायु प्रदेश, भू-आकृतियां, महासागरीय धाराएं, पर्वत, पठार एवं चक्रवात की स्पष्ट संकल्पनात्मक समझ।",
+        "en": "Conceptual clarity on geomorphology, climate zones, ocean currents, mountain systems and weather phenomena."
+      },
+      "level": "Standard",
+      "syllabusMapping": [
+        {
+          "subject": "Geography",
+          "chapters": [
+            "The Earth's Crust & Volcanoes",
+            "Weathering, Mass Movement and Groundwater",
+            "Landforms of Glaciation and Arid Deserts",
+            "The Oceans: Currents, Salinity and Tides",
+            "The Hot, Wet Equatorial Climate",
+            "The Mediterranean Climate & Savanna"
+          ],
+          "mappedTopics": [
+            "Global ocean currents (Warm vs Cold)",
+            "World major straits (Gibraltar, Malacca, Hormuz)",
+            "Equatorial vs Monsoon forest characteristics"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Direct source for world geography physical phenomena questions in RO/ARO."
+    },
+    {
+      "id": "book-up-ghatnachakra",
+      "title": { "hi": "उत्तर प्रदेश तथ्य सार एवं पूर्व अवलोकन", "en": "Uttar Pradesh Fact Compendium" },
+      "author": "समसामयिक घटना चक्र संपादकीय मंडल",
+      "publisher": "घटना चक्र, प्रयागराज",
+      "stage": "Both",
+      "subject": "UP Special Knowledge",
+      "purpose": {
+        "hi": "उत्तर प्रदेश के इतिहास, संस्कृति, मेले, उद्योग, वन, नदियां, वन्यजीव, बजट एवं 75 जिलों के तथ्यात्मक आंकड़ों का अद्यतन संकलन।",
+        "en": "Updated compendium of UP history, art, fairs, industries, canals, wild life, state budget and census."
+      },
+      "level": "PYQ",
+      "syllabusMapping": [
+        {
+          "subject": "UP Special",
+          "chapters": [
+            "उ.प्र. एक दृष्टि में (प्रशासनिक आंकड़े)",
+            "उ.प्र. का इतिहास एवं महाजनपद काल",
+            "उ.प्र. की नदियां, झीलें एवं सिंचाई",
+            "उ.प्र. के खनिज, वन एवं वन्यजीव",
+            "उ.प्र. की प्रमुख बोलियां, नृत्य एवं संगीत घराने",
+            "एक जिला एक उत्पाद (ODOP) सूची"
+          ],
+          "mappedTopics": [
+            "UP 15-20 Questions in Prelims GS",
+            "UP perspective in all 3 Mains Essays"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Indispensable for state-specific factual recall."
+    }
+  ],
+  "ncertMappings": [
+    {
+      "classLevel": "Class 11",
+      "subject": "Polity",
+      "bookTitle": "भारत का संविधान: सिद्धांत और व्यवहार (Indian Constitution at Work)",
+      "relevantChapters": [
+        {
+          "chapterNumber": 1,
+          "title": { "hi": "संविधान: क्यों और कैसे?", "en": "Constitution: Why and How?" },
+          "roAroRelevance": { "hi": "संविधान सभा का गठन, 9 दिसंबर 1946 प्रथम बैठक, उद्देश्य प्रस्ताव।", "en": "Formation of Constituent Assembly, first meeting, Objectives Resolution." },
+          "keyThemes": ["Constituent Assembly", "Philosophy of Constitution"]
+        },
+        {
+          "chapterNumber": 2,
+          "title": { "hi": "भारतीय संविधान में अधिकार", "en": "Rights in the Indian Constitution" },
+          "roAroRelevance": { "hi": "अनुच्छेद 14-18 (समानता), अनुच्छेद 19-22 (स्वतंत्रता), अनुच्छेद 32 (संवैधानिक उपचार)।", "en": "Fundamental Rights (Articles 14 to 32), Writs and DPSP distinction." },
+          "keyThemes": ["Fundamental Rights", "Writs", "DPSP"]
+        },
+        {
+          "chapterNumber": 4,
+          "title": { "hi": "कार्यपालिका", "en": "Executive" },
+          "roAroRelevance": { "hi": "राष्ट्रपति की वीटो शक्तियां, महाभियोग (अनु. 61), अध्यादेश (अनु. 123)।", "en": "Presidential powers, impeachment, ordinance making power." },
+          "keyThemes": ["President", "Prime Minister", "Cabinet"]
+        }
+      ]
+    },
+    {
+      "classLevel": "Class 11",
+      "subject": "Geography",
+      "bookTitle": "भारत: भौतिक पर्यावरण (India: Physical Environment)",
+      "relevantChapters": [
+        {
+          "chapterNumber": 2,
+          "title": { "hi": "संरचना तथा भू-आकृति विज्ञान", "en": "Structure and Physiography" },
+          "roAroRelevance": { "hi": "उत्तर का विशाल मैदान, भाबर, तराई, बांगर, खादर की विशिष्टताएं (उ.प्र. के विशेष संदर्भ में)।", "en": "Bhabar, Terai, Bhangar, Khadar soil zones across the Gangetic plain." },
+          "keyThemes": ["Himalayas", "Northern Plains", "Peninsula"]
+        },
+        {
+          "chapterNumber": 3,
+          "title": { "hi": "अपवाह तंत्र", "en": "Drainage System" },
+          "roAroRelevance": { "hi": "गंगा नदी तंत्र (सहायक नदियां: रामगंगा, गोमती, घाघरा, गंडक, यमुना) एवं उद्गम स्थल।", "en": "Ganga & Yamuna tributaries, origins and confluence points in UP." },
+          "keyThemes": ["Ganga Drainage", "River Confluences"]
+        }
+      ]
+    }
+  ]
+}

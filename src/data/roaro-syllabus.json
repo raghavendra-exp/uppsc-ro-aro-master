@@ -1,0 +1,245 @@
+{
+  "exam": "UPPSC RO/ARO (समीक्षा अधिकारी / सहायक समीक्षा अधिकारी)",
+  "versionYear": 2026,
+  "negativeMarking": 0.33,
+  "stages": [
+    {
+      "id": "PRELIMS",
+      "title": { "hi": "प्रारंभिक परीक्षा (Prelims)", "en": "Preliminary Examination" },
+      "totalMarks": 200,
+      "totalQuestions": 200,
+      "totalDurationMinutes": 180,
+      "papers": [
+        {
+          "paperNumber": 1,
+          "id": "PRE_PAPER_1_GS",
+          "title": { "hi": "सामान्य अध्ययन (वस्तुनिष्ठ)", "en": "Paper I: General Studies (Objective)" },
+          "questions": 140,
+          "marks": 140,
+          "durationMinutes": 120,
+          "negativeMarkingPerWrong": 0.33,
+          "topics": [
+            {
+              "id": "gs-science",
+              "title": { "hi": "1. सामान्य विज्ञान", "en": "1. General Science" },
+              "estimatedQuestions": "12-16",
+              "subtopics": [
+                { "name": { "hi": "भौतिकी: मात्रक, गति, बल, कार्य, ऊर्जा, गुरुत्वाकर्षण, ध्वनि, प्रकाश, विद्युत, चुंबकत्व, आधुनिक भौतिकी", "en": "Physics: Units, Motion, Force, Energy, Gravitation, Waves, Light, Electricity, Modern Physics" } },
+                { "name": { "hi": "रसायन विज्ञान: परमाणु संरचना, अम्ल-क्षार-लवण, धातु-अधातु, कार्बनिक यौगिक, दैनिक जीवन में रसायन", "en": "Chemistry: Atomic Structure, Acids, Bases, Salts, Metals, Carbon Compounds, Everyday Chemistry" } },
+                { "name": { "hi": "जीव विज्ञान: कोशिका, मानव शरीर तंत्र (पाचन, श्वसन, तंत्रिका, परिसंचरण), पोषण, विटामिन, रोग एवं प्रतिरक्षा", "en": "Biology: Cell, Human Organ Systems, Nutrition, Vitamins, Diseases, Immunity, Genetics" } }
+              ]
+            },
+            {
+              "id": "gs-history",
+              "title": { "hi": "2. भारत का इतिहास", "en": "2. History of India" },
+              "estimatedQuestions": "12-15",
+              "subtopics": [
+                { "name": { "hi": "प्राचीन भारत: पाषाण काल, सिंधु घाटी सभ्यता, वैदिक काल, महाजनपद, बौद्ध एवं जैन धर्म, मौर्य, गुप्त साम्राज्य, दक्षिण भारतीय राजवंश", "en": "Ancient India: Stone Age, Indus Valley Civilization, Vedic Period, Buddhism & Jainism, Mauryas, Guptas, South Indian Dynasties" } },
+                { "name": { "hi": "मध्यकालीन भारत: दिल्ली सल्तनत, मुगल साम्राज्य, विजयनगर, भक्ति एवं सूफी आंदोलन, मराठा साम्राज्य, मध्यकालीन स्थापत्य", "en": "Medieval India: Delhi Sultanate, Mughal Empire, Vijayanagara, Bhakti & Sufi Movements, Marathas, Medieval Architecture" } },
+                { "name": { "hi": "आधुनिक भारत: यूरोपीय आगमन, ब्रिटिश विस्तार, सामाजिक-धार्मिक सुधार आंदोलन, 1857 का संग्राम", "en": "Modern India: European Arrival, British Expansion, Socio-Religious Reform Movements, 1857 Revolt" } }
+              ]
+            },
+            {
+              "id": "gs-inm",
+              "title": { "hi": "3. भारतीय राष्ट्रीय आन्दोलन", "en": "3. Indian National Movement" },
+              "estimatedQuestions": "15-18",
+              "subtopics": [
+                { "name": { "hi": "कांग्रेस की स्थापना, उदारवादी एवं उग्रवादी चरण, बंगाल विभाजन एवं स्वदेशी आंदोलन, क्रांतिकारी राष्ट्रवाद", "en": "Formation of INC, Moderate & Extremist phases, Bengal Partition & Swadeshi, Revolutionary Nationalism" } },
+                { "name": { "hi": "गांधीवादी युग: चंपारण, खेड़ा, असहयोग, सविनय अवज्ञा, दांडी मार्च, गोलमेज सम्मेलन, भारत छोड़ो आन्दोलन", "en": "Gandhian Era: Champaran, Kheda, Non-Cooperation, Civil Disobedience, Dandi March, Round Table, Quit India" } },
+                { "name": { "hi": "संविधान विकास (1909, 1919, 1935), आजाद हिंद फौज, कैबिनेट मिशन, माउंटबेटन योजना, स्वतंत्रता एवं विभाजन", "en": "Constitutional Acts (1909, 1919, 1935), INA, Cabinet Mission, Mountbatten Plan, Independence & Partition" } }
+              ]
+            },
+            {
+              "id": "gs-polity-economy",
+              "title": { "hi": "4. भारतीय राज्यतन्त्र, अर्थव्यवस्था एवं संस्कृति", "en": "4. Indian Polity, Economy & Culture" },
+              "estimatedQuestions": "18-22",
+              "subtopics": [
+                { "name": { "hi": "संविधान: प्रस्तावना, मूल अधिकार, नीति निदेशक तत्व, मूल कर्तव्य, राष्ट्रपति, संसद, न्यायपालिका, पंचायती राज", "en": "Constitution: Preamble, Fundamental Rights, DPSP, Fundamental Duties, President, Parliament, Judiciary, Panchayats" } },
+                { "name": { "hi": "अर्थव्यवस्था: राष्ट्रीय आय (GDP/GNP), मुद्रास्फीति, राजकोषीय नीति, बैंकिंग व RBI, बजट, GST, प्रमुख योजनाएं", "en": "Economy: National Income, Inflation, Fiscal Policy, Banking & RBI, Union Budget, GST, Key Welfare Schemes" } },
+                { "name": { "hi": "संस्कृति: भारतीय दर्शन, शास्त्रीय नृत्य, संगीत शैलियां, मंदिर स्थापत्य, यूनेस्को धरोहर स्थल", "en": "Culture: Indian Philosophy, Classical Dances, Music, Temple Architecture, UNESCO Heritage Sites" } }
+              ]
+            },
+            {
+              "id": "gs-agri-trade",
+              "title": { "hi": "5. भारतीय कृषि, वाणिज्य एवं व्यापार", "en": "5. Indian Agriculture, Commerce and Trade" },
+              "estimatedQuestions": "8-12",
+              "subtopics": [
+                { "name": { "hi": "कृषि: फसल चक्र (खरीफ, रबी, जायद), सिंचाई प्रणाली, हरित, श्वेत व नीली क्रांति, एमएसपी, उर्वरक, मृदा स्वास्थ्य", "en": "Agriculture: Cropping Seasons, Irrigation, Green, White & Blue Revolutions, MSP, Fertilizers, Soil Health" } },
+                { "name": { "hi": "वाणिज्य व व्यापार: आंतरिक व बाह्य व्यापार, आयात-निर्यात, भुगतान संतुलन, WTO, MSME नीति, ई-कॉमर्स", "en": "Commerce & Trade: Internal & External Trade, EXIM, Balance of Payments, WTO, MSME, E-Commerce" } }
+              ]
+            },
+            {
+              "id": "gs-population-ecology",
+              "title": { "hi": "6. जनसंख्या, पर्यावरण एवं नगरीकरण (भारतीय परिप्रेक्ष्य में)", "en": "6. Population, Ecology and Urbanization (in Indian Context)" },
+              "estimatedQuestions": "12-16",
+              "subtopics": [
+                { "name": { "hi": "जनगणना 2011: भारत व उ.प्र. के जनसांख्यिकीय आंकड़े, लिंगानुपात, साक्षरता, घनत्व, कार्य सहभागिता", "en": "Census 2011: India & UP Demographic indicators, Sex Ratio, Literacy, Density, Work Participation" } },
+                { "name": { "hi": "पर्यावरण: पारिस्थितिकी तंत्र, खाद्य श्रृंखला, जैव विविधता, राष्ट्रीय उद्यान, वन्यजीव अभयारण्य, रामसर स्थल", "en": "Environment: Ecosystems, Food Web, Biodiversity, National Parks, Sanctuaries, Ramsar Sites" } },
+                { "name": { "hi": "नगरीकरण: नगरीय वृद्धि प्रवृत्तियां, समस्याएं (मलिन बस्तियां, अपशिष्ट प्रबंधन), स्मार्ट सिटी मिशन, अमृत (AMRUT)", "en": "Urbanization: Urban Growth Trends, Slums, Waste Management, Smart Cities Mission, AMRUT" } }
+              ]
+            },
+            {
+              "id": "gs-geography",
+              "title": { "hi": "7. विश्व भूगोल तथा भारत का भूगोल और प्राकृतिक संसाधन", "en": "7. World Geography, Indian Geography & Natural Resources" },
+              "estimatedQuestions": "18-24",
+              "subtopics": [
+                { "name": { "hi": "भारत का भूगोल: भौतिक स्वरूप (हिमालय, मैदान, प्रायद्वीपीय पठार), अपवाह तंत्र (गंगा, ब्रह्मपुत्र, प्रायद्वीपीय नदियाँ), मानसून, मिट्टियाँ", "en": "Indian Geography: Physical divisions (Himalayas, Plains, Plateau), River systems, Indian Monsoon, Soils" } },
+                { "name": { "hi": "प्राकृतिक संसाधन: कोयला, पेट्रोलियम, लौह अयस्क, बॉक्साइट, परमाणु खनिज एवं ऊर्जा संसाधन", "en": "Natural Resources: Coal, Petroleum, Iron Ore, Bauxite, Atomic Minerals and Renewable Energy" } },
+                { "name": { "hi": "विश्व भूगोल: प्रमुख महाद्वीप, पर्वत श्रृंखलाएं, नदियाँ, जलप्रपात, महासागरीय धाराएं, घास के मैदान, प्रमुख जलसंधियां", "en": "World Geography: Continents, Mountain Ranges, Rivers, Ocean Currents, Grasslands, Straits" } }
+              ]
+            },
+            {
+              "id": "gs-current",
+              "title": { "hi": "8. अधुनातन राष्ट्रीय तथा अन्तर्राष्ट्रीय महत्वपूर्ण घटनाक्रम", "en": "8. Current National and International Important Events" },
+              "estimatedQuestions": "18-25",
+              "subtopics": [
+                { "name": { "hi": "राष्ट्रीय व अंतर्राष्ट्रीय नीतियां, प्रमुख शिखर सम्मेलन, द्विपक्षीय समझौते, युद्धाभ्यास", "en": "National & International Policies, Summits, Bilateral Pacts, Military Exercises" } },
+                { "name": { "hi": "पुरस्कार व सम्मान (नोबेल, भारत रत्न, पद्म, साहित्य अकादमी, खेल रत्न), प्रमुख पुस्तकें व लेखक", "en": "Awards & Honors (Nobel, Bharat Ratna, Padma, Sahitya Akademi, Khel Ratna), Books & Authors" } },
+                { "name": { "hi": "सूचकांक (वैश्विक भुखमरी, नवाचार, मानव विकास, प्रेस स्वतंत्रता), महत्वपूर्ण दिवस एवं थीम", "en": "Indices (GHI, GII, HDI, Press Freedom), Important Days and Themes" } }
+              ]
+            },
+            {
+              "id": "gs-reasoning",
+              "title": { "hi": "9. सामान्य बौद्धिक क्षमता (तर्कशक्ति)", "en": "9. General Intelligence (Reasoning)" },
+              "estimatedQuestions": "10-14",
+              "subtopics": [
+                { "name": { "hi": "मौखिक तर्क: सादृश्यता, वर्गीकरण, संख्या व अक्षर श्रृंखला, कोडिंग-डिकोडिंग, रक्त संबंध, दिशा परीक्षण", "en": "Verbal Reasoning: Analogy, Classification, Series, Coding-Decoding, Blood Relations, Direction" } },
+                { "name": { "hi": "विश्लेषणात्मक तर्क: न्यायवाक्य, वेन आरेख, बैठने की व्यवस्था, कैलेंडर, घड़ी, कथन और निष्कर्ष", "en": "Analytical Reasoning: Syllogisms, Venn Diagrams, Seating, Calendar, Clock, Statements & Conclusions" } }
+              ]
+            },
+            {
+              "id": "gs-up-special",
+              "title": { "hi": "10. उत्तर प्रदेश की शिक्षा, संस्कृति, कृषि, उद्योग, व्यापार एवं रहन-सहन व सामाजिक प्रथाएं", "en": "10. Uttar Pradesh Special Knowledge" },
+              "estimatedQuestions": "15-20",
+              "subtopics": [
+                { "name": { "hi": "उ.प्र. का इतिहास: महाजनपद, बौद्ध-जैन स्थल, 1857 में उ.प्र., स्वतंत्रता आंदोलन में योगदान, ऐतिहासिक स्थल", "en": "UP History: Mahajanapadas, Buddhist-Jain sites, 1857 in UP, Freedom Struggle, Historical Monuments" } },
+                { "name": { "hi": "उ.प्र. का भूगोल ও कृषि: सीमावर्ती राज्य, नदियाँ, नहरें (शारदा, ऊपरी गंगा), मिट्टी, फसलें, सिंचाई के साधन", "en": "UP Geography & Agriculture: Borders, Rivers, Canals, Soils, Crops, Irrigation infrastructure" } },
+                { "name": { "hi": "उ.प्र. अर्थव्यवस्था एवं उद्योग: एक जिला एक उत्पाद (ODOP), औद्योगिक गलियारे, एक्सप्रेसवे, हवाई अड्डे", "en": "UP Economy & Industry: One District One Product (ODOP), Industrial Corridors, Expressways, Airports" } },
+                { "name": { "hi": "उ.प्र. संस्कृति ও पर्यटन: लोकगीत (कजरी, बिरहा, रसिया), लोकनृत्य (चरकुला, नौटंकी), मेले (कुंभ, माघ, बटेश्वर, शाकम्भरी), बोलियाँ", "en": "UP Culture & Tourism: Folk songs, Folk dances, Fairs (Kumbh, Magh, Bateshwar), Dialects (Braj, Awadhi, Bhojpuri)" } }
+              ]
+            }
+          ]
+        },
+        {
+          "paperNumber": 2,
+          "id": "PRE_PAPER_2_HINDI",
+          "title": { "hi": "सामान्य हिन्दी (प्रारंभिक - 60 प्रश्न / 60 अंक)", "en": "Paper II: General Hindi (Prelims - 60 Qs / 60 Marks)" },
+          "questions": 60,
+          "marks": 60,
+          "durationMinutes": 60,
+          "negativeMarkingPerWrong": 0.33,
+          "topics": [
+            {
+              "id": "hindi-vilom",
+              "title": { "hi": "1. विलोम शब्द (10 शब्द)", "en": "1. Antonyms (10 Words / 10 Marks)" },
+              "estimatedQuestions": "10",
+              "subtopics": [{ "name": { "hi": "विपरीतार्थक शब्दों का सटीक चयन, उपसर्ग आधारित एवं स्वतंत्र विलोम", "en": "Exact antonym identification, prefix-based and independent antonyms" } }]
+            },
+            {
+              "id": "hindi-vakya-shuddhi",
+              "title": { "hi": "2. वाक्य एवं वर्तनी शुद्धि (10 वाक्य/शब्द)", "en": "2. Sentence & Spelling Correction (10 Qs / 10 Marks)" },
+              "estimatedQuestions": "10",
+              "subtopics": [{ "name": { "hi": "लिंग, वचन, कारक, सर्वनाम, विशेषण, पदक्रम एवं वर्तनी संबंधी अशुद्धियों का संशोधन", "en": "Correction of gender, number, case, pronoun, modifier, word-order and orthographic errors" } }]
+            },
+            {
+              "id": "hindi-anek-shabd",
+              "title": { "hi": "3. अनेक शब्दों के लिए एक शब्द (10 शब्द)", "en": "3. One Word Substitution (10 Words / 10 Marks)" },
+              "estimatedQuestions": "10",
+              "subtopics": [{ "name": { "hi": "वाक्यांशों के लिए मानक, सारगर्भित एवं शास्त्रीय एकल शब्दों का प्रयोग", "en": "Standard, classical and precise single words for multi-word descriptive phrases" } }]
+            },
+            {
+              "id": "hindi-tatsam-tadbhav",
+              "title": { "hi": "4. तत्सम एवं तद्भव शब्द (10 शब्द)", "en": "4. Tatsam & Tadbhav Words (10 Words / 10 Marks)" },
+              "estimatedQuestions": "10",
+              "subtopics": [{ "name": { "hi": "संस्कृत के मूल शब्द (तत्सम) एवं लोक-प्रयोग में रूपांतरित शब्द (तद्भव) की पहचान एवं नियम", "en": "Identification and phonetic transition rules of Sanskrit root words and vernacular derivatives" } }]
+            },
+            {
+              "id": "hindi-visheshya-visheshan",
+              "title": { "hi": "5. विशेष्य और विशेषण (10 शब्द)", "en": "5. Noun-Adjective Relationships (10 Words / 10 Marks)" },
+              "estimatedQuestions": "10",
+              "subtopics": [{ "name": { "hi": "गुणवाचक, संख्यावाचक, परिमाणवाचक विशेषण, प्रविशेषण एवं संज्ञा से विशेषण निर्माण", "en": "Qualitative, numerical, quantitative adjectives, intensifiers and adjective derivations" } }]
+            },
+            {
+              "id": "hindi-paryayvachi",
+              "title": { "hi": "6. पर्यायवाची शब्द (10 शब्द)", "en": "6. Synonyms (10 Words / 10 Marks)" },
+              "estimatedQuestions": "10",
+              "subtopics": [{ "name": { "hi": "समानार्थक शब्दों का प्रामाणिक ज्ञान, सूक्ष्म अर्थ-भेद एवं परीक्षा-प्रचलित पर्यायवाची", "en": "Authentic synonym sets, nuanced semantic differences and exam-frequent equivalents" } }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MAINS",
+      "title": { "hi": "मुख्य परीक्षा (Mains)", "en": "Main Examination" },
+      "totalMarks": 400,
+      "totalPapers": 3,
+      "papers": [
+        {
+          "paperNumber": 1,
+          "id": "MAINS_PAPER_1_GS",
+          "title": { "hi": "प्रथम प्रश्नपत्र: सामान्य अध्ययन (वस्तुनिष्ठ)", "en": "Paper I: General Studies (Objective)" },
+          "questions": 120,
+          "marks": 120,
+          "durationMinutes": 120,
+          "negativeMarkingPerWrong": 0.33,
+          "description": {
+            "hi": "प्रारंभिक परीक्षा जैसा ही पाठ्यक्रम, परंतु प्रश्नों की प्रकृति अधिक गहन, तथ्यात्मक एवं विश्लेषणात्मक।",
+            "en": "Same subject breadth as Prelims GS, but with higher analytical depth, current affairs convergence and conceptual precision."
+          }
+        },
+        {
+          "paperNumber": 2,
+          "id": "MAINS_PAPER_2_HINDI_DRAFTING",
+          "title": { "hi": "द्वितीय प्रश्नपत्र: सामान्य हिन्दी एवं आलेखन", "en": "Paper II: General Hindi & Drafting" },
+          "marks": 160,
+          "sections": [
+            {
+              "section": "Part A (Conventional)",
+              "title": { "hi": "खंड 1: परंपरागत (सब्जेक्टिव) — 100 अंक (2:30 घंटे)", "en": "Part 1: Conventional Subjective (100 Marks / 150 Mins)" },
+              "items": [
+                { "name": { "hi": "दिए हुए गद्यांश का शीर्षक (3 अंक), सारांश (6 अंक) एवं तीन रेखांकित अंशों की व्याख्या (12 अंक)", "en": "Passage: Title (3 marks), Précis/Summary (6 marks), Explanation of 3 underlined portions (12 marks) = 21 Marks" } },
+                { "name": { "hi": "किसी दिए हुए सरकारी पत्र का सारणी रूप (टेबुलर फॉर्म) में सार-लेखन (15 अंक)", "en": "Tabular Précis formulation of given Government Official Letter (15 Marks)" } },
+                { "name": { "hi": "पत्राचार (कुल 24 अंक - प्रत्येक 8 अंक): (i) शासकीय/अर्धशासकीय पत्र, (ii) कार्यालय आदेश/ज्ञाप/परिपत्र, (iii) विज्ञप्ति/टिप्पण एवं प्रारूपण/प्रतिवेदन", "en": "Official Correspondence (24 Marks): Official/Demi-Official, Office Order/Office Memo/Circular, Notification/Annotation/Report" } },
+                { "name": { "hi": "पारिभाषिक शब्दावली (प्रशासनिक एवं वाणिज्यिक): अंग्रेजी से हिन्दी (5 शब्द - 10 अंक), हिन्दी से अंग्रेजी (5 शब्द - 10 अंक), मुहावरे एवं लोकोक्तियाँ (5 - 10 अंक)", "en": "Administrative & Commercial Terminology: English to Hindi (10 marks), Hindi to English (10 marks), Idioms/Phrases (10 marks) = 30 Marks" } },
+                { "name": { "hi": "कम्प्यूटर ज्ञान (10 अंक)", "en": "Computer Knowledge (10 Marks)" } }
+              ]
+            },
+            {
+              "section": "Part B (General Vocabulary)",
+              "title": { "hi": "खंड 2: सामान्य शब्द ज्ञान एवं व्याकरण (वस्तुनिष्ठ) — 60 अंक (30 मिनट)", "en": "Part 2: Objective General Hindi Vocabulary (60 Marks / 30 Mins)" },
+              "items": [
+                { "name": { "hi": "विलोम (6 शब्द - 12 अंक)", "en": "Antonyms (6 words - 12 marks)" } },
+                { "name": { "hi": "वाक्य एवं वर्तनी शुद्धि (6 वाक्य/शब्द - 12 अंक)", "en": "Sentence & Spelling Correction (6 items - 12 marks)" } },
+                { "name": { "hi": "अनेक शब्दों के लिए एक शब्द (6 शब्द - 12 अंक)", "en": "One Word Substitution (6 words - 12 marks)" } },
+                { "name": { "hi": "तत्सम एवं तद्भव शब्द (6 शब्द - 12 अंक)", "en": "Tatsam & Tadbhav (6 words - 12 marks)" } },
+                { "name": { "hi": "विशेष्य और विशेषण (6 शब्द - 12 अंक)", "en": "Visheshya & Visheshan (6 words - 12 marks)" } }
+              ]
+            }
+          ]
+        },
+        {
+          "paperNumber": 3,
+          "id": "MAINS_PAPER_3_ESSAY",
+          "title": { "hi": "तृतीय प्रश्नपत्र: हिन्दी निबंध (3 निबंध x 40 अंक = 120 अंक, 3 घंटे)", "en": "Paper III: Hindi Essay (3 Essays x 40 Marks = 120 Marks, 3 Hours)" },
+          "marks": 120,
+          "wordsPerEssay": 600,
+          "sections": [
+            {
+              "section": "Category A",
+              "title": { "hi": "खंड 1 (शब्द सीमा 600 - 40 अंक): साहित्य और संस्कृति / सामाजिक क्षेत्र / राजनीतिक क्षेत्र", "en": "Section 1 (600 words - 40 Marks): Literature & Culture / Social Sector / Political Sector" }
+            },
+            {
+              "section": "Category B",
+              "title": { "hi": "खंड 2 (शब्द सीमा 600 - 40 अंक): विज्ञान, पर्यावरण एवं प्रौद्योगिकी / आर्थिक क्षेत्र / कृषि एवं व्यापार", "en": "Section 2 (600 words - 40 Marks): Science, Environment & Tech / Economic Sector / Agriculture & Commerce" }
+            },
+            {
+              "section": "Category C",
+              "title": { "hi": "खंड 3 (शब्द सीमा 600 - 40 अंक): राष्ट्रीय एवं अंतर्राष्ट्रीय घटनाक्रम / प्राकृतिक आपदाएं (भूस्खलन, भूकंप, बाढ़, सूखा आदि) / राष्ट्रीय विकास योजनाएं", "en": "Section 3 (600 words - 40 Marks): National & International Events / Natural Calamities (Landslides, Earthquakes, Floods, Droughts) / National Development Plans" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

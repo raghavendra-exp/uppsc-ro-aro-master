@@ -1,0 +1,253 @@
+[
+  {
+    "id": "inm-1857",
+    "year": "1857",
+    "title": { "hi": "1857 का प्रथम स्वतंत्रता संग्राम (महान विद्रोह)", "en": "First War of Independence (1857 Revolt)" },
+    "location": { "hi": "मेरठ, दिल्ली, कानपुर, लखनऊ, झांसी, बरेली, फैजाबाद, इलाहाबाद, जगदीशपुर", "en": "Meerut, Delhi, Kanpur, Lucknow, Jhansi, Bareilly, Faizabad, Allahabad, Jagdishpur" },
+    "leaders": { "hi": "मंगल पांडे, बहादुर शाह ज़फ़र, नाना साहेब, तात्या टोपे, बेगम हज़रत महल, रानी लक्ष्मीबाई, मौलवी लियाकत अली, खान बहादुर खान", "en": "Mangal Pandey, Bahadur Shah Zafar, Nana Saheb, Tatya Tope, Begum Hazrat Mahal, Rani Lakshmibai, Maulvi Liaquat Ali, Khan Bahadur Khan" },
+    "cause": { "hi": "चर्बी वाले कारतूस (एनफील्ड राइफल), डलहौजी का व्यपगत सिद्धांत (Doctrine of Lapse), आर्थिक शोषण, ईसाई मिशनरियों का हस्तक्षेप।", "en": "Enfield greased cartridges, Dalhousie's Doctrine of Lapse, heavy taxation & peasant ruin, religious interference." },
+    "eventSummary": { "hi": "10 मई 1857 को मेरठ छावनी से सिपाहियों ने विद्रोह प्रारंभ किया। दिल्ली कूच कर बहादुर शाह को शहंशाह-ए-हिंद घोषित किया। उत्तर भारत में जनविद्रोह का रूप लिया।", "en": "Broke out on 10 May 1857 from Meerut garrison. Soldiers marched to Delhi, proclaiming Bahadur Shah Zafar as Emperor. Rapidly engulfed Northern India." },
+    "result": { "hi": "ब्रिटिश ईस्ट इंडिया कंपनी का शासन समाप्त; महारानी विक्टोरिया की 1858 की उद्घोषणा द्वारा भारत का शासन सीधे ब्रिटिश ताज के अधीन आया।", "en": "East India Company rule terminated; Queen Victoria's Proclamation of 1858 transferred direct governance to the British Crown." },
+    "upConnection": { "hi": "उत्तर प्रदेश इस विद्रोह का मुख्य केंद्र था: मेरठ (आरंभ), लखनऊ (बेगम हज़रत महल, कादिर), कानपुर (नाना साहेब, अजीमुल्ला खान), झांसी (लक्ष्मीबाई), प्रयागराज (लियाकत अली), फैजाबाद (मौलवी अहमदुल्ला शाह)।", "en": "UP was the epicenter: Meerut (origin), Lucknow (Hazrat Mahal), Kanpur (Nana Saheb), Jhansi (Lakshmibai), Prayagraj (Liaquat Ali), Faizabad (Ahmadullah Shah)." },
+    "importantFacts": [
+      { "hi": "1 नवंबर 1858 को लॉर्ड कैनिंग ने महारानी का घोषणापत्र इलाहाबाद (प्रयागराज) के मिंटो पार्क में पढ़कर सुनाया था।", "en": "Lord Canning read Queen Victoria's Proclamation at Minto Park, Allahabad on 1 Nov 1858." },
+      { "hi": "मौलवी अहमदुल्ला शाह पर अंग्रेजों ने 50,000 रुपये का इनाम घोषित किया था।", "en": "British put a bounty of Rs 50,000 on Maulvi Ahmadullah Shah of Faizabad." },
+      { "hi": "झांसी में रानी लक्ष्मीबाई ने 'सर ह्यू रोज' से लोहा लिया। ह्यू रोज ने कहा था: 'विद्रोहियों में वह अकेली मर्द थी'।", "en": "Sir Hugh Rose led against Rani Lakshmibai and remarked: 'Here lay the woman who was the only man among rebels'." }
+    ],
+    "pyqCount": 18,
+    "samplePYQ": "1857 के विद्रोह के समय भारत का गवर्नर जनरल कौन था? (उत्तर: लॉर्ड कैनिंग - UPPSC RO/ARO 2016, 2021)"
+  },
+  {
+    "id": "inm-inc-1885",
+    "year": "1885",
+    "title": { "hi": "भारतीय राष्ट्रीय कांग्रेस की स्थापना", "en": "Formation of the Indian National Congress (INC)" },
+    "location": { "hi": "बंबई (गोकुलदास तेजपाल संस्कृत कॉलेज)", "en": "Bombay (Gokuldas Tejpal Sanskrit College)" },
+    "leaders": { "hi": "ए.ओ. ह्यूम (संस्थापक), व्योमेश चंद्र बनर्जी (प्रथम अध्यक्ष), दादाभाई नौरोजी, दिनशा वाचा", "en": "A.O. Hume (Founder), W.C. Bonnerjee (First President), Dadabhai Naoroji, Dinshaw Wacha" },
+    "cause": { "hi": "अखिल भारतीय स्तर पर शिक्षित भारतीयों का राजनीतिक मंच तैयार करना। सेफ्टी वॉल्व सिद्धांत (लाला लाजपत राय द्वारा प्रतिपादित)।", "en": "Pan-Indian platform for political mobilization; 'Safety Valve' theory articulated by later nationalists." },
+    "eventSummary": { "hi": "28 दिसंबर 1885 को 72 प्रतिनिधियों की उपस्थिति में प्रथम अधिवेशन हुआ। नौ प्रस्ताव पारित किए गए।", "en": "First session held on 28 Dec 1885 with 72 delegates across British India. Nine resolutions adopted." },
+    "result": { "hi": "संगठित राष्ट्रीय राजनीतिक आंदोलन की शुरुआत हुई। उदारवादी नेताओं ने संवैधानिक सुधारों की मांग रखी।", "en": "Began the institutional era of Indian national movement, demanding legislative reforms." },
+    "upConnection": { "hi": "इलाहाबाद (प्रयागराज) में कांग्रेस के तीन महत्वपूर्ण अधिवेशन हुए: 1888 (जॉर्ज यूल - प्रथम अंग्रेज अध्यक्ष), 1892 (डब्ल्यू.सी. बनर्जी), 1910 (विलियम वेडरबर्न)। लखनऊ व वाराणसी में भी ऐतिहासिक अधिवेशन हुए।", "en": "Allahabad hosted three historic INC sessions: 1888 (George Yule, first British president), 1892 (W.C. Bonnerjee), 1910 (William Wedderburn)." },
+    "importantFacts": [
+      { "hi": "लॉर्ड डफरिन उस समय भारत का वायसराय था; उसने कांग्रेस को 'सूक्ष्म अल्पसंख्यक' (microscopic minority) कहा था।", "en": "Lord Dufferin was Viceroy and ridiculed INC as representing a 'microscopic minority'." },
+      { "hi": "दादाभाई नौरोजी के सुझाव पर इसका नाम 'भारतीय राष्ट्रीय कांग्रेस' रखा गया।", "en": "Named 'Indian National Congress' on Dadabhai Naoroji's suggestion." }
+    ],
+    "pyqCount": 14,
+    "samplePYQ": "भारतीय राष्ट्रीय कांग्रेस के प्रथम मुस्लिम अध्यक्ष कौन थे? (उत्तर: बदरुद्दीन तैयबजी, मद्रास 1887 - UPPSC RO/ARO 2017)"
+  },
+  {
+    "id": "inm-swadeshi-1905",
+    "year": "1905",
+    "title": { "hi": "बंगाल विभाजन एवं स्वदेशी आंदोलन", "en": "Partition of Bengal & Swadeshi Movement" },
+    "location": { "hi": "कलकत्ता (टाउन हॉल) एवं संपूर्ण भारत", "en": "Calcutta (Town Hall) and nationwide" },
+    "leaders": { "hi": "सुरेंद्रनाथ बनर्जी, आनंद मोहन बोस, बाल गंगाधर तिलक, बिपिन चंद्र पाल, लाला लाजपत राय, अरबिंदो घोष", "en": "Surendranath Banerjee, Bal Gangadhar Tilak, Bipin Chandra Pal, Lala Lajpat Rai, Aurobindo Ghosh" },
+    "cause": { "hi": "लॉर्ड कर्जन द्वारा 'प्रशासनिक सुविधा' के बहाने 16 अक्टूबर 1905 को बंगाल का विभाजन, जिसका वास्तविक उद्देश्य हिन्दू-मुस्लिम एकता को तोड़ना था।", "en": "Curzon partitioned Bengal on 16 Oct 1905 under guise of administrative convenience to curb Bengali nationalism." },
+    "eventSummary": { "hi": "7 अगस्त 1905 को कलकत्ता टाउन हॉल से स्वदेशी आंदोलन व बहिष्कार का औपचारिक ऐलान हुआ। रक्षाबंधन दिवस एवं शोक दिवस मनाया गया। 'अमार शोनार बांग्ला' गीत रविंद्रनाथ टैगोर ने रचा।", "en": "Formal resolution of Swadeshi & Boycott passed on 7 August 1905. Raksha Bandhan observed as solidarity. Tagore composed 'Amar Shonar Bangla'." },
+    "result": { "hi": "स्वदेशी उद्योगों, राष्ट्रीय शिक्षा परिषद् का गठन। 1911 में दिल्ली दरबार में विभाजन रद्द किया गया।", "en": "Spurred indigenous industries and National Council of Education. Partition annulled at 1911 Delhi Durbar." },
+    "upConnection": { "hi": "1905 का कांग्रेस अधिवेशन बनारस (वाराणसी) में गोपाल कृष्ण गोखले की अध्यक्षता में हुआ, जहां स्वदेशी आंदोलन का समर्थन किया गया।", "en": "1905 INC session was held at Banaras under Gopal Krishna Gokhale, endorsing Swadeshi." },
+    "importantFacts": [
+      { "hi": "रविंद्रनाथ टैगोर ने राखी दिवस मनाने का आह्वान किया था।", "en": "Tagore called for celebrating Rakhi Bandhan to show fraternal unity." },
+      { "hi": "सैयद हैदर रज़ा ने दिल्ली में स्वदेशी आंदोलन का नेतृत्व किया था।", "en": "Syed Haider Raza led Swadeshi in Delhi, Chidambaram Pillai in Madras." }
+    ],
+    "pyqCount": 11,
+    "samplePYQ": "1905 के बनारस कांग्रेस अधिवेशन की अध्यक्षता किसने की थी? (उत्तर: गोपाल कृष्ण गोखले - UPPSC RO/ARO 2021)"
+  },
+  {
+    "id": "inm-surat-split-1907",
+    "year": "1907",
+    "title": { "hi": "सूरत विभाजन (उदारवादी बनाम उग्रवादी)", "en": "Surat Split (Moderates vs Extremists)" },
+    "location": { "hi": "सूरत (ताप्ती नदी के तट पर)", "en": "Surat (On the banks of Tapti river)" },
+    "leaders": { "hi": "रास बिहारी घोष (अध्यक्ष), फिरोजशाह मेहता, बाल गंगाधर तिलक, लाला लाजपत राय", "en": "Rash Behari Ghosh (President), Pherozeshah Mehta, BG Tilak, Lala Lajpat Rai" },
+    "cause": { "hi": "स्वदेशी आंदोलन के विस्तार (पूरे भारत बनाम केवल बंगाल) और बहिष्कार के दायरे को लेकर मतभेद।", "en": "Ideological rift over extending Swadeshi and Boycott to all British institutions nationwide." },
+    "eventSummary": { "hi": "सूरत अधिवेशन में हिंसक झड़प हुई और कांग्रेस दो गुटों (नरम दल व गरम दल) में विभाजित हो गई। उग्रवादी निष्कासित किए गए।", "en": "Session witnessed physical altercation; Tilak and Extremists walked out and were expelled by Moderates." },
+    "result": { "hi": "आंदोलन कमजोर हुआ; 1908 में तिलक को 6 वर्ष के लिए बर्मा की मांडले जेल भेजा गया।", "en": "Weakened mass momentum; British cracked down, jailing Tilak for 6 years in Mandalay, Burma." },
+    "upConnection": { "hi": "उ.प्र. के मदन मोहन मालवीय एवं मोतीलाल नेहरू ने उदारवादी गुट का साथ दिया था।", "en": "UP leaders Madan Mohan Malaviya and Motilal Nehru aligned with Moderate leadership." },
+    "importantFacts": [
+      { "hi": "1916 के लखनऊ अधिवेशन में दोनों धड़ों का पुनः विलय हुआ।", "en": "The two wings reunited 9 years later at the Lucknow Congress in 1916." }
+    ],
+    "pyqCount": 9,
+    "samplePYQ": "1907 में भारतीय राष्ट्रीय कांग्रेस के सूरत अधिवेशन के अध्यक्ष कौन थे? (उत्तर: रास बिहारी घोष - UPPSC RO/ARO 2016)"
+  },
+  {
+    "id": "inm-lucknow-pact-1916",
+    "year": "1916",
+    "title": { "hi": "लखनऊ समझौता एवं कांग्रेस एकीकरण", "en": "Lucknow Pact & Congress Reunification (1916)" },
+    "location": { "hi": "लखनऊ (उत्तर प्रदेश)", "en": "Lucknow (Uttar Pradesh)" },
+    "leaders": { "hi": "अंबिका चरण मजूमदार (अध्यक्ष), बाल गंगाधर तिलक, एनी बेसेंट, मोहम्मद अली जिन्ना", "en": "Ambica Charan Mazumdar (President), BG Tilak, Annie Besant, M.A. Jinnah" },
+    "cause": { "hi": "प्रथम विश्वयुद्ध की परिस्थितियां, होम रूल लीग का दबाव, हिन्दू-मुस्लिम एकता की आवश्यकता।", "en": "WWI pressures, Home Rule agitation, urgency of joint Hindu-Muslim constitutional front." },
+    "eventSummary": { "hi": "कांग्रेस के दोनों दलों (नरम दल व गरम दल) का पुनर्मिलन हुआ तथा कांग्रेस और मुस्लिम लीग के मध्य ऐतिहासिक संयुक्त समझौता हुआ।", "en": "Moderates and Extremists reunited; historic pact signed between INC and All-India Muslim League." },
+    "result": { "hi": "कांग्रेस ने मुस्लिम लीग के पृथक निर्वाचक मंडल (Separate Electorates) की मांग को स्वीकार कर लिया (जो बाद में एक विवादास्पद कदम सिद्ध हुआ)।", "en": "INC accepted separate communal electorates for Muslims in provincial legislatures." },
+    "upConnection": { "hi": "यह ऐतिहासिक समझौता सीधे लखनऊ में हुआ; यहीं गांधी जी से राजकुमार शुक्ल ने मिलकर चंपारण आने का आग्रह किया था।", "en": "Held in Lucknow, UP; Raj Kumar Shukla met Mahatma Gandhi here and urged him to visit Champaran." },
+    "importantFacts": [
+      { "hi": "सरोजिनी नायडू ने जिन्ना को 'हिन्दू-मुस्लिम एकता का राजदूत' कहा था।", "en": "Sarojini Naidu conferred Jinnah the title 'Ambassador of Hindu-Muslim Unity'." }
+    ],
+    "pyqCount": 16,
+    "samplePYQ": "1916 के ऐतिहासिक लखनऊ अधिवेशन की अध्यक्षता किसने की थी? (उत्तर: अंबिका चरण मजूमदार - UPPSC RO/ARO 2017, 2021)"
+  },
+  {
+    "id": "inm-champaran-1917",
+    "year": "1917",
+    "title": { "hi": "चंपारण सत्याग्रह (गांधी जी का प्रथम सत्याग्रह)", "en": "Champaran Satyagraha (Gandhi's First in India)" },
+    "location": { "hi": "चंपारण (बिहार)", "en": "Champaran (Bihar)" },
+    "leaders": { "hi": "महात्मा गांधी, राजकुमार शुक्ल, डॉ. राजेंद्र प्रसाद, जे.बी. कृपलानी, नरहरि पारिख, महादेव देसाई", "en": "Mahatma Gandhi, Raj Kumar Shukla, Dr. Rajendra Prasad, J.B. Kripalani, Mahadev Desai" },
+    "cause": { "hi": "यूरोपीय बागान मालिकों द्वारा किसानों पर थोपी गई तिनकठिया प्रथा (3/20 भाग पर नील की अनिवार्य खेती)।", "en": "Tinkathia system forcing indigo cultivation on 3/20th of land without fair remuneration." },
+    "eventSummary": { "hi": "गांधी जी चंपारण पहुंचे, प्रशासन के निष्कासन आदेश की सविनय अवज्ञा की और किसानों की गवाही दर्ज की।", "en": "Gandhi defied expulsion order, practicing civil disobedience, leading an inquiry committee." },
+    "result": { "hi": "तिनकठिया प्रणाली समाप्त की गई और अवैध रूप से वसूले गए धन का 25% किसानों को वापस किया गया।", "en": "Tinkathia abolished; 25% of illegally extorted money was refunded to peasants." },
+    "upConnection": { "hi": "चंपारण जाने से पहले गांधी जी कानपुर में गणेश शंकर विद्यार्थी से मिले थे; आचार्य कृपलानी उस समय मुजफ्फरपुर जाने से पूर्व काशी विद्यापीठ से भी जुड़े थे।", "en": "Gandhi consulted UP nationalist editor Ganesh Shankar Vidyarthi in Kanpur regarding peasant grievances." },
+    "importantFacts": [
+      { "hi": "रवींद्रनाथ टैगोर ने चंपारण सत्याग्रह की सफलता के बाद गांधी जी को 'महात्मा' की उपाधि दी थी।", "en": "Tagore bestowed the title 'Mahatma' upon Gandhi following the success in Champaran." },
+      { "hi": "एन.जी. रंगा ने गांधी जी के चंपारण सत्याग्रह का विरोध किया था।", "en": "N.G. Ranga had opposed Gandhi's intervention in Champaran." }
+    ],
+    "pyqCount": 13,
+    "samplePYQ": "चंपारण में तीनकठिया प्रथा का क्या तात्पर्य था? (उत्तर: 3/20 भूभाग पर नील की खेती करना - UPPSC RO/ARO 2014, 2021)"
+  },
+  {
+    "id": "inm-jallianwala-1919",
+    "year": "1919",
+    "title": { "hi": "रॉलेट एक्ट एवं जलियांवाला बाग हत्याकांड", "en": "Rowlatt Act & Jallianwala Bagh Massacre (1919)" },
+    "location": { "hi": "अमृतसर (पंजाब)", "en": "Amritsar (Punjab)" },
+    "leaders": { "hi": "डॉ. सत्यपाल, डॉ. सैफुद्दीन किचलू, जनरल डायर (हत्यारा), माइकल ओ'डायर (लेफ्टिनेंट गवर्नर)", "en": "Dr. Saifuddin Kitchlew, Dr. Satyapal, General Dyer (perpetrator), Michael O'Dwyer" },
+    "cause": { "hi": "बिना अपील, बिना वकील, बिना दलील वाले रॉलेट एक्ट (काला कानून) का विरोध एवं स्थानीय नेताओं की गिरफ्तारी।", "en": "Draconian Rowlatt Act providing indefinite detention without trial, arrest of nationalist leaders." },
+    "eventSummary": { "hi": "13 अप्रैल 1919 (बैसाखी का दिन) को निहत्थी सभा पर जनरल डायर ने अंधाधुंध गोलियां चलवाईं। सैकड़ों निर्दोष मारे गए।", "en": "On Baisakhi, 13 April 1919, General Dyer blocked narrow exit of Jallianwala Bagh and ordered troops to fire." },
+    "result": { "hi": "रविंद्रनाथ टैगोर ने 'नाइटहुड' उपाधि त्यागी; गांधी जी ने 'कैसर-ए-हिंद' पदक लौटाया। हंटर आयोग गठित हुआ।", "en": "Tagore renounced Knighthood; Gandhi surrendered Kaiser-i-Hind medal. Hunter Committee appointed." },
+    "upConnection": { "hi": "कांग्रेस जांच समिति में मदन मोहन मालवीय, मोतीलाल नेहरू और गांधी जी शामिल थे; मालवीय जी ने संसद में इसकी कड़ी निंदा की थी।", "en": "Congress constituted its own inquiry led by Madan Mohan Malaviya, Motilal Nehru and Gandhi." },
+    "importantFacts": [
+      { "hi": "हंसराज नामक भारतीय ने सभा में डायर की मदद की थी।", "en": "Hans Raj turned approver and aided General Dyer." },
+      { "hi": "उधम सिंह ने 1940 में लंदन के कैक्सटन हॉल में माइकल ओ'डायर की गोली मारकर हत्या की।", "en": "Udham Singh assassinated Michael O'Dwyer in London in 1940." }
+    ],
+    "pyqCount": 15,
+    "samplePYQ": "जलियांवाला बाग हत्याकांड के विरोध में किसने वायसराय की कार्यकारिणी से इस्तीफा दिया था? (उत्तर: सर सी. शंकरन नायर - UPPSC RO/ARO 2016)"
+  },
+  {
+    "id": "inm-ncm-chaurichaura-1920-22",
+    "year": "1920-1922",
+    "title": { "hi": "असहयोग आंदोलन एवं चौरी-चौरा कांड", "en": "Non-Cooperation Movement & Chauri Chaura Incident" },
+    "location": { "hi": "नागपुर, कलकत्ता, चौरी-चौरा (गोरखपुर, उ.प्र.)", "en": "Nagpur, Calcutta, Chauri Chaura (Gorakhpur, UP)" },
+    "leaders": { "hi": "महात्मा गांधी, मोतीलाल नेहरू, सी.आर. दास, भगवान अहीर (चौरी-चौरा जुलूस नेता)", "en": "Mahatma Gandhi, Motilal Nehru, C.R. Das, Bhagwan Ahir" },
+    "cause": { "hi": "जलियांवाला बाग, खिलाफत का प्रश्न, स्वराज्य की मांग। 1920 के नागपुर अधिवेशन में प्रस्ताव पारित।", "en": "Jallianwala massacre, Khilafat issue, demand for Swaraj. Ratified at Nagpur INC 1920." },
+    "eventSummary": { "hi": "उपाधियों, स्कूलों, अदालतों, विदेशी कपड़ों का बहिष्कार। 4 फरवरी 1922 को गोरखपुर के चौरी-चौरा में भीड़ ने पुलिस थाने को आग लगा दी, जिसमें 22 पुलिसकर्मी मारे गए।", "en": "Boycott of British titles, goods, courts. On 4 Feb 1922, crowd torched police station in Chauri Chaura, killing 22 policemen." },
+    "result": { "hi": "गांधी जी ने 12 फरवरी 1922 को बारदोली में कांग्रेस कार्यसमिति की बैठक कर आंदोलन वापस ले लिया।", "en": "Gandhi withdrew the movement on 12 Feb 1922 via Bardoli resolution citing violation of non-violence." },
+    "upConnection": { "hi": "चौरी-चौरा उत्तर प्रदेश के गोरखपुर जिले में स्थित है। मोतीलाल नेहरू और जवाहरलाल नेहरू इलाहाबाद से गिरफ्तार किए गए।", "en": "Chauri Chaura is located in Gorakhpur district, UP. Motilal and Jawaharlal Nehru mobilized UP extensively." },
+    "importantFacts": [
+      { "hi": "आंदोलन वापस लेने पर सुभाष चंद्र बोस ने इसे 'राष्ट्रीय आपदा' (National Calamity) कहा था।", "en": "Subhash Chandra Bose termed the withdrawal an 'inflicted national calamity'." },
+      { "hi": "उ.प्र. सरकार ने 2021 में चौरी-चौरा घटना के 100 वर्ष पूरे होने पर शताब्दी महोत्सव मनाया।", "en": "UP Government organized year-long centenary celebrations of Chauri Chaura in 2021-22." }
+    ],
+    "pyqCount": 20,
+    "samplePYQ": "चौरी-चौरा किस जिले में स्थित है? (उत्तर: गोरखपुर, उत्तर प्रदेश - UPPSC RO/ARO 2013, 2021)"
+  },
+  {
+    "id": "inm-swaraj-party-1923",
+    "year": "1923",
+    "title": { "hi": "स्वराज पार्टी की स्थापना", "en": "Formation of Swaraj Party (1923)" },
+    "location": { "hi": "इलाहाबाद (प्रयागराज, उत्तर प्रदेश)", "en": "Allahabad (Prayagraj, Uttar Pradesh)" },
+    "leaders": { "hi": "चित्तरंजन दास (अध्यक्ष), मोतीलाल नेहरू (महासचिव), विट्ठलभाई पटेल", "en": "Chittaranjan Das (President), Motilal Nehru (General Secretary), Vithalbhai Patel" },
+    "cause": { "hi": "असहयोग आंदोलन की वापसी के बाद राजनीतिक शून्यता; विधान परिषदों में प्रवेश कर सरकार के कार्यों में गतिरोध उत्पन्न करने की रणनीति।", "en": "Political vacuum post-NCM; strategy to enter legislative councils and expose colonial machinery from within." },
+    "eventSummary": { "hi": "1 जनवरी 1923 को इलाहाबाद में 'कांग्रेस-खिलाफत स्वराज पार्टी' की घोषणा हुई। 'परिवर्तनवादी' (Pro-changers) कहलाए।", "en": "Formed at Anand Bhawan, Allahabad on 1 Jan 1923 as Congress-Khilafat Swaraj Party by 'Pro-changers'." },
+    "result": { "hi": "1925 में विट्ठलभाई पटेल केंद्रीय विधान परिषद के प्रथम भारतीय अध्यक्ष (स्पीकर) चुने गए।", "en": "Major breakthrough: Vithalbhai Patel elected first Indian Speaker of Central Legislative Assembly in 1925." },
+    "upConnection": { "hi": "इस पार्टी का मुख्यालय इलाहाबाद में मोतीलाल नेहरू का निवास स्थान 'आनंद भवन' था।", "en": "Founded and headquartered in Allahabad (Anand Bhawan) by UP's foremost leader Motilal Nehru." },
+    "importantFacts": [
+      { "hi": "राजगोपालाचारी, वल्लभभाई पटेल एवं राजेंद्र प्रसाद 'अपरिवर्तनवादी' (No-changers) थे।", "en": "C. Rajagopalachari, Vallabhbhai Patel and Rajendra Prasad opposed council entry ('No-changers')." }
+    ],
+    "pyqCount": 12,
+    "samplePYQ": "1923 में स्वराज पार्टी का गठन किसकी विफलता के बाद हुआ? (उत्तर: असहयोग आंदोलन - UPPSC RO/ARO 2016)"
+  },
+  {
+    "id": "inm-kakori-1925",
+    "year": "1925",
+    "title": { "hi": "काकोरी ट्रेन एक्शन (काकोरी षड्यंत्र)", "en": "Kakori Train Action (HRA, 1925)" },
+    "location": { "hi": "काकोरी (लखनऊ के निकट, उत्तर प्रदेश)", "en": "Kakori (Near Lucknow, Uttar Pradesh)" },
+    "leaders": { "hi": "राम प्रसाद बिस्मिल, अशफ़ाक़ उल्ला खां, रोशन सिंह, राजेंद्र लाहिड़ी, चंद्रशेखर आज़ाद (फरार)", "en": "Ram Prasad Bismil, Ashfaqulla Khan, Roshan Singh, Rajendra Lahiri, Chandrashekhar Azad" },
+    "cause": { "hi": "हिंदुस्तान रिपब्लिकन एसोसिएशन (HRA) को क्रांतिकारी गतिविधियों एवं हथियार खरीदने हेतु धन की आवश्यकता।", "en": "HRA needed financial resources to purchase arms for armed revolution against British imperialism." },
+    "eventSummary": { "hi": "9 अगस्त 1925 को सहारनपुर-लखनऊ 8-डाउन पैसेंजर ट्रेन को काकोरी में रोककर सरकारी खजाना लूटा गया।", "en": "On 9 August 1925, revolutionaries stopped the 8-Down passenger train at Kakori and looted the British treasury." },
+    "result": { "hi": "बिस्मिल (गोरखपुर जेल), अशफ़ाक़ उल्ला (फैजाबाद), रोशन सिंह (इलाहाबाद/नैनी), राजेंद्र लाहिड़ी (गोंडा) को फांसी दी गई।", "en": "Four patriots martyred: Bismil in Gorakhpur, Ashfaqulla in Faizabad, Roshan Singh in Naini, Lahiri in Gonda." },
+    "upConnection": { "hi": "यह पूरी घटना एवं सभी प्रमुख फांसी स्थल उत्तर प्रदेश में ही स्थित हैं। उ.प्र. सरकार ने इसका आधिकारिक नाम बदलकर 'काकोरी ट्रेन एक्शन' किया।", "en": "100% UP heritage. UP Government officially renamed it 'Kakori Train Action' in 2021 honoring freedom fighters." },
+    "importantFacts": [
+      { "hi": "अशफ़ाक़ उल्ला खां पहले रिकॉर्डेड मुस्लिम क्रांतिकारी थे जिन्हें स्वतंत्रता संग्राम में फांसी हुई।", "en": "Ashfaqulla Khan was the first recorded young Muslim revolutionary hanged for revolutionary conspiracy." },
+      { "hi": "बिस्मिल ने फांसी के फंदे पर कहा था: 'मालिक तेरी रज़ा रहे और तू ही तू रहे... सरफ़रोशी की तमन्ना अब हमारे दिल में है'।", "en": "Ram Prasad Bismil immortalized the revolutionary poem 'Sarfaroshi Ki Tamanna'." }
+    ],
+    "pyqCount": 17,
+    "samplePYQ": "काकोरी ट्रेन एक्शन के क्रांतिकारियों में से किसे गोरखपुर जेल में फांसी दी गई थी? (उत्तर: राम प्रसाद बिस्मिल - UPPSC RO/ARO 2017, 2021)"
+  },
+  {
+    "id": "inm-simon-1927",
+    "year": "1927-1928",
+    "title": { "hi": "साइमन कमीशन का बहिष्कार", "en": "Simon Commission Boycott (1927-1928)" },
+    "location": { "hi": "बंबई, लाहौर, लखनऊ, पटना, मद्रास", "en": "Bombay, Lahore, Lucknow, Patna, Madras" },
+    "leaders": { "hi": "लाला लाजपत राय, जवाहरलाल नेहरू, गोविंद वल्लभ पंत, खलीकुज्जमां", "en": "Lala Lajpat Rai, Jawaharlal Nehru, Govind Ballabh Pant, Khaliquzzaman" },
+    "cause": { "hi": "1919 के भारत सरकार अधिनियम की समीक्षा हेतु 7 सदस्यीय आयोग में एक भी भारतीय सदस्य न होना ('श्वेत आयोग')।", "en": "All-White seven-member Commission without a single Indian member to review India's constitutional destiny." },
+    "eventSummary": { "hi": "3 फरवरी 1928 को बंबई पहुंचने पर 'साइमन गो बैक' के नारों व काले झंडों से स्वागत हुआ। लाहौर में लाला लाजपत राय पर लाठीचार्ज हुआ जिससे उनकी मृत्यु हो गई।", "en": "Arrived on 3 Feb 1928 facing nationwide strike, black flags, and 'Simon Go Back' slogans. Lala Lajpat Rai succumbed to lathi blows." },
+    "result": { "hi": "लाला जी की शहादत का बदला लेने हेतु भगत सिंह व साथियों ने सांडर्स का वध किया। नेहरू रिपोर्ट (1928) तैयार हुई।", "en": "Triggered Saunders assassination by Bhagat Singh & Rajguru. Led directly to Motilal Nehru Report." },
+    "upConnection": { "hi": "लखनऊ में साइमन कमीशन के विरोध प्रदर्शन में जवाहरलाल नेहरू और पंडित गोविंद वल्लभ पंत पर भीषण लाठीचार्ज हुआ, जिससे पंत जी जीवनभर के लिए अस्वस्थ हो गए।", "en": "In Lucknow, Jawaharlal Nehru and Govind Ballabh Pant were brutally beaten by mounted police." },
+    "importantFacts": [
+      { "hi": "लाला लाजपत राय का कथन: 'मेरे शरीर पर पड़ी एक-एक लाठी ब्रिटिश साम्राज्य के ताबूत में आखिरी कील साबित होगी'।", "en": "Lala Lajpat Rai: 'Every blow struck on my body will prove a nail in the coffin of the British Empire'." }
+    ],
+    "pyqCount": 11,
+    "samplePYQ": "साइमन कमीशन का गठन किस वर्ष किया गया था? (उत्तर: 1927 - UPPSC RO/ARO 2016)"
+  },
+  {
+    "id": "inm-lahore-1929",
+    "year": "1929",
+    "title": { "hi": "लाहौर अधिवेशन एवं पूर्ण स्वराज की मांग", "en": "Lahore Session & Purna Swaraj Declaration (1929)" },
+    "location": { "hi": "लाहौर (रावी नदी का तट)", "en": "Lahore (Banks of Ravi River)" },
+    "leaders": { "hi": "पंडित जवाहरलाल नेहरू (अध्यक्ष), महात्मा गांधी", "en": "Pt. Jawaharlal Nehru (President), Mahatma Gandhi" },
+    "cause": { "hi": "नेहरू रिपोर्ट को ब्रिटिश सरकार द्वारा तय समय सीमा (1 वर्ष) में स्वीकार न किया जाना।", "en": "Rejection of Dominion Status ultimatum given in Calcutta Congress 1928." },
+    "eventSummary": { "hi": "31 दिसंबर 1929 की अर्धरात्रि को रावी नदी के तट पर तिरंगा फहराया गया। 'पूर्ण स्वराज' को कांग्रेस का एकमात्र लक्ष्य घोषित किया गया।", "en": "At midnight on 31 Dec 1929, Nehru unfurled tricolor. 26 Jan 1930 declared as first Independence Day." },
+    "result": { "hi": "26 जनवरी 1930 को पूरे देश में प्रथम स्वतंत्रता दिवस मनाया गया। सविनय अवज्ञा आंदोलन का बिगुल फूंका गया।", "en": "Celebration of Independence Day on 26 Jan across India; sanctioned Civil Disobedience Movement." },
+    "upConnection": { "hi": "जवाहरलाल नेहरू उत्तर प्रदेश (इलाहाबाद) से थे और उनका अध्यक्षीय भाषण स्वतंत्रता संग्राम का ऐतिहासिक दस्तावेज बना।", "en": "Jawaharlal Nehru of Allahabad steered the national shift from dominion status to absolute independence." },
+    "importantFacts": [
+      { "hi": "26 जनवरी की इसी ऐतिहासिक महत्ता के कारण 26 जनवरी 1950 को भारतीय संविधान लागू किया गया था।", "en": "26 January was chosen as Republic Day in 1950 in commemoration of this 1930 Purna Swaraj pledge." }
+    ],
+    "pyqCount": 14,
+    "samplePYQ": "भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव पारित किया गया था? (उत्तर: लाहौर 1929 - UPPSC RO/ARO 2021)"
+  },
+  {
+    "id": "inm-cdm-dandi-1930",
+    "year": "1930",
+    "title": { "hi": "दांडी मार्च एवं सविनय अवज्ञा आंदोलन", "en": "Dandi March & Civil Disobedience Movement (1930)" },
+    "location": { "hi": "साबरमती से दांडी (गुजरात) एवं संपूर्ण देश", "en": "Sabarmati to Dandi (Gujarat) & All-India" },
+    "leaders": { "hi": "महात्मा गांधी, सरोजिनी नायडू, सी. राजगोपालाचारी (वेदारण्यम मार्च), के. केलप्पन (वायकोम)", "en": "Mahatma Gandhi, Sarojini Naidu, C. Rajagopalachari (Vedaranyam), K. Kelappan (Vaikom)" },
+    "cause": { "hi": "गांधी जी की 11 सूत्रीय मांगों को लॉर्ड इरविन द्वारा अस्वीकार करना; नमक कानून पर ब्रिटिश एकाधिकार एवं कर।", "en": "Irwin's refusal of Gandhi's 11-point demands; unjust salt monopoly taxing poorest citizens." },
+    "eventSummary": { "hi": "12 मार्च 1930 को 78 अनुयायियों के साथ 240 मील की दांडी यात्रा आरंभ की। 6 अप्रैल 1930 को एक मुट्ठी नमक बनाकर कानून तोड़ा।", "en": "Gandhi marched 240 miles with 78 followers from 12 March to 5 April. Broke salt law on 6 April 1930." },
+    "result": { "hi": "पूरे देश में नमक कानून टूटा, कर न अदायगी आंदोलन चला। 1931 में गांधी-इरविन समझौता हुआ।", "en": "Sparked mass defiance, non-payment of chowkidari tax, foreign cloth picketing. Led to Gandhi-Irwin Pact 1931." },
+    "upConnection": { "hi": "उत्तर प्रदेश में कर-बंदी (No-tax/No-rent) आंदोलन चला। जवाहरलाल नेहरू ने रायबरेली, इलाहाबाद में किसानों का नेतृत्व किया।", "en": "UP was the vanguard of the 'No-Rent' campaign led by Jawaharlal Nehru in Rae Bareli and Allahabad." },
+    "importantFacts": [
+      { "hi": "अमेरिकी पत्रकार वेब मिलर ने धरसाना नमक डिपो पर हुए पुलिस अत्याचारों का सजीव वर्णन किया था।", "en": "American journalist Webb Miller reported the ruthless police brutality at Dharasana Salt Works." },
+      { "hi": "तमिलनाडु में सी. राजगोपालाचारी ने त्रिचिनोपोली से वेदारण्यम तक नमक यात्रा निकाली थी।", "en": "C. Rajagopalachari marched from Trichinopoly to Vedaranyam along Coromandel coast." }
+    ],
+    "pyqCount": 19,
+    "samplePYQ": "दांडी मार्च कितने दिनों तक चला था? (उत्तर: 24 दिन - UPPSC RO/ARO 2017)"
+  },
+  {
+    "id": "inm-quit-india-1942",
+    "year": "1942",
+    "title": { "hi": "भारत छोड़ो आंदोलन ('अगस्त क्रांति')", "en": "Quit India Movement (August Kranti, 1942)" },
+    "location": { "hi": "बंबई (ग्वालिया टैंक मैदान), बलिया, सतारा, तामलुक", "en": "Bombay (Gowalia Tank), Ballia, Satara, Tamluk" },
+    "leaders": { "hi": "महात्मा गांधी ('करो या मरो'), अरुणा आसफ अली, उषा मेहता (भूमिगत रेडियो), चित्तू पांडे (बलिया), राममनोहर लोहिया, जयप्रकाश नारायण", "en": "Mahatma Gandhi ('Do or Die'), Aruna Asaf Ali, Usha Mehta, Chittu Pandey (Ballia), JP, Lohia" },
+    "cause": { "hi": "क्रिप्स मिशन की विफलता, द्वितीय विश्वयुद्ध में जापान का भारत की सीमाओं तक पहुंचना, बढ़ती महंगाई व दमन।", "en": "Failure of Cripps Mission, impending Japanese invasion in WWII, wartime inflation and public anger." },
+    "eventSummary": { "hi": "8 अगस्त 1942 को भारत छोड़ो प्रस्ताव पारित हुआ। 9 अगस्त की सुबह 'ऑपरेशन ज़ीरो ऑवर' के तहत गांधी जी सहित सभी शीर्ष नेता गिरफ्तार कर लिए गए। जनता ने स्वतःस्फूर्त आंदोलन चलाया।", "en": "Passed 8 August 1942. British launched 'Operation Zero Hour' before dawn on 9 August, arresting all top leaders." },
+    "result": { "hi": "ब्रिटिश साम्राज्य की जड़ें हिल गईं। बलिया, सतारा एवं मिदनापुर में समानांतर सरकारें (Parallel Governments) बनीं।", "en": "Massive insurrection that crippled British authority; parallel governments established." },
+    "upConnection": { "hi": "बलिया (उ.प्र.) में चित्तू पांडे के नेतृत्व में पहली समानांतर सरकार बनी ('बागी बलिया')। जेल से कैदियों को छुड़ाया गया।", "en": "Chittu Pandey established first parallel government in Ballia, UP ('Baghi Ballia'), releasing jailed patriots." },
+    "importantFacts": [
+      { "hi": "गांधी जी को पूना के आगा खां पैलेस में और कांग्रेस कार्यसमिति को अहमदनगर दुर्ग में नजरबंद किया गया।", "en": "Gandhi detained in Aga Khan Palace, Pune; Nehru and CWC members imprisoned at Ahmednagar Fort." },
+      { "hi": "उषा मेहता और राममनोहर लोहिया ने गुप्त कांग्रेस रेडियो का संचालन किया।", "en": "Usha Mehta and Ram Manohar Lohia operated underground Congress Radio." }
+    ],
+    "pyqCount": 22,
+    "samplePYQ": "1942 के भारत छोड़ो आंदोलन के दौरान उत्तर प्रदेश के किस जिले में समानांतर सरकार बनी थी? (उत्तर: बलिया - UPPSC RO/ARO 2014, 2016, 2021)"
+  },
+  {
+    "id": "inm-cabinet-mission-1946",
+    "year": "1946-1947",
+    "title": { "hi": "कैबिनेट मिशन, अंतरिम सरकार एवं स्वतंत्रता (1947)", "en": "Cabinet Mission, Interim Government & Independence (1947)" },
+    "location": { "hi": "नई दिल्ली", "en": "New Delhi" },
+    "leaders": { "hi": "पैथिक लॉरेंस, स्टेफोर्ड क्रिप्स, ए.वी. अलेक्जेंडर (मिशन सदस्य); पं. नेहरू, सरदार पटेल, लॉर्ड माउंटबेटन", "en": "Pethick-Lawrence, Stafford Cripps, A.V. Alexander; Pt. Nehru, Patel, Mountbatten" },
+    "cause": { "hi": "ब्रिटेन में लेबर पार्टी (क्लीमेंट एटली) की जीत, भारत में नौसेना विद्रोह (1946) एवं सत्ता हस्तांतरण की अनिवार्यता।", "en": "Attlee's announcement to transfer power; Royal Indian Navy Mutiny (1946) and untenable colonial control." },
+    "eventSummary": { "hi": "मार्च 1946 में कैबिनेट मिशन आया; पाकिस्तान की अलग मांग खारिज की; संविधान सभा के चुनाव हुए। 2 सितंबर 1946 को नेहरू के नेतृत्व में अंतरिम सरकार बनी। 3 जून 1947 को माउंटबेटन योजना (विभाजन योजना) आई।", "en": "Cabinet Mission formed framework for Constituent Assembly; Interim Govt on 2 Sept 1946; Mountbatten Plan 3 June 1947." },
+    "result": { "hi": "भारतीय स्वतंत्रता अधिनियम 1947 पारित हुआ। 15 अगस्त 1947 को भारत स्वतंत्र हुआ।", "en": "Indian Independence Act 1947 passed by British Parliament; India achieved independence on 15 Aug 1947." },
+    "upConnection": { "hi": "संविधान सभा में संयुक्त प्रांत (वर्तमान उत्तर प्रदेश) से सर्वाधिक 55 सदस्य थे। गोविंद वल्लभ पंत, पुरुषोत्तम दास टंडन, हृदयनाथ कुंजरू ने संविधान निर्माण में अग्रणी भूमिका निभाई।", "en": "United Provinces (UP) sent maximum delegates (55) to the Constituent Assembly." },
+    "importantFacts": [
+      { "hi": "कैबिनेट मिशन के अध्यक्ष भारत सचिव लॉर्ड पैथिक लॉरेंस थे।", "en": "Lord Pethick-Lawrence (Secretary of State for India) was head of Cabinet Mission." },
+      { "hi": "मुस्लिम लीग ने 16 अगस्त 1946 को 'प्रत्यक्ष कार्यवाही दिवस' (Direct Action Day) मनाया था।", "en": "Muslim League declared 'Direct Action Day' on 16 August 1946 triggering Great Calcutta Killings." }
+    ],
+    "pyqCount": 18,
+    "samplePYQ": "1946 में बनी अंतरिम सरकार में गृह एवं सूचना प्रसारण मंत्री कौन थे? (उत्तर: सरदार वल्लभभाई पटेल - UPPSC RO/ARO 2021)"
+  }
+]

@@ -1,0 +1,287 @@
+{
+  "terms": [
+    {
+      "id": "term-001",
+      "english": "Accountability",
+      "hindi": "जवाबदेही / उत्तरदायित्व",
+      "category": "Administrative",
+      "meaning": { "hi": "किए गए कार्यों एवं निर्णयों के लिए उत्तरदायी होने का भाव या दायित्व।", "en": "The obligation or state of being accountable; responsibility for decisions or actions." },
+      "usageExample": { "hi": "लोक सेवकों की जनता के प्रति निष्पक्ष जवाबदेही सुशासन का मूल आधार है।", "en": "Fair accountability of public servants towards the people is the cornerstone of good governance." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-002",
+      "english": "Ad hoc",
+      "hindi": "तदर्थ",
+      "category": "Administrative",
+      "meaning": { "hi": "किसी विशिष्ट उद्देश्य या सीमित समय के लिए गठित अथवा नियुक्त।", "en": "Formed, arranged, or done for a particular purpose or temporary period only." },
+      "usageExample": { "hi": "सचिवालय में लंबित मामलों की जांच हेतु एक तदर्थ समिति का गठन किया गया।", "en": "An ad hoc committee was constituted to investigate pending matters in the Secretariat." },
+      "examFrequency": "Frequent"
+    },
+    {
+      "id": "term-003",
+      "english": "Affidavit",
+      "hindi": "शपथपत्र / हलफनामा",
+      "category": "Legal",
+      "meaning": { "hi": "सक्षम प्राधिकारी के समक्ष शपथपूर्वक दिया गया लिखित बयान।", "en": "A written statement confirmed by oath or affirmation, for use as evidence in court or official procedure." },
+      "usageExample": { "hi": "अभ्यर्थी को अपने शैक्षिक प्रमाणपत्रों के सत्यापन हेतु शपथपत्र प्रस्तुत करना होगा।", "en": "The candidate must submit an affidavit for verification of academic certificates." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-004",
+      "english": "Appropriation",
+      "hindi": "विनियोग",
+      "category": "Commercial",
+      "meaning": { "hi": "संसद अथवा विधानमंडल द्वारा किसी विशिष्ट मद में व्यय हेतु धन स्वीकृत करने की वैधानिक प्रक्रिया।", "en": "The action of taking or setting aside money for a dedicated formal purpose by legislature." },
+      "usageExample": { "hi": "विधानसभा में विनियोग विधेयक पारित होने के उपरांत ही संचित निधि से धन निकाला जा सकता है।", "en": "Funds can be withdrawn from the Consolidated Fund only after passing of Appropriation Bill." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-005",
+      "english": "Autonomous",
+      "hindi": "स्वायत्त / स्वायत्तशासी",
+      "category": "Governmental",
+      "meaning": { "hi": "अपने आंतरिक नियमों व संचालन में स्वतंत्र अधिकार रखने वाला निकाय।", "en": "Having the freedom to govern itself or control its own operations." },
+      "usageExample": { "hi": "विश्वविद्यालय अनुदान आयोग एक स्वायत्तशासी संस्था है।", "en": "The University Grants Commission is an autonomous institution." },
+      "examFrequency": "Medium"
+    },
+    {
+      "id": "term-006",
+      "english": "Bilateral",
+      "hindi": "द्विपक्षीय",
+      "category": "Administrative",
+      "meaning": { "hi": "दो पक्षों, राज्यों या राष्ट्रों के बीच संपन्न होने वाला।", "en": "Having or relating to two sides; affecting both parties equally." },
+      "usageExample": { "hi": "भारत और फ्रांस के मध्य द्विपक्षीय रक्षा वार्ता संपन्न हुई।", "en": "Bilateral defense talks were concluded between India and France." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-007",
+      "english": "Breach of Privilege",
+      "hindi": "विशेषाधिकार हनन",
+      "category": "Legal",
+      "meaning": { "hi": "संसद या विधानमंडल तथा उसके सदस्यों के संवैधानिक विशेषाधिकारों की अवहेलना।", "en": "Violation of the established immunity or constitutional privileges of Parliament/Legislature." },
+      "usageExample": { "hi": "अधिकारी द्वारा गलत जानकारी देने पर विशेषाधिकार हनन का नोटिस जारी किया गया।", "en": "A breach of privilege notice was issued after an officer provided inaccurate information." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-008",
+      "english": "Circumstantial Evidence",
+      "hindi": "परिस्थितिजन्य साक्ष्य",
+      "category": "Legal",
+      "meaning": { "hi": "ऐसे अप्रत्यक्ष तथ्य या परिस्थितियां जो किसी घटना के घटित होने की ओर तार्किक संकेत करती हैं।", "en": "Evidence that relies on an inference to connect it to a conclusion of fact." },
+      "usageExample": { "hi": "अदालत ने परिस्थितिजन्य साक्ष्यों की कड़ी को पूर्ण पाते हुए निर्णय सुनाया।", "en": "The court delivered its verdict finding the chain of circumstantial evidence complete." },
+      "examFrequency": "Medium"
+    },
+    {
+      "id": "term-009",
+      "english": "Cognizable Offence",
+      "hindi": "संज्ञेय अपराध",
+      "category": "Legal",
+      "meaning": { "hi": "ऐसा गंभीर अपराध जिसमें पुलिस बिना वारंट के अभियुक्त को गिरफ्तार कर सकती है।", "en": "An offence in which a police officer may arrest the accused without a warrant." },
+      "usageExample": { "hi": "आईपीसी/बीएनएस की धारा के तहत यह एक संज्ञेय और गैर-जमानती अपराध है।", "en": "Under the relevant statute, this is a cognizable and non-bailable offence." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-010",
+      "english": "Competent Authority",
+      "hindi": "सक्षम प्राधिकारी",
+      "category": "Administrative",
+      "meaning": { "hi": "वह अधिकारी जिसे किसी नियम, आदेश या कानून के तहत निर्णय लेने का वैधानिक अधिकार प्राप्त हो।", "en": "A person or organization with the legally delegated powers or authority to perform a specified act." },
+      "usageExample": { "hi": "अवकाश स्वीकृति का प्रस्ताव सक्षम प्राधिकारी के अनुमोदनार्थ प्रस्तुत है।", "en": "Proposal for leave sanction is submitted for approval of the competent authority." },
+      "examFrequency": "Frequent"
+    },
+    {
+      "id": "term-011",
+      "english": "Consolidated Fund",
+      "hindi": "संचित निधि",
+      "category": "Commercial",
+      "meaning": { "hi": "संविधान के अनुच्छेद 266 के अधीन वह निधि जिसमें सरकार के समस्त राजस्व जमा होते हैं।", "en": "The principal fund of the government into which all revenues and loan recoveries are credited." },
+      "usageExample": { "hi": "उच्च न्यायालय के न्यायाधीशों का वेतन राज्य की संचित निधि पर भारित होता है।", "en": "Salaries of High Court judges are charged upon the Consolidated Fund of the State." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-012",
+      "english": "Contingency Fund",
+      "hindi": "आकस्मिकता निधि",
+      "category": "Commercial",
+      "meaning": { "hi": "संविधान के अनुच्छेद 267 के तहत अप्रत्याशित व्यय की पूर्ति हेतु राष्ट्रपति या राज्यपाल के व्ययनाधीन निधि।", "en": "Fund at the disposal of President/Governor to meet unforeseen expenditures pending legislative sanction." },
+      "usageExample": { "hi": "बाढ़ राहत कार्यों हेतु आकस्मिकता निधि से अग्रिम राशि स्वीकृत की गई।", "en": "Advance amount was sanctioned from Contingency Fund for flood relief operations." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-013",
+      "english": "Corrigendum",
+      "hindi": "शुद्धिपत्र",
+      "category": "Governmental",
+      "meaning": { "hi": "पूर्व में प्रकाशित आदेश, विज्ञप्ति या अधिसूचना में मुद्रण या तथ्यात्मक त्रुटि सुधार हेतु जारी पत्र।", "en": "A statement added to printed matter correcting a mistake or inaccuracy." },
+      "usageExample": { "hi": "लोक सेवा आयोग ने परीक्षा तिथि संशोधन हेतु एक शुद्धिपत्र जारी किया।", "en": "The Public Service Commission issued a corrigendum amending the examination date." },
+      "examFrequency": "Frequent"
+    },
+    {
+      "id": "term-014",
+      "english": "De facto",
+      "hindi": "वस्तुतः / वास्तविक रूप से",
+      "category": "Legal",
+      "meaning": { "hi": "जो व्यवहार में वास्तव में विद्यमान हो, भले ही उसे कानूनी मान्यता प्राप्त न हो।", "en": "In fact, whether by right or not; existing in actuality." },
+      "usageExample": { "hi": "संसदीय व्यवस्था में प्रधानमंत्री देश के वास्तविक (de facto) कार्यपालक प्रमुख होते हैं।", "en": "In parliamentary system, Prime Minister is the de facto executive head of the nation." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-015",
+      "english": "De jure",
+      "hindi": "विधितः / कानूनी रूप से",
+      "category": "Legal",
+      "meaning": { "hi": "जो विधि या कानून के अनुसार स्थापित व मान्य हो।", "en": "According to rightful entitlement or law; legitimate." },
+      "usageExample": { "hi": "राष्ट्रपति भारत के विधितः (de jure) संवैधानिक प्रमुख होते हैं।", "en": "President is the de jure constitutional head of India." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-016",
+      "english": "Deputation",
+      "hindi": "प्रतिनियुक्ति",
+      "category": "Administrative",
+      "meaning": { "hi": "एक सरकारी विभाग के कर्मचारी को दूसरे विभाग या संस्था में निश्चित अवधि के लिए सेवा हेतु भेजना।", "en": "Temporary transfer of a civil servant to another department, organization or authority." },
+      "usageExample": { "hi": "समीक्षा अधिकारी को तीन वर्ष की अवधि हेतु निर्वाचन आयोग में प्रतिनियुक्ति पर भेजा गया।", "en": "The Review Officer was sent on deputation to the Election Commission for 3 years." },
+      "examFrequency": "Frequent"
+    },
+    {
+      "id": "term-017",
+      "english": "Gazette",
+      "hindi": "राजपत्र",
+      "category": "Governmental",
+      "meaning": { "hi": "सरकार का आधिकारिक समाचार-पत्र जिसमें अधिनियम, नियम, नियुक्तियां एवं अधिसूचनाएं प्रकाशित होती हैं।", "en": "An official government journal containing statutory notices, appointments, and legislation." },
+      "usageExample": { "hi": "यह नियमावली उत्तर प्रदेश असाधारण राजपत्र में प्रकाशन की तिथि से प्रभावी होगी।", "en": "These rules shall come into force from the date of publication in the UP Extraordinary Gazette." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-018",
+      "english": "Jurisdiction",
+      "hindi": "अधिकार क्षेत्र / क्षेत्राधिकार",
+      "category": "Legal",
+      "meaning": { "hi": "किसी न्यायालय, न्यायाधिकरण या अधिकारी की विधि सम्मत अधिकार सीमा।", "en": "The official power to make legal decisions and judgements; territory over which authority extends." },
+      "usageExample": { "hi": "यह वाद इस न्यायालय के स्थानीय क्षेत्राधिकार के बाहर है।", "en": "This suit lies outside the territorial jurisdiction of this court." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-019",
+      "english": "Liaison",
+      "hindi": "संपर्क / समन्वय",
+      "category": "Administrative",
+      "meaning": { "hi": "दो या अधिक विभागों अथवा संगठनों के मध्य सूचना एवं सहयोग का सेतु।", "en": "Communication or cooperation which facilitates a close working relationship between departments." },
+      "usageExample": { "hi": "नई दिल्ली स्थित यूपी भवन में राज्य सरकार के संपर्क अधिकारी पदस्थ रहते हैं।", "en": "Liaison officers of the state government are stationed at UP Bhawan in New Delhi." },
+      "examFrequency": "Medium"
+    },
+    {
+      "id": "term-020",
+      "english": "Malfeasance",
+      "hindi": "दुराचार / पदीय अनाचार",
+      "category": "Legal",
+      "meaning": { "hi": "लोक पद पर रहते हुए जानबूझकर किया गया कोई अवैध या हानिकारक कृत्य।", "en": "Wrongdoing, especially illegal or dishonest activity committed by a public official." },
+      "usageExample": { "hi": "वित्तीय अनियमितता एवं दुराचार के आरोप में अधिकारी को निलंबित कर दिया गया।", "en": "The officer was suspended on allegations of financial irregularity and malfeasance." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-021",
+      "english": "Memorandum",
+      "hindi": "ज्ञाप / ज्ञापन",
+      "category": "Administrative",
+      "meaning": { "hi": "प्रशासनिक संदर्भ में औपचारिक लिखित सूचना अथवा मांग पत्र।", "en": "A formal written communication or proposal within an administration or presented to authority." },
+      "usageExample": { "hi": "कर्मचारी संघ ने अपनी मांगों के संबंध में मुख्य सचिव को ज्ञापन सौंपा।", "en": "Employees association submitted a memorandum to the Chief Secretary regarding their demands." },
+      "examFrequency": "Frequent"
+    },
+    {
+      "id": "term-022",
+      "english": "Noting",
+      "hindi": "टिप्पणी / टिप्पण",
+      "category": "Administrative",
+      "meaning": { "hi": "सचिवालय में किसी पत्रावली पर सक्षम अधिकारी के विचारार्थ लिखी जाने वाली व्याख्यात्मक राय।", "en": "Notes recorded on a file to facilitate disposal of the case, identifying precedent and rules." },
+      "usageExample": { "hi": "समीक्षा अधिकारी ने शासनादेश के आलोक में सारगर्भित टिप्पण प्रस्तुत किया।", "en": "The Review Officer submitted concise noting in light of government orders." },
+      "examFrequency": "Frequent"
+    },
+    {
+      "id": "term-023",
+      "english": "Quorum",
+      "hindi": "गणपूर्ति / कोरम",
+      "category": "Governmental",
+      "meaning": { "hi": "किसी सभा, सदन या समिति की वैध बैठक हेतु उपस्थित आवश्यक न्यूनतम सदस्य संख्या।", "en": "The minimum number of members of an assembly or society that must be present at any of its meetings to make the proceedings of that meeting valid." },
+      "usageExample": { "hi": "संसद के दोनों सदनों की गणपूर्ति कुल सदस्य संख्या का 1/10 भाग है।", "en": "Quorum for both houses of Parliament is 1/10th of the total membership." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-024",
+      "english": "Sub judice",
+      "hindi": "न्यायाधीन / न्यायालय में विचाराधीन",
+      "category": "Legal",
+      "meaning": { "hi": "ऐसा मामला जो किसी अदालत में विचाराधीन हो और जिस पर सार्वजनिक टिप्पणी वर्जित हो।", "en": "Under judicial consideration and therefore prohibited from public discussion or legislative debate." },
+      "usageExample": { "hi": "प्रकरण न्यायाधीन होने के कारण इस पर शासकीय स्तर पर कोई टिप्पणी उचित नहीं है।", "en": "Since the matter is sub judice, official commentary is not permissible." },
+      "examFrequency": "High"
+    },
+    {
+      "id": "term-025",
+      "english": "Vesting",
+      "hindi": "निहित होना",
+      "category": "Legal",
+      "meaning": { "hi": "किसी विधिक अधिकार, संपत्ति या शक्ति का किसी व्यक्ति या संस्था में सौंपा जाना।", "en": "Conferring or bestowing an immediate, secure right to present or future ownership/power." },
+      "usageExample": { "hi": "संघ की कार्यपालिका शक्ति राष्ट्रपति में निहित है (अनुच्छेद 53)।", "en": "The executive power of the Union is vested in the President (Article 53)." },
+      "examFrequency": "High"
+    }
+  ],
+  "idioms": [
+    {
+      "id": "idiom-001",
+      "phrase": "अंगूठा दिखाना",
+      "meaning": { "hi": "समय पर साफ इंकार कर देना या धोखा देना।", "en": "To refuse flatly at the critical moment." },
+      "usage": { "hi": "जब मैंने श्याम से संकट के समय मदद मांगी तो उसने अंगूठा दिखा दिया।", "en": "When I sought Shyam's help during crisis, he turned me down flatly." },
+      "pyqYear": "UPPSC RO/ARO Mains 2017"
+    },
+    {
+      "id": "idiom-002",
+      "phrase": "आकाश-पाताल एक करना",
+      "meaning": { "hi": "कठिन से कठिन परिश्रम करना, कोई कसर न छोड़ना।", "en": "To leave no stone unturned; exert maximum possible effort." },
+      "usage": { "hi": "समीक्षा अधिकारी बनने के लिए राघव ने आकाश-पाताल एक कर दिया।", "en": "Raghav left no stone unturned to become a Review Officer." },
+      "pyqYear": "UPPSC RO/ARO Mains 2021"
+    },
+    {
+      "id": "idiom-003",
+      "phrase": "ऊंट के मुंह में जीरा",
+      "meaning": { "hi": "आवश्यकता से बहुत कम वस्तु का मिलना।", "en": "A drop in the ocean; far too little compared to requirement." },
+      "usage": { "hi": "इतने बड़े सूखा प्रभावित क्षेत्र के लिए मात्र एक लाख रुपये की सहायता ऊंट के मुंह में जीरा है।", "en": "Assistance of mere one lakh rupees for such huge drought hit area is a drop in the ocean." },
+      "pyqYear": "UPPSC RO/ARO Mains 2016"
+    },
+    {
+      "id": "idiom-004",
+      "phrase": "गागर में सागर भरना",
+      "meaning": { "hi": "थोड़े शब्दों में बहुत अधिक और गूढ़ बात कह देना।", "en": "To say a great deal in few words; brevity with immense depth." },
+      "usage": { "hi": "कवि बिहारी ने अपने दोहों में गागर में सागर भर दिया है।", "en": "Poet Bihari expressed boundless wisdom within his brief couplets." },
+      "pyqYear": "UPPSC RO/ARO Mains 2014, 2021"
+    },
+    {
+      "id": "idiom-005",
+      "phrase": "चिकना घड़ा होना",
+      "meaning": { "hi": "पूरी तरह निर्लज्ज होना; किसी बात या उपदेश का कोई प्रभाव न पड़ना।", "en": "Brazenly shameless; completely impervious to advice or reprimand." },
+      "usage": { "hi": "उसे कितना भी समझाओ, वह तो चिकना घड़ा है, उस पर कोई असर नहीं होता।", "en": "No matter how much you advise him, he is impervious to words." },
+      "pyqYear": "UPPSC RO/ARO Mains 2017"
+    },
+    {
+      "id": "idiom-006",
+      "phrase": "दांत खट्टे करना",
+      "meaning": { "hi": "शत्रु को बुरी तरह पराजित करना या पछाड़ना।", "en": "To defeat decisively or give a crushing blow to adversary." },
+      "usage": { "hi": "कारगिल युद्ध में भारतीय वीर जवानों ने दुश्मनों के दांत खट्टे कर दिए।", "en": "In the Kargil war, valiant Indian soldiers handed a crushing defeat to the enemy." },
+      "pyqYear": "UPPSC RO/ARO Mains 2013"
+    },
+    {
+      "id": "idiom-007",
+      "phrase": "बहती गंगा में हाथ धोना",
+      "meaning": { "hi": "अनुकूल अवसर का तात्कालिक लाभ उठा लेना।", "en": "To make hay while the sun shines; take opportunistic advantage of situation." },
+      "usage": { "hi": "सेल के दौरान डिस्काउंट देखकर कई व्यापारियों ने बहती गंगा में हाथ धो लिया।", "en": "Seeing discount during clearance sale, traders seized the windfall opportunity." },
+      "pyqYear": "UPPSC RO/ARO Mains 2016"
+    },
+    {
+      "id": "idiom-008",
+      "phrase": "हवा से बातें करना",
+      "meaning": { "hi": "बहुत तेज गति से दौड़ना या चलना।", "en": "To race at breakneck speed like wind." },
+      "usage": { "hi": "महाराणा प्रताप का चेतक युद्ध के मैदान में हवा से बातें करता था।", "en": "Maharana Pratap's Chetak galloped like lightning across the battlefield." },
+      "pyqYear": "UPPSC RO/ARO Mains 2021"
+    }
+  ]
+}

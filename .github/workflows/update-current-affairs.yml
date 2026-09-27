@@ -1,0 +1,48 @@
+name: Update Current Affairs & Official Notices
+
+on:
+  schedule:
+    # Run daily at 04:00 UTC (09:30 AM IST)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh all current affairs'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Current Affairs & Notification Refresher
+        run: node scripts/refresh-current-affairs.js
+        env:
+          FORCE_REFRESH: ${{ github.event.inputs.force_refresh }}
+
+      - name: Commit and push if changes exist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/
+          if git diff --cached --quiet; then
+            echo "No new current affairs or notices found."
+          else
+            git commit -m "chore(data): auto-update current affairs and UPPSC notices [skip ci]"
+            git push
+          fi

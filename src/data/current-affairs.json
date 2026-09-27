@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ca-2026-up-ai-city",
+    "date": "2026-08-15",
+    "category": "Uttar Pradesh",
+    "title": {
+      "hi": "लखनऊ में भारत की प्रथम 'एआई सिटी' (AI City) का विकास",
+      "en": "Development of India's First Dedicated 'AI City' in Lucknow"
+    },
+    "summary100Words": {
+      "hi": "उत्तर प्रदेश सरकार ने लखनऊ के नादरगंज औद्योगिक क्षेत्र में 40 एकड़ में भारत की पहली अत्याधुनिक 'एआई सिटी' के निर्माण को गति प्रदान की है। इसका उद्देश्य ग्लोबल टेक कंपनियों, एआई स्टार्टअप्स, इनक्यूबेशन सेंटर्स और अनुसंधान प्रयोगशालाओं को आकर्षित कर प्रदेश को आईटी हब बनाना है। इस परियोजना के लिए यूपी इलेक्ट्रॉनिक्स कॉर्पोरेशन लिमिटेड नोडल एजेंसी है। यह पहल उत्तर प्रदेश की अर्थव्यवस्था को 1 ट्रिलियन डॉलर बनाने के लक्ष्य में प्रौद्योगिकी आधारित मूल्यवर्धन सुनिश्चित करेगी।",
+      "en": "The Government of Uttar Pradesh has accelerated the development of India's first dedicated Artificial Intelligence (AI) City spanning 40 acres in the Nadarganj industrial corridor of Lucknow. Implemented through UP Electronics Corporation Limited (UPECL), the flagship zone will integrate tier-one global technology conglomerates, specialized AI research institutions, incubation hubs, and Grade-A commercial infrastructure. The project plays a catalytic role in realizing UP's vision of becoming a $1-Trillion economy by transitioning the state into a premier digital capital."
+    },
+    "keyFacts": [
+      { "hi": "परियोजना स्थल: नादरगंज, अमौसी हवाई अड्डे के निकट, लखनऊ।", "en": "Location: Nadarganj near Amausi Airport, Lucknow." },
+      { "hi": "कुल क्षेत्रफल: लगभग 40 एकड़ समर्पित विशेष आईटी/एआई क्षेत्र।", "en": "Land footprint: Approximately 40 acres prime industrial IT zone." },
+      { "hi": "नोडल एजेंसी: यूपी इलेक्ट्रॉनिक्स कॉर्पोरेशन लिमिटेड (UPECL)।", "en": "Nodal Implementing Agency: UP Electronics Corporation Limited." },
+      { "hi": "उद्देश्य: भारत के प्रथम समर्पित कृत्रिम बुद्धिमत्ता शहर का निर्माण।", "en": "Objective: Establishing India's first state-sponsored AI innovation city." },
+      { "hi": "संबंधित राज्य लक्ष्य: उत्तर प्रदेश को 1 ट्रिलियन डॉलर की अर्थव्यवस्था बनाना।", "en": "Strategic Alignment: Accelerating UP's $1 Trillion GDP milestone." }
+    ],
+    "upRelevance": {
+      "hi": "उत्तर प्रदेश के लखनऊ में स्थापित होने के कारण यह राज्य की औद्योगिक व आईटी नीति का मुख्य आकर्षण है।",
+      "en": "Pivotal landmark in Uttar Pradesh's state industrial, startup and electronics policy."
+    },
+    "roAroRelevance": {
+      "hi": "प्रारंभिक परीक्षा में उ.प्र. समसामयिकी तथा मुख्य परीक्षा के निबंध (विज्ञान/प्रौद्योगिकी खंड) हेतु अति-महत्वपूर्ण।",
+      "en": "Highly recurrent topic for Prelims UP Current Affairs & Mains Paper 3 Essay on AI and Development."
+    },
+    "mcqs": [
+      {
+        "question": {
+          "hi": "भारत की पहली 'एआई सिटी' (AI City) उत्तर प्रदेश के किस शहर में विकसित की जा रही है?",
+          "en": "In which city of Uttar Pradesh is India's first dedicated 'AI City' being developed?"
+        },
+        "options": {
+          "hi": ["नोएडा", "लखनऊ", "वाराणसी", "कानपुर"],
+          "en": ["Noida", "Lucknow", "Varanasi", "Kanpur"]
+        },
+        "answer": 1,
+        "explanation": {
+          "hi": "उत्तर प्रदेश सरकार द्वारा लखनऊ के नादरगंज में भारत की प्रथम एआई सिटी विकसित की जा रही है।",
+          "en": "India's first AI City is being established at Nadarganj in Lucknow, Uttar Pradesh."
+        }
+      },
+      {
+        "question": {
+          "hi": "लखनऊ एआई सिटी परियोजना की नोडल कार्यान्वयन एजेंसी कौन सी है?",
+          "en": "Which is the nodal implementing agency for the Lucknow AI City project?"
+        },
+        "options": {
+          "hi": ["यूपीसीडा (UPSIDA)", "यूपी इलेक्ट्रॉनिक्स कॉर्पोरेशन (UPECL)", "यीडा (YEIDA)", "यूपीएलसी"],
+          "en": ["UPSIDA", "UP Electronics Corporation (UPECL)", "YEIDA", "UPLC"]
+        },
+        "answer": 1,
+        "explanation": {
+          "hi": "यूपी इलेक्ट्रॉनिक्स कॉर्पोरेशन लिमिटेड (UPECL) इस परियोजना की नोडल एजेंसी है।",
+          "en": "UP Electronics Corporation Limited (UPECL) is the nodal agency."
+        }
+      }
+    ],
+    "revisionCard": {
+      "hi": "लखनऊ एआई सिटी: 40 एकड़ नादरगंज, नोडल एजेंसी UPECL, लक्ष्य - 1 ट्रिलियन डॉलर अर्थव्यवस्था में आईटी का योगदान।",
+      "en": "Lucknow AI City: 40 acres at Nadarganj, Nodal UPECL, catalyst for UP's $1 Trillion economy."
+    },
+    "source": "UP Information & Public Relations Department / Official UP Govt Press Release"
+  },
+  {
+    "id": "ca-2026-ken-betwa-link",
+    "date": "2026-07-20",
+    "category": "Agriculture & Environment",
+    "title": {
+      "hi": "केन-बेतवा लिंक परियोजना (KBLP): बुंदेलखंड में जल सुरक्षा का ऐतिहासिक चरण",
+      "en": "Ken-Betwa Link Project (KBLP): Watershed Phase for Bundelkhand Water Security"
+    },
+    "summary100Words": {
+      "hi": "राष्ट्रीय नदी जोड़ो परियोजना के अंतर्गत देश की प्रथम नदी इंटरलिंकिंग परियोजना 'केन-बेतवा लिंक परियोजना' के प्रमुख निर्माण कार्यों में तीव्र प्रगति हुई है। इस परियोजना के तहत मध्य प्रदेश की केन नदी से अधिशेष जल को उत्तर प्रदेश की बेतवा नदी में दौधन बांध के माध्यम से स्थानांतरित किया जाएगा। इससे उत्तर प्रदेश के बांदा, महोबा, झांसी और ललितपुर जिलों के लगभग 2.5 लाख हेक्टेयर क्षेत्र को सुनिश्चित सिंचाई सुविधा और पेयजल आपूर्ति प्राप्त होगी, जिससे बुंदेलखंड का दीर्घकालिक जल संकट समाप्त होगा।",
+      "en": "Marking a milestone in the National Perspective Plan for river interlinking, the Ken-Betwa Link Project (KBLP) has entered an advanced implementation phase. The initiative channels surplus monsoon discharge from Madhya Pradesh's Ken basin to the water-stressed Betwa basin in Uttar Pradesh via the Daudhan Dam complex and a 221-km link canal. Benefiting UP's Bundelkhand districts including Banda, Mahoba, Jhansi, and Lalitpur, the project guarantees perennial irrigation over 2.5 lakh hectares while resolving severe regional drinking water crises."
+    },
+    "keyFacts": [
+      { "hi": "यह भारत की प्रथम राष्ट्रीय नदी जोड़ो (Interlinking of Rivers) परियोजना है।", "en": "India's first project launched under the National River Interlinking initiative." },
+      { "hi": "दौधन बांध (Daudhan Dam) केन नदी पर निर्मित किया जा रहा है।", "en": "The core Daudhan Dam is engineered across the Ken river." },
+      { "hi": "लाभान्वित उ.प्र. जिले: बांदा, महोबा, झांसी एवं ललितपुर (बुंदेलखंड)।", "en": "Beneficiary UP districts: Banda, Mahoba, Jhansi, and Lalitpur." },
+      { "hi": "पन्ना टाइगर रिजर्व (म.प्र.) का आंशिक भाग जलमग्न क्षेत्र में आता है।", "en": "Portion of Panna Tiger Reserve falls under the reservoir submergence zone." },
+      { "hi": "परियोजना लागत में केंद्र व राज्यों का अनुपात 90:5:5 है।", "en": "Funding pattern: 90% Central Grant, 5% each from MP and UP." }
+    ],
+    "upRelevance": {
+      "hi": "बुंदेलखंड उत्तर प्रदेश का सबसे गंभीर जल संकटग्रस्त क्षेत्र है; यह परियोजना सीधे वहां के किसानों के जीवन से जुड़ी है।",
+      "en": "Directly impacts Bundelkhand's agrarian economy, drought mitigation and groundwater recharge."
+    },
+    "roAroRelevance": {
+      "hi": "भूगोल, कृषि, पर्यावरण एवं मुख्य परीक्षा के आपदा प्रबंधन निबंध (खंड ग) का अनिवार्य बिंदु।",
+      "en": "Vital for Prelims Geography/Agriculture and Mains Paper 3 Essay on Drought & Water Management."
+    },
+    "mcqs": [
+      {
+        "question": {
+          "hi": "भारत की पहली नदी जोड़ो परियोजना के तहत किन दो नदियों को जोड़ा जा रहा है?",
+          "en": "Which two rivers are being interlinked under India's first national river linking project?"
+        },
+        "options": {
+          "hi": ["गंगा एवं यमुना", "केन एवं बेतवा", "नर्मदा एवं ताप्ती", "गोदावरी एवं कृष्णा"],
+          "en": ["Ganga and Yamuna", "Ken and Betwa", "Narmada and Tapti", "Godavari and Krishna"]
+        },
+        "answer": 1,
+        "explanation": {
+          "hi": "केन और बेतवा नदियों को जोड़ने वाली केन-बेतवा लिंक परियोजना देश की पहली ऐसी परियोजना है।",
+          "en": "Ken-Betwa Link Project is India's first river interlinking project."
+        }
+      }
+    ],
+    "revisionCard": {
+      "hi": "केन-बेतवा लिंक: देश की पहली नदी जोड़ो परियोजना, दौधन बांध, बुंदेलखंड (बांदा, महोबा, झांसी, ललितपुर) को लाभ।",
+      "en": "Ken-Betwa Link: India's 1st river link project, Daudhan Dam, benefits Bundelkhand in UP & MP."
+    },
+    "source": "Ministry of Jal Shakti, Government of India"
+  }
+]

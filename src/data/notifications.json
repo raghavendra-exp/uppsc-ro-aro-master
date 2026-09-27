@@ -1,0 +1,46 @@
+[
+  {
+    "id": "notif-ro-aro-cycle-active",
+    "cycle": "2023-2026 Examination Cycle",
+    "status": "Active / In Progress (Re-examination & Mains Schedule Tracked)",
+    "officialNotificationNumber": "A-7/E-1/2023 / UPPSC Re-Exam Update",
+    "officialSourceUrl": "https://uppsc.up.nic.in",
+    "lastVerifiedDate": "2026-09-27",
+    "vacancies": {
+      "total": 411,
+      "roSecretariat": 322,
+      "roRevenueCouncil": 3,
+      "roUPPSC": 9,
+      "aroSecretariat": 40,
+      "aroRevenueCouncil": 23,
+      "aroUPPSC": 13,
+      "aroAccountsUPPSC": 1
+    },
+    "keyDates": {
+      "notificationRelease": "09-10-2023",
+      "applicationStartDate": "09-10-2023",
+      "applicationClosingDate": "24-11-2023 (Extended from 09-11-2023)",
+      "prelimsDateInitial": "11-02-2024",
+      "prelimsReExamSchedule": "Scheduled as per UPPSC Official Calendar",
+      "mainsExpected": "Post Prelims Results Declaration"
+    },
+    "eligibilitySummary": {
+      "ro": "Bachelor's Degree in any discipline from recognized university.",
+      "aro": "Bachelor's Degree + DOEACC / NIELIT 'O' Level (or UP Govt approved equivalent) + Hindi Typing on Computer (25 WPM in Kruti Dev 010 / Mangal font). English typing 30 WPM given preference."
+    },
+    "selectionProcess": [
+      "Stage 1: Preliminary Exam (Objective - 200 Marks: 140 GS + 60 Hindi)",
+      "Stage 2: Main Examination (400 Marks: 120 GS + 160 General Hindi & Drafting + 120 Hindi Essay)",
+      "Stage 3: Hindi Typing Qualification Test (Compulsory for ARO posts on Computer)",
+      "No Interview for RO/ARO (Direct Selection on Mains + Typing Qualification)"
+    ],
+    "cutoffsHistorical": [
+      { "category": "General / Unreserved", "prelimsEstimatedCutoff2021": "127 - 130 / 200", "mainsFinalCutoff2021": "272 - 278 / 400" },
+      { "category": "OBC", "prelimsEstimatedCutoff2021": "125 - 128 / 200", "mainsFinalCutoff2021": "268 - 274 / 400" },
+      { "category": "EWS", "prelimsEstimatedCutoff2021": "124 - 127 / 200", "mainsFinalCutoff2021": "265 - 270 / 400" },
+      { "category": "SC", "prelimsEstimatedCutoff2021": "114 - 117 / 200", "mainsFinalCutoff2021": "248 - 253 / 400" },
+      { "category": "ST", "prelimsEstimatedCutoff2021": "100 - 105 / 200", "mainsFinalCutoff2021": "225 - 232 / 400" },
+      { "category": "Female (Sub-category)", "prelimsEstimatedCutoff2021": "120 - 124 / 200", "mainsFinalCutoff2021": "260 - 265 / 400" }
+    ]
+  }
+]

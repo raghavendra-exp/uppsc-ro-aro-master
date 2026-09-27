@@ -1,0 +1,150 @@
+{
+  "rapidFacts": [
+    {
+      "id": "fact-001",
+      "category": "UP Special",
+      "fact": { "hi": "उत्तर प्रदेश का राजकीय पशु बारहसिंगा, राजकीय पक्षी सारस (क्रौंच), राजकीय वृक्ष अशोक तथा राजकीय पुष्प पलाश (टेसू) है।", "en": "UP State Symbols: Animal is Swamp Deer (Barasingha), Bird is Sarus Crane, Tree is Ashoka, Flower is Palash (Tesu)." },
+      "tag": "State Symbols",
+      "upSpecific": true
+    },
+    {
+      "id": "fact-002",
+      "category": "UP Special",
+      "fact": { "hi": "उत्तर प्रदेश का सबसे पूर्वी जिला बलिया, सबसे पश्चिमी शामली, सबसे उत्तरी सहारनपुर तथा सबसे दक्षिणी जिला सोनभद्र है।", "en": "UP extreme districts: Easternmost is Ballia, Westernmost is Shamli, Northernmost is Saharanpur, Southernmost is Sonbhadra." },
+      "tag": "Geography",
+      "upSpecific": true
+    },
+    {
+      "id": "fact-003",
+      "category": "Polity",
+      "fact": { "hi": "संविधान सभा की प्रथम बैठक 9 दिसंबर 1946 को हुई, जिसके अस्थायी अध्यक्ष डॉ. सच्चिदानंद सिन्हा थे। 11 दिसंबर को डॉ. राजेंद्र प्रसाद स्थायी अध्यक्ष बने।", "en": "Constituent Assembly met on 9 Dec 1946 with Dr. Sachchidananda Sinha as interim President; Dr. Rajendra Prasad elected permanent President on 11 Dec." },
+      "tag": "Constitution",
+      "upSpecific": false
+    },
+    {
+      "id": "fact-004",
+      "category": "Polity",
+      "fact": { "hi": "डॉ. बी.आर. अंबेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को 'संविधान का हृदय और आत्मा' कहा था।", "en": "Dr. B.R. Ambedkar termed Article 32 (Right to Constitutional Remedies) as the 'Heart and Soul of the Constitution'." },
+      "tag": "Fundamental Rights",
+      "upSpecific": false
+    },
+    {
+      "id": "fact-005",
+      "category": "INM",
+      "fact": { "hi": "1857 के संग्राम में लखनऊ से क्रांति का नेतृत्व बेगम हज़रत महल ने किया था और कैंपबेल ने लखनऊ पर पुनः नियंत्रण स्थापित किया।", "en": "Begum Hazrat Mahal led 1857 revolt in Lucknow; Colin Campbell recaptured Lucknow for the British." },
+      "tag": "1857 Revolt",
+      "upSpecific": true
+    },
+    {
+      "id": "fact-006",
+      "category": "INM",
+      "fact": { "hi": "काकोरी ट्रेन एक्शन 9 अगस्त 1925 को हुआ; राम प्रसाद बिस्मिल को गोरखपुर, अशफ़ाक़ उल्ला खां को फैजाबाद और रोशन सिंह को नैनी जेल में फांसी हुई।", "en": "Kakori Train Action occurred on 9 Aug 1925; Bismil martyred in Gorakhpur, Ashfaqulla in Faizabad, Roshan Singh in Naini." },
+      "tag": "Revolutionary Movement",
+      "upSpecific": true
+    },
+    {
+      "id": "fact-007",
+      "category": "Geography",
+      "fact": { "hi": "कर्क रेखा भारत के 8 राज्यों (गुजरात, राजस्थान, म.प्र., छत्तीसगढ़, झारखंड, प. बंगाल, त्रिपुरा, मिजोरम) से होकर गुजरती है (उ.प्र. से नहीं गुजरती)।", "en": "Tropic of Cancer passes through 8 Indian states; it does NOT pass through Uttar Pradesh." },
+      "tag": "Indian Geography",
+      "upSpecific": false
+    },
+    {
+      "id": "fact-008",
+      "category": "Geography",
+      "fact": { "hi": "भारतीय मानक समय रेखा (82°30' पूर्वी देशांतर) उत्तर प्रदेश के प्रयागराज के नैनी/मिर्जापुर से होकर गुजरती है।", "en": "Indian Standard Time meridian (82°30' E) passes through Naini/Mirzapur in Prayagraj, UP." },
+      "tag": "Physical Geography",
+      "upSpecific": true
+    },
+    {
+      "id": "fact-009",
+      "category": "General Hindi",
+      "fact": { "hi": "विलोम शब्द: 'अथ' का विलोम 'इति', 'सृष्टि' का 'प्रलय', 'अनुराग' का 'विराग', 'तिमिर' का 'आलोक', 'जंगम' का 'स्थावर' होता है।", "en": "Antonyms: Atha -> Iti, Srishti -> Pralaya, Anurag -> Virag, Timir -> Alok, Jangam -> Sthavar." },
+      "tag": "Hindi Vilom",
+      "upSpecific": false
+    },
+    {
+      "id": "fact-010",
+      "category": "General Hindi",
+      "fact": { "hi": "तत्सम-तद्भव: 'अग्नि' का तद्भव 'आग', 'कर्पूर' का 'कपूर', 'अक्षि' का 'आंख', 'हरिद्रा' का 'हल्दी', 'गोमय' का 'गोबर' होता है।", "en": "Tatsam-Tadbhav: Agni -> Aag, Karpura -> Kapoor, Akshi -> Aankh, Haridra -> Haldi, Gomaya -> Gobar." },
+      "tag": "Hindi Grammar",
+      "upSpecific": false
+    },
+    {
+      "id": "fact-011",
+      "category": "Environment",
+      "fact": { "hi": "पारिस्थितिकी तंत्र (Ecosystem) शब्द का सर्वप्रथम प्रयोग ए.जी. टांसले (A.G. Tansley) ने 1935 में किया था।", "en": "The term 'Ecosystem' was first coined by A.G. Tansley in 1935." },
+      "tag": "Ecology",
+      "upSpecific": false
+    },
+    {
+      "id": "fact-012",
+      "category": "Science",
+      "fact": { "hi": "विटामिन B12 (सायनोकोबालामिन) में कोबाल्ट धातु पाई जाती है, जिसकी कमी से प्रणाशी रक्ताल्पता (Pernicious Anemia) होती है।", "en": "Vitamin B12 (Cyanocobalamin) contains Cobalt; deficiency causes pernicious anemia." },
+      "tag": "Biology",
+      "upSpecific": false
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc-001",
+      "category": "Polity",
+      "front": { "hi": "संविधान का कौन सा अनुच्छेद राष्ट्रपति को सर्वोच्च न्यायालय से परामर्श लेने की शक्ति देता है?", "en": "Which Article of the Constitution empowers the President to consult the Supreme Court?" },
+      "back": { "hi": "अनुच्छेद 143 (परामर्शी क्षेत्राधिकार / Advisory Jurisdiction)", "en": "Article 143 (Advisory Jurisdiction of the Supreme Court)" },
+      "hint": { "hi": "अनुच्छेद 140 से 145 के मध्य।", "en": "Between Articles 140 and 145." }
+    },
+    {
+      "id": "fc-002",
+      "category": "UP Special",
+      "front": { "hi": "उत्तर प्रदेश में 'चरकुला नृत्य' किस क्षेत्र का प्रसिद्ध लोकनृत्य है और इसकी क्या विशेषता है?", "en": "Which region of UP is famous for 'Charkula Dance' and what is its unique feature?" },
+      "back": { "hi": "ब्रजभूमि क्षेत्र। इसमें महिलाएं सिर पर 108 दीपकों का पिंजरा (चरकुला) रखकर रथ के पहिए पर नृत्य करती हैं।", "en": "Braj region. Women balance a multi-tier wooden pyramid containing 108 oil lamps on their head." },
+      "hint": { "hi": "भगवान श्री कृष्ण और राधा जी की पावन भूमि।", "en": "Associated with Radha & Krishna's Braj." },
+      "upSpecific": true
+    },
+    {
+      "id": "fc-003",
+      "category": "General Hindi",
+      "front": { "hi": "'जो मापा न जा सके' के लिए एक शब्द क्या होगा?", "en": "What is the single word for 'That which cannot be measured'?" },
+      "back": { "hi": "अपरिमेय (ध्यान रहे: 'जो प्रमाण से सिद्ध न हो सके' उसे अप्रमेय कहते हैं)।", "en": "Aparimeya (Distinct from Aprameya which means that which cannot be proved)." },
+      "hint": { "hi": "परिमाण (माप) से बना शब्द।", "en": "Rooted in Parimana." }
+    },
+    {
+      "id": "fc-004",
+      "category": "INM",
+      "front": { "hi": "1942 के भारत छोड़ो आंदोलन में उत्तर प्रदेश के किस जिले में समानांतर सरकार स्थापित हुई थी?", "en": "In which district of UP was a parallel government formed during 1942 Quit India Movement?" },
+      "back": { "hi": "बलिया (चित्तू पांडे के नेतृत्व में, 'बागी बलिया')।", "en": "Ballia (Led by Chittu Pandey, popularly called 'Baghi Ballia')." },
+      "hint": { "hi": "उत्तर प्रदेश का सबसे पूर्वी जिला।", "en": "Easternmost district of UP." },
+      "upSpecific": true
+    },
+    {
+      "id": "fc-005",
+      "category": "Science",
+      "front": { "hi": "पौधों में जल एवं खनिज लवणों का संवहन किस ऊतक द्वारा होता है?", "en": "Which tissue conducts water and mineral nutrients in plants?" },
+      "back": { "hi": "जाइलम (Xylem)। (फ्लोएम/Phloem भोजन का संवहन करता है)।", "en": "Xylem tissue. (Phloem transports organic food)." },
+      "hint": { "hi": "ज से जल, ज से जाइलम।", "en": "Zylem transports Jal." }
+    },
+    {
+      "id": "fc-006",
+      "category": "Computer",
+      "front": { "hi": "सचिवालय में ई-फाइल अनुमोदन हेतु प्रयुक्त DSC का पूर्ण रूप क्या है?", "en": "What is the full form of DSC used for electronic file approvals in UP Secretariat?" },
+      "back": { "hi": "डिजिटल सिग्नेचर सर्टिफिकेट (Digital Signature Certificate) - आईटी एक्ट 2000 के तहत मान्य।", "en": "Digital Signature Certificate (Cryptographically valid under IT Act 2000)." },
+      "hint": { "hi": "इलेक्ट्रॉनिक हस्ताक्षर।", "en": "Electronic signature credentials." }
+    }
+  ],
+  "tipsAndTricks": [
+    {
+      "title": { "hi": "यूपीपीएससी आरओ/एआरओ 1/3 नेगेटिव मार्किंग रणनीति", "en": "UPPSC RO/ARO 1/3 Negative Marking Elimination Formula" },
+      "content": {
+        "hi": "1. यदि आप 2 विकल्पों को 100% काट सकते हैं (50:50 स्थिति), तो आपको रिस्क अवश्य लेना चाहिए क्योंकि गणितीय संभावना आपके पक्ष में है (3 प्रश्नों में 1 सही होने पर 1 - 0.66 = +0.34 का शुद्ध लाभ)। 2. जिस प्रश्न में चारों विकल्प अज्ञात हों, उसे बिल्कुल न छुएं। 3. हिन्दी के 60 प्रश्नों में 55+ स्कोर करने का लक्ष्य रखें, यह कट-ऑफ पार कराने का सबसे अचूक अस्त्र है।",
+        "en": "1. If you eliminate 2 options (50:50), mathematically take calculated risk. 2. If completely blank on all 4 options, skip outright. 3. Target 55+ in Prelims Hindi; it is the ultimate differentiator."
+      }
+    },
+    {
+      "title": { "hi": "हिन्दी में तत्सम-तद्भव पहचानने की अचूक ट्रिक", "en": "Foolproof Tatsam vs Tadbhav Decoupling Trick" },
+      "content": {
+        "hi": "1. 'क्ष', 'त्र', 'ज्ञ', 'श्र' तथा 'ऋ' युक्त शब्द 99% तत्सम होते हैं (उदा. क्षीर, रात्रि, ज्ञानी, श्रृंगार)। 2. चंद्रबिंदु (ँ) वाले शब्द सदैव तद्भव होते हैं (उदा. आंख, चांद, गेहूं, गांव)। 3. तत्सम का 'व' तद्भव में प्रायः 'ब' बन जाता है (उदा. वक → बगुला, वानर → बंदर, विवाह → ब्याह)।",
+        "en": "1. Conjunct consonants (Ksha, Tra, Gya, Shra) and Ri indicate Sanskrit Tatsam. 2. Chandrabindu (ँ) words are invariably Tadbhav (Aankh, Chand). 3. Sanskrit 'Va' transforms to vernacular 'Ba' in Hindi (Vanara -> Bandar)."
+      }
+    }
+  ]
+}

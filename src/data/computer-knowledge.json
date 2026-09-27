@@ -1,0 +1,89 @@
+{
+  "title": { "hi": "समीक्षा अधिकारी कम्प्यूटर ज्ञान मास्टर मॉड्यूल", "en": "RO/ARO Computer Knowledge Master Module" },
+  "examRelevance": {
+    "mains": "Mains Paper 2 Part A (10 Marks compulsory short questions)",
+    "aroTyping": "Essential practical understanding for ARO Secretariat posting & computer typing"
+  },
+  "modules": [
+    {
+      "id": "comp-fundamentals",
+      "title": { "hi": "1. कम्प्यूटर की मूल संरचना (Fundamentals)", "en": "1. Computer Fundamentals" },
+      "topics": [
+        {
+          "name": { "hi": "सीपीयू एवं मेमोरी (CPU & Memory Hierarchy)", "en": "CPU & Memory Hierarchy" },
+          "content": {
+            "hi": "CPU (सेंट्रल प्रोसेसिंग यूनिट) को कम्प्यूटर का मस्तिष्क कहा जाता है, जिसके तीन प्रमुख घटक होते हैं: ALU (अर्थमैटिक लॉजिक यूनिट), CU (कंट्रोल यूनिट) एवं रजिस्टर्स। मेमोरी दो प्रकार की होती है: प्राथमिक मेमोरी (RAM - वोलेटाइल/अस्थायी, ROM - नॉन-वोलेटाइल/स्थायी) एवं द्वितीयक स्टोरेज (SSD, HDD, पेन ड्राइव)। कैश मेमोरी (Cache Memory) CPU और RAM के बीच सबसे तेज मेमोरी होती है।",
+            "en": "CPU consists of ALU, Control Unit, and Registers. Primary memory includes RAM (Volatile) and ROM (Non-volatile). Cache memory is high-speed buffer between CPU and RAM."
+          }
+        },
+        {
+          "name": { "hi": "इनपुट एवं आउटपुट डिवाइसेज (I/O Devices)", "en": "Input and Output Devices" },
+          "content": {
+            "hi": "इनपुट डिवाइस: कीबोर्ड, माउस, ओएमआर (OMR - ऑप्टिकल मार्क रिकग्निशन), ओसीआर (OCR), बारकोड रीडर, बायोमेट्रिक स्कैनर, माइक्रोफोन। आउटपुट डिवाइस: मॉनिटर (VDU), प्रिंटर (इम्पैक्ट उदा. डॉट मैट्रिक्स; नॉन-इम्पैक्ट उदा. लेजर, इंकजेट), प्लॉटर, स्पीकर।",
+            "en": "Input: Keyboard, Mouse, OMR, OCR, Barcode scanner, Biometric sensor. Output: Monitor, Printers (Impact/Non-impact laser/inkjet), Plotters."
+          }
+        }
+      ]
+    },
+    {
+      "id": "comp-os-office",
+      "title": { "hi": "2. ऑपरेटिंग सिस्टम एवं एमएस ऑफिस (OS & MS Office)", "en": "2. Operating Systems & MS Office" },
+      "topics": [
+        {
+          "name": { "hi": "माइक्रोसॉफ्ट वर्ड एवं एक्सेल (Word & Excel)", "en": "MS Word & Excel Shortcuts & Functions" },
+          "content": {
+            "hi": "सचिवालय में शासकीय पत्राचार व नोटिंग हेतु MS Word का सर्वाधिक प्रयोग होता है। प्रमुख शॉर्टकट: Ctrl+C (कॉपी), Ctrl+V (पेस्ट), Ctrl+Z (अनडू), Ctrl+Y (रीडू), Ctrl+J (जस्टिफाई), Ctrl+S (सेव)। MS Excel में स्प्रेडशीट, फॉर्मूला (SUM, AVERAGE, VLOOKUP, COUNTIF) एवं वित्तीय तालिकाओं का निर्माण किया जाता है।",
+            "en": "Word processing for official noting/drafting. Standard shortcuts: Ctrl+C, Ctrl+V, Ctrl+J (justify). Excel formulas: SUM, AVERAGE, VLOOKUP, Pivot tables."
+          }
+        },
+        {
+          "name": { "hi": "विंडोज ऑपरेटिंग सिस्टम (Windows OS)", "en": "Windows Operating System" },
+          "content": {
+            "hi": "जीयूआई (GUI - ग्राफिकल यूजर इंटरफेस) आधारित ऑपरेटिंग सिस्टम। फाइल एक्सटेंशन: .docx (Word), .xlsx (Excel), .pptx (PowerPoint), .pdf (Portable Document Format)। फाइल पथ एवं डायरेक्टरी संरचना।",
+            "en": "GUI based OS. Key file extensions: .docx, .xlsx, .pdf, .txt. File directory paths and permissions."
+          }
+        }
+      ]
+    },
+    {
+      "id": "comp-internet-security",
+      "title": { "hi": "3. इंटरनेट, नेटवर्किंग एवं साइबर सुरक्षा", "en": "3. Internet, Networking & Cybersecurity" },
+      "topics": [
+        {
+          "name": { "hi": "नेटवर्किंग संकल्पनाएं (LAN, WAN, IP, DNS)", "en": "Networking Concepts (LAN, WAN, IP, DNS)" },
+          "content": {
+            "hi": "LAN (लोकल एरिया नेटवर्क - कार्यालय परिसर), WAN (वाइड एरिया नेटवर्क - इंटरनेट)। IP एड्रेस (इंटरनेट प्रोटोकॉल - IPv4 32 बिट, IPv6 128 बिट) प्रत्येक डिवाइस की विशिष्ट पहचान है। DNS (डोमेन नेम सिस्टम) डोमेन नामों (जैसे uppsc.up.nic.in) को संख्यात्मक आईपी पते में रूपांतरित करता है। HTTP/HTTPS में 'S' का अर्थ सिक्योर (SSL/TLS एन्क्रिप्शन) है।",
+            "en": "LAN, WAN. IPv4 (32-bit), IPv6 (128-bit). DNS converts domain names to numerical IP addresses. HTTPS denotes SSL/TLS encrypted secure web communication."
+          }
+        },
+        {
+          "name": { "hi": "साइबर सुरक्षा एवं मालवेयर (Malware & Security)", "en": "Cybersecurity Threats & Safe Practices" },
+          "content": {
+            "hi": "मालवेयर: वायरस, वर्म, ट्रोजन हॉर्स, रैंसमवेयर (फिरौती मांगने वाला सॉफ़्टवेयर), स्पाइवेयर। फ़िशिंग (Phishing): फर्जी ईमेल/वेबसाइट बनाकर पासवर्ड व गोपनीय डेटा चुराना। फायरवॉल (Firewall) अनाधिकृत नेटवर्क पहुंच को रोकता है। टू-फैक्टर ऑथेंटिकेशन (2FA) अतिरिक्त सुरक्षा परत प्रदान करता है।",
+            "en": "Malware types: Viruses, Worms, Trojans, Ransomware, Spyware. Phishing vectors. Firewalls filtering unauthorized packet flows. Two-factor authentication (2FA)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "comp-egov-office",
+      "title": { "hi": "4. ई-गवर्नेंस एवं सचिवालय ई-ऑफिस प्रणाली", "en": "4. e-Governance & Secretariat e-Office" },
+      "topics": [
+        {
+          "name": { "hi": "ई-ऑफिस (e-Office) एवं डिजिटल सिग्नेचर", "en": "e-Office System & Digital Signatures (DSC)" },
+          "content": {
+            "hi": "उत्तर प्रदेश सचिवालय में 'कागजरहित कार्यालय' (Paperless Office) हेतु NIC द्वारा विकसित e-Office पोर्टल संचालित है। इसमें भौतिक फाइलों के स्थान पर ई-फाइल (e-File), ई-नोटिंग (e-Noting) एवं डाक प्रबंधन डिजिटल होता है। फाइलों के अनुमोदन हेतु क्रिप्टोग्राफिक डिजिटल सिग्नेचर सर्टिफिकेट (DSC) का प्रयोग किया जाता है जो आईटी अधिनियम 2000 के तहत पूर्णतः विधिक रूप से मान्य है।",
+            "en": "NIC e-Office implemented in UP Secretariat for paperless files, electronic noting and dispatch. Digital Signature Certificates (DSC) carry legal sanctity under IT Act 2000."
+          }
+        },
+        {
+          "name": { "hi": "डिजीलॉकर, उमंग एवं यूपी जनसुनवाई", "en": "DigiLocker, UMANG & UP Jansunwai (IGRS)" },
+          "content": {
+            "hi": "डिजीलॉकर (DigiLocker): नागरिकों को 1 जीबी सुरक्षित क्लाउड स्पेस में आधिकारिक डिजिटल प्रमाणपत्र (मार्कशीट, ड्राइविंग लाइसेंस, जाति प्रमाणपत्र) संग्रह की सुविधा। उमंग (UMANG): एकीकृत सरकारी सेवाओं का मोबाइल ऐप। यूपी जनसुनवाई (IGRS): आम नागरिकों की शिकायतों के ऑनलाइन पंजीकरण एवं समयबद्ध निस्तारण का एकीकृत पोर्टल।",
+            "en": "DigiLocker (Cloud document wallet), UMANG (Unified Mobile App for New-age Governance), and UP Jansunwai / IGRS portal for citizen grievance redressal."
+          }
+        }
+      ]
+    }
+  ]
+}

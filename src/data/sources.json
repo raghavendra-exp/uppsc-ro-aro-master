@@ -1,0 +1,42 @@
+[
+  {
+    "id": "src-uppsc-main",
+    "title": "Uttar Pradesh Public Service Commission (UPPSC) Official Portal",
+    "category": "Official Primary Source",
+    "url": "https://uppsc.up.nic.in",
+    "description": "Primary portal for recruitment notifications, online applications, admit cards, answer keys and official results.",
+    "isOfficial": true
+  },
+  {
+    "id": "src-uppsc-otr",
+    "title": "UPPSC One Time Registration (OTR) Portal",
+    "category": "Official Registration",
+    "url": "https://otr.pariksha.nic.in",
+    "description": "Official mandate for candidate profile creation 72 hours prior to application.",
+    "isOfficial": true
+  },
+  {
+    "id": "src-up-sec",
+    "title": "Uttar Pradesh Secretariat Administration (Bapu Bhawan / Lok Bhawan)",
+    "category": "Cadre Controlling Authority",
+    "url": "https://sad.up.gov.in",
+    "description": "Rules of Business, Manual of Office Procedure, and service conditions of Review Officers.",
+    "isOfficial": true
+  },
+  {
+    "id": "src-nielit",
+    "title": "National Institute of Electronics & Information Technology (NIELIT)",
+    "category": "Educational Qualification",
+    "url": "https://www.nielit.gov.in",
+    "description": "Authority issuing 'O' Level diploma certificates and equivalency matrices for ARO candidates.",
+    "isOfficial": true
+  },
+  {
+    "id": "src-up-jansunwai",
+    "title": "UP Integrated Grievance Redressal System (Jansunwai IGRS)",
+    "category": "e-Governance",
+    "url": "https://jansunwai.up.nic.in",
+    "description": "State digital portal frequently referenced in General Studies, e-Governance & drafting questions.",
+    "isOfficial": true
+  }
+]

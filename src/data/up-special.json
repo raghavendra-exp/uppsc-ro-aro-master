@@ -1,0 +1,147 @@
+{
+  "title": { "hi": "उत्तर प्रदेश समग्र विशेष ज्ञान (UP Special Master Module)", "en": "Uttar Pradesh Special Knowledge Master Module" },
+  "keyStats": {
+    "capital": { "hi": "लखनऊ (प्रशासनिक/विधायी), प्रयागराज (न्यायिक)", "en": "Lucknow (Admin/Legislative), Prayagraj (Judicial)" },
+    "geographicalArea": "240,928 sq km (7.33% of India - 4th largest in India)",
+    "population2011": "19.98 Crore (16.51% of India - 1st in India)",
+    "sexRatio": "912 females per 1000 males (Child sex ratio: 902)",
+    "literacyRate": "67.72% (Male: 77.28%, Female: 57.18%)",
+    "populationDensity": "829 persons per sq km (Rank 4th among states)",
+    "districts": 75,
+    "divisions": 18,
+    "lokSabhaSeats": 80,
+    "rajyaSabhaSeats": 31,
+    "vidhanSabhaSeats": 403,
+    "vidhanParishadSeats": 100
+  },
+  "sections": [
+    {
+      "id": "up-history",
+      "title": { "hi": "उत्तर प्रदेश का इतिहास एवं स्वतंत्रता संग्राम", "en": "History of Uttar Pradesh & Freedom Struggle" },
+      "topics": [
+        {
+          "name": { "hi": "16 महाजनपदों में से उ.प्र. में स्थित 8 महाजनपद", "en": "8 Mahajanapadas situated in UP out of 16" },
+          "content": {
+            "hi": "1. कुरु (इंद्रप्रस्थ - मेरठ/दिल्ली क्षेत्र), 2. पांचाल (अहिच्छत्र व काम्पिल्य - बरेली/बदायूं), 3. शूरसेन (मथुरा), 4. वत्स (कौशाम्बी - प्रयागराज क्षेत्र), 5. कोशल (श्रावस्ती/अयोध्या), 6. मल्ल (कुशीनगर/पावापुरी), 7. काशी (वाराणसी), 8. चेदि (शुक्तिमती - बांदा/बुंदेलखंड)।",
+            "en": "1. Kuru (Indraprastha - Meerut area), 2. Panchala (Ahichchhatra & Kampilya), 3. Surasena (Mathura), 4. Vatsa (Kaushambi), 5. Kosala (Shravasti/Ayodhya), 6. Malla (Kushinagar/Pawa), 7. Kashi (Varanasi), 8. Chedi (Shuktimati - Banda/Bundelkhand)."
+          }
+        },
+        {
+          "name": { "hi": "बौद्ध एवं जैन धर्म का पालना", "en": "Cradle of Buddhism & Jainism" },
+          "content": {
+            "hi": "गौतम बुद्ध ने अपना प्रथम उपदेश सारनाथ (ऋषिपत्तन, वाराणसी) में दिया ('धर्मचक्रप्रवर्तन')। सर्वाधिक उपदेश श्रावस्ती (कोशल की राजधानी) में दिए। महापरिनिर्वाण कुशीनगर (मल्ल गणराज्य) में प्राप्त हुआ। जैन धर्म के प्रथम तीर्थंकर ऋषभदेव का जन्म अयोध्या में हुआ था।",
+            "en": "Buddha gave his first sermon at Sarnath ('Dharmachakrapravartana'). Delivered maximum sermons in Shravasti. Attained Mahaparinirvana in Kushinagar. 1st Jain Tirthankara Rishabhadeva born in Ayodhya."
+          }
+        },
+        {
+          "name": { "hi": "अवध का इतिहास एवं 1857 संग्राम", "en": "History of Awadh & 1857 Revolt in UP" },
+          "content": {
+            "hi": "अवध के स्वतंत्र राज्य के संस्थापक साआदत खान (बुरहान-उल-मुल्क) थे। अंतिम नवाब वाजिद अली शाह थे, जिन्हें 1856 में 'कुशासन' के आरोप में लॉर्ड डलहौजी ने अपदस्थ कर अवध का विलय किया। 1857 में बेगम हज़रत महल ने अपने अल्पवयस्क पुत्र बिरजिस कादिर को नवाब घोषित कर लखनऊ से क्रांति का नेतृत्व किया।",
+            "en": "Founder of Awadh autonomous state: Saadat Khan (1722). Last Nawab: Wajid Ali Shah (annexed in 1856 under Dalhousie's misgovernance pretext). Begum Hazrat Mahal led 1857 insurrection in Lucknow."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up-geography",
+      "title": { "hi": "उत्तर प्रदेश का भौतिक स्वरूप, नदियाँ एवं वन्यजीव", "en": "UP Physiography, River Drainage & Wildlife" },
+      "topics": [
+        {
+          "name": { "hi": "भौतिक विभाजन एवं सीमाएं", "en": "Physiographic Zones & Borders" },
+          "content": {
+            "hi": "उत्तर प्रदेश की सीमा 8 राज्यों (उत्तराखंड, हिमाचल प्रदेश, हरियाणा, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, बिहार) तथा 1 केंद्रशासित प्रदेश (दिल्ली) एवं 1 अंतर्राष्ट्रीय सीमा (नेपाल) से मिलती है। सोनभद्र जिला 4 राज्यों (म.प्र., छत्तीसगढ़, झारखंड, बिहार) को स्पर्श करता है। सहारनपुर 3 राज्यों (उत्तराखंड, हि.प्र., हरियाणा) को छूता है।",
+            "en": "Borders 8 states, 1 UT (Delhi) and 1 country (Nepal). Sonbhadra borders 4 states (MP, CG, JH, BR) - unique in India. Saharanpur touches 3 states (UK, HP, HR)."
+          }
+        },
+        {
+          "name": { "hi": "प्रमुख नदियाँ एवं नहरें", "en": "Major Rivers & Canals" },
+          "content": {
+            "hi": "गंगा उ.प्र. के 28 जिलों से होकर बहती है (बिजनौर से प्रवेश, बलिया से निकास)। यमुना सहारनपुर (फैजाबाद नामक स्थान) से प्रवेश करती है। शारदा नहर उत्तर प्रदेश की सबसे बड़ी नहर प्रणाली है। माताटीला बांध बेतवा नदी पर ललितपुर में स्थित है। रिहंद बांध (गोविंद वल्लभ पंत सागर) पिपरी, सोनभद्र में स्थित है।",
+            "en": "Ganga traverses 28 UP districts (enters Bijnor, exits Ballia). Yamuna enters Saharanpur. Sharda Canal is UP's longest canal network. Matatila Dam on Betwa (Lalitpur). Rihand Dam on Rihand river (Sonbhadra)."
+          }
+        },
+        {
+          "name": { "hi": "राष्ट्रीय उद्यान एवं रामसर आर्द्रभूमियाँ", "en": "National Parks & Ramsar Sites" },
+          "content": {
+            "hi": "उत्तर प्रदेश का एकमात्र राष्ट्रीय उद्यान 'दुधवा राष्ट्रीय उद्यान' (लखीमपुर खीरी) है (1977 में स्थापित)। पीलीभीत टाइगर रिजर्व, अमनगढ़ टाइगर रिजर्व एवं रानीपुर टाइगर रिजर्व (चित्रकूट - 53वां/उ.प्र. का चौथा)। उ.प्र. में 10 रामसर स्थल हैं (उदा. ऊपरी गंगा नदी, नवाबगंज/शहीद चंद्रशेखर पक्षी विहार, समसपुर, सांडी, पार्वती अरगा, समन, सुर सरोवर, हैदरपुर, बखीरा)।",
+            "en": "Only National Park: Dudhwa NP (Lakhimpur Kheri). Tiger reserves: Dudhwa, Pilibhit, Amangarh, Ranipur (Chitrakoot). 10 Ramsar wetland sites across UP."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up-odop-economy",
+      "title": { "hi": "अर्थव्यवस्था, कृषि एवं एक जिला एक उत्पाद (ODOP)", "en": "Economy, Agriculture & ODOP Scheme" },
+      "topics": [
+        {
+          "name": { "hi": "कृषि एवं उत्पादन में उ.प्र. का प्रथम स्थान", "en": "UP's First Position in Agricultural & Allied Production" },
+          "content": {
+            "hi": "उत्तर प्रदेश कुल खाद्यान्न, गेहूं, गन्ना, आलू, तरबूज, दुग्ध उत्पादन एवं आंवला (प्रतापगढ़) उत्पादन में देश में शीर्ष स्थान पर है। अमरूद के लिए प्रयागराज, पान के लिए महोबा, दशहरी आम के लिए मलिहाबाद (लखनऊ) प्रसिद्ध हैं।",
+            "en": "UP ranks #1 in India for Total Foodgrains, Wheat, Sugarcane, Potato, Milk, and Aonla (Pratapgarh). Famous: Malihabad Mangoes, Prayagraj Guava, Mahoba Betel leaves."
+          }
+        },
+        {
+          "name": { "hi": "एक जिला एक उत्पाद (ODOP) - मुख्य जिले", "en": "One District One Product (ODOP) - Key Districts" },
+          "content": {
+            "hi": "भदोही (कालीन/कार्पेट), मुरादाबाद (पीतल के बर्तन), फिरोजाबाद (कांच की चूड़ियां/ग्लासवेयर), कन्नौज (इत्र), अलीगढ़ (ताले व हार्डवेयर), सहारनपुर (लकड़ी पर नक्काशी), गोरखपुर (टेराकोटा), वाराणसी (बनारसी रेशम साड़ी), आजमगढ़ (काली मिट्टी के बर्तन/निजामाबाद), लखनऊ (चिकनकारी एवं जरी जरदोजी), आगरा (चमड़ा उद्योग व पेठा), प्रतापगढ़ (आंवला प्रसंस्करण)।",
+            "en": "Bhadohi (Carpets), Moradabad (Brassware), Firozabad (Glassware), Kannauj (Attar/Perfume), Aligarh (Locks), Saharanpur (Wood carving), Gorakhpur (Terracotta), Varanasi (Silk Sarees), Azamgarh (Black Pottery), Lucknow (Chikan craft), Agra (Leather)."
+          }
+        },
+        {
+          "name": { "hi": "प्रमुख एक्सप्रेसवे एवं अधोसंरचना", "en": "Major Expressways & Infrastructure" },
+          "content": {
+            "hi": "उ.प्र. 'एक्सप्रेसवे प्रदेश' बना: यमुना एक्सप्रेसवे (165 किमी), आगरा-लखनऊ एक्सप्रेसवे (302 किमी), पूर्वांचल एक्सप्रेसवे (341 किमी), बुंदेलखंड एक्सप्रेसवे (296 किमी), गंगा एक्सप्रेसवे (594 किमी - मेरठ से प्रयागराज निर्माणाधीन)। 5 अंतर्राष्ट्रीय हवाई अड्डे (लखनऊ, वाराणसी, कुशीनगर, अयोध्या - महर्षि वाल्मीकि, नोएडा/जेवर)।",
+            "en": "UP Expressways network: Purvanchal (341 km), Bundelkhand (296 km), Agra-Lucknow (302 km), Ganga Expressway (594 km under construction). 5 International Airports."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up-culture",
+      "title": { "hi": "उत्तर प्रदेश की संस्कृति, मेले, लोकनृत्य एवं साहित्य", "en": "Culture, Fairs, Folk Dances & Literature of UP" },
+      "topics": [
+        {
+          "name": { "hi": "प्रमुख लोकनृत्य एवं लोकनाट्य", "en": "Key Folk Dances & Theatres" },
+          "content": {
+            "hi": "चरकुला नृत्य (ब्रजभूमि - 108 दीपकों का पिंजरा सिर पर रखकर), रासलीला (ब्रज), नौटंकी (हाथरस व कानपुर शैली), कर्मा व शीला (सोनभद्र व मिर्जापुर की जनजातियाँ), पाई डंडा व दीवारी (बुंदेलखंड का अहीर समाज), धुरिया नृत्य (बुंदेलखंड के कुम्हार), छोलिया नृत्य (राजपूत - तलवार-ढाल के साथ)।",
+            "en": "Charkula dance (Braj - balancing 108 lamps), Nautanki (Hathras & Kanpur schools), Karma (Sonbhadra tribes), Pai Danda (Bundelkhand), Dhuriya (Bundelkhand potters)."
+          }
+        },
+        {
+          "name": { "hi": "प्रमुख मेले एवं उत्सव", "en": "Prominent Fairs & Festivals" },
+          "content": {
+            "hi": "कुंभ मेला एवं माघ मेला (प्रयागराज - यूनेस्को अमूर्त सांस्कृतिक धरोहर), नौचंदी मेला (मेरठ - कौमी एकता का प्रतीक), बटेश्वर मेला (आगरा - ऊंट/पशु मेला), शाकम्भरी देवी मेला (सहारनपुर), देवी पाटन मेला (बलरामपुर), देवा शरीफ मेला (बाराबंकी - वारिस अली शाह की दरगाह), ददरी मेला (बलिया - पशु मेला), कालिंजर मेला (बांदा)।",
+            "en": "Kumbh & Magh Mela (Prayagraj), Nauchandi Mela (Meerut), Bateshwar Cattle Fair (Agra), Shakambhari Devi (Saharanpur), Deva Sharif (Barabanki), Dadri Mela (Ballia), Kalinjar (Banda)."
+          }
+        },
+        {
+          "name": { "hi": "शास्त्रीय संगीत घराने एवं संस्थान", "en": "Classical Music Gharanas & Institutes" },
+          "content": {
+            "hi": "भारतखंडे संस्कृति विश्वविद्यालय (लखनऊ - पूर्व में मैरिस कॉलेज ऑफ म्यूजिक, 1926 स्थापित)। उ.प्र. का एकमात्र शास्त्रीय नृत्य 'कत्थक' है (लखनऊ घराना: नवाब वाजिद अली शाह, पंडित बिरजू महाराज, लच्छू महाराज, शंभू महाराज)। बनारस घराना: बिस्मिल्लाह खान (शहनाई), पंडित किशन महाराज (तबला), गिरजा देवी (ठुमरी)।",
+            "en": "Bhatkhande Sanskriti Vishwavidyalaya, Lucknow (1926). Kathak is UP's sole classical dance (Lucknow gharana: Birju Maharaj, Lachhu Maharaj). Banaras gharana: Bismillah Khan, Girija Devi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up-polity-admin",
+      "title": { "hi": "उत्तर प्रदेश की राजव्यवस्था एवं प्रशासनिक ढांचा", "en": "UP Polity & Administrative Structure" },
+      "topics": [
+        {
+          "name": { "hi": "विधानमंडल एवं उच्च न्यायालय", "en": "State Legislature & High Court" },
+          "content": {
+            "hi": "उ.प्र. विधानमंडल द्विसदनीय (Bicameral) है। विधानसभा सदस्य संख्या 403 तथा विधान परिषद सदस्य संख्या 100 है। इलाहाबाद उच्च न्यायालय की स्थापना 1866 में आगरा में हुई थी, जिसे 1869 में इलाहाबाद स्थानांतरित किया गया। इसकी खंडपीठ लखनऊ में स्थित है।",
+            "en": "Bicameral legislature: 403 Assembly seats, 100 Council seats. Allahabad High Court founded 1866 at Agra, shifted to Allahabad 1869; Lucknow permanent bench."
+          }
+        },
+        {
+          "name": { "hi": "सचिवालय एवं समीक्षा अधिकारी का पद", "en": "UP Secretariat & Role of Review Officer" },
+          "content": {
+            "hi": "उत्तर प्रदेश सचिवालय (बापू भवन, लोक भवन, विधान भवन, लखनऊ) में समीक्षा अधिकारी (RO) एवं सहायक समीक्षा अधिकारी (ARO) पत्रावलियों के परीक्षण, नोटिंग, प्रारूपण, संदर्भ मिलान एवं शासनादेश तैयार करने का उत्तरदायित्व संभालते हैं। यह राज्य प्रशासनिक तंत्र की रीढ़ है।",
+            "en": "In UP Secretariat (Bapu Bhawan, Lok Bhawan, Vidhan Bhawan), RO/ARO inspect files, write precise noting, draft official communications and examine statutory conformity."
+          }
+        }
+      ]
+    }
+  ]
+}
