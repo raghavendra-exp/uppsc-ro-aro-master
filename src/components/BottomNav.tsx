@@ -21,7 +21,7 @@ export const BottomNav: React.FC<BottomNavProps> = ({ currentTab, onSelectTab })
   return (
     <nav 
       aria-label="Mobile Bottom Navigation"
-      className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 shadow-lg px-2 py-1.5 flex items-center justify-around"
+      className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 shadow-lg px-1 sm:px-2 py-1 flex items-center justify-around"
     >
       {tabs.map(tab => {
         const Icon = tab.icon;
@@ -30,14 +30,14 @@ export const BottomNav: React.FC<BottomNavProps> = ({ currentTab, onSelectTab })
           <button
             key={tab.id}
             onClick={() => onSelectTab(tab.id)}
-            className={`flex flex-col items-center justify-center py-1 px-2 rounded-lg transition-colors min-w-[56px] ${
+            className={`flex flex-col items-center justify-center py-1 px-1 sm:px-2 rounded-lg transition-colors flex-1 min-w-0 ${
               isActive 
                 ? 'text-amber-600 dark:text-amber-400 font-semibold' 
                 : 'text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-slate-200'
             }`}
           >
-            <Icon className={`w-5 h-5 ${isActive ? 'stroke-[2.5]' : 'stroke-[1.8]'}`} />
-            <span className="text-[10px] mt-0.5">{tab.label[language]}</span>
+            <Icon className={`w-4 h-4 sm:w-5 sm:h-5 ${isActive ? 'stroke-[2.5]' : 'stroke-[1.8]'}`} />
+            <span className="text-[9px] sm:text-[10px] mt-0.5 truncate max-w-full">{tab.label[language]}</span>
           </button>
         );
       })}

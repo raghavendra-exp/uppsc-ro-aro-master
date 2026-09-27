@@ -35,6 +35,11 @@ const AppContent: React.FC = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
+  React.useEffect(() => {
+    (window as any).__navigateTab = handleNavigateTab;
+    (window as any).__getCurrentTab = () => currentTab;
+  }, [currentTab]);
+
   const handleNavigatePractice = (subject: string, topic?: string) => {
     setPracticeSubjectFilter(subject);
     setPracticeTopicFilter(topic);
