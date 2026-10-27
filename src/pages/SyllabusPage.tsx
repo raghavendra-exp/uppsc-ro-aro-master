@@ -20,9 +20,10 @@ import version2023 from '../data/exams/ro-aro/ro-aro-2023.json';
 
 interface SyllabusPageProps {
   onNavigatePractice: (subject: string, topic?: string) => void;
+  onNavigateTab?: (tab: string, meta?: any) => void;
 }
 
-export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice }) => {
+export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice, onNavigateTab }) => {
   const { language, activeVersion, selectVersion, allVersions } = useApp();
   const [activeTab, setActiveTab] = useState<'syllabus' | 'comparison'>('syllabus');
   const [expandedTopics, setExpandedTopics] = useState<Record<string, boolean>>({
@@ -57,29 +58,41 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice }
           </p>
         </div>
 
-        {/* View Switcher: Full Syllabus vs What Changed? */}
-        <div className="flex items-center space-x-2 bg-slate-100 dark:bg-slate-800 p-1 rounded-xl self-start md:self-center">
-          <button
-            onClick={() => setActiveTab('syllabus')}
-            className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
-              activeTab === 'syllabus'
-                ? 'bg-white dark:bg-slate-700 text-amber-600 dark:text-amber-400 shadow-sm'
-                : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-            }`}
-          >
-            {language === 'hi' ? 'संपूर्ण पाठ्यक्रम' : 'Full Syllabus'}
-          </button>
-          <button
-            onClick={() => setActiveTab('comparison')}
-            className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
-              activeTab === 'comparison'
-                ? 'bg-white dark:bg-slate-700 text-amber-600 dark:text-amber-400 shadow-sm'
-                : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
-            }`}
-          >
-            <GitCompare className="w-3.5 h-3.5 text-amber-500" />
-            <span>{language === 'hi' ? 'क्या बदला? (What Changed?)' : 'What Changed?'}</span>
-          </button>
+        {/* View Switcher: Full Syllabus vs What Changed? vs Master Book */}
+        <div className="flex flex-wrap items-center gap-2 self-start md:self-center">
+          {onNavigateTab && (
+            <button
+              onClick={() => onNavigateTab('tutorials')}
+              className="px-3.5 py-1.5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white text-xs font-bold shadow-sm transition-all flex items-center space-x-1.5"
+            >
+              <BookOpen className="w-3.5 h-3.5" />
+              <span>{language === 'hi' ? 'मास्टर बुक (विस्तृत नोट्स)' : 'Read Master Book'}</span>
+            </button>
+          )}
+
+          <div className="flex items-center space-x-1 bg-slate-100 dark:bg-slate-800 p-1 rounded-xl">
+            <button
+              onClick={() => setActiveTab('syllabus')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
+                activeTab === 'syllabus'
+                  ? 'bg-white dark:bg-slate-700 text-amber-600 dark:text-amber-400 shadow-sm'
+                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              {language === 'hi' ? 'संपूर्ण पाठ्यक्रम' : 'Full Syllabus'}
+            </button>
+            <button
+              onClick={() => setActiveTab('comparison')}
+              className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
+                activeTab === 'comparison'
+                  ? 'bg-white dark:bg-slate-700 text-amber-600 dark:text-amber-400 shadow-sm'
+                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <GitCompare className="w-3.5 h-3.5 text-amber-500" />
+              <span>{language === 'hi' ? 'क्या बदला? (What Changed?)' : 'What Changed?'}</span>
+            </button>
+          </div>
         </div>
       </div>
 

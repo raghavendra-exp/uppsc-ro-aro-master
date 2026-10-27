@@ -320,3 +320,36 @@ export interface UserProgress {
     customMilestones: { week: number; focus: string; done: boolean }[];
   };
 }
+
+export interface TutorialSection {
+  sectionId: string;
+  heading: BilingualText;
+  bodyMarkdown: BilingualText;
+  keyTakeaways?: BilingualText[];
+  examTrapWarning?: BilingualText;
+}
+
+export interface TutorialChapter {
+  id: string;
+  stage: 'PRELIMS' | 'MAINS' | 'BOTH';
+  paper: string;
+  moduleTitle: BilingualText;
+  chapterNumber: string;
+  title: BilingualText;
+  subtitle: BilingualText;
+  estimatedStudyTimeMinutes: number;
+  weightageQuestions: string;
+  importance: 'CRITICAL' | 'HIGH' | 'VERY_HIGH';
+  learningObjectives: BilingualText[];
+  contentSections: TutorialSection[];
+  upSpecialAngle?: BilingualText;
+  highYieldFactSheet?: {
+    termOrFact: BilingualText;
+    explanation: BilingualText;
+  }[];
+  masterRevisionTable?: {
+    headers: string[];
+    rows: string[][];
+  };
+}
+

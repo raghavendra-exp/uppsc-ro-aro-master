@@ -23,6 +23,7 @@ import { StudyPlanPage } from './pages/StudyPlanPage';
 import { RevisionPage } from './pages/RevisionPage';
 import { BooksPage } from './pages/BooksPage';
 import { NotificationPage } from './pages/NotificationPage';
+import { TutorialsPage } from './pages/TutorialsPage';
 
 const AppContent: React.FC = () => {
   const { language } = useApp();
@@ -108,6 +109,9 @@ const AppContent: React.FC = () => {
       case 'books':
         base.push({ label: { hi: 'मानक पुस्तकें व NCERT मैपिंग', en: 'Standard Books & NCERT' } });
         break;
+      case 'tutorials':
+        base.push({ label: { hi: 'सम्पूर्ण विस्तृत अध्ययन सामग्री (Master Book)', en: 'Comprehensive Master Book' } });
+        break;
       case 'notices':
         base.push({ label: { hi: 'आधिकारिक सूचना केंद्र', en: 'Notification Center' } });
         break;
@@ -134,7 +138,7 @@ const AppContent: React.FC = () => {
       {/* Main Page Container */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-3 sm:px-6 lg:px-8 pt-4 sm:pt-6">
         {currentTab === 'home' && <Home onNavigateTab={handleNavigateTab} />}
-        {currentTab === 'syllabus' && <SyllabusPage onNavigatePractice={handleNavigatePractice} />}
+        {currentTab === 'syllabus' && <SyllabusPage onNavigatePractice={handleNavigatePractice} onNavigateTab={handleNavigateTab} />}
         {currentTab === 'prelims' && <PrelimsPage onNavigatePractice={handleNavigatePractice} onNavigateTab={handleNavigateTab} />}
         {currentTab === 'mains' && <MainsPage onNavigateTab={handleNavigateTab} onNavigatePractice={handleNavigatePractice} />}
         {currentTab === 'drafting' && <DraftingPage />}
@@ -153,6 +157,7 @@ const AppContent: React.FC = () => {
         {currentTab === 'study-plan' && <StudyPlanPage />}
         {currentTab === 'revision' && <RevisionPage />}
         {currentTab === 'books' && <BooksPage onNavigatePractice={handleNavigatePractice} />}
+        {currentTab === 'tutorials' && <TutorialsPage onNavigateTab={handleNavigateTab} onNavigatePractice={handleNavigatePractice} />}
         {currentTab === 'notices' && <NotificationPage />}
       </main>
 

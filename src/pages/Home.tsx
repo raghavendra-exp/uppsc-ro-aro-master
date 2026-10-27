@@ -139,6 +139,14 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
           {/* Quick CTA Actions */}
           <div className="flex flex-wrap items-center gap-3">
             <button
+              onClick={() => onNavigateTab('tutorials')}
+              className="px-5 py-2.5 rounded-xl bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white font-bold text-xs sm:text-sm shadow-lg shadow-purple-600/30 transition-all flex items-center space-x-2"
+            >
+              <BookOpen className="w-4 h-4 text-purple-200" />
+              <span>{language === 'hi' ? 'सम्पूर्ण मास्टर बुक (विस्तृत नोट्स)' : 'Master Book (Tutorials)'}</span>
+            </button>
+
+            <button
               onClick={() => onNavigateTab('practice')}
               className="px-5 py-2.5 rounded-xl bg-gradient-to-r from-amber-500 to-orange-600 hover:from-amber-600 hover:to-orange-700 text-white font-bold text-xs sm:text-sm shadow-lg shadow-amber-600/30 transition-all flex items-center space-x-2"
             >
@@ -158,7 +166,7 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
               onClick={() => onNavigateTab('syllabus')}
               className="px-4 py-2.5 rounded-xl bg-transparent hover:bg-white/10 text-slate-300 font-medium text-xs sm:text-sm transition-colors flex items-center space-x-1.5"
             >
-              <BookOpen className="w-4 h-4" />
+              <Layers className="w-4 h-4" />
               <span>{language === 'hi' ? 'पाठ्यक्रम देखें' : 'View Syllabus'}</span>
             </button>
           </div>

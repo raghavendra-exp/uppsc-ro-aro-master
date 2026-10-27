@@ -28,6 +28,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, onSelectTab }) => {
 
   const navItems = [
     { id: 'home', label: { hi: 'कमांड सेंटर', en: 'Dashboard' } },
+    { id: 'tutorials', label: { hi: 'मास्टर बुक (Notes)', en: 'Master Book' } },
     { id: 'syllabus', label: { hi: 'पाठ्यक्रम', en: 'Syllabus' } },
     { id: 'prelims', label: { hi: 'प्रारंभिक', en: 'Prelims' } },
     { id: 'mains', label: { hi: 'मुख्य परीक्षा', en: 'Mains' } },
