@@ -8,7 +8,12 @@ import {
   Lightbulb, 
   Share2, 
   Tag,
-  Languages
+  Languages,
+  Eye,
+  EyeOff,
+  ShieldCheck,
+  BookOpen,
+  Repeat
 } from 'lucide-react';
 import { Question, Language } from '../types';
 import { useApp } from '../context/AppContext';
@@ -20,6 +25,7 @@ interface QuestionCardProps {
   selectedOption?: number | null;
   showExplanationImmediately?: boolean;
   isExamMode?: boolean;
+  alwaysShowSolution?: boolean;
 }
 
 export const QuestionCard: React.FC<QuestionCardProps> = ({
@@ -28,15 +34,19 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
   onSelectOption,
   selectedOption = null,
   showExplanationImmediately = true,
-  isExamMode = false
+  isExamMode = false,
+  alwaysShowSolution = false
 }) => {
   const { language, toggleBookmark, isBookmarked } = useApp();
   const [internalSelected, setInternalSelected] = useState<number | null>(selectedOption);
   const [showAltLang, setShowAltLang] = useState(false);
+  const [manualShowSolution, setManualShowSolution] = useState(false);
 
   const activeSelected = onSelectOption ? selectedOption : internalSelected;
   const isAnswered = activeSelected !== null && activeSelected !== undefined;
   const isCorrect = isAnswered && activeSelected === question.answer;
+
+  const effectiveShowSolution = !isExamMode && (alwaysShowSolution || manualShowSolution || (isAnswered && showExplanationImmediately));
 
   const handleOptionClick = (idx: number) => {
     if (isExamMode) {
@@ -52,6 +62,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
 
   // Determine current display language for this specific question card
   const cardLang: Language = showAltLang ? (language === 'hi' ? 'en' : 'hi') : language;
+  const displayYear = question.year || question.pyqYear;
 
   const difficultyColors = {
     easy: 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950/60 dark:text-emerald-300',
@@ -69,6 +80,13 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
               Q.{index + 1}
             </span>
           )}
+          
+          {displayYear && (
+            <span className="px-2 py-0.5 rounded font-bold font-mono text-[11px] bg-purple-100 dark:bg-purple-950/60 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800">
+              UPPSC {displayYear} {question.stage ? `(${question.stage})` : ''}
+            </span>
+          )}
+
           <span className="font-mono text-[11px] text-slate-500 dark:text-slate-400">
             {question.id}
           </span>
@@ -76,10 +94,14 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
           <span className="font-medium text-amber-700 dark:text-amber-400">
             {question.subject}
           </span>
-          <span className="hidden sm:inline text-slate-300 dark:text-slate-700">•</span>
-          <span className="hidden sm:inline text-slate-500 dark:text-slate-400">
-            {question.topic}
-          </span>
+          {question.topic && (
+            <>
+              <span className="hidden sm:inline text-slate-300 dark:text-slate-700">•</span>
+              <span className="hidden sm:inline text-slate-500 dark:text-slate-400">
+                {question.topic}
+              </span>
+            </>
+          )}
           <span className={`text-[10px] font-semibold uppercase px-1.5 py-0.5 rounded ${difficultyColors[question.difficulty]}`}>
             {question.difficulty}
           </span>
@@ -87,6 +109,27 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
 
         {/* Action icons */}
         <div className="flex items-center space-x-1">
+          {/* Solution toggle button (for study) */}
+          {!isExamMode && !alwaysShowSolution && (
+            <button
+              onClick={() => setManualShowSolution(!manualShowSolution)}
+              className="p-1.5 text-slate-500 hover:text-purple-600 dark:text-slate-400 dark:hover:text-purple-400 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors text-xs flex items-center space-x-1"
+              title={manualShowSolution ? "Hide Solution" : "View Official Solution"}
+            >
+              {manualShowSolution ? (
+                <>
+                  <EyeOff className="w-3.5 h-3.5" />
+                  <span className="text-[10px] hidden sm:inline">{language === 'hi' ? 'छिपाएं' : 'Hide'}</span>
+                </>
+              ) : (
+                <>
+                  <Eye className="w-3.5 h-3.5 text-purple-600 dark:text-purple-400" />
+                  <span className="text-[10px] font-semibold text-purple-600 dark:text-purple-400 hidden sm:inline">{language === 'hi' ? 'समाधान' : 'Solution'}</span>
+                </>
+              )}
+            </button>
+          )}
+
           {/* Dual language toggle for this question */}
           <button
             onClick={() => setShowAltLang(!showAltLang)}
@@ -133,7 +176,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
             if (isChosen) {
               btnClass = "border-amber-500 bg-amber-50 dark:bg-amber-950/40 text-amber-900 dark:text-amber-200 font-medium ring-1 ring-amber-400";
             }
-          } else if (isAnswered && showExplanationImmediately) {
+          } else if (effectiveShowSolution) {
             if (isCorrectOption) {
               btnClass = "border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-900 dark:text-emerald-200 font-medium ring-1 ring-emerald-400";
             } else if (isChosen && !isCorrect) {
@@ -141,6 +184,8 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
             } else {
               btnClass = "opacity-60 border-slate-200 dark:border-slate-800";
             }
+          } else if (isChosen) {
+            btnClass = "border-purple-500 bg-purple-50 dark:bg-purple-950/40 text-purple-900 dark:text-purple-200 font-medium ring-1 ring-purple-400";
           }
 
           const optLabels = ['(A)', '(B)', '(C)', '(D)'];
@@ -155,7 +200,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
                 {optLabels[optIdx]}
               </span>
               <span className="flex-1">{optText}</span>
-              {!isExamMode && isAnswered && showExplanationImmediately && (
+              {!isExamMode && effectiveShowSolution && (
                 <span className="shrink-0 mt-0.5">
                   {isCorrectOption ? (
                     <CheckCircle className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
@@ -169,29 +214,74 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
         })}
       </div>
 
-      {/* Answer & Explanation Box (Shown after attempt in practice mode) */}
-      {!isExamMode && isAnswered && showExplanationImmediately && (
-        <div className={`p-4 rounded-xl text-xs sm:text-sm transition-all ${
-          isCorrect 
-            ? 'bg-emerald-50/80 dark:bg-emerald-950/30 border border-emerald-200 dark:border-emerald-900/50 text-emerald-900 dark:text-emerald-100'
-            : 'bg-amber-50/80 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/50 text-slate-800 dark:text-slate-200'
+      {/* Answer & Detailed Solution Box */}
+      {effectiveShowSolution && (
+        <div className={`p-4 rounded-xl text-xs sm:text-sm space-y-3 transition-all ${
+          isAnswered && !isCorrect 
+            ? 'bg-amber-50/80 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/50 text-slate-800 dark:text-slate-200'
+            : 'bg-emerald-50/70 dark:bg-emerald-950/30 border border-emerald-200 dark:border-emerald-900/50 text-slate-800 dark:text-slate-200'
         }`}>
-          <div className="flex items-center space-x-2 font-bold mb-1.5">
-            <Lightbulb className="w-4 h-4 text-amber-600 dark:text-amber-400 shrink-0" />
-            <span>
-              {isCorrect 
-                ? (language === 'hi' ? 'शाबाश! सही उत्तर:' : 'Correct! Correct Answer:') 
-                : (language === 'hi' ? 'उत्तर एवं व्याख्या:' : 'Answer & Explanation:')}
-              {' '}
-              {['(A)', '(B)', '(C)', '(D)'][question.answer]} {question.options[cardLang][question.answer]}
-            </span>
+          {/* Answer Header with Official Key Badge */}
+          <div className="flex flex-wrap items-center justify-between gap-2 pb-2 border-b border-emerald-200/50 dark:border-emerald-900/30">
+            <div className="flex items-center space-x-2 font-bold text-emerald-800 dark:text-emerald-300">
+              <ShieldCheck className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+              <span>
+                {language === 'hi' ? 'आधिकारिक उत्तर:' : 'Official Answer Key:'}{' '}
+                {['(A)', '(B)', '(C)', '(D)'][question.answer]} {question.options[cardLang][question.answer]}
+              </span>
+            </div>
+            {question.officialStatus && (
+              <span className="px-2 py-0.5 bg-emerald-100 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-200 rounded text-[10px] font-semibold">
+                ✓ आयोग उत्तर कुंजी द्वारा सत्यापित
+              </span>
+            )}
           </div>
-          <p className="leading-relaxed pl-6 text-slate-700 dark:text-slate-300">
-            {question.explanation[cardLang]}
-          </p>
-          {question.pyqYear && (
-            <div className="mt-2 pl-6 flex items-center space-x-2 text-[11px] text-amber-700 dark:text-amber-400 font-semibold">
-              <span>{language === 'hi' ? 'यूपीपीएससी आरओ/एआरओ में पूछा गया:' : 'Asked in UPPSC RO/ARO:'} {question.pyqYear}</span>
+
+          {/* Primary Detailed Explanation */}
+          <div className="space-y-1">
+            <div className="font-semibold text-slate-700 dark:text-slate-300 flex items-center space-x-1.5">
+              <Lightbulb className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
+              <span>{language === 'hi' ? 'विस्तृत समाधान एवं विश्लेषण:' : 'Detailed Solution & Analysis:'}</span>
+            </div>
+            <p className="leading-relaxed whitespace-pre-line text-slate-700 dark:text-slate-300 pl-5">
+              {question.explanation[cardLang]}
+            </p>
+          </div>
+
+          {/* Core Concept / Statutory Reference (if present) */}
+          {question.coreConcept && (
+            <div className="p-2.5 rounded-lg bg-white/70 dark:bg-slate-900/60 border border-slate-200/80 dark:border-slate-800 flex items-start space-x-2">
+              <BookOpen className="w-4 h-4 text-purple-600 dark:text-purple-400 shrink-0 mt-0.5" />
+              <div className="text-[11px] sm:text-xs">
+                <span className="font-bold text-purple-700 dark:text-purple-300">
+                  {language === 'hi' ? 'मूल सिद्धांत / मानक संदर्भ: ' : 'Core Concept / Source: '}
+                </span>
+                <span className="text-slate-600 dark:text-slate-300">
+                  {question.coreConcept[cardLang]}
+                </span>
+              </div>
+            </div>
+          )}
+
+          {/* Repeat Alert / Frequency note */}
+          {(question.repeatNotes || question.repetitionCount) && (
+            <div className="p-2.5 rounded-lg bg-amber-100/60 dark:bg-amber-950/40 border border-amber-300/50 dark:border-amber-900/50 flex items-start space-x-2">
+              <Repeat className="w-4 h-4 text-amber-700 dark:text-amber-400 shrink-0 mt-0.5" />
+              <div className="text-[11px] sm:text-xs text-amber-900 dark:text-amber-200">
+                <span className="font-bold">
+                  {language === 'hi' ? 'परीक्षा दोहराव विश्लेषण: ' : 'UPPSC Trend Note: '}
+                </span>
+                <span>
+                  {question.repeatNotes ? question.repeatNotes[cardLang] : `UPPSC परीक्षाओं में यह अवधारणा ${question.repetitionCount || 3}+ बार पूछी जा चुकी है।`}
+                </span>
+              </div>
+            </div>
+          )}
+
+          {/* Source tag */}
+          {question.source && (
+            <div className="text-[10px] text-slate-500 dark:text-slate-400 italic pt-1">
+              स्रोत: {question.source}
             </div>
           )}
         </div>

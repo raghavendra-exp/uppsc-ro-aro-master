@@ -1,30 +1,572 @@
 [
   {
+    "id": "ROARO-PYQ-2023-GS-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "संविधान सभा एवं प्रस्तावना",
+    "subtopic": "Preamble & 42nd Amendment",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान की प्रस्तावना में 'समाजवादी' (Socialist), 'पंथनिरपेक्ष' (Secular) और 'अखंडता' (Integrity) शब्द किस संविधान संशोधन अधिनियम द्वारा जोड़े गए थे?",
+      "en": "By which Constitutional Amendment Act were the words 'Socialist', 'Secular', and 'Integrity' added to the Preamble of the Constitution of India?"
+    },
+    "options": {
+      "hi": [
+        "42वां संविधान संशोधन अधिनियम, 1976",
+        "44वां संविधान संशोधन अधिनियम, 1978",
+        "52वां संविधान संशोधन अधिनियम, 1985",
+        "73वां संविधान संशोधन अधिनियम, 1992"
+      ],
+      "en": [
+        "42nd Constitutional Amendment Act, 1976",
+        "44th Constitutional Amendment Act, 1978",
+        "52nd Constitutional Amendment Act, 1985",
+        "73rd Constitutional Amendment Act, 1992"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "42वें संविधान संशोधन अधिनियम, 1976 (स्वर्ण सिंह समिति की सिफारिश पर लागू) द्वारा संविधान की प्रस्तावना में एकमात्र बार संशोधन किया गया। इसके तहत तीन नए शब्द जोड़े गए: 'समाजवादी' (Socialist), 'पंथनिरपेक्ष' (Secular) तथा 'और अखंडता' (and Integrity)।\n\nअन्य विकल्पों का विश्लेषण:\n• 44वां संशोधन (1978): संपत्ति के अधिकार को मूल अधिकार (अनुच्छेद 31) से हटाकर विधिक अधिकार (अनुच्छेद 300A) बनाया गया।\n• 52वां संशोधन (1985): दल-बदल विरोधी कानून और 10वीं अनुसूची जोड़ी गई।\n• 73वां संशोधन (1992): पंचायती राज व्यवस्था को संवैधानिक दर्जा और 11वीं अनुसूची जोड़ी गई।",
+      "en": "The 42nd Constitutional Amendment Act, 1976 (recommended by the Swaran Singh Committee) amended the Preamble for the only time in Indian constitutional history, adding 'Socialist', 'Secular', and 'Integrity'. The 44th Amendment removed property rights from Fundamental Rights, 52nd introduced anti-defection law, and 73rd institutionalized Panchayati Raj."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: प्रस्तावना) - केशवानंद भारती केस 1973 के अनुसार प्रस्तावना संविधान का अभिन्न अंग है और इसमें अनुच्छेद 368 के तहत संशोधन किया जा सकता है, बशर्ते मूल ढांचे में परिवर्तन न हो।",
+      "en": "M. Laxmikanth (Preamble chapter) - Kesavananda Bharati case (1973) held Preamble as integral part of Constitution amendable under Article 368 without altering Basic Structure."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO (2013, 2017, 2021, 2023) और UPPSC PCS में 8 बार से अधिक दोहराया गया कोर टॉपिक।",
+      "en": "Repeated more than 8 times across UPPSC RO/ARO and PCS Prelims examinations."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "preamble",
+      "amendments",
+      "42nd-amendment",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-HINDI-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'अनुग्रह' शब्द का सटीक विलोम शब्द निम्नलिखित में से कौन सा है?",
+      "en": "Which of the following is the exact antonym of the Hindi word 'Anugrah'?"
+    },
+    "options": {
+      "hi": [
+        "आग्रह",
+        "संग्रह",
+        "विग्रह",
+        "परिग्रह"
+      ],
+      "en": [
+        "Aagrah",
+        "Sangrah",
+        "Vigrah",
+        "Parigrah"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "'अनुग्रह' (कृपा/अनुकूलता) का प्रामाणिक शास्त्रीय विलोम 'विग्रह' (अलगाव/कठोरता/कलह) होता है।\n\nअन्य विकल्पों का विश्लेषण:\n• आग्रह का विलोम = दुराग्रह\n• संग्रह का विलोम = त्याग या अपरिग्रह\n• परिग्रह का विलोम = अपरिग्रह।",
+      "en": "'Anugrah' (grace/kindness) has the classical antonym 'Vigrah' (discord/separation). 'Aagrah' pairs with 'Duraagrah', and 'Sangrah' pairs with 'Tyag/Aparigrah'."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी / डॉ. वासुदेव नंदन प्रसाद - हिन्दी शब्द विलोम कोश। उपसर्ग परिवर्तन द्वारा निर्मित विलोम (अनु-ग्रह ➔ वि-ग्रह)।",
+      "en": "Standard Hindi Grammar by Dr. Hardev Bahri - Root prefix inversion from Anu-grah to Vi-grah."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2014, 2017 और 2023 में पूछा गया सर्वाधिक लोकप्रिय प्रश्न।",
+      "en": "High-frequency question asked in UPPSC RO/ARO 2010, 2014, 2017, and 2023."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vilom",
+      "anugrah",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-UPGK-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "एक जिला एक उत्पाद (ODOP)",
+    "subtopic": "Districts and GI Crafts",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश के 'एक जिला एक उत्पाद' (ODOP) कार्यक्रम के तहत 'काला नमक चावल' (Kala Namak Rice) किस जिले का विशिष्ट उत्पाद है?",
+      "en": "Under UP's 'One District One Product' (ODOP) scheme, 'Kala Namak Rice' is the designated product of which district?"
+    },
+    "options": {
+      "hi": [
+        "सिद्धार्थनगर",
+        "चंदौली",
+        "महाराजगंज",
+        "गोरखपुर"
+      ],
+      "en": [
+        "Siddharthnagar",
+        "Chandauli",
+        "Maharajganj",
+        "Gorakhpur"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'काला नमक चावल' (जिसे भगवान बुद्ध का महाप्रसाद माना जाता है) सिद्धार्थनगर जिले का ओडीओपी उत्पाद है। इसे जीआई टैग (GI Tag) प्राप्त है। यह अपनी विशिष्ट खुशबू, उच्च सूक्ष्म पोषक तत्वों (आयरन, जिंक) तथा कम ग्लाइसेमिक इंडेक्स के लिए प्रसिद्ध है।\n\nअन्य विकल्पों का विश्लेषण:\n• चंदौली: 'उत्तर प्रदेश का धान का कटोरा' (Rice Bowl of UP) कहा जाता है।\n• गोरखपुर: ओडीओपी उत्पाद 'टेराकोटा हस्तशिल्प' (Terracotta Craft)।\n• महाराजगंज: ओडीओपी उत्पाद 'फर्नीचर उद्योग' (Furniture Industry)।",
+      "en": "'Kala Namak Rice' (famed as Buddha's rice with unique aroma and high zinc/iron content) is the ODOP product of Siddharthnagar with a GI tag. Chandauli is UP's rice bowl, Gorakhpur specializes in Terracotta, and Maharajganj in Furniture."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश विशेष (परीक्षा वाणी) - उत्तर प्रदेश के प्रमुख कृषि उत्पाद एवं जी.आई. टैग सूची।",
+      "en": "UP Special GK (Pariksha Vani) - Major agricultural GI crops and ODOP master list."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC परीक्षाओं में ओडीओपी और जीआई टैग से प्रतिवर्ष 2-3 प्रश्न अनिवार्य रूप से पूछे जाते हैं।",
+      "en": "ODOP and GI tags yield 2-3 questions every year in UPPSC exams."
+    },
+    "repetitionCount": 3,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "odop",
+      "siddharthnagar",
+      "rice",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-HINDI-002",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "तत्सम एवं तद्भव शब्द",
+    "subtopic": "Tatsam-Tadbhav Roots",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'घोटक' का सटीक तद्भव शब्द निम्नलिखित में से कौन सा है?",
+      "en": "What is the Tadbhav (vernacular) derivative of the Sanskrit Tatsam word 'Ghotak'?"
+    },
+    "options": {
+      "hi": [
+        "गधा",
+        "घोड़ा",
+        "घड़ा",
+        "घटिका"
+      ],
+      "en": [
+        "Gadha (Donkey)",
+        "Ghoda (Horse)",
+        "Ghada (Pitcher)",
+        "Ghatika (Clock)"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'घोटक' संस्कृत का तत्सम शब्द है जिसका तद्भव 'घोड़ा' होता है। (घोड़ा का अन्य तत्सम 'अश्व' भी होता है)।\n\nअन्य विकल्पों का विश्लेषण:\n• 'गधा' का तत्सम = गर्दभ (Gardabh)\n• 'घड़ा' का तत्सम = घट (Ghat)\n• 'घटिका' तत्सम है जिसका तद्भव = घड़ी (Ghadi)।",
+      "en": "'Ghotak' is a Sanskrit Tatsam word that evolved into the Tadbhav word 'Ghoda' (Horse). 'Gadha' originates from 'Gardabh', 'Ghada' from 'Ghat', and 'Ghadi' from 'Ghatika'."
+    },
+    "coreConcept": {
+      "hi": "हिन्दी व्याकरण - तत्सम एवं तद्भव परिवर्तन नियम (घ ➔ घ, ट ➔ ड़ ध्वनि विकास)।",
+      "en": "Hindi Linguistics - Phonological development of Sanskrit retroflex consonants into modern Indo-Aryan forms."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2013, 2016, 2021, 2023 में बार-बार पूछा गया।",
+      "en": "Classic recurring question in RO/ARO Hindi Paper."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "tatsam-tadbhav",
+      "ghotak",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-GS-002",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "History of India",
+    "topic": "मध्यकालीन भारत",
+    "subtopic": "Mughal Empire - Battle of Khanwa",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "खानवा का ऐतिहासिक युद्ध (16 मार्च 1527) बाबर और किसके बीच लड़ा गया था?",
+      "en": "The historic Battle of Khanwa (16 March 1527) was fought between Babur and whom?"
+    },
+    "options": {
+      "hi": [
+        "इब्राहिम लोदी",
+        "राणा सांगा",
+        "मेदिनी राय",
+        "महमूद लोदी"
+      ],
+      "en": [
+        "Ibrahim Lodi",
+        "Rana Sanga",
+        "Medini Rai",
+        "Mahmud Lodi"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "खानवा का युद्ध 16 मार्च 1527 को आगरा के निकट खानवा में मुग़ल शासक बाबर और मेवाड़ के महाराणा सांगा के मध्य लड़ा गया। इस युद्ध में बाबर ने सैनिकों में उत्साह भरने हेतु 'जिहाद' का नारा दिया तथा युद्ध जीतने के बाद 'गाजी' की उपाधि धारण की। बाबर ने मुसलमानों पर लगने वाले 'तमगा' (व्यापारिक कर) को समाप्त करने की घोषणा की थी।\n\nबाबर के प्रमुख युद्धों का क्रम:\n1. पानीपत का प्रथम युद्ध (1526) ➔ इब्राहिम लोदी के विरुद्ध\n2. खानवा का युद्ध (1527) ➔ राणा सांगा के विरुद्ध\n3. चंदेरी का युद्ध (1528) ➔ मेदिनी राय के विरुद्ध\n4. घाघरा का युद्ध (1529) ➔ महमूद लोदी (अफगान) के विरुद्ध।",
+      "en": "The Battle of Khanwa was fought on 16 March 1527 between Babur and Rana Sanga of Mewar. Babur proclaimed Jihad, repealed the Tamgha tax on Muslims, and assumed the title of 'Ghazi' upon victory. Babur fought Panipat against Ibrahim Lodi (1526), Chanderi against Medini Rai (1528), and Ghaghra against Mahmud Lodi (1529)."
+    },
+    "coreConcept": {
+      "hi": "सतीश चंद्र - मध्यकालीन भारत का इतिहास। मुग़ल साम्राज्य की स्थापना और सामरिक तकनीक (तुलगुमा पद्धति और तोपखाना)।",
+      "en": "Satish Chandra - Medieval India; Foundation of Mughal rule and military strategies."
+    },
+    "repeatNotes": {
+      "hi": "बाबर के चारों युद्धों का कालानुक्रम UPPSC का सर्वाधिक पसंदीदा इतिहास प्रश्न है।",
+      "en": "Chronological sequence of Babur's battles is a perennial favorite of UPPSC."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "history",
+      "medieval",
+      "babur",
+      "khanwa",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-HINDI-003",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विशेष्य और विशेषण",
+    "subtopic": "Adjectives & Nouns in Sentence",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "'समुद्री जल में घातक परंतु बहुत कीमती लवण पाया जाता है' — इस वाक्य में कितने विशेषण और कितने विशेष्य हैं?",
+      "en": "In the sentence 'Samudri jal mein ghatak parantu bahut keemti lavan paya jata hai', how many adjectives and nouns (visheshya) are present?"
+    },
+    "options": {
+      "hi": [
+        "तीन विशेषण और दो विशेष्य",
+        "चार विशेषण और दो विशेष्य",
+        "दो विशेषण और दो विशेष्य",
+        "तीन विशेषण और तीन विशेष्य"
+      ],
+      "en": [
+        "Three adjectives and two visheshya",
+        "Four adjectives and two visheshya",
+        "Two adjectives and two visheshya",
+        "Three adjectives and three visheshya"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "वाक्य का व्याकरणिक विखंडन:\n• विशेष्य (संज्ञा जिनकी विशेषता बताई जा रही है - कुल 2):\n  1. 'जल'\n  2. 'लवण'\n• विशेषण (विशेषता बताने वाले शब्द - कुल 3):\n  1. 'समुद्री' (स्थानवाचक गुणवाचक विशेषण, जो 'जल' की विशेषता बताता है)\n  2. 'घातक' (गुणवाचक विशेषण, जो 'लवण' की विशेषता बताता है)\n  3. 'कीमती' (गुणवाचक विशेषण, जो 'लवण' की विशेषता बताता है)\n*(नोट: 'बहुत' शब्द यहाँ प्रविशेषण है जो विशेषण 'कीमती' की तीव्रता बताता है, अतः इसे मूल विशेषणों में नहीं गिना जाता)।\nअतः कुल: 3 विशेषण और 2 विशेष्य।",
+      "en": "Grammatical breakdown:\n• Visheshya (Nouns described, 2): 'Jal' and 'Lavan'.\n• Visheshan (Adjectives, 3): 'Samudri' (modifying Jal), 'Ghatak' (modifying Lavan), and 'Keemti' (modifying Lavan).\n*Note: 'Bahut' functions as a Pravisheshan (intensifier modifying the adjective 'Keemti') and is not counted as an independent adjective.\nTherefore: 3 adjectives and 2 visheshya."
+    },
+    "coreConcept": {
+      "hi": "डॉ. वासुदेव नंदन प्रसाद (आधुनिक हिन्दी व्याकरण) - विशेषण, विशेष्य एवं प्रविशेषण का निर्धारण नियम।",
+      "en": "Dr. Vasudev Nandan Prasad - Modern Hindi Grammar on differentiating Adjectives, Substantives, and Intensifiers."
+    },
+    "repeatNotes": {
+      "hi": "RO/ARO हिन्दी प्रारंभिक परीक्षा में 'विशेष्य और विशेषण की गणना' पर हर साल 2-3 प्रश्न निश्चित रूप से पूछे जाते हैं।",
+      "en": "Sentence parsing for counting adjectives/nouns is tested 2-3 times every year in RO/ARO."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "visheshan",
+      "visheshya",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-SCIENCE-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "General Science",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "subtopic": "Fruit Ripening Agents",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "फलों को कृत्रिम रूप से पकाने के लिए निम्नलिखित में से किस गैस या रसायन का प्रमुखता से उपयोग किया जाता है?",
+      "en": "Which of the following gases or chemicals is primarily used for artificial ripening of fruits?"
+    },
+    "options": {
+      "hi": [
+        "एथिलीन (Ethylene)",
+        "मीथेन (Methane)",
+        "ईथेन (Ethane)",
+        "कार्बन डाइऑक्साइड (CO2)"
+      ],
+      "en": [
+        "Ethylene",
+        "Methane",
+        "Ethane",
+        "Carbon Dioxide"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "एथिलीन (C2H4) एक प्राकृतिक गैसीय पादप हार्मोन है जो फलों के पकने (Fruit Ripening) को प्रेरित करता है। व्यापारिक स्तर पर फलों को कृत्रिम रूप से पकाने हेतु एथिलीन गैस या एथेफॉन (Ethephon) का सुरक्षित उपयोग किया जाता है। कैल्शियम कार्बाइड (CaC2) नमी से क्रिया कर 'एसिटिलीन' बनाता है, जो स्वास्थ्य के लिए हानिकारक होने के कारण FSSAI द्वारा प्रतिबंधित है।\n\nअन्य गैसें:\n• मीथेन: बायोगैस और प्राकृतिक गैस का मुख्य घटक (गोबर गैस)।\n• ईथेन: संतृप्त हाइड्रोकार्बन (अल्केन)।\n• CO2: प्रकाश संश्लेषण का कच्चा माल और ग्रीनहाउस गैस।",
+      "en": "Ethylene (C2H4) is a phytohormone that triggers fruit ripening. Commercially, ethylene gas and ethephon are approved ripening agents. Calcium carbide generates acetylene gas and is banned under FSSAI due to arsenic/phosphorus traces."
+    },
+    "coreConcept": {
+      "hi": "NCERT Class 11 Biology (पादप वृद्धि एवं परिवर्धन) - पादप वृद्धि नियंत्रक हार्मोन (ऑक्सिन, जिबरेलिन, साइटोकाइनिन, एब्सिसिक एसिड, एथिलीन)।",
+      "en": "NCERT Class 11 Biology - Plant Growth Regulators and role of Ethylene gas in senescence and fruit ripening."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC परीक्षाओं में एथिलीन एवं कैल्शियम कार्बाइड पर 5 से अधिक बार प्रश्न पूछा गया है।",
+      "en": "Tested more than 5 times in UPPSC General Science questions."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "science",
+      "chemistry",
+      "biology",
+      "ethylene",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-GEO-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Geography",
+    "topic": "भारत का भौतिक भूगोल",
+    "subtopic": "Mountain Passes in Himalayas",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "कैलाश मानसरोवर यात्रा के लिए प्रयुक्त होने वाला प्रसिद्ध 'लिपुलेख दर्रा' (Lipulekh Pass) भारत के किस राज्य/केंद्रशासित प्रदेश में स्थित है?",
+      "en": "The famous 'Lipulekh Pass', utilized for the Kailash Mansarovar pilgrimage, is located in which Indian State/UT?"
+    },
+    "options": {
+      "hi": [
+        "सिक्किम",
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "लद्दाख"
+      ],
+      "en": [
+        "Sikkim",
+        "Uttarakhand",
+        "Himachal Pradesh",
+        "Ladakh"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "लिपुलेख दर्रा उत्तराखंड के पिथौरागढ़ जिले में भारत, नेपाल और चीन (तिब्बत) के त्रिजंक्शन पर स्थित है। यह मानसरोवर यात्रा का पारंपरिक मार्ग है।\n\nअन्य राज्यों के प्रमुख दर्रे:\n• उत्तराखंड: नीति दर्रा, माना दर्रा, लिपुलेख दर्रा, मुलिंग ला।\n• सिक्किम: नाथू ला, जेलेप ला।\n• हिमाचल प्रदेश: रोहतांग दर्रा, शिपकी ला (सतलुज नदी भारत में प्रवेश करती है), बारालाचा ला।\n• लद्दाख: खारदुंग ला, जोजिला, चांग ला, काराकोरम दर्रा।",
+      "en": "Lipulekh Pass is situated in Pithoragarh district of Uttarakhand near the tri-junction of India, Nepal, and Tibet. Key Himalayan passes: Uttarakhand (Mana, Niti, Lipulekh), Sikkim (Nathu La, Jelep La), Himachal Pradesh (Shipki La, Rohtang, Baralacha La), Ladakh (Zojila, Khardung La)."
+    },
+    "coreConcept": {
+      "hi": "माजिद हुसैन (भारत का भूगोल) - हिमालय के प्रमुख पर्वत दर्रे एवं अंतरराष्ट्रीय व्यापारिक मार्ग।",
+      "en": "Majid Husain (Geography of India) - Himalayan geomorphology and strategic transport corridors."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO एवं PCS में हिमालयी दर्रों के सुमेलन (Matching) पर प्रश्न लगातार पूछे जाते हैं।",
+      "en": "Matching Himalayan passes with states is an invariant UPPSC pattern."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "geography",
+      "passes",
+      "lipulekh",
+      "uttarakhand",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-ECON-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Economy",
+    "topic": "भारतीय कृषि एवं फसल चक्र",
+    "subtopic": "Kharif and Rabi Crop Classification",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन सी भारत में 'खरीफ' (Kharif) की फसल नहीं है?",
+      "en": "Which of the following is NOT a 'Kharif' crop in India?"
+    },
+    "options": {
+      "hi": [
+        "धान (चावल)",
+        "मक्का",
+        "सरसों",
+        "कपास"
+      ],
+      "en": [
+        "Paddy (Rice)",
+        "Maize",
+        "Mustard",
+        "Cotton"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "'सरसों' (Mustard) एक रबी की फसल (शीतकालीन फसल) है, जो अक्टूबर-नवंबर में बोई जाती है और मार्च-अप्रैल में काटी जाती है।\n\nफसलों का वर्गीकरण:\n• खरीफ फसलें (मानसून फसलें - जून-जुलाई में बुवाई, अक्टूबर में कटाई): धान, मक्का, ज्वार, बाजरा, कपास, सोयाबीन, मूंगफली, जूट, अरहर।\n• रबी फसलें (शीतकालीन फसलें - अक्टूबर-नवंबर में बुवाई, मार्च-अप्रैल में कटाई): गेहूं, जौ, चना, मटर, सरसों, आलू, अलसी, मसूर।\n• जायद फसलें (ग्रीष्मकालीन - मार्च से जून): तरबूज, खरबूजा, खीरा, ककड़ी, मौसमी सब्जियां।",
+      "en": "Mustard is a Rabi (winter) crop sown in Oct-Nov and harvested in March-April. Kharif crops (monsoon crops) include paddy, maize, cotton, jowar, bajra, and soybean. Zaid crops (summer) include watermelon, cucumber, and gourds."
+    },
+    "coreConcept": {
+      "hi": "भारतीय अर्थव्यवस्था एवं भूगोल - भारतीय सस्य ऋतुएं (Cropping Seasons of India)।",
+      "en": "Indian Economy & Agriculture - Cropping seasons, irrigation dependencies, and crop calendars."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC में फसलों की ऋतुओं (Rabi vs Kharif vs Zaid) से जुड़े प्रश्न निरंतर पूछे जाते हैं।",
+      "en": "Crop season differentiation is repeatedly tested in UPPSC Agriculture section."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "economy",
+      "agriculture",
+      "kharif",
+      "rabi",
+      "mustard",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-HINDI-004",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "वाक्य एवं वर्तनी शुद्धि",
+    "subtopic": "Spelling Correction (Gender Forms)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से 'कवि' का शुद्ध स्त्रीलिंग शब्द कौन सा है?",
+      "en": "Which of the following is the grammatically and orthographically correct feminine form of the Hindi word 'Kavi' (Poet)?"
+    },
+    "options": {
+      "hi": [
+        "कवयित्री",
+        "कवियत्री",
+        "कवयत्री",
+        "कविइत्री"
+      ],
+      "en": [
+        "Kavayitri (कवयित्री)",
+        "Kaviyatri",
+        "Kavayatri",
+        "Kavi-itri"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'कवि' का शुद्ध मानक स्त्रीलिंग 'कवयित्री' होता है। (यहाँ 'कव' के बाद 'य' पर छोटी इ की मात्रा 'यि' और 'त्र' पर बड़ी ई की मात्रा 'त्री' लगती है; 'क' और 'व' पर कोई मात्रा नहीं होती)।\n\nअन्य अशुद्ध रूप:\n• कवियत्री ➔ अशुद्ध\n• कवयत्री ➔ अशुद्ध\n• कविइत्री ➔ अशुद्ध।",
+      "en": "The standard orthographically correct feminine form of 'Kavi' is 'कवयित्री' (Kavayitri). The root alters from Kavi to Kavay-itri."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी / वासुदेव नंदन प्रसाद - हिन्दी वर्तनी शुद्धि के नियम।",
+      "en": "Standard Hindi Orthography - Gender transformation rules for poet."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO और UP PCS में कम से कम 10 बार पूछा गया सदाबहार प्रश्न।",
+      "en": "Tested more than 10 times across UPPSC examinations."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vartani",
+      "kavayitri",
+      "pyq-2023"
+    ]
+  },
+  {
     "id": "ROARO-PYQ-2021-GS-001",
     "year": 2021,
     "stage": "PRELIMS",
     "paper": "GENERAL_STUDIES",
     "subject": "Indian Polity",
-    "topic": "Constitutional Amendments",
-    "subtopic": "Panchayati Raj",
+    "topic": "पंचायती राज व्यवस्था",
+    "subtopic": "73rd Amendment & 11th Schedule",
     "difficulty": "medium",
     "type": "mcq",
     "question": {
-      "hi": "भारतीय संविधान के 73वें संशोधन अधिनियम, 1992 द्वारा संविधान में कौन सी अनुसूची जोड़ी गई थी?",
-      "en": "Which Schedule was added to the Constitution by the 73rd Constitutional Amendment Act, 1992?"
+      "hi": "भारतीय संविधान के 73वें संशोधन अधिनियम, 1992 द्वारा संविधान में कौन सी अनुसूची जोड़ी गई तथा इसमें पंचायतों के लिए कितने विषय रखे गए?",
+      "en": "Which Schedule was added to the Constitution by the 73rd Amendment Act, 1992, and how many functional subjects were allocated to Panchayats?"
     },
     "options": {
-      "hi": ["9वीं अनुसूची", "10वीं अनुसूची", "11वीं अनुसूची", "12वीं अनुसूची"],
-      "en": ["9th Schedule", "10th Schedule", "11th Schedule", "12th Schedule"]
+      "hi": [
+        "11वीं अनुसूची, 29 विषय",
+        "12वीं अनुसूची, 18 विषय",
+        "10वीं अनुसूची, 22 विषय",
+        "9वीं अनुसूची, 28 विषय"
+      ],
+      "en": [
+        "11th Schedule, 29 Subjects",
+        "12th Schedule, 18 Subjects",
+        "10th Schedule, 22 Subjects",
+        "9th Schedule, 28 Subjects"
+      ]
     },
-    "answer": 2,
+    "answer": 0,
     "explanation": {
-      "hi": "73वें संविधान संशोधन अधिनियम, 1992 द्वारा संविधान में भाग-9 और 11वीं अनुसूची जोड़ी गई, जिसमें पंचायतों के कार्य हेतु 29 विषय शामिल हैं। (12वीं अनुसूची 74वें संशोधन द्वारा नगरपालिकाओं हेतु जोड़ी गई थी)।",
-      "en": "The 73rd Constitutional Amendment Act, 1992 inserted Part IX and the 11th Schedule listing 29 functional items for Panchayats. (12th Schedule relates to Municipalities under 74th Amendment)."
+      "hi": "73वें संविधान संशोधन अधिनियम, 1992 (जो 24 अप्रैल 1993 से प्रभावी हुआ) द्वारा संविधान में 'भाग-9' (अनुच्छेद 243 से 243-O) तथा '11वीं अनुसूची' जोड़ी गई। 11वीं अनुसूची में पंचायतों को कार्य करने हेतु कुल 29 कार्यात्मक विषय (Functional Items) सौंपे गए हैं।\n\nअन्य अनुसूचियां:\n• 12वीं अनुसूची (74वां संशोधन, 1992): नगरपालिकाओं हेतु 18 विषय।\n• 10वीं अनुसूची (52वां संशोधन, 1985): दल-बदल विरोधी कानून।\n• 9वीं अनुसूची (प्रथम संशोधन, 1951): भूमि सुधार एवं न्यायिक समीक्षा संरक्षण।",
+      "en": "The 73rd Constitutional Amendment Act, 1992 (effective from 24 April 1993) inserted Part IX and the 11th Schedule, enumerating 29 functional subjects for Panchayats. The 12th Schedule (74th Amendment) allocated 18 subjects to urban Municipalities."
     },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: पंचायती राज) - 73वां संविधान संशोधन अधिनियम और 11वीं अनुसूची के 29 विषय।",
+      "en": "M. Laxmikanth - Panchayati Raj, 73rd Constitutional Amendment Act."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO (2014, 2017, 2021) में लगातार पूछा गया कोर प्रश्न।",
+      "en": "Repeated in 2014, 2017, and 2021 RO/ARO Prelims."
+    },
+    "repetitionCount": 6,
     "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
     "officialStatus": true,
-    "tags": ["polity", "panchayat", "73rd-amendment", "pyq-2021"]
+    "tags": [
+      "polity",
+      "panchayat",
+      "73rd-amendment",
+      "11th-schedule",
+      "pyq-2021"
+    ]
   },
   {
     "id": "ROARO-PYQ-2021-HINDI-001",
@@ -37,21 +579,46 @@
     "difficulty": "easy",
     "type": "mcq",
     "question": {
-      "hi": "'जंगम' शब्द का सही विलोम क्या है?",
-      "en": "What is the correct antonym of the Hindi word 'Jangam' (Movable)?"
+      "hi": "'जंगम' शब्द का सटीक विलोम शब्द क्या है?",
+      "en": "What is the correct antonym of the Hindi word 'Jangam' (Movable/Mobile)?"
     },
     "options": {
-      "hi": ["अगम", "दुर्गम", "स्थावर", "चंचल"],
-      "en": ["Agam", "Durgam", "Sthavar", "Chanchal"]
+      "hi": [
+        "अगम",
+        "दुर्गम",
+        "स्थावर",
+        "चंचल"
+      ],
+      "en": [
+        "Agam",
+        "Durgam",
+        "Sthavar",
+        "Chanchal"
+      ]
     },
     "answer": 2,
     "explanation": {
-      "hi": "'जंगम' का अर्थ है जो चल सकता हो (चलायमान)। इसका सटीक विलोम 'स्थावर' है (जो स्थिर रहे, अचल)। 'अगम' का विलोम 'सुगम' होता है।",
-      "en": "'Jangam' denotes mobile/movable. Its classic antonym is 'Sthavar' (immobile/stationary)."
+      "hi": "'जंगम' का अर्थ है: जो चल सकता हो या चलायमान हो। इसका सटीक शास्त्रीय विलोम 'स्थावर' (स्थिर/अचल/जो एक ही स्थान पर रहे) होता है।\n\nअन्य विकल्पों का विश्लेषण:\n• अगम का विलोम = सुगम (या गम्य)\n• दुर्गम का विलोम = सुगम\n• चंचल का विलोम = स्थिर या शांत।",
+      "en": "'Jangam' denotes living/movable entities. Its classical antonym is 'Sthavar' (immovable/stationary). 'Agam' and 'Durgam' contrast with 'Sugam', while 'Chanchal' contrasts with 'Sthir'."
     },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - प्रामाणिक हिन्दी शब्दकोश (जंगम ➔ स्थावर संपत्ति संदर्भ)।",
+      "en": "Hardev Bahri - Classical Antonyms in Hindi jurisprudence and literature."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2013, 2017, 2021 का सर्वाधिक बार दोहराया गया प्रश्न।",
+      "en": "Most repeated antonym in UPPSC RO/ARO history."
+    },
+    "repetitionCount": 7,
     "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
     "officialStatus": true,
-    "tags": ["hindi", "vilom", "pyq-2021"]
+    "tags": [
+      "hindi",
+      "vilom",
+      "jangam",
+      "sthavar",
+      "pyq-2021"
+    ]
   },
   {
     "id": "ROARO-PYQ-2021-UPGK-001",
@@ -59,53 +626,310 @@
     "stage": "PRELIMS",
     "paper": "GENERAL_STUDIES",
     "subject": "UP Special Knowledge",
-    "topic": "Geography & Districts",
-    "subtopic": "District Borders",
+    "topic": "उत्तर प्रदेश का भौतिक भूगोल",
+    "subtopic": "District Boundaries and Borders",
     "difficulty": "medium",
     "type": "mcq",
     "question": {
-      "hi": "उत्तर प्रदेश का निम्नलिखित में से कौन सा जिला चार राज्यों की सीमाओं को स्पर्श करता है?",
-      "en": "Which of the following districts of Uttar Pradesh touches the borders of four states?"
+      "hi": "उत्तर प्रदेश का निम्नलिखित में से कौन सा जिला भारत के चार राज्यों की सीमाओं को स्पर्श करता है?",
+      "en": "Which of the following districts of Uttar Pradesh touches the borders of four different Indian states?"
     },
     "options": {
-      "hi": ["सहारनपुर", "सोनभद्र", "बलिया", "ललितपुर"],
-      "en": ["Saharanpur", "Sonbhadra", "Ballia", "Lalitpur"]
+      "hi": [
+        "सहारनपुर",
+        "सोनभद्र",
+        "बलिया",
+        "ललितपुर"
+      ],
+      "en": [
+        "Saharanpur",
+        "Sonbhadra",
+        "Ballia",
+        "Lalitpur"
+      ]
     },
     "answer": 1,
     "explanation": {
-      "hi": "सोनभद्र भारत का एकमात्र ऐसा जिला है जो चार राज्यों (मध्य प्रदेश, छत्तीसगढ़, झारखंड और बिहार) की सीमाओं को स्पर्श करता है। सहारनपुर तीन राज्यों (उत्तराखंड, हिमाचल प्रदेश, हरियाणा) को छूता है।",
-      "en": "Sonbhadra is the unique district in India bordering four states: MP, Chhattisgarh, Jharkhand, and Bihar. Saharanpur borders three states."
+      "hi": "'सोनभद्र' भारत का एकमात्र ऐसा जिला है जो चार राज्यों की सीमाओं को स्पर्श करता है:\n1. मध्य प्रदेश (पश्चिम में)\n2. छत्तीसगढ़ (दक्षिण में)\n3. झारखंड (दक्षिण-पूर्व में)\n4. बिहार (पूर्व में)।\n\nअन्य जिलों की सीमाएं:\n• सहारनपुर: तीन राज्यों (उत्तराखंड, हिमाचल प्रदेश और हरियाणा) को स्पर्श करता है।\n• ललितपुर: तीन तरफ से मध्य प्रदेश से घिरा हुआ है।\n• बलिया: उत्तर प्रदेश का सबसे पूर्वी जिला है जो केवल बिहार को छूता है।",
+      "en": "Sonbhadra is the unique district in India sharing borders with four states: Madhya Pradesh, Chhattisgarh, Jharkhand, and Bihar. Saharanpur touches three states (Uttarakhand, HP, Haryana). Lalitpur is enveloped on three sides by MP, and Ballia borders Bihar."
     },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - अध्याय 1: उत्तर प्रदेश का भौगोलिक स्वरूप एवं सीमावर्ती राज्य।",
+      "en": "UP Pariksha Vani - Chapter 1: Geographical boundaries and border alignments of UP."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO (2013, 2017, 2021) में 4 बार पूछा गया।",
+      "en": "Tested in UPPSC RO/ARO 2013, 2017, and 2021."
+    },
+    "repetitionCount": 4,
     "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
     "officialStatus": true,
-    "tags": ["up-gk", "geography", "borders", "pyq-2021"]
+    "tags": [
+      "up-gk",
+      "geography",
+      "sonbhadra",
+      "borders",
+      "pyq-2021"
+    ]
   },
   {
-    "id": "ROARO-PYQ-2016-INM-001",
-    "year": 2016,
+    "id": "ROARO-PYQ-2021-INM-001",
+    "year": 2021,
     "stage": "PRELIMS",
     "paper": "GENERAL_STUDIES",
     "subject": "Indian National Movement",
-    "topic": "1942 Movement",
-    "subtopic": "Parallel Government",
-    "difficulty": "easy",
+    "topic": "क्रांतिकारी राष्ट्रवाद",
+    "subtopic": "Kakori Train Action Martyrs and Jails",
+    "difficulty": "medium",
     "type": "mcq",
     "question": {
-      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान उत्तर प्रदेश के किस जिले में समानांतर सरकार की स्थापना हुई थी?",
-      "en": "During the Quit India Movement of 1942, in which district of UP was a parallel government formed?"
+      "hi": "काकोरी ट्रेन एक्शन (9 अगस्त 1925) के तहत हिंदुस्तान रिपब्लिकन एसोसिएशन (HRA) के अमर शहीद पंडित राम प्रसाद बिस्मिल को किस जेल में फांसी दी गई थी?",
+      "en": "Under the Kakori Train Action (9 August 1925), in which prison was the revolutionary Pandit Ram Prasad Bismil hanged?"
     },
     "options": {
-      "hi": ["इलाहाबाद", "बलिया", "लखनऊ", "गोरखपुर"],
-      "en": ["Allahabad", "Ballia", "Lucknow", "Gorakhpur"]
+      "hi": [
+        "गोरखपुर जेल",
+        "फैजाबाद जेल",
+        "नैनी (प्रयागराज) जेल",
+        "गोंडा जेल"
+      ],
+      "en": [
+        "Gorakhpur Jail",
+        "Faizabad Jail",
+        "Naini (Prayagraj) Jail",
+        "Gonda Jail"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "काकोरी ट्रेन एक्शन (9 अगस्त 1925) में चार प्रमुख क्रांतिकारियों को 19 दिसंबर 1927 को फांसी दी गई थी:\n• पंडित राम प्रसाद बिस्मिल ➔ गोरखपुर जेल (19 दिसंबर 1927)\n• अशफाक उल्ला खां ➔ फैजाबाद जेल (अयोध्या)\n• ठाकुर रोशन सिंह ➔ नैनी सेंट्रल जेल (प्रयागराज)\n• राजेन्द्र लाहिड़ी ➔ गोंडा जेल (17 दिसंबर 1927 - निर्धारित तिथि से 2 दिन पूर्व ही फांसी)।",
+      "en": "Four immortal HRA revolutionaries were martyred following the Kakori Action:\n• Pt. Ram Prasad Bismil ➔ Gorakhpur Jail (19 Dec 1927)\n• Ashfaqulla Khan ➔ Faizabad Jail\n• Thakur Roshan Singh ➔ Naini Jail (Prayagraj)\n• Rajendra Lahiri ➔ Gonda Jail (17 Dec 1927, hanged two days in advance)."
+    },
+    "coreConcept": {
+      "hi": "बिपिन चंद्र (भारत का स्वतंत्रता संग्राम) - हिंदुस्तान रिपब्लिकन एसोसिएशन (HRA) और काकोरी कांड।",
+      "en": "Bipan Chandra - India's Struggle for Independence; Revolutionary nationalism and Kakori martyrs."
+    },
+    "repeatNotes": {
+      "hi": "काकोरी शहीदों और उनकी जेलों का सुमेलन UPPSC परीक्षा का अत्यंत प्रिय प्रश्न है।",
+      "en": "Matching Kakori martyrs to their respective execution jails is repeatedly tested by UPPSC."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "inm",
+      "kakori",
+      "bismil",
+      "gorakhpur",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-GEO-001",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Geography",
+    "topic": "भारतीय अपवाह तंत्र (Drainage System)",
+    "subtopic": "Left and Right Bank Tributaries of Ganga",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन सी नदी गंगा के बाएं किनारे (Left Bank) की सहायक नदी नहीं है?",
+      "en": "Which of the following is NOT a left-bank tributary of the River Ganga?"
+    },
+    "options": {
+      "hi": [
+        "रामगंगा",
+        "गोमती",
+        "घाघरा",
+        "सोन"
+      ],
+      "en": [
+        "Ramganga",
+        "Gomti",
+        "Ghaghra",
+        "Son"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "सोन नदी (Son River) मध्य प्रदेश के अमरकंटक पठार से निकलकर उत्तर दिशा में बहती हुई पटना के समीप गंगा के 'दाएं किनारे' (Right Bank) पर मिलती है।\n\nगंगा की सहायक नदियों का वर्गीकरण:\n• बाएं किनारे की सहायक नदियां (Left Bank): रामगंगा, गोमती, घाघरा (सरयू), गंडक, बूढ़ी गंडक, कोसी, महानंदा।\n• दाएं किनारे की सहायक नदियां (Right Bank): यमुना (सबसे बड़ी सहायक नदी), सोन, पुनपुन, टोन्स।",
+      "en": "The Son river originates from the Amarkantak plateau and joins Ganga's right bank near Patna. Ramganga, Gomti, Ghaghra, Gandak, and Kosi join from the left bank; Yamuna, Son, and Punpun join from the right bank."
+    },
+    "coreConcept": {
+      "hi": "माजिद हुसैन (भारत का भूगोल) - गंगा नदी तंत्र एवं उसकी प्रमुख सहायक नदियां।",
+      "en": "Majid Husain - Drainage Systems of India: Ganga River Basin."
+    },
+    "repeatNotes": {
+      "hi": "गंगा और यमुना की बाएं/दाएं तट की सहायक नदियों पर UPPSC में कई बार प्रश्न पूछा गया है।",
+      "en": "Bank orientation of Himalayan/Peninsular rivers is frequently quizzed."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "geography",
+      "ganga",
+      "son",
+      "rivers",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-HINDI-002",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "अनेक शब्दों के लिए एक शब्द",
+    "subtopic": "One Word Substitution",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "'मदिरा पीने का प्याला' — इस वाक्यांश के लिए एक प्रामाणिक शुद्ध शब्द कौन सा है?",
+      "en": "What is the authentic single word for the phrase 'A cup used for drinking wine'?"
+    },
+    "options": {
+      "hi": [
+        "चश्म",
+        "चषक",
+        "चशक",
+        "चसक"
+      ],
+      "en": [
+        "Chashm",
+        "Chashak (चषक)",
+        "Chashak (चशक)",
+        "Chasak"
+      ]
     },
     "answer": 1,
     "explanation": {
-      "hi": "अगस्त 1942 में चित्तू पांडे के नेतृत्व में बलिया में समानांतर सरकार की स्थापना हुई थी, जिसे 'बागी बलिया' भी कहा जाता है।",
-      "en": "In August 1942, Chittu Pandey formed a parallel government in Ballia, which lasted for several days."
+      "hi": "'मदिरा पीने का प्याला' के लिए प्रामाणिक शब्द 'चषक' (षटकोण वाला 'ष') होता है।\n\nअन्य शब्दों का अर्थ:\n• चश्म = आंख (नेत्र)\n• चशक/चसक = वर्तनी की दृष्टि से अशुद्ध।",
+      "en": "The authentic Sanskrit/Hindi word for a wine goblet is 'चषक' (Chashak with retroflex sibilant 'ṣ'). 'Chashm' means eye."
     },
-    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "coreConcept": {
+      "hi": "डॉ. वासुदेव नंदन प्रसाद - अनेक शब्दों के लिए एक शब्द।",
+      "en": "Vasudev Nandan Prasad - Classical One Word Substitutions in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2014, 2017, 2021 में पूछा गया प्रसिद्ध प्रश्न।",
+      "en": "Asked repeatedly in UPPSC RO/ARO 2014, 2017, and 2021."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
     "officialStatus": true,
-    "tags": ["inm", "quit-india", "ballia", "pyq-2016"]
+    "tags": [
+      "hindi",
+      "anek-shabd",
+      "chashak",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-SCIENCE-001",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "General Science",
+    "topic": "भौतिक विज्ञान (Physics)",
+    "subtopic": "Photovoltaic Cells & Energy Conversion",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "प्रकाश वोल्टीय सेल (Photovoltaic Cell) निम्नलिखित में से किस सिद्धांत पर कार्य करते हैं?",
+      "en": "Photovoltaic cells operate on which of the following principles?"
+    },
+    "options": {
+      "hi": [
+        "सौर ऊर्जा को सीधे विद्युत ऊर्जा में परिवर्तित करना",
+        "सौर ऊर्जा को तापीय ऊर्जा में परिवर्तित करना",
+        "विद्युत ऊर्जा को प्रकाश ऊर्जा में परिवर्तित करना",
+        "रासायनिक ऊर्जा को विद्युत ऊर्जा में परिवर्तित करना"
+      ],
+      "en": [
+        "Directly converting solar energy into electrical energy",
+        "Converting solar energy into thermal energy",
+        "Converting electrical energy into light energy",
+        "Converting chemical energy into electrical energy"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "प्रकाश वोल्टीय सेल (सोलर सेल) अर्धचालक (जैसे सिलिकॉन, गैलियम आर्सेनाइड) से बने होते हैं जो प्रकाश विद्युत प्रभाव (Photovoltaic Effect) द्वारा सूर्य के प्रकाश (फोटॉनों) को सीधे विद्युत धारा (विद्युत ऊर्जा) में परिवर्तित करते हैं।\n\nअन्य रूपांतरण:\n• सोलर कुकर / सोलर वॉटर हीटर ➔ सौर ऊर्जा को तापीय ऊर्जा में बदलते हैं।\n• विद्युत बल्ब / LED ➔ विद्युत ऊर्जा को प्रकाश ऊर्जा में बदलते हैं।\n• बैटरी / शुष्क सेल ➔ रासायनिक ऊर्जा को विद्युत ऊर्जा में बदलते हैं।",
+      "en": "Photovoltaic cells (solar cells) are semiconductor devices (primarily silicon) that convert solar photon radiation directly into electricity via the photovoltaic effect. Batteries convert chemical energy into electricity, and LEDs convert electrical energy into light."
+    },
+    "coreConcept": {
+      "hi": "NCERT Class 10 Science (ऊर्जा के स्रोत) - सौर ऊर्जा एवं फोटोवोल्टाइक प्रौद्योगिकी।",
+      "en": "NCERT Class 10 Science - Sources of Energy; Photovoltaic technology."
+    },
+    "repeatNotes": {
+      "hi": "नवीकरणीय ऊर्जा और सोलर सेल पर UPPSC में हर चक्र में प्रश्न पूछे जाते हैं।",
+      "en": "Renewable energy and solar PV questions recur consistently in UPPSC."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "science",
+      "physics",
+      "solar",
+      "photovoltaic",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-MAINS-HINDI-001",
+    "year": 2021,
+    "stage": "MAINS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "वाक्य एवं वर्तनी शुद्धि",
+    "subtopic": "Complex Orthography",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से किस शब्द की वर्तनी अशुद्ध है?",
+      "en": "Which of the following words has an INCORRECT spelling in Hindi?"
+    },
+    "options": {
+      "hi": [
+        "ज्योत्स्ना",
+        "शूर्पणखा",
+        "कौसल्या",
+        "श्रृंगार"
+      ],
+      "en": [
+        "Jyotsna",
+        "Shoorpanakha",
+        "Kausalya",
+        "Shringar (श्रृंगार)"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "'श्रृंगार' वर्तनी अशुद्ध है। इसका शुद्ध मानक रूप 'शृंगार' होता है (ऋ की मात्रा 'श' के मूल वर्ण के नीचे लगती है, इसमें 'र' का पदेन नहीं जुड़ता)।\n\nअन्य शुद्ध वर्तनी शब्द:\n• 'ज्योत्स्ना' शुद्ध है (आधा 'त' और आधा 'स')।\n• 'शूर्पणखा' शुद्ध है ('ण' और 'ख')।\n• 'कौसल्या' (तथा 'कौशल्या') दोनों प्रामाणिक माने जाते हैं, परंतु वाल्मीकि रामायण व मानक शब्दकोश में 'कौसल्या' शुद्ध रूप में प्रयुक्त है।",
+      "en": "'श्रृंगार' is orthographically incorrect. The standard Sanskrit/Hindi form is 'शृंगार' with the vocalic vowel 'ṛ' attached to 'ś', without an extra 'r' consonant ligature. Jyotsna and Shoorpanakha are strictly correct."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - शुद्ध हिन्दी वर्तनी नियम (शृंगार, शृंखला, ऋतु का मानक स्वरूप)।",
+      "en": "Dr. Hardev Bahri - Rules of Standard Hindi Orthography regarding vocalic 'ṛ'."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO मुख्य परीक्षा 2021 और प्रारंभिक 2017 में दोहराया गया।",
+      "en": "Tested in UPPSC RO/ARO Mains 2021 and Prelims 2017."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vartani",
+      "shringar",
+      "mains",
+      "pyq-2021"
+    ]
   },
   {
     "id": "ROARO-PYQ-2017-HINDI-001",
@@ -114,7 +938,7 @@
     "paper": "GENERAL_HINDI",
     "subject": "General Hindi",
     "topic": "विशेष्य और विशेषण",
-    "subtopic": "Adjectives",
+    "subtopic": "Sentence Parsing and Visheshya Count",
     "difficulty": "hard",
     "type": "mcq",
     "question": {
@@ -122,17 +946,455 @@
       "en": "In the sentence 'Ek chatur balak ne bahut sara doodh pee liya', how many adjectives and nouns (visheshya) are present?"
     },
     "options": {
-      "hi": ["दो विशेषण, दो विशेष्य", "तीन विशेषण, दो विशेष्य", "चार विशेषण, दो विशेष्य", "तीन विशेषण, तीन विशेष्य"],
-      "en": ["Two adjectives, two visheshya", "Three adjectives, two visheshya", "Four adjectives, two visheshya", "Three adjectives, three visheshya"]
+      "hi": [
+        "दो विशेषण, दो विशेष्य",
+        "तीन विशेषण, दो विशेष्य",
+        "चार विशेषण, दो विशेष्य",
+        "तीन विशेषण, तीन विशेष्य"
+      ],
+      "en": [
+        "Two adjectives, two visheshya",
+        "Three adjectives, two visheshya",
+        "Four adjectives, two visheshya",
+        "Three adjectives, three visheshya"
+      ]
     },
     "answer": 1,
     "explanation": {
-      "hi": "विशेषण: (1) एक (संख्यावाचक), (2) चतुर (गुणवाचक), (3) बहुत सारा (अनिश्चित परिमाणवाचक) = 3 विशेषण। विशेष्य: (1) बालक, (2) दूध = 2 विशेष्य। अतः 'तीन विशेषण, दो विशेष्य' सही है।",
-      "en": "Adjectives: 'एक', 'चतुर', 'बहुत सारा' (3 adjectives). Visheshya (nouns qualified): 'बालक', 'दूध' (2 visheshya)."
+      "hi": "विशेषण (3 शब्द):\n1. 'एक' ➔ निश्चित संख्यावाचक विशेषण (बालक के लिए)\n2. 'चतुर' ➔ गुणवाचक विशेषण (बालक के लिए)\n3. 'बहुत सारा' ➔ अनिश्चित परिमाणवाचक विशेषण (दूध के लिए)।\n\nविशेष्य (2 शब्द):\n1. 'बालक' (संज्ञा)\n2. 'दूध' (संज्ञा)।\nअतः वाक्य में 'तीन विशेषण और दो विशेष्य' हैं।",
+      "en": "Adjectives (3): 'Ek' (numeral modifying Balak), 'Chatur' (qualitative modifying Balak), and 'Bahut sara' (quantitative modifying Doodh). Visheshya/Nouns (2): 'Balak' and 'Doodh'. Hence 3 adjectives and 2 visheshya."
     },
+    "coreConcept": {
+      "hi": "हिन्दी व्याकरण - विशेष्य-विशेषण संबंध (संख्यावाचक, गुणवाचक और परिमाणवाचक विशेषण)।",
+      "en": "Hindi Grammar - Identification of Numeral, Qualitative, and Quantitative adjectives."
+    },
+    "repeatNotes": {
+      "hi": "RO/ARO प्रारंभिक परीक्षा 2017 का बहुचर्चित प्रश्न।",
+      "en": "Prominent question from UPPSC RO/ARO Prelims 2017."
+    },
+    "repetitionCount": 3,
     "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
     "officialStatus": true,
-    "tags": ["hindi", "visheshan", "visheshya", "pyq-2017"]
+    "tags": [
+      "hindi",
+      "visheshan",
+      "visheshya",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-HINDI-002",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "वाक्य एवं वर्तनी शुद्धि",
+    "subtopic": "Sandhi Orthography",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से शुद्ध वर्तनी वाला शब्द कौन सा है?",
+      "en": "Which of the following is the orthographically correct spelling in Hindi?"
+    },
+    "options": {
+      "hi": [
+        "उज्वल",
+        "उज्जवल",
+        "उज्ज्वल",
+        "ऊज्वल"
+      ],
+      "en": [
+        "Ujwal",
+        "Ujjawal",
+        "Ujjwal (उज्ज्वल)",
+        "Oojwal"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "शुद्ध वर्तनी 'उज्ज्वल' है।\nव्यंजन संधि नियम: उत् + ज्वल = उज्ज्वल।\nयहाँ 'त्' का परिवर्तन आधे 'ज्' में होता है, और आगे 'ज्वल' में पहले से आधा 'ज्' उपस्थित होता है, जिससे दोनों 'ज्' आधे (हलंत युक्त) होते हैं। यह शब्द UPPSC की परीक्षाओं में सबसे ज्यादा पूछा जाने वाला प्रश्न है।",
+      "en": "The correct spelling is 'उज्ज्वल' (Ut + Jwal = Ujjwal) with two half 'ja' consonants based on Sanskrit consonantal Sandhi rules."
+    },
+    "coreConcept": {
+      "hi": "संस्कृत व्यंजन संधि नियम (त् + ज् = ज्ज्)।",
+      "en": "Sanskrit Consonant Sandhi: t + j = jj assimilation."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO और UP PCS में 12 बार से अधिक बार पूछा गया प्रश्न।",
+      "en": "Repeated over 12 times in UPPSC exam history."
+    },
+    "repetitionCount": 12,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vartani",
+      "ujjwal",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-GS-001",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "General Science",
+    "topic": "जीव विज्ञान (Biology)",
+    "subtopic": "Endocrine System & Hormones",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "मानव शरीर में रक्त शर्करा (Blood Glucose) के स्तर को नियंत्रित करने वाला पेप्टाइड हार्मोन 'इंसुलिन' किस ग्रंथि द्वारा स्रावित होता है?",
+      "en": "The peptide hormone 'Insulin', which regulates blood glucose levels in humans, is secreted by which organ/gland?"
+    },
+    "options": {
+      "hi": [
+        "यकृत (Liver)",
+        "अग्न्याशय (Pancreas)",
+        "थायरॉयड (Thyroid)",
+        "पीयूष ग्रंथि (Pituitary)"
+      ],
+      "en": [
+        "Liver",
+        "Pancreas",
+        "Thyroid",
+        "Pituitary Gland"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "इंसुलिन एक पेप्टाइड हार्मोन है जो अग्न्याशय (Pancreas) में स्थित लैंगरहेंस की द्वीपिकाओं (Islets of Langerhans) की बीटा कोशिकाओं (Beta cells) द्वारा स्रावित होता है। इंसुलिन रक्त में ग्लूकोज को ग्लाइकोजन में बदलकर यकृत व मांसपेशियों में संचित करता है। इसकी कमी से 'मधुमेह' (Diabetes Mellitus) होता है।\n\nअन्य ग्रंथियों के कार्य:\n• यकृत: पित्त रस (Bile juice) का निर्माण करता है (यह शरीर की सबसे बड़ी ग्रंथि है)।\n• थायरॉयड: थायरोक्सिन हार्मोन स्रावित करती है जो उपापचय (Metabolism) नियंत्रित करता है।\n• पीयूष ग्रंथि: इसे 'मास्टर ग्रंथि' कहते हैं जो वृद्धि हार्मोन (GH) आदि स्रावित करती है।",
+      "en": "Insulin is secreted by beta cells of the Islets of Langerhans in the Pancreas. It facilitates glucose uptake and glycogen storage. Deficiency results in Diabetes Mellitus. Liver produces bile, Thyroid secretes thyroxine, and Pituitary is the master gland."
+    },
+    "coreConcept": {
+      "hi": "NCERT Class 11 Biology (रासायनिक समन्वय तथा एकीकरण) - अंतःस्रावी ग्रंथियां एवं हार्मोन।",
+      "en": "NCERT Class 11 Biology - Endocrine glands, hormonal regulation of carbohydrate metabolism."
+    },
+    "repeatNotes": {
+      "hi": "इंसुलिन, अग्न्याशय और बीटा कोशिकाओं पर UPPSC में कम से कम 6 बार प्रश्न पूछा गया है।",
+      "en": "Recurring biology topic in UPPSC exams (6+ times)."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "science",
+      "biology",
+      "insulin",
+      "pancreas",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-UPGK-001",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश की संस्कृति एवं मेले",
+    "subtopic": "Bateshwar Cattle Fair",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश में प्रसिद्ध 'बटेश्वर मेला' (पशु मेला) किस जिले में आयोजित किया जाता है?",
+      "en": "In which district of Uttar Pradesh is the celebrated 'Bateshwar Fair' (Cattle Fair) organized?"
+    },
+    "options": {
+      "hi": [
+        "वाराणसी",
+        "आगरा",
+        "मथुरा",
+        "मेरठ"
+      ],
+      "en": [
+        "Varanasi",
+        "Agra",
+        "Mathura",
+        "Meerut"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "बटेश्वर मेला आगरा जिले में यमुना नदी के तट पर स्थित बटेश्वर धाम में कार्तिक शुक्ल द्वितीया से प्रारंभ होने वाला प्रसिद्ध प्राचीन पशु एवं ऊंट मेला है। यहाँ भगवान शिव के 101 मंदिरों की श्रृंखला है। यह पूर्व प्रधानमंत्री भारत रत्न अटल बिहारी वाजपेयी जी का पैतृक गांव भी है।\n\nअन्य जिलों के प्रमुख मेले:\n• मेरठ: 'नौचंदी मेला' (सांप्रदायिक सौहार्द का प्रतीक)।\n• मथुरा: मुड़िया पूनो मेला, लठमार होली (बरसाना)।\n• वाराणसी: देव दीपावली, रथयात्रा मेला।",
+      "en": "Bateshwar Fair is an ancient cattle and camel fair held in Agra district on the banks of Yamuna, famous for 101 Shiva temples and as the ancestral home of former PM Atal Bihari Vajpayee. Nauchandi fair is held in Meerut, and Mudia Puno in Mathura."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - प्रमुख मेले, उत्सव एवं पर्यटन स्थल।",
+      "en": "UP Pariksha Vani - Fairs, Festivals, and Cultural Heritage of Uttar Pradesh."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2014, 2017 और UP PCS में निरंतर पूछा गया।",
+      "en": "Repeated in UPPSC RO/ARO 2014 and 2017."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "fairs",
+      "agra",
+      "bateshwar",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-POLITY-001",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "संसद एवं विधायी प्रक्रिया",
+    "subtopic": "Joint Sitting of Parliament (Article 108)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के अनुच्छेद 108 के अंतर्गत दोनों सदनों की संयुक्त बैठक (Joint Sitting) कौन आहूत करता है और इसकी अध्यक्षता कौन करता है?",
+      "en": "Under Article 108 of the Constitution, who summons the Joint Sitting of both Houses of Parliament, and who presides over it?"
+    },
+    "options": {
+      "hi": [
+        "राष्ट्रपति आहूत करता है और अध्यक्षता लोकसभा अध्यक्ष करता है",
+        "राष्ट्रपति आहूत करता है और अध्यक्षता उपराष्ट्रपति करता है",
+        "प्रधानमंत्री आहूत करता है और अध्यक्षता लोकसभा अध्यक्ष करता है",
+        "लोकसभा अध्यक्ष आहूत करता है और वही अध्यक्षता करता है"
+      ],
+      "en": [
+        "President summons and Lok Sabha Speaker presides",
+        "President summons and Vice President presides",
+        "Prime Minister summons and Lok Sabha Speaker presides",
+        "Lok Sabha Speaker summons and presides"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "संविधान के अनुच्छेद 108 के अनुसार, साधारण विधेयक पर दोनों सदनों में गतिरोध होने पर भारत के 'राष्ट्रपति' द्वारा संयुक्त बैठक आहूत की जाती है।\nअनुच्छेद 118(4) के अनुसार, इस संयुक्त बैठक की अध्यक्षता 'लोकसभा अध्यक्ष' (Speaker of Lok Sabha) करता है। यदि अध्यक्ष अनुपस्थित हो, तो लोकसभा का उपाध्यक्ष और उसके भी अनुपस्थित होने पर राज्यसभा का उपसभापति अध्यक्षता करता है (राज्यसभा का सभापति/उपराष्ट्रपति कभी भी संयुक्त बैठक की अध्यक्षता नहीं करता क्योंकि वह संसद के किसी भी सदन का सदस्य नहीं होता)।",
+      "en": "Under Article 108, the President summons a Joint Sitting to resolve legislative deadlocks on ordinary bills. Under Article 118(4), the Speaker of Lok Sabha presides. The Vice-President (Chairman of Rajya Sabha) never presides as he is not a member of either House."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: संसद) - विधायी गतिरोध एवं दोनों सदनों की संयुक्त बैठक।",
+      "en": "M. Laxmikanth - Parliament: Joint Sitting provisions under Article 108 and 118."
+    },
+    "repeatNotes": {
+      "hi": "अनुच्छेद 108 और संयुक्त बैठक की अध्यक्षता पर UPPSC में 7 से अधिक बार प्रश्न पूछा गया है।",
+      "en": "Article 108 joint sitting rules have been quizzed 7+ times by UPPSC."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "parliament",
+      "joint-sitting",
+      "article-108",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-INM-001",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian National Movement",
+    "topic": "गांधीवादी चरण (1917-1947)",
+    "subtopic": "Champaran Satyagraha 1917",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "वर्ष 1917 के चंपारण सत्याग्रह में महात्मा गांधी को चंपारण आने और नील किसानों की दुर्दशा देखने का निमंत्रण किसने दिया था?",
+      "en": "In the Champaran Satyagraha of 1917, who invited Mahatma Gandhi to visit Champaran and inspect the plight of indigo cultivators?"
+    },
+    "options": {
+      "hi": [
+        "राजकुमार शुक्ल",
+        "डॉ. राजेंद्र प्रसाद",
+        "जे.बी. कृपलानी",
+        "ब्रजकिशोर प्रसाद"
+      ],
+      "en": [
+        "Raj Kumar Shukla",
+        "Dr. Rajendra Prasad",
+        "J.B. Kripalani",
+        "Brajkishore Prasad"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "वर्ष 1916 के लखनऊ कांग्रेस अधिवेशन में बिहार के चंपारण के स्थानीय किसान नेता 'पंडित राजकुमार शुक्ल' ने महात्मा गांधी से भेंट कर उन्हें चंपारण में यूरोपीय नीलहे बागान मालिकों द्वारा लागू शोषणकारी 'तीनकठिया पद्धति' (3/20 भाग पर नील की अनिवार्य खेती) की जांच करने हेतु आमंत्रित किया था। गांधीजी अप्रैल 1917 में चंपारण पहुंचे, जो भारत में उनका 'प्रथम सविनय अवज्ञा आंदोलन' बना।",
+      "en": "At the 1916 Lucknow Session of INC, local farmer leader Raj Kumar Shukla persuaded Mahatma Gandhi to visit Champaran to resist the oppressive Tinkathia system (compulsory cultivation of indigo on 3/20th of farmland). Champaran became Gandhi's first civil disobedience movement in India."
+    },
+    "coreConcept": {
+      "hi": "बिपिन चंद्र (भारत का स्वतंत्रता संग्राम) - गांधीजी का भारत आगमन एवं चंपारण, अहमदाबाद, खेड़ा आंदोलन।",
+      "en": "Bipan Chandra - Gandhi's rise in Indian politics and Champaran Satyagraha (1917)."
+    },
+    "repeatNotes": {
+      "hi": "राजकुमार शुक्ल और तीनकठिया प्रणाली पर UPPSC में 8 बार प्रश्न पूछा गया है।",
+      "en": "Tested 8 times across UPPSC exams."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "inm",
+      "champaran",
+      "gandhi",
+      "raj-kumar-shukla",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-HINDI-003",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'आविर्भाव' शब्द का सही विलोम क्या है?",
+      "en": "What is the correct antonym of the Hindi word 'Aavirbhav' (Emergence/Manifestation)?"
+    },
+    "options": {
+      "hi": [
+        "अनाविर्भाव",
+        "विभाव",
+        "तिरोभाव",
+        "अभाव"
+      ],
+      "en": [
+        "Anaavirbhav",
+        "Vibhav",
+        "Tirobhav (तिरोभाव)",
+        "Abhav"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "'आविर्भाव' (उत्पत्ति/प्रकट होना) का सटीक शास्त्रीय विलोम 'तिरोभाव' (अदृश्य होना/लोप होना) होता है।\nइसी प्रकार 'आविर्भूत' का विलोम 'तिरोभूत' होता है।\n\nअन्य शब्दों का अर्थ:\n• अभाव = कमी\n• विभाव = रस निष्पत्ति का एक अंग (आलंबन/उद्दीपन)।",
+      "en": "'Aavirbhav' (manifestation/emergence) pairs with 'Tirobhav' (disappearance/concealment). Similarly, 'Aavirbhoot' pairs with 'Tirobhoot'."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - प्रामाणिक हिन्दी शब्दकोश (आविर्भाव ➔ तिरोभाव)।",
+      "en": "Hardev Bahri - High-yield classical Sanskrit antonym pairs."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2014, 2017, 2021 में लगातार दोहराया गया।",
+      "en": "Repeated across 2010, 2014, 2017, and 2021 RO/ARO cycles."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vilom",
+      "aavirbhav",
+      "tirobhav",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-GEO-001",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Geography",
+    "topic": "भारत का भूगोल",
+    "subtopic": "Tropic of Cancer States",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "कर्क रेखा (23°30' N) भारत के कितने राज्यों से होकर गुजरती है?",
+      "en": "Through how many Indian states does the Tropic of Cancer (23°30' N) pass?"
+    },
+    "options": {
+      "hi": [
+        "6 राज्यों से",
+        "7 राज्यों से",
+        "8 राज्यों से",
+        "9 राज्यों से"
+      ],
+      "en": [
+        "6 States",
+        "7 States",
+        "8 States",
+        "9 States"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "कर्क रेखा (23.5° उत्तरी अक्षांश) भारत के कुल 8 राज्यों से होकर गुजरती है।\nपश्चिम से पूर्व की ओर सही क्रम:\n1. गुजरात\n2. राजस्थान\n3. मध्य प्रदेश (सर्वाधिक लम्बाई)\n4. छत्तीसगढ़\n5. झारखंड (रांची शहर कर्क रेखा के सर्वाधिक निकट है)\n6. पश्चिम बंगाल\n7. त्रिपुरा\n8. मिजोरम।\n*(नोट: उत्तर प्रदेश से कर्क रेखा नहीं गुजरती है; उत्तर प्रदेश से भारतीय मानक समय रेखा 82°30' E गुजरती है)।",
+      "en": "The Tropic of Cancer traverses 8 Indian states in west-to-east sequence: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does NOT pass through Uttar Pradesh."
+    },
+    "coreConcept": {
+      "hi": "माजिद हुसैन - भारत का भूगोल (भारत की अवस्थिति एवं विस्तार)।",
+      "en": "Majid Husain - Geography of India: Latitudinal and longitudinal extent."
+    },
+    "repeatNotes": {
+      "hi": "कर्क रेखा से गुजरने वाले राज्यों के नाम और क्रम पर UPPSC में 9 बार प्रश्न पूछा जा चुका है।",
+      "en": "Tropic of Cancer state lists are tested 9+ times by UPPSC."
+    },
+    "repetitionCount": 9,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "geography",
+      "tropic-of-cancer",
+      "states",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-GS-001",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian National Movement",
+    "topic": "भारत छोड़ो आंदोलन (1942)",
+    "subtopic": "Parallel Government in Ballia",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "1942 के भारत छोड़ो आंदोलन के दौरान उत्तर प्रदेश के किस जिले में 'चित्तू पांडे' के नेतृत्व में समानांतर सरकार (Parallel Government) की स्थापना हुई थी?",
+      "en": "During the Quit India Movement of 1942, in which district of UP was a parallel government formed under Chittu Pandey?"
+    },
+    "options": {
+      "hi": [
+        "इलाहाबाद (प्रयागराज)",
+        "बलिया",
+        "लखनऊ",
+        "गोरखपुर"
+      ],
+      "en": [
+        "Allahabad (Prayagraj)",
+        "Ballia",
+        "Lucknow",
+        "Gorakhpur"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "अगस्त 1942 में भारत छोड़ो आंदोलन के दौरान 'शेर-ए-बलिया' चित्तू पांडे के नेतृत्व में बलिया में समानांतर सरकार की स्थापना की गई थी। उन्होंने स्थानीय जिलाधिकारी से सत्ता छीनकर सभी कांग्रेसियों को जेल से रिहा कराया था। इसीलिए बलिया को 'बागी बलिया' भी कहा जाता है।\n\n1942 की अन्य समानांतर सरकारें:\n• तामलुक (मिदनापुर, बंगाल): 'जातीय सरकार' (सतीश सावंत)\n• सतारा (महाराष्ट्र): 'प्रति सरकार' (नाना पाटिल एवं वाई.बी. चव्हाण - यह सबसे लंबे समय तक चली)।",
+      "en": "In August 1942, Chittu Pandey (hailed as Sher-e-Ballia) led a celebrated parallel government in Ballia during the Quit India uprising. Other notable parallel governments arose in Tamluk (Bengal) and Satara (Maharashtra under Nana Patil, which lasted longest)."
+    },
+    "coreConcept": {
+      "hi": "बिपिन चंद्र - भारत छोड़ो आंदोलन एवं जन-उभार।",
+      "en": "Bipan Chandra - Quit India Movement: Underground activity and parallel governments."
+    },
+    "repeatNotes": {
+      "hi": "चित्तू पांडे और बागी बलिया UPPSC का सर्वाधिक पूछा जाने वाला आधुनिक इतिहास प्रश्न है।",
+      "en": "Tested in UPPSC RO/ARO 2014, 2016, 2021, and UP PCS."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016 (Re-exam 2020)",
+    "officialStatus": true,
+    "tags": [
+      "inm",
+      "quit-india",
+      "ballia",
+      "chittu-pandey",
+      "pyq-2016"
+    ]
   },
   {
     "id": "ROARO-PYQ-2016-SCIENCE-001",
@@ -140,25 +1402,1927 @@
     "stage": "PRELIMS",
     "paper": "GENERAL_STUDIES",
     "subject": "General Science",
-    "topic": "Biology",
-    "subtopic": "Vitamins",
+    "topic": "रसायन एवं जीव विज्ञान",
+    "subtopic": "Vitamins & Trace Minerals (Cobalt in B12)",
     "difficulty": "medium",
     "type": "mcq",
     "question": {
-      "hi": "निम्नलिखित में से किस विटामिन में कोबाल्ट धातु पाई जाती है?",
-      "en": "In which of the following vitamins is Cobalt metal present?"
+      "hi": "निम्नलिखित में से किस विटामिन में 'कोबाल्ट' (Cobalt) धातु पाई जाती है?",
+      "en": "In which of the following vitamins is 'Cobalt' metal present?"
     },
     "options": {
-      "hi": ["विटामिन B1", "विटामिन B2", "विटामिन B6", "विटामिन B12"],
-      "en": ["Vitamin B1", "Vitamin B2", "Vitamin B6", "Vitamin B12"]
+      "hi": [
+        "विटामिन B1",
+        "विटामिन B2",
+        "विटामिन B6",
+        "विटामिन B12"
+      ],
+      "en": [
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B6",
+        "Vitamin B12"
+      ]
     },
     "answer": 3,
     "explanation": {
-      "hi": "विटामिन B12 का रासायनिक नाम साइनोकोबालामिन (Cyanocobalamin) है। इसमें कोबाल्ट धातु पाई जाती है। इसकी कमी से प्रणाशी रक्ताल्पता (Pernicious Anemia) होती है।",
-      "en": "Vitamin B12 contains Cobalt in its core porphyrin ring. Its chemical designation is Cyanocobalamin."
+      "hi": "विटामिन B12 का रासायनिक नाम 'साइनोकोबालामिन' (Cyanocobalamin) है। इसके पोरफाइरिन रिंग के केंद्र में कोबाल्ट धातु आयन उपस्थित होता है। यह RBC के निर्माण और तंत्रिका तंत्र के सुचारू कार्य के लिए आवश्यक है। इसकी कमी से 'प्रणाशी रक्ताल्पता' (Pernicious Anemia) होती है।\n\nअन्य विटामिनों के रासायनिक नाम:\n• विटामिन B1: थायमीन (कमी से बेरी-बेरी)\n• विटामिन B2: राइबोफ्लेविन (कमी से किलोसिस)\n• विटामिन B6: पाइरिडोक्सिन (कमी से त्वचा रोग एवं एनीमिया)।",
+      "en": "Vitamin B12 is chemically named Cyanocobalamin, containing a cobalt ion coordinated in a corrin ring. It is essential for red blood cell maturation and neurological functions; its deficiency causes Pernicious Anemia. B1 is Thiamine, B2 is Riboflavin, and B6 is Pyridoxine."
     },
+    "coreConcept": {
+      "hi": "NCERT Class 12 Chemistry (जैव-अणु) - विटामिनों का वर्गीकरण एवं संरचना।",
+      "en": "NCERT Class 12 Chemistry - Biomolecules: Coordination compounds in biology (Cobalt in B12, Iron in Hemoglobin, Magnesium in Chlorophyll)."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO एवं PCS में कोबाल्ट और B12 पर 8 बार प्रश्न पूछा गया है।",
+      "en": "Tested 8 times in UPPSC science sections."
+    },
+    "repetitionCount": 8,
     "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
     "officialStatus": true,
-    "tags": ["science", "biology", "vitamins", "pyq-2016"]
+    "tags": [
+      "science",
+      "biology",
+      "vitamins",
+      "cobalt",
+      "b12",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-HINDI-001",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "अनेक शब्दों के लिए एक शब्द",
+    "subtopic": "One Word Substitution",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'जिसका जन्म कन्या के गर्भ से हुआ हो' — वाक्यांश के लिए एक उपयुक्त शब्द क्या है?",
+      "en": "What is the single word for the phrase 'One born from an unmarried maiden'?"
+    },
+    "options": {
+      "hi": [
+        "कन्यापुत्र",
+        "कानीन",
+        "अवैध पुत्र",
+        "कुमारीसुत"
+      ],
+      "en": [
+        "Kanyaputra",
+        "Kaneen (कानीन)",
+        "Avaidh Putra",
+        "Kumarisut"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "शास्त्रीय हिन्दी व्याकरण के अनुसार 'जिसका जन्म कन्या (अविवाहिता) के गर्भ से हुआ हो' के लिए प्रामाणिक शब्द 'कानीन' (Kaneen) है (जैसे महाभारत में कुंती के गर्भ से उत्पन्न कर्ण)।\n\nअन्य संबंधित शब्द:\n• जिसे गोद लिया गया हो = दत्तक\n• उपपति से उत्पन्न संतान = जारज\n• विवाहिता पत्नी से उत्पन्न संतान = औरस।",
+      "en": "In classical Sanskrit and Hindi grammar, one born of an unmarried maiden is designated as 'कानीन' (Kaneen), exemplified by Karna in the epic Mahabharata. An adopted child is 'Dattak', a legitimate child is 'Auras', and an illegitimate child is 'Jaaraj'."
+    },
+    "coreConcept": {
+      "hi": "डॉ. वासुदेव नंदन प्रसाद - अनेक शब्दों के लिए एक शब्द।",
+      "en": "Vasudev Nandan Prasad - Ancient lineage terminologies in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2013, 2016, 2021 में लगातार दोहराया गया।",
+      "en": "Repeated across 2013, 2016, and 2021 RO/ARO cycles."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "anek-shabd",
+      "kaneen",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-POLITY-001",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "संसद एवं वित्तीय विधेयक",
+    "subtopic": "Money Bill Definition & Procedures (Article 110)",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के अनुसार 'धन विधेयक' (Money Bill) के संदर्भ में निम्नलिखित में से कौन सा कथन सही नहीं है?",
+      "en": "According to the Indian Constitution, which of the following statements regarding a 'Money Bill' is NOT correct?"
+    },
+    "options": {
+      "hi": [
+        "धन विधेयक केवल लोकसभा में ही पुरःस्थापित (पेश) किया जा सकता है",
+        "कोई विधेयक धन विधेयक है या नहीं, इस पर लोकसभा अध्यक्ष का निर्णय अंतिम होता है",
+        "राज्यसभा धन विधेयक को अधिकतम 14 दिनों तक रोक सकती है",
+        "राष्ट्रपति धन विधेयक को पुनर्विचार के लिए संसद को वापस भेज सकता है"
+      ],
+      "en": [
+        "A Money Bill can only be introduced in the Lok Sabha",
+        "The decision of the Speaker of Lok Sabha whether a bill is a Money Bill is final",
+        "Rajya Sabha can detain a Money Bill for a maximum of 14 days",
+        "The President can return a Money Bill to Parliament for reconsideration"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "विकल्प (D) गलत (अतः सही उत्तर) है, क्योंकि धन विधेयक राष्ट्रपति की 'पूर्व अनुशंसा' (Prior recommendation) से ही संसद में पेश किया जाता है, इसलिए राष्ट्रपति इसे या तो स्वीकृति देता है या अस्वीकृत कर सकता है, परंतु इसे 'पुनर्विचार के लिए वापस नहीं भेज सकता'।\n\nअन्य सभी कथन सत्य हैं:\n• अनुच्छेद 109(1): धन विधेयक केवल लोकसभा में पेश हो सकता है, राज्यसभा में नहीं।\n• अनुच्छेद 110(3): विधेयक पर लोकसभा अध्यक्ष का प्रमाणन अंतिम होता है।\n• अनुच्छेद 109(5): राज्यसभा को 14 दिनों के भीतर सिफारिशों सहित या बिना वापस करना होता है, अन्यथा यह दोनों सदनों द्वारा पारित मान लिया जाता है।",
+      "en": "Statement (D) is incorrect (hence the correct option). Because a Money Bill is introduced with the prior recommendation of the President, the President can either give assent or withhold assent, but CANNOT return it for reconsideration. The Speaker's certification is final and Rajya Sabha has only 14 days."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: संसद) - अनुच्छेद 109 और 110 (धन विधेयक की प्रक्रिया)।",
+      "en": "M. Laxmikanth - Money Bill legislative procedures under Articles 109 and 110."
+    },
+    "repeatNotes": {
+      "hi": "धन विधेयक की 14 दिन की सीमा और राष्ट्रपति की वीटो शक्ति पर UPPSC में 10 बार प्रश्न पूछा जा चुका है।",
+      "en": "Money Bill constraints are tested 10+ times in UPPSC."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "parliament",
+      "money-bill",
+      "article-110",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-UPGK-001",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश के प्रमुख संग्रहालय",
+    "subtopic": "Bharat Kala Bhavan",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश का प्रसिद्ध 'भारत कला भवन' (संग्रहालय) कहाँ स्थित है?",
+      "en": "Where is the famous 'Bharat Kala Bhavan' museum located in Uttar Pradesh?"
+    },
+    "options": {
+      "hi": [
+        "लखनऊ",
+        "वाराणसी (BHU परिसर)",
+        "प्रयागराज",
+        "मथुरा"
+      ],
+      "en": [
+        "Lucknow",
+        "Varanasi (BHU Campus)",
+        "Prayagraj",
+        "Mathura"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'भारत कला भवन' एक सुप्रसिद्ध विश्वविद्यालय संग्रहालय है जो काशी हिन्दू विश्वविद्यालय (BHU), वाराणसी के परिसर में स्थित है। इसकी स्थापना 1920 में राय कृष्णदास द्वारा की गई थी। यहाँ प्राचीन भारतीय मूर्तिकला, चित्रकला और दुर्लभ पांडुलिपियों का विशाल संग्रह है।\n\nअन्य प्रमुख संग्रहालय:\n• राजकीय संग्रहालय, लखनऊ (UP का सबसे पुराना संग्रहालय - 1863)\n• इलाहाबाद संग्रहालय, प्रयागराज (चंद्रशेखर आजाद की पिस्तौल)\n• राजकीय बौद्ध संग्रहालय, गोरखपुर एवं कुशीनगर\n• मथुरा संग्रहालय (कुषाण कालीन कला एवं मूर्तियों का विश्व प्रसिद्ध केंद्र)।",
+      "en": "Bharat Kala Bhavan is an internationally renowned university museum located inside the Banaras Hindu University (BHU) campus in Varanasi, founded in 1920 by Rai Krishnadasa. Mathura Museum is globally famous for Kushan art, and State Museum Lucknow is UP's oldest."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - प्रमुख शोध संस्थान, कला एवं संग्रहालय।",
+      "en": "UP Pariksha Vani - Major museums and research institutions of UP."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO और PCS में 5 बार पूछा गया प्रश्न।",
+      "en": "Tested 5 times across UPPSC exams."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "museums",
+      "varanasi",
+      "bhu",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-MAINS-GS-001",
+    "year": 2016,
+    "stage": "MAINS",
+    "paper": "MAINS_GS",
+    "subject": "Indian Polity",
+    "topic": "संसदीय समितियां",
+    "subtopic": "Public Accounts Committee (PAC)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'लोक लेखा समिति' (Public Accounts Committee - PAC) में कुल कितने सदस्य होते हैं तथा राज्यसभा से कितने सदस्य शामिल किए जाते हैं?",
+      "en": "How many total members are there in the Public Accounts Committee (PAC), and how many are drawn from the Rajya Sabha?"
+    },
+    "options": {
+      "hi": [
+        "कुल 22 सदस्य (15 लोकसभा + 7 राज्यसभा)",
+        "कुल 30 सदस्य (सभी लोकसभा)",
+        "कुल 15 सदस्य (10 लोकसभा + 5 राज्यसभा)",
+        "कुल 22 सदस्य (11 लोकसभा + 11 राज्यसभा)"
+      ],
+      "en": [
+        "Total 22 members (15 Lok Sabha + 7 Rajya Sabha)",
+        "Total 30 members (all Lok Sabha)",
+        "Total 15 members (10 Lok Sabha + 5 Rajya Sabha)",
+        "Total 22 members (11 Lok Sabha + 11 Rajya Sabha)"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "लोक लेखा समिति (PAC) भारत की सबसे पुरानी संसदीय वित्तीय समिति है (1921 में भारत सरकार अधिनियम 1919 के तहत गठित)।\n• इसमें कुल 22 सदस्य होते हैं (15 लोकसभा से + 7 राज्यसभा से)।\n• सदस्यों का चुनाव आनुपातिक प्रतिनिधित्व के एकल संक्रमणीय मत द्वारा 1 वर्ष के लिए होता है।\n• मंत्री इसमें सदस्य नहीं हो सकता।\n• 1967 से स्थापित परंपरा के अनुसार इसका अध्यक्ष 'विपक्षी दल' का नेता होता है (नियुक्ति लोकसभा अध्यक्ष द्वारा)।\n• प्राक्कलन समिति (Estimates Committee) में 30 सदस्य होते हैं और सभी केवल लोकसभा से होते हैं।",
+      "en": "The Public Accounts Committee (PAC) was established in 1921 under the GoI Act 1919. It comprises 22 members: 15 from Lok Sabha and 7 from Rajya Sabha, elected annually. Ministers cannot be members. By convention since 1967, its chairman is drawn from the Opposition. Estimates Committee has 30 members, all from Lok Sabha."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: संसदीय समितियां) - वित्तीय समितियां (लोक लेखा, प्राक्कलन, सार्वजनिक उपक्रम)।",
+      "en": "M. Laxmikanth - Parliamentary Committees: PAC, Estimates Committee, and CAG report scrutiny."
+    },
+    "repeatNotes": {
+      "hi": "PAC और प्राक्कलन समिति की सदस्य संख्या UPPSC का क्लासिक दोहराव वाला प्रश्न है।",
+      "en": "Classic recurring question in UPPSC Mains and Prelims."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "parliament",
+      "pac",
+      "committees",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-GS-001",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "History of India",
+    "topic": "प्राचीन भारत",
+    "subtopic": "Indus Valley Civilization Boundaries",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "सिंधु घाटी सभ्यता का प्रसिद्ध स्थल 'आलमगीरपुर' (हड़प्पा सभ्यता का सबसे पूर्वी स्थल) उत्तर प्रदेश के किस जिले में स्थित है?",
+      "en": "The famous Indus Valley Civilization site 'Alamgirpur' (easternmost limit of Harappan civilization) is located in which district of Uttar Pradesh?"
+    },
+    "options": {
+      "hi": [
+        "मेरठ (हिंडन नदी)",
+        "बागपत (यमुना नदी)",
+        "सहारनपुर (गंगा नदी)",
+        "मुजफ्फरनगर (काली नदी)"
+      ],
+      "en": [
+        "Meerut (Hindon River)",
+        "Baghpat (Yamuna River)",
+        "Saharanpur (Ganga River)",
+        "Muzaffarnagar (Kali River)"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "आलमगीरपुर सिंधु घाटी सभ्यता की सबसे पूर्वी सीमा (Easternmost boundary) निर्धारित करता है। यह उत्तर प्रदेश के मेरठ जिले में हिंडन नदी (यमुना की सहायक नदी) के तट पर स्थित है। इसकी खोज 1958 में यज्ञदत्त शर्मा (Y.D. Sharma) द्वारा की गई थी।\n\nहड़प्पा सभ्यता की चारों सीमाएं:\n• उत्तरी सीमा: मांडा (जम्मू-कश्मीर - चिनाब नदी)\n• दक्षिणी सीमा: दैमाबाद (महाराष्ट्र - प्रवरा नदी)\n• पश्चिमी सीमा: सुत्कागेंडोर (बलूचिस्तान - दाश्त नदी)\n• पूर्वी सीमा: आलमगीरपुर (मेरठ, UP - हिंडन नदी)।",
+      "en": "Alamgirpur marks the easternmost geographical frontier of the Indus Valley Civilization, situated on the Hindon River in Meerut district, UP (excavated in 1958 by Y.D. Sharma). Harappan boundaries: North (Manda), South (Daimabad), West (Sutkagen Dor), East (Alamgirpur)."
+    },
+    "coreConcept": {
+      "hi": "आर.एस. शर्मा (प्राचीन भारत) - हड़प्पा सभ्यता का भौगोलिक विस्तार एवं प्रमुख पुरातात्विक स्थल।",
+      "en": "R.S. Sharma - Ancient India: Extent and characteristics of Harappan civilization."
+    },
+    "repeatNotes": {
+      "hi": "हड़प्पा स्थलों की भौगोलिक सीमाओं पर UPPSC में 8 बार प्रश्न पूछा गया है।",
+      "en": "Tested 8+ times across UPPSC exams."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "history",
+      "ancient",
+      "ivc",
+      "alamgirpur",
+      "meerut",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-HINDI-001",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "पर्यायवाची शब्द",
+    "subtopic": "Synonyms of Lightning vs Elephant",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन सा शब्द 'बिजली' (Lightning) का पर्यायवाची नहीं है?",
+      "en": "Which of the following is NOT a synonym of the Hindi word 'Bijli' (Lightning)?"
+    },
+    "options": {
+      "hi": [
+        "दामिनी",
+        "तड़ित",
+        "चंचला",
+        "वितुंडा"
+      ],
+      "en": [
+        "Damini",
+        "Tadit",
+        "Chanchala",
+        "Vitunda"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "'वितुंडा' बिजली का पर्यायवाची नहीं है; 'वितुंडा' का अर्थ 'हाथी' (गज/मातंग/हस्ती) होता है।\n\nबिजली के प्रामाणिक पर्यायवाची शब्द:\n• दामिनी, सौदामिनी, तड़ित, चंचला, चपला, विद्युत, क्षणप्रभा, कांचनवल्ली, अशनि।\n\nहाथी के पर्यायवाची:\n• वितुंडा, गज, हस्ती, कुंजर, द्विप, वारण, मातंग, करी।",
+      "en": "'Vitunda' means elephant (Hathi/Gaj). Damini, Tadit, Chanchala, Saudamini, and Chapala are classic synonyms for lightning."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - प्रामाणिक पर्यायवाची शब्दकोश।",
+      "en": "Hardev Bahri - High-level synonym differentiation in General Hindi."
+    },
+    "repeatNotes": {
+      "hi": "बिजली और हाथी के पर्यायवाची UPPSC RO/ARO में कई बार पूछे गए हैं।",
+      "en": "Recurring synonym trap question in RO/ARO."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "paryayvachi",
+      "bijli",
+      "vitunda",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-UPGK-001",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "वन एवं राष्ट्रीय उद्यान",
+    "subtopic": "Dudhwa National Park",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश का एकमात्र राष्ट्रीय उद्यान 'दुधवा राष्ट्रीय उद्यान' (Dudhwa National Park) किस जिले में स्थित है?",
+      "en": "The only National Park in Uttar Pradesh, 'Dudhwa National Park', is situated in which district?"
+    },
+    "options": {
+      "hi": [
+        "पीलीभीत",
+        "लखीमपुर खीरी",
+        "बहराइच",
+        "सोनभद्र"
+      ],
+      "en": [
+        "Pilibhit",
+        "Lakhimpur Kheri",
+        "Bahraich",
+        "Sonbhadra"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के लखीमपुर खीरी जिले में भारत-नेपाल सीमा के तराई क्षेत्र में स्थित है।\n• 1977 में इसे राष्ट्रीय उद्यान का दर्जा दिया गया।\n• 1987-88 में दुधवा राष्ट्रीय उद्यान और किशनपुर वन्यजीव अभयारण्य को मिलाकर 'दुधवा टाइगर रिजर्व' बनाया गया।\n• यह दलदली हिरण (बारहसिंगा) एवं एक सींग वाले गैंडे के पुनर्वास हेतु प्रसिद्ध है।\n\nउत्तर प्रदेश के अन्य टाइगर रिजर्व:\n1. दुधवा टाइगर रिजर्व (लखीमपुर खीरी)\n2. पीलीभीत टाइगर रिजर्व (पीलीभीत)\n3. अमानगढ़ टाइगर रिजर्व (बिजनौर - कॉर्बेट का बफर जोन)\n4. रानीपुर टाइगर रिजर्व (चित्रकूट - देश का 53वां टाइगर रिजर्व)।",
+      "en": "Dudhwa National Park is situated in Lakhimpur Kheri district along the Indo-Nepal terai border. Established as a national park in 1977, it became a Tiger Reserve in 1987-88. It preserves the endangered swamp deer (Barasingha) and Indian rhinoceros."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - वन्यजीव संरक्षण, राष्ट्रीय उद्यान एवं टाइगर रिजर्व।",
+      "en": "UP Pariksha Vani - Wildlife sanctuaries and Tiger Reserves of Uttar Pradesh."
+    },
+    "repeatNotes": {
+      "hi": "दुधवा और लखीमपुर खीरी UPPSC का सर्वाधिक दोहराया जाने वाला पर्यावरण प्रश्न है।",
+      "en": "Tested more than 9 times in UPPSC exams."
+    },
+    "repetitionCount": 9,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "environment",
+      "dudhwa",
+      "lakhimpur",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-POLITY-001",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "संवैधानिक निकाय",
+    "subtopic": "Election Commission of India (Article 324)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत के मुख्य चुनाव आयुक्त (Chief Election Commissioner) को किसके द्वारा और किस प्रक्रिया से पद से हटाया जा सकता है?",
+      "en": "By whom and through what procedure can the Chief Election Commissioner of India be removed from office?"
+    },
+    "options": {
+      "hi": [
+        "संसद के दोनों सदनों द्वारा विशेष बहुमत से पारित प्रस्ताव पर राष्ट्रपति द्वारा",
+        "प्रधानमंत्री की सिफारिश पर राष्ट्रपति द्वारा",
+        "सर्वोच्च न्यायालय के मुख्य न्यायाधीश द्वारा",
+        "केंद्रीय मंत्रिमंडल के प्रस्ताव पर लोकसभा अध्यक्ष द्वारा"
+      ],
+      "en": [
+        "By the President on an address passed by both Houses of Parliament with a special majority",
+        "By the President on recommendation of the Prime Minister",
+        "By the Chief Justice of India",
+        "By the Speaker on Cabinet resolution"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "अनुच्छेद 324(5) के अनुसार, मुख्य निर्वाचन आयुक्त (CEC) को उसके पद से उसी रीति से और उन्हीं आधारों पर हटाया जा सकता है, जिस रीति और आधारों पर 'सर्वोच्च न्यायालय के न्यायाधीश' को हटाया जाता है (अर्थात संसद के दोनों सदनों में उपस्थित एवं मतदान करने वाले सदस्यों के 2/3 बहुमत तथा कुल सदस्य संख्या के बहुमत द्वारा पारित प्रस्ताव पर राष्ट्रपति के आदेश से)।\nअन्य चुनाव आयुक्तों को मुख्य चुनाव आयुक्त की सिफारिश पर राष्ट्रपति द्वारा हटाया जा सकता है।",
+      "en": "Under Article 324(5), the Chief Election Commissioner can only be removed from office in like manner and on like grounds as a Judge of the Supreme Court (by presidential order after an address passed by both Houses of Parliament with a special majority on proved misbehavior or incapacity)."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: निर्वाचन आयोग) - स्वायत्तता एवं हटाने की प्रक्रिया।",
+      "en": "M. Laxmikanth - Election Commission of India: Constitutional safeguards under Article 324."
+    },
+    "repeatNotes": {
+      "hi": "निर्वाचन आयोग और हटाने की प्रक्रिया UPPSC का निरंतर पूछा जाने वाला प्रश्न है।",
+      "en": "Tested 6 times across UPPSC exams."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "election-commission",
+      "cec",
+      "article-324",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-INM-001",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian National Movement",
+    "topic": "कांग्रेस के महत्वपूर्ण अधिवेशन",
+    "subtopic": "Lucknow Pact 1916",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "वर्ष 1916 में संपन्न भारतीय राष्ट्रीय कांग्रेस के ऐतिहासिक 'लखनऊ अधिवेशन' की अध्यक्षता किसने की थी?",
+      "en": "Who presided over the historic Lucknow Session of the Indian National Congress in 1916?"
+    },
+    "options": {
+      "hi": [
+        "अंबिका चरण मजूमदार",
+        "बाल गंगाधर तिलक",
+        "एनी बेसेंट",
+        "मोहम्मद अली जिन्ना"
+      ],
+      "en": [
+        "Ambica Charan Majumdar",
+        "Bal Gangadhar Tilak",
+        "Annie Besant",
+        "Muhammad Ali Jinnah"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "1916 के लखनऊ अधिवेशन की अध्यक्षता 'अंबिका चरण मजूमदार' (A.C. Majumdar) ने की थी।\nयह अधिवेशन दो ऐतिहासिक कारणों से प्रसिद्ध है:\n1. 1907 के सूरत विभाजन के बाद 'नरम दल' और 'गरम दल' का पुनः एकीकरण (एनी बेसेंट व तिलक के प्रयासों से)।\n2. कांग्रेस और मुस्लिम लीग के बीच 'लखनऊ समझौता' (Lucknow Pact), जिसमें कांग्रेस ने पहली बार मुस्लिम लीग की सांप्रदायिक निर्वाचन प्रणाली की मांग को औपचारिक रूप से स्वीकार किया।",
+      "en": "The historic 1916 Lucknow Session was presided over by Ambica Charan Majumdar. It accomplished two historic feats: reunification of Moderates and Extremists (split at Surat in 1907), and the Congress-League Pact (Lucknow Pact) agreeing on joint political demands and separate electorates."
+    },
+    "coreConcept": {
+      "hi": "बिपिन चंद्र (भारत का स्वतंत्रता संग्राम) - होम रूल लीग आंदोलन और लखनऊ समझौता 1916।",
+      "en": "Bipan Chandra - Lucknow Pact 1916 and Congress-League concord."
+    },
+    "repeatNotes": {
+      "hi": "अंबिका चरण मजूमदार और लखनऊ समझौता 1916 UPPSC में 7 बार पूछा गया है।",
+      "en": "Tested 7 times across UPPSC exams."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "inm",
+      "congress",
+      "lucknow-pact",
+      "majumdar",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-SCIENCE-001",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "General Science",
+    "topic": "भौतिक विज्ञान (Physics)",
+    "subtopic": "Rayleigh Scattering of Light",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "स्वच्छ आकाश का रंग नीला दिखाई देने का प्रमुख भौतिक कारण क्या है?",
+      "en": "What is the primary physical reason why a clear sky appears blue?"
+    },
+    "options": {
+      "hi": [
+        "प्रकाश का अपवर्तन",
+        "प्रकाश का परावर्तन",
+        "प्रकाश का प्रकीर्णन (Scattering)",
+        "प्रकाश का परिक्षेपण"
+      ],
+      "en": [
+        "Refraction of light",
+        "Reflection of light",
+        "Scattering of light",
+        "Dispersion of light"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "आकाश का नीला रंग प्रकाश के 'प्रकीर्णन' (Scattering of Light) के कारण होता है।\nरेले के प्रकीर्णन नियम के अनुसार, प्रकीर्णित प्रकाश की तीव्रता तरंगदैर्घ्य के चतुर्थ घात के व्युत्क्रमानुपाती होती है (I ∝ 1/λ⁴)।\nचूंकि नीले रंग का तरंगदैर्घ्य लाल रंग की तुलना में बहुत कम होता है, इसलिए वायुमंडल में उपस्थित सूक्ष्म धूलकणों एवं गैस के अणुओं द्वारा नीले रंग का प्रकीर्णन सबसे अधिक होता है, जिससे आकाश नीला दिखाई देता है। अंतरिक्ष में वायुमंडल न होने के कारण आकाश काला दिखाई देता है।",
+      "en": "The blue color of the clear sky is caused by Rayleigh scattering of sunlight by atmospheric molecules. According to Rayleigh's law, scattering intensity is inversely proportional to the fourth power of wavelength (I ∝ 1/λ⁴). Shorter blue wavelengths scatter ten times more than red wavelengths."
+    },
+    "coreConcept": {
+      "hi": "NCERT Class 10 Science (मानव नेत्र तथा रंगबिरंगा संसार) - प्रकाश का प्रकीर्णन एवं टिंडल प्रभाव।",
+      "en": "NCERT Class 10 Science - Atmospheric refraction and Rayleigh scattering."
+    },
+    "repeatNotes": {
+      "hi": "आकाश का नीला रंग और सूर्योदय/सूर्यास्त के समय लालिमा UPPSC में 11 बार पूछा गया प्रश्न है।",
+      "en": "Quizzed 11+ times across UPPSC physics papers."
+    },
+    "repetitionCount": 11,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "science",
+      "physics",
+      "optics",
+      "scattering",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-GS-001",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Economy",
+    "topic": "भारतीय कृषि एवं क्रांतियां",
+    "subtopic": "Green Revolution in India",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में 'हरित क्रांति' (Green Revolution) का जनक किसे माना जाता है?",
+      "en": "Who is hailed as the father of the 'Green Revolution' in India?"
+    },
+    "options": {
+      "hi": [
+        "डॉ. एम. एस. स्वामीनाथन",
+        "डॉ. नॉर्मन बोरलॉग",
+        "डॉ. वर्गीज कुरियन",
+        "प्रो. अमर्त्य सेन"
+      ],
+      "en": [
+        "Dr. M. S. Swaminathan",
+        "Dr. Norman Borlaug",
+        "Dr. Verghese Kurien",
+        "Prof. Amartya Sen"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "भारत में हरित क्रांति के जनक डॉ. एम. एस. स्वामीनाथन (M.S. Swaminathan) थे, जिन्होंने मैक्सिकन बौनी गेहूं की किस्मों का भारतीय परिस्थितियों में सफल अनुकूलन कराया (उन्हें 2024 में मरणोपरांत भारत रत्न से सम्मानित किया गया)।\n\nअन्य विभूतियां:\n• डॉ. नॉर्मन बोरलॉग: 'विश्व में हरित क्रांति के जनक' (1970 में नोबेल शांति पुरस्कार विजेता)।\n• डॉ. वर्गीज कुरियन: भारत में 'श्वेत क्रांति' (Operation Flood - दुग्ध उत्पादन) के जनक।\n• प्रो. अमर्त्य सेन: 1998 के अर्थशास्त्र में नोबेल पुरस्कार विजेता (कल्याणकारी अर्थशास्त्र)।",
+      "en": "Dr. M. S. Swaminathan is universally revered as the Father of India's Green Revolution (conferred Bharat Ratna posthumously in 2024). Dr. Norman Borlaug was the global Father of Green Revolution (Nobel Peace Prize 1970), and Dr. Verghese Kurien pioneered Operation Flood (White Revolution)."
+    },
+    "coreConcept": {
+      "hi": "रमेश सिंह (भारतीय अर्थव्यवस्था) - कृषि क्षेत्र एवं प्रमुख क्रांतियां (हरित, श्वेत, पीली, नीली क्रांति)।",
+      "en": "Ramesh Singh - Indian Economy: Agriculture and Agricultural Revolutions."
+    },
+    "repeatNotes": {
+      "hi": "हरित क्रांति और स्वामीनाथन आयोग पर UPPSC में 10 बार प्रश्न पूछा जा चुका है।",
+      "en": "Tested 10+ times across UPPSC exams."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "economy",
+      "agriculture",
+      "green-revolution",
+      "swaminathan",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-HINDI-001",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms with Negative Prefix",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'आहूत' शब्द का सही विलोम क्या है?",
+      "en": "What is the correct antonym of the Hindi word 'Aahoot' (Summoned/Invited)?"
+    },
+    "options": {
+      "hi": [
+        "अनआहूत",
+        "अनाहूत",
+        "अपहूत",
+        "निराहूत"
+      ],
+      "en": [
+        "An-aahoot",
+        "Anaahoot (अनाहूत)",
+        "Apahoot",
+        "Niraahoot"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'आहूत' (जिसे बुलाया या आमंत्रित किया गया हो) का सटीक विलोम 'अनाहूत' (अन + आहूत = अनाहूत; जिसे बुलाया न गया हो / बिन बुलाया) होता है।\nसंधि नियम: अनन् (हल्) + आहूत = अनाहूत।",
+      "en": "'Aahoot' (summoned/invited) combines with the privative Sanskrit prefix 'An' to form 'Anaahoot' (uninvited/unbidden)."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - प्रामाणिक विलोम शब्द संग्रह।",
+      "en": "Hardev Bahri - Morphological prefixation in Sanskrit/Hindi antonyms."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2013, 2016, 2021 में लगातार दोहराया गया।",
+      "en": "Repeated in RO/ARO 2010, 2013, 2016, and 2021."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vilom",
+      "aahoot",
+      "anaahoot",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-POLITY-001",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "मूल कर्तव्य (Fundamental Duties)",
+    "subtopic": "Article 51A & Swaran Singh Committee",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान में 'मूल कर्तव्यों' (Fundamental Duties) को किस समिति की अनुशंसा पर और किस वर्ष जोड़ा गया था?",
+      "en": "On the recommendation of which committee and in which year were 'Fundamental Duties' incorporated into the Indian Constitution?"
+    },
+    "options": {
+      "hi": [
+        "स्वर्ण सिंह समिति, 1976 (42वां संशोधन)",
+        "सरकारिया आयोग, 1983",
+        "बलवंत राय मेहता समिति, 1957",
+        "वर्मा समिति, 1999"
+      ],
+      "en": [
+        "Swaran Singh Committee, 1976 (42nd Amendment)",
+        "Sarkaria Commission, 1983",
+        "Balwant Rai Mehta Committee, 1957",
+        "Verma Committee, 1999"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा सरदार स्वर्ण सिंह समिति की सिफारिश पर संविधान में 'भाग 4-क' (Part IV-A) और 'अनुच्छेद 51-क' (Article 51A) जोड़कर 10 मूल कर्तव्य शामिल किए गए। इसे पूर्व सोवियत संघ (USSR) के संविधान से प्रेरित होकर लिया गया था।\n• 86वें संविधान संशोधन, 2002 द्वारा 11वां मूल कर्तव्य (6 से 14 वर्ष के बच्चों को शिक्षा के अवसर प्रदान करना) जोड़ा गया। वर्तमान में कुल 11 मूल कर्तव्य हैं।",
+      "en": "Fundamental Duties were inserted into Part IV-A (Article 51A) by the 42nd Amendment Act, 1976 on the recommendations of the Swaran Singh Committee, inspired by the USSR constitution. Initially 10 duties, the 11th duty was added by the 86th Amendment Act, 2002."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: मूल कर्तव्य) - स्वर्ण सिंह समिति की सिफारिशें और 11 मूल कर्तव्य।",
+      "en": "M. Laxmikanth - Fundamental Duties: Article 51A and 86th Amendment."
+    },
+    "repeatNotes": {
+      "hi": "मूल कर्तव्यों और स्वर्ण सिंह समिति पर UPPSC में 9 बार प्रश्न पूछा जा चुका है।",
+      "en": "Tested 9 times across UPPSC exams."
+    },
+    "repetitionCount": 9,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "fundamental-duties",
+      "article-51a",
+      "swaran-singh",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-UPGK-001",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "प्रमुख अनुसंधान संस्थान",
+    "subtopic": "Central Drug Research Institute (CDRI)",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'केंद्रीय औषधि अनुसंधान संस्थान' (CDRI - Central Drug Research Institute) उत्तर प्रदेश के किस शहर में स्थित है?",
+      "en": "In which city of Uttar Pradesh is the 'Central Drug Research Institute' (CDRI) situated?"
+    },
+    "options": {
+      "hi": [
+        "कानपुर",
+        "लखनऊ",
+        "वाराणसी",
+        "प्रयागराज"
+      ],
+      "en": [
+        "Kanpur",
+        "Lucknow",
+        "Varanasi",
+        "Prayagraj"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "केंद्रीय औषधि अनुसंधान संस्थान (CDRI) लखनऊ में स्थित CSIR की एक प्रमुख राष्ट्रीय प्रयोगशाला है। इसका उद्घाटन 17 फरवरी 1951 को तत्कालीन प्रधानमंत्री पंडित जवाहरलाल नेहरू ने किया था।\n\nलखनऊ में स्थित अन्य प्रमुख संस्थान:\n• भारतीय विष विज्ञान अनुसंधान संस्थान (IITR)\n• राष्ट्रीय वनस्पति अनुसंधान संस्थान (NBRI)\n• केंद्रीय उपोष्ण बागवानी संस्थान (CISH)\n• भारतीय गन्ना अनुसंधान संस्थान (IISR)\n• बीरबल साहनी पुरावनस्पति विज्ञान संस्थान (BSIP)।\n\nकानपुर में स्थित प्रमुख संस्थान:\n• भारतीय दलहन अनुसंधान संस्थान (IIPR)\n• राष्ट्रीय शर्करा संस्थान (NSI)।",
+      "en": "CDRI is located in Lucknow, established under CSIR in 1951. Other Lucknow institutions include NBRI, IITR, CISH, and IISR. Kanpur houses the Indian Institute of Pulses Research (IIPR) and National Sugar Institute (NSI)."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - प्रमुख राष्ट्रीय एवं राज्य स्तरीय अनुसंधान संस्थान।",
+      "en": "UP Pariksha Vani - Major Scientific and Agricultural Institutes of UP."
+    },
+    "repeatNotes": {
+      "hi": "लखनऊ और कानपुर के अनुसंधान संस्थानों की सुमेलन सूची UPPSC का लगभग हर साल का प्रश्न है।",
+      "en": "Matching Lucknow/Kanpur institutes is a guaranteed annual question in UPPSC."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "institutes",
+      "cdri",
+      "lucknow",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-GEO-001",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Geography",
+    "topic": "भारत के द्वीप समूह एवं जलसंधियां",
+    "subtopic": "Ten Degree Channel",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'10 डिग्री चैनल' (10° Channel) निम्नलिखित में से किन दो भौगोलिक क्षेत्रों को अलग करता है?",
+      "en": "The 'Ten Degree Channel' separates which of the following two geographical regions?"
+    },
+    "options": {
+      "hi": [
+        "अंडमान द्वीप को निकोबार द्वीप से",
+        "लक्षद्वीप को मिनिकॉय से",
+        "मिनिकॉय को मालदीव से",
+        "दक्षिण अंडमान को लघु अंडमान से"
+      ],
+      "en": [
+        "Andaman Islands from Nicobar Islands",
+        "Lakshadweep from Minicoy",
+        "Minicoy from Maldives",
+        "South Andaman from Little Andaman"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "10° उत्तरी अक्षांश (10 Degree Channel) बंगाल की खाड़ी में 'अंडमान द्वीप समूह' (लघु अंडमान) को 'निकोबार द्वीप समूह' (कार निकोबार) से अलग करता है।\n\nअन्य प्रमुख जलसंधियां:\n• 9 डिग्री चैनल ➔ लक्षद्वीप (कवारत्ती) को मिनिकॉय से अलग करता है।\n• 8 डिग्री चैनल ➔ मिनिकॉय (भारत) को मालदीव से अलग करता है।\n• डंकन पास (Duncan Passage) ➔ दक्षिण अंडमान को लघु अंडमान से अलग करता है।\n• पाक जलडमरूमध्य (Palk Strait) ➔ भारत (तमिलनाडु) को श्रीलंका से अलग करता है।",
+      "en": "The 10 Degree Channel separates the Andaman Islands (Little Andaman) from the Nicobar Islands (Car Nicobar) in the Bay of Bengal. The 9 Degree Channel divides Lakshadweep and Minicoy, 8 Degree separates Minicoy and Maldives, and Duncan Passage divides South and Little Andaman."
+    },
+    "coreConcept": {
+      "hi": "माजिद हुसैन (भारत का भूगोल) - द्वीप समूह एवं प्रमुख समुद्री चैनल।",
+      "en": "Majid Husain - Geography of India: Maritime boundaries and oceanic channels."
+    },
+    "repeatNotes": {
+      "hi": "10 डिग्री, 9 डिग्री और 8 डिग्री चैनल पर UPPSC में 12 बार प्रश्न पूछा जा चुका है।",
+      "en": "Tested 12+ times across UPPSC exams."
+    },
+    "repetitionCount": 12,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "geography",
+      "channels",
+      "andaman-nicobar",
+      "10-degree",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2010-GS-001",
+    "year": 2010,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian Polity",
+    "topic": "मूल अधिकार एवं संवैधानिक उपचार",
+    "subtopic": "Article 32 - Heart and Soul of Constitution",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "डॉ. भीमराव अम्बेडकर ने भारतीय संविधान के किस अनुच्छेद को 'संविधान का हृदय और आत्मा' (Heart and Soul of the Constitution) कहा था?",
+      "en": "Which Article of the Indian Constitution was hailed as the 'Heart and Soul of the Constitution' by Dr. B.R. Ambedkar?"
+    },
+    "options": {
+      "hi": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 21",
+        "अनुच्छेद 32"
+      ],
+      "en": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "डॉ. बी.आर. अम्बेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को 'संविधान की आत्मा और उसका हृदय' कहा था। उनके अनुसार इसके बिना संविधान अर्थहीन हो जाएगा।\nअनुच्छेद 32 नागरिकों के मूल अधिकारों के संरक्षण हेतु सर्वोच्च न्यायालय को 5 प्रकार की रिटें जारी करने का अधिकार देता है:\n1. बंदी प्रत्यक्षीकरण (Habeas Corpus)\n2. परमादेश (Mandamus)\n3. प्रतिषेध (Prohibition)\n4. उत्प्रेषण (Certiorari)\n5. अधिकार-पृच्छा (Quo-Warranto)।\n*(नोट: यदि सामान्य रूप से पूछा जाए कि संविधान की आत्मा किसे कहा जाता है, तो उत्तर 'प्रस्तावना' होता है; परंतु डॉ. अम्बेडकर के अनुसार पूछे जाने पर उत्तर 'अनुच्छेद 32' होता है)।",
+      "en": "Dr. B.R. Ambedkar termed Article 32 (Right to Constitutional Remedies) as the 'very soul and heart of the Constitution', empowering the Supreme Court to issue five prerogative writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto to enforce fundamental rights. Note: Generally, Preamble is termed the soul of the constitution, but according to Ambedkar it is Article 32."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: मूल अधिकार) - अनुच्छेद 32 एवं न्यायिक रिटें।",
+      "en": "M. Laxmikanth - Fundamental Rights: Article 32 and Prerogative Writs."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO और PCS में 15 बार से अधिक पूछा गया क्लासिक प्रश्न।",
+      "en": "Repeated over 15 times in UPPSC history."
+    },
+    "repetitionCount": 15,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2010",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "fundamental-rights",
+      "article-32",
+      "ambedkar",
+      "writs",
+      "pyq-2010"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2010-UPGK-001",
+    "year": 2010,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश की सिंचाई एवं नहर प्रणाली",
+    "subtopic": "Sharda Canal System",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश की सबसे लम्बी नहर प्रणाली कौन सी है?",
+      "en": "Which is the longest canal system in Uttar Pradesh?"
+    },
+    "options": {
+      "hi": [
+        "ऊपरी गंगा नहर",
+        "निचली गंगा नहर",
+        "शारदा नहर",
+        "आगरा नहर"
+      ],
+      "en": [
+        "Upper Ganga Canal",
+        "Lower Ganga Canal",
+        "Sharda Canal",
+        "Agra Canal"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "hi": "'शारदा नहर' उत्तर प्रदेश की सबसे बड़ी और लम्बी नहर प्रणाली है।\n• इसका निर्माण 1920 में प्रारंभ हुआ तथा 1928 में पूर्ण हुआ।\n• यह पीलीभीत जिले के वनबसा (भारत-नेपाल सीमा) से शारदा नदी से निकाली गई है।\n• इसकी शाखाओं और प्रशाखाओं सहित कुल लम्बाई 12,368 किलोमीटर से अधिक है।\n• इससे पीलीभीत, बरेली, शाहजहांपुर, लखीमपुर, हरदोई, सीतापुर, लखनऊ, उन्नाव, रायबरेली, बाराबंकी, अयोध्या और सुल्तानपुर जिले सिंचित होते हैं।",
+      "en": "The Sharda Canal is the longest canal network in Uttar Pradesh, originating from the Sharda River at Banbasa (Pilibhit border), constructed between 1920 and 1928. Its total network length, including all distributaries and branches, exceeds 12,368 km."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - सिंचाई एवं बहुउद्देशीय नदी घाटी परियोजनाएं।",
+      "en": "UP Pariksha Vani - Irrigation systems and canal infrastructure of UP."
+    },
+    "repeatNotes": {
+      "hi": "शारदा नहर और केन-बेतवा लिंक पर UPPSC में 6 बार प्रश्न पूछा जा चुका है।",
+      "en": "Tested 6 times across UPPSC exams."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2010",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "canals",
+      "sharda-canal",
+      "irrigation",
+      "pyq-2010"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2010-HINDI-001",
+    "year": 2010,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'सृष्टि' शब्द का प्रामाणिक विलोम क्या है?",
+      "en": "What is the authentic antonym of the Hindi word 'Srishti' (Creation/Cosmos)?"
+    },
+    "options": {
+      "hi": [
+        "विनाश",
+        "प्रलय",
+        "विध्वंस",
+        "संहार"
+      ],
+      "en": [
+        "Vinash",
+        "Pralay (प्रलय)",
+        "Vidhvans",
+        "Samhar"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'सृष्टि' (सृजन/निर्माण) का शास्त्रीय और प्रामाणिक विलोम शब्द 'प्रलय' (सृष्टि का लय हो जाना) होता है।\nयद्यपि विनाश और संहार भी नष्ट करने के अर्थ में हैं, परंतु तत्सम व्याकरण में सृष्टि का विशिष्ट विलोम 'प्रलय' ही आयोग द्वारा मान्य है।\n• संहार का विलोम = सृजन\n• विनाश का विलोम = निर्माण।",
+      "en": "'Srishti' (Creation) pairs in classical Sanskrit/Hindi antonym theory with 'Pralay' (Dissolution/Cosmic Deluge). While Vinash and Samhar mean destruction, UPPSC strictly accepts Pralay as the peer Tatsam antonym."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी / वासुदेव नंदन प्रसाद - हिन्दी विलोम शब्द कोश।",
+      "en": "Hardev Bahri - Tatsam-to-Tatsam semantic antonym alignment."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2014, 2017 में पूछा गया।",
+      "en": "Tested across 2010, 2014, and 2017 RO/ARO exams."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2010",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vilom",
+      "srishti",
+      "pralay",
+      "pyq-2010"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2010-HINDI-002",
+    "year": 2010,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "तत्सम एवं तद्भव शब्द",
+    "subtopic": "Tatsam-Tadbhav Roots",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'हल्दी' शब्द का तत्सम रूप निम्नलिखित में से कौन सा है?",
+      "en": "What is the Sanskrit Tatsam root form of the Hindi Tadbhav word 'Haldi' (Turmeric)?"
+    },
+    "options": {
+      "hi": [
+        "हरिद्रिका",
+        "हरिद्रा",
+        "हरिद्रांग",
+        "हल्दीका"
+      ],
+      "en": [
+        "Haridrika",
+        "Haridra (हरिद्रा)",
+        "Haridrang",
+        "Haldika"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'हल्दी' तद्भव शब्द है जिसका शुद्ध तत्सम रूप 'हरिद्रा' (Haridra) होता है।\n\nअन्य महत्वपूर्ण तद्भव-तत्सम:\n• अदरक ➔ आर्द्रक\n• इलायची ➔ एला\n• लौंग ➔ लवंग\n• सौंठ ➔ शुंठी\n• हींग ➔ हिंगु\n• जीरा ➔ जीरक।",
+      "en": "'Haldi' is a Tadbhav word derived from the Sanskrit Tatsam word 'Haridra'. Other spice roots: Ela (Cardamom), Lavanga (Clove), Ardraka (Ginger), Shunthi (Dry Ginger), Hingu (Asafoetida)."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - तत्सम एवं तद्भव शब्द कोश।",
+      "en": "Hardev Bahri - Sanskrit roots for everyday household spices."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO और PCS में 7 बार पूछा गया प्रश्न।",
+      "en": "Quizzed 7+ times in UPPSC Hindi papers."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2010",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "tatsam-tadbhav",
+      "haldi",
+      "haridra",
+      "pyq-2010"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2010-ENV-001",
+    "year": 2010,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Ecology & Environment",
+    "topic": "पर्यावरण कानून एवं नीतियां",
+    "subtopic": "Wildlife Protection Act 1972",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में वन्यजीवों की सुरक्षा और अवैध शिकार की रोकथाम हेतु 'वन्यजीव (संरक्षण) अधिनियम' (Wildlife Protection Act) किस वर्ष लागू किया गया था?",
+      "en": "In which year was the 'Wildlife (Protection) Act' enacted in India for the conservation of wildlife and prevention of poaching?"
+    },
+    "options": {
+      "hi": [
+        "वर्ष 1970",
+        "वर्ष 1972",
+        "वर्ष 1980",
+        "वर्ष 1986"
+      ],
+      "en": [
+        "Year 1970",
+        "Year 1972",
+        "Year 1980",
+        "Year 1986"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "भारत की संसद द्वारा 'वन्यजीव (संरक्षण) अधिनियम' 9 सितंबर 1972 को पारित किया गया था। इसमें वन्यजीवों के शिकार पर प्रतिबंध, राष्ट्रीय उद्यानों व वन्यजीव अभयारण्यों की स्थापना तथा लुप्तप्राय प्रजातियों के संरक्षण हेतु अनुसूचियों का प्रावधान है।\n\nअन्य महत्वपूर्ण पर्यावरण अधिनियम:\n• प्रोजेक्ट टाइगर ➔ 1973\n• जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम ➔ 1974\n• वन (संरक्षण) अधिनियम ➔ 1980\n• वायु (प्रदूषण निवारण एवं नियंत्रण) अधिनियम ➔ 1981\n• पर्यावरण (संरक्षण) अधिनियम ➔ 1986 (भोपाल गैस त्रासदी 1984 के बाद छाता विधान के रूप में पारित)\n• प्रोजेक्ट हाथी ➔ 1992\n• जैव विविधता अधिनियम ➔ 2002।",
+      "en": "The Wildlife (Protection) Act was enacted on 9 September 1972 to safeguard plant and animal species. Key ecological milestones: Project Tiger (1973), Water Act (1974), Forest Conservation Act (1980), Air Act (1981), Environment Protection Act (1986), Project Elephant (1992), and Biological Diversity Act (2002)."
+    },
+    "coreConcept": {
+      "hi": "दृष्टि आईएएस (पर्यावरण एवं पारिस्थितिकी) - भारत में पर्यावरण संबंधी प्रमुख कानून एवं क्रांतियां।",
+      "en": "Drishti IAS Environment - Environmental legislations and conservation frameworks in India."
+    },
+    "repeatNotes": {
+      "hi": "1972 का वन्यजीव अधिनियम और 1986 का पर्यावरण अधिनियम UPPSC के सबसे ज्यादा दोहराए जाने वाले पर्यावरण प्रश्न हैं।",
+      "en": "Most repeated environmental legislation question in UPPSC (10+ times)."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2010",
+    "officialStatus": true,
+    "tags": [
+      "environment",
+      "wildlife-act",
+      "1972",
+      "conservation",
+      "pyq-2010"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-INM-002",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian National Movement",
+    "topic": "1857 का प्रथम स्वतंत्रता संग्राम",
+    "subtopic": "1857 Centers and Leaders in UP",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "1857 के प्रथम स्वतंत्रता संग्राम में बरेली में क्रांतिकारियों का नेतृत्व निम्नलिखित में से किसने किया था?",
+      "en": "In the First War of Independence (1857), who among the following led the revolutionaries in Bareilly?"
+    },
+    "options": {
+      "hi": [
+        "खान बहादुर खान",
+        "कुंवर सिंह",
+        "मौलवी अहमदुल्लाह शाह",
+        "नाना साहब"
+      ],
+      "en": [
+        "Khan Bahadur Khan",
+        "Kunwar Singh",
+        "Maulvi Ahmadullah Shah",
+        "Nana Saheb"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "1857 के विप्लव में बरेली (रुहेलखंड) में विद्रोह का नेतृत्व रोहिल्ला सरदार हाफिज रहमत खां के पौत्र 'खान बहादुर खान' ने किया था। उन्होंने स्वयं को नवाब नाजिम घोषित कर ब्रिटिश सत्ता को चुनौती दी थी।\n\nअन्य 1857 केंद्रों के नेतृत्वकर्ता:\n• कुंवर सिंह ➔ जगदीशपुर (बिहार)\n• मौलवी अहमदुल्लाह शाह ➔ फैजाबाद (इन्होंने अंग्रेजों के विरुद्ध फतवा और जिहाद जारी किया था)\n• नाना साहब एवं तात्या टोपे ➔ कानपुर\n• बेगम हजरत महल एवं बिरजिस कादिर ➔ लखनऊ\n• लियाकत अली ➔ इलाहाबाद (प्रयागराज)\n• रानी लक्ष्मीबाई ➔ झांसी।",
+      "en": "In the 1857 uprising, Khan Bahadur Khan led the revolt in Bareilly (Rohilkhand). Kunwar Singh led in Jagdishpur (Bihar), Maulvi Ahmadullah Shah in Faizabad, Nana Saheb and Tatya Tope in Kanpur, Begum Hazrat Mahal in Lucknow, and Liaquat Ali in Allahabad."
+    },
+    "coreConcept": {
+      "hi": "बिपिन चंद्र - 1857 का जन विद्रोह; उत्तर प्रदेश के प्रमुख केंद्र एवं नेता।",
+      "en": "Bipan Chandra - Revolt of 1857: Major flashpoints and leadership in North-Western Provinces (UP)."
+    },
+    "repeatNotes": {
+      "hi": "1857 के विद्रोह के नेता और उनके केंद्रों का मिलान UPPSC में 10 से अधिक बार पूछा गया है।",
+      "en": "Matching 1857 leaders with cities is tested 10+ times across UPPSC exams."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "inm",
+      "1857",
+      "bareilly",
+      "khan-bahadur",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-UPGK-002",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश की जनगणना 2011",
+    "subtopic": "Sex Ratio & Literacy of UP",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "जनगणना 2011 के अंतिम आंकड़ों के अनुसार, उत्तर प्रदेश का लिंगानुपात (Sex Ratio - प्रति 1000 पुरुषों पर महिलाएं) कितना है?",
+      "en": "According to Census 2011 final data, what is the Sex Ratio (females per 1000 males) of Uttar Pradesh?"
+    },
+    "options": {
+      "hi": [
+        "912",
+        "943",
+        "898",
+        "928"
+      ],
+      "en": [
+        "912",
+        "943",
+        "898",
+        "928"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "जनगणना 2011 के अनुसार उत्तर प्रदेश का समग्र लिंगानुपात '912' (प्रति 1000 पुरुषों पर 912 महिलाएं) है, जो राष्ट्रीय औसत 943 से 31 कम है।\n• 2001 में UP का लिंगानुपात 898 था (अर्थात 14 अंक का सुधार हुआ)।\n• उत्तर प्रदेश में सर्वाधिक लिंगानुपात वाला जिला: 'जौनपुर' (1024), इसके बाद आजमगढ़ (1019) और देवरिया (1017)।\n• न्यूनतम लिंगानुपात वाला जिला: 'गौतम बुद्ध नगर' (851)।\n• UP का शिशु लिंगानुपात (0-6 आयु वर्ग): 902।",
+      "en": "According to Census 2011, the sex ratio of Uttar Pradesh is 912 females per 1000 males (compared to national average 943). The highest sex ratio in UP is in Jaunpur (1024), followed by Azamgarh (1019). Gautam Buddha Nagar has the lowest at 851. Child sex ratio (0-6) is 902."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - अध्याय: उत्तर प्रदेश जनसांख्यिकी एवं जनगणना 2011।",
+      "en": "UP Pariksha Vani - Demographics and Census 2011 metrics of Uttar Pradesh."
+    },
+    "repeatNotes": {
+      "hi": "UP जनगणना के लिंगानुपात और साक्षरता पर प्रतिवर्ष UPPSC में 2 प्रश्न पूछे जाते हैं।",
+      "en": "UP Census metrics are asked 2 times every exam cycle."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "census-2011",
+      "sex-ratio",
+      "jaunpur",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2023-ENV-001",
+    "year": 2023,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Ecology & Environment",
+    "topic": "रामसर आर्द्रभूमि स्थल (Ramsar Sites)",
+    "subtopic": "Bakhira Bird Sanctuary",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश का प्रसिद्ध 'बखीरा वन्यजीव अभयारण्य' (Bakhira Wildlife Sanctuary), जिसे रामसर स्थल घोषित किया गया है, किस जिले में स्थित है?",
+      "en": "The renowned 'Bakhira Wildlife Sanctuary' of Uttar Pradesh, designated as a Ramsar Wetland Site, is situated in which district?"
+    },
+    "options": {
+      "hi": [
+        "संत कबीर नगर",
+        "सिद्धार्थनगर",
+        "गोंडा",
+        "बलरामपुर"
+      ],
+      "en": [
+        "Sant Kabir Nagar",
+        "Siddharthnagar",
+        "Gonda",
+        "Balrampur"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "बखीरा वन्यजीव अभयारण्य उत्तर प्रदेश के 'संत कबीर नगर' जिले में स्थित एक विशाल मीठे पानी की प्राकृतिक झील एवं पक्षी विहार है, जिसे 2022 में भारत का 49वां रामसर स्थल घोषित किया गया था।\n\nउत्तर प्रदेश के प्रमुख रामसर स्थल:\n1. ऊपरी गंगा नदी (ब्रजघाट से नरोरा) - UP का प्रथम रामसर स्थल (2005)\n2. नवाबगंज पक्षी विहार (उन्नाव)\n3. सांडी पक्षी विहार (हरदोई)\n4. समसपुर पक्षी विहार (रायबरेली)\n5. समन पक्षी विहार (मैनपुरी)\n6. पार्वती अरगा पक्षी विहार (गोंडा)\n7. सरसई नावर झील (इटावा)\n8. सूर सरोवर / कीठम झील (आगरा)\n9. हैदरपुर वेटलैंड (मुजफ्फरनगर/बिजनौर)\n10. बखीरा वन्यजीव अभयारण्य (संत कबीर नगर)।",
+      "en": "Bakhira Wildlife Sanctuary is in Sant Kabir Nagar district of UP, designated as a Ramsar Wetland of International Importance. UP has 10 Ramsar sites including Upper Ganga River, Haiderpur Wetland, Sur Sarovar, Parvati Arga, Saman, Sandi, Samaspur, and Nawabganj."
+    },
+    "coreConcept": {
+      "hi": "दृष्टि आईएएस पर्यावरण / परीक्षा वाणी - उत्तर प्रदेश की प्रमुख आर्द्रभूमियां एवं रामसर अभिसमय 1971।",
+      "en": "Drishti IAS Environment - Ramsar Convention (1971) and Wetland conservation in UP."
+    },
+    "repeatNotes": {
+      "hi": "रामसर स्थलों की सुमेलन सूची UPPSC RO/ARO में लगातार पूछी जा रही है।",
+      "en": "Tested in UPPSC RO/ARO 2021, 2023, and PCS."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2023 Cycle",
+    "officialStatus": true,
+    "tags": [
+      "environment",
+      "ramsar",
+      "bakhira",
+      "wetlands",
+      "pyq-2023"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-HINDI-003",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "पर्यायवाची शब्द",
+    "subtopic": "Synonyms of Lion (Mrigendra)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'मृगेंद्र' (Mrigendra) शब्द का पर्यायवाची निम्नलिखित में से कौन सा है?",
+      "en": "Which of the following is the correct synonym of the Hindi word 'Mrigendra'?"
+    },
+    "options": {
+      "hi": [
+        "कुरंग",
+        "केसरी",
+        "भुजंग",
+        "तुरंग"
+      ],
+      "en": [
+        "Kurang",
+        "Kesari (केसरी)",
+        "Bhujang",
+        "Turang"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'मृगेंद्र' (मृगों का इंद्र/राजा) 'सिंह' (शेर) का पर्यायवाची है। सिंह का दूसरा सुप्रसिद्ध पर्यायवाची 'केसरी' (या केहरी/शार्दूल) होता है।\n\nसिंह के अन्य प्रमुख पर्यायवाची:\n• मृगेंद्र, केसरी, केहरी, शार्दूल, नाहर, वनराज, मृगराज, पंचानन, व्याघ्र।\n\nअन्य विकल्पों का अर्थ:\n• कुरंग = हिरण (मृग/सारंग)\n• भुजंग = सांप (सर्प/उरग/नाग)\n• तुरंग = घोड़ा (अश्व/हय/घोटक/सैंधव)।",
+      "en": "'Mrigendra' (Lord of beasts) is a classical synonym for 'Lion' (Singh). 'Kesari' (or Kehari/Shardool) also denotes Lion. 'Kurang' means deer, 'Bhujang' means serpent, and 'Turang' means horse."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - प्रामाणिक हिन्दी पर्यायवाची शब्दकोश।",
+      "en": "Hardev Bahri - High-yield animal synonyms in General Hindi."
+    },
+    "repeatNotes": {
+      "hi": "मृगेंद्र, केसरी और तुरंग UPPSC RO/ARO में 6 बार पूछे जा चुके हैं।",
+      "en": "Repeated 6 times in UPPSC RO/ARO exams."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "paryayvachi",
+      "mrigendra",
+      "kesari",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-HINDI-004",
+    "year": 2021,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विशेष्य और विशेषण",
+    "subtopic": "Adjectives Classification",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'तीसरा' (Third) शब्द में किस प्रकार का विशेषण है?",
+      "en": "In the word 'Teesra' (Third), which type of numeral adjective is present?"
+    },
+    "options": {
+      "hi": [
+        "पूर्णांकबोधक विशेषण",
+        "क्रमवाचक विशेषण",
+        "आवृत्तिवाचक विशेषण",
+        "समुदायवाचक विशेषण"
+      ],
+      "en": [
+        "Cardinal numeral adjective",
+        "Ordinal numeral adjective (क्रमवाचक)",
+        "Multiplicative numeral adjective",
+        "Collective numeral adjective"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'तीसरा' एक 'क्रमवाचक निश्चित संख्यावाचक विशेषण' (Ordinal Numeral) है, क्योंकि यह क्रम या स्थान (Order/Rank) का बोध कराता है (जैसे: पहला, दूसरा, तीसरा, चौथा, पांचवां)।\n\nसंख्यावाचक विशेषणों के भेद:\n1. गणनावाचक: एक, दो, तीन, चार (पूर्णांकबोधक) तथा आधा, पौन, सवा (अपूर्णांकबोधक)\n2. क्रमवाचक: पहला, दूसरा, तीसरा, चौथा\n3. आवृत्तिवाचक: दूना, तिगुना, चौगुना, सौ गुना\n4. समुदायवाचक: दोनों, तीनों, चारों, पांचों\n5. प्रत्येकबोधक: हर एक, प्रत्येक, दो-दो।",
+      "en": "'Teesra' (Third) is an Ordinal Numeral Adjective (Kramvachak) denoting position or sequence. Cardinal = Ek, Do; Multiplicative = Doona, Tiguna; Collective = Dono, Teeno; Distributive = Har ek, Pratyek."
+    },
+    "coreConcept": {
+      "hi": "वासुदेव नंदन प्रसाद - संख्यावाचक विशेषणों के पांचों उपभेद।",
+      "en": "Vasudev Nandan Prasad - Five sub-classifications of definite numeral adjectives in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "क्रमवाचक और आवृत्तिवाचक विशेषणों पर UPPSC RO/ARO में हर वर्ष 1 प्रश्न अवश्य आता है।",
+      "en": "Tested in every single RO/ARO Hindi paper."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "visheshan",
+      "kramvachak",
+      "teesra",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-UPGK-002",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश के खनिज संसाधन",
+    "subtopic": "Uranium in Lalitpur",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश में 'यूरेनियम' (Uranium) के सीमित भंडार किस जिले में पाए जाते हैं?",
+      "en": "In which district of Uttar Pradesh are limited reserves of 'Uranium' found?"
+    },
+    "options": {
+      "hi": [
+        "झांसी",
+        "ललितपुर",
+        "मिर्जापुर",
+        "सोनभद्र"
+      ],
+      "en": [
+        "Jhansi",
+        "Lalitpur",
+        "Mirzapur",
+        "Sonbhadra"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "उत्तर प्रदेश के 'ललितपुर' जिले में यूरेनियम और तांबा (Copper) के सीमित भंडार पाए जाते हैं। ललितपुर को 'देवगढ़ के दशावतार मंदिर' (गुप्तकालीन) के लिए भी जाना जाता है।\n\nउत्तर प्रदेश के प्रमुख खनिज एवं उनके जिले:\n• यूरेनियम एवं तांबा ➔ ललितपुर\n• बॉक्साइट ➔ बांदा, चंदौली\n• कांच बालू (सिलिका सैंड) ➔ शंकरगढ़ (प्रयागराज) एवं चित्रकूट\n• संगमरमर एवं चूना पत्थर ➔ मिर्जापुर एवं सोनभद्र (कजराहट)\n• कोयला ➔ सिंगरौली (सोनभद्र)।",
+      "en": "Limited reserves of Uranium and Copper in Uttar Pradesh are found in Lalitpur district. Other major mineral mappings: Bauxite in Banda/Chandauli, Glass sand (Silica) in Shankargarh (Prayagraj), Limestone in Mirzapur/Sonbhadra, and Coal in Singrauli (Sonbhadra)."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - अध्याय: खनिज एवं ऊर्जा संसाधन।",
+      "en": "UP Pariksha Vani - Mineral wealth and industrial geology of Uttar Pradesh."
+    },
+    "repeatNotes": {
+      "hi": "ललितपुर में यूरेनियम UPPSC का सबसे अधिक बार दोहराया गया खनिज प्रश्न है।",
+      "en": "Uranium in Lalitpur is quizzed 8+ times in UPPSC exams."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "minerals",
+      "uranium",
+      "lalitpur",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-GS-002",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "History of India",
+    "topic": "मौर्य साम्राज्य एवं कला",
+    "subtopic": "Lion Capital of Ashoka at Sarnath",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "सारनाथ (वाराणसी) में स्थित मौर्य सम्राट अशोक के सिंह शीर्ष स्तंभ (Lion Capital) के आधार फलक (Abacus) पर कौन से चार पशु उत्कीर्ण हैं?",
+      "en": "Which four animals are carved on the circular abacus of Emperor Ashoka's Lion Capital at Sarnath (Varanasi)?"
+    },
+    "options": {
+      "hi": [
+        "हाथी, घोड़ा, बैल और सिंह",
+        "सिंह, चीता, हिरण और हाथी",
+        "हाथी, गाय, घोड़ा और सिंह",
+        "बैल, बाघ, घोड़ा और हिरण"
+      ],
+      "en": [
+        "Elephant, Horse, Bull, and Lion",
+        "Lion, Cheetah, Deer, and Elephant",
+        "Elephant, Cow, Horse, and Lion",
+        "Bull, Tiger, Horse, and Deer"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "सारनाथ के अशोक स्तंभ के गोलाकार शीर्ष फलक (Abacus) पर चार दिशाओं में गतिमान चार सजीव पशु उत्कीर्ण हैं:\n1. हाथी (पूर्व दिशा - बुद्ध के गर्भ में प्रवेश का प्रतीक)\n2. घोड़ा (दक्षिण दिशा - बुद्ध के गृहत्याग / कंथक का प्रतीक)\n3. बैल / वृषभ (पश्चिम दिशा - बुद्ध की वृष राशि / जन्म का प्रतीक)\n4. सिंह (उत्तर दिशा - शाक्यसिंह बुद्ध की शक्ति का प्रतीक)।\nइन चारों पशुओं के बीच में 24 तीलियों वाले धर्मचक्र बने हैं। भारत सरकार ने 26 जनवरी 1950 को इस सिंह शीर्ष को अपने 'राष्ट्रीय प्रतीक' (State Emblem) के रूप में अपनाया।",
+      "en": "The abacus of Ashoka's Sarnath Lion Capital features four animals carved in high relief: Elephant, Horse, Bull, and Lion, interspersed with 24-spoke Dharma Chakras. Adopted as India's National Emblem on 26 January 1950."
+    },
+    "coreConcept": {
+      "hi": "नितिन सिंघानिया (भारतीय कला एवं संस्कृति) - मौर्यकालीन वास्तुकला एवं स्तंभ।",
+      "en": "Nitin Singhania - Mauryan art, architecture, and Sarnath Ashokan pillar."
+    },
+    "repeatNotes": {
+      "hi": "सारनाथ के चार पशुओं और 24 तीलियों के चक्र पर UPPSC में 6 बार प्रश्न पूछा गया है।",
+      "en": "Carved animals on Sarnath pillar are repeatedly tested in UPPSC."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "history",
+      "ancient",
+      "ashoka",
+      "sarnath",
+      "emblem",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-MAINS-DRAFTING-001",
+    "year": 2017,
+    "stage": "MAINS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "प्रशासनिक एवं पारिभाषिक शब्दावली",
+    "subtopic": "Administrative Terminology Translation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "अंग्रेजी प्रशासनिक शब्द 'Gazette' के लिए सटीक और प्रामाणिक हिन्दी पारिभाषिक शब्द क्या है?",
+      "en": "What is the authentic and standardized Hindi administrative translation for the official term 'Gazette'?"
+    },
+    "options": {
+      "hi": [
+        "राजपत्र",
+        "सूचना पत्र",
+        "विज्ञप्ति",
+        "अधिसूचना"
+      ],
+      "en": [
+        "Rajpatra (राजपत्र)",
+        "Soochna Patra",
+        "Vigyapti",
+        "Adhisochna"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'Gazette' का भारत सरकार एवं उत्तर प्रदेश सरकार द्वारा स्वीकृत एकमात्र प्रामाणिक पारिभाषिक शब्द 'राजपत्र' होता है (उदा. The Gazette of India = भारत का राजपत्र)।\n\nअन्य संबंधित प्रशासनिक शब्दों के अनुवाद:\n• Notification = अधिसूचना\n• Communique / Press Release = विज्ञप्ति / प्रेस विज्ञप्ति\n• Memorandum = ज्ञापन\n• Endorsement = पृष्ठांकन\n• Sanction = संस्वीकृति / मंजूरी।",
+      "en": "The official standardized administrative Hindi equivalent for 'Gazette' is 'राजपत्र' (Rajpatra). 'Notification' translates to 'अधिसूचना', 'Memorandum' to 'ज्ञापन', and 'Endorsement' to 'पृष्ठांकन'."
+    },
+    "coreConcept": {
+      "hi": "केंद्रीय हिन्दी निदेशालय / उत्तर प्रदेश सचिवालय प्रशासनिक शब्दावली कोश।",
+      "en": "Central Hindi Directorate - Official Glossary of Administrative Terms."
+    },
+    "repeatNotes": {
+      "hi": "RO/ARO मुख्य परीक्षा के खंड-2 (पारिभाषिक शब्दावली) में प्रतिवर्ष 5 अंग्रेजी शब्दों का हिन्दी और 5 हिन्दी का अंग्रेजी पूछा जाता है।",
+      "en": "Standard recurring question in RO/ARO Mains Administrative Vocabulary."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "admin-vocab",
+      "gazette",
+      "mains",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-HINDI-004",
+    "year": 2017,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "अनेक शब्दों के लिए एक शब्द",
+    "subtopic": "Directions as Garments (Digambar)",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'दिशाएं ही जिनका वस्त्र हैं' — इस वाक्यांश के लिए एक उपयुक्त शब्द क्या है?",
+      "en": "What is the single word for the phrase 'Those whose clothing is the directions of the cosmos'?"
+    },
+    "options": {
+      "hi": [
+        "दिशांबर",
+        "दिगंबर",
+        "दिग्पाल",
+        "पैगंबर"
+      ],
+      "en": [
+        "Dishambar",
+        "Digambar (दिगंबर)",
+        "Digpal",
+        "Paigambar"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "hi": "'दिशाएं ही जिनका वस्त्र हैं' के लिए प्रामाणिक शब्द 'दिगंबर' (दिक् + अंबर = दिगंबर) है। जैन धर्म में वस्त्र न धारण करने वाले संप्रदाय को भी दिगंबर कहा जाता है।\nव्यंजन संधि नियम: दिक् (क् का ग् में परिवर्तन) + अंबर = दिगंबर।\n\nअन्य शब्दों का अर्थ:\n• दिग्पाल = दिशाओं की रक्षा करने वाला देवता\n• पैगंबर = ईश्वर का संदेश लाने वाला दूत।",
+      "en": "'Digambar' (Dik + Ambar = Digambar) literally means clothed with the sky/directions. It denotes Jain ascetics who renounce clothing. 'Digpal' refers to the celestial guardians of the compass directions."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - अनेक शब्दों के लिए एक शब्द।",
+      "en": "Hardev Bahri - Sanskrit compound derivatives in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2014, 2017, 2021 में पूछा गया।",
+      "en": "Repeated across 2010, 2014, 2017, and 2021."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "anek-shabd",
+      "digambar",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-SCIENCE-002",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "General Science",
+    "topic": "भौतिक विज्ञान (ध्वनि तरंगे)",
+    "subtopic": "Speed of Sound in Media",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "ध्वनि का वेग (Speed of Sound) निम्नलिखित में से किस माध्यम में सर्वाधिक होता है?",
+      "en": "In which of the following media is the velocity of sound maximum?"
+    },
+    "options": {
+      "hi": [
+        "निर्वात में (Vacuum)",
+        "वायु में (Air)",
+        "जल में (Water)",
+        "इस्पात / ठोस में (Steel/Solid)"
+      ],
+      "en": [
+        "In Vacuum",
+        "In Air",
+        "In Water",
+        "In Steel/Solid"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "ध्वनि एक यांत्रिक अनुदैर्घ्य तरंग (Mechanical Longitudinal Wave) है जिसके संचरण के लिए भौतिक माध्यम की आवश्यकता होती है। ध्वनि का वेग माध्यम के घनत्व एवं प्रत्यास्थता (Elasticity) पर निर्भर करता है।\n• ठोसों में ध्वनि का वेग सर्वाधिक (लगभग 5000-6000 मी/से इस्पात में) होता है।\n• द्रवों में मध्यम (लगभग 1480 मी/से जल में) होता है।\n• गैसों में सबसे कम (लगभग 332 मी/से वायु में) होता है।\n• निर्वात में ध्वनि संचरित नहीं हो सकती (वेग = शून्य)।",
+      "en": "Sound is a mechanical wave requiring an elastic medium. Its speed is maximum in solids (approx 5960 m/s in steel) due to high bulk modulus, intermediate in liquids (1480 m/s in water), lowest in gases (332 m/s in air), and cannot propagate through a vacuum."
+    },
+    "coreConcept": {
+      "hi": "NCERT Class 9 Physics (अध्याय: ध्वनि) - ध्वनि का संचरण एवं विभिन्न माध्यमों में चाल।",
+      "en": "NCERT Class 9 Physics - Sound propagation and acoustic elasticity."
+    },
+    "repeatNotes": {
+      "hi": "इस्पात/ठोस में ध्वनि की चाल UPPSC में 9 बार पूछा गया मूलभूत प्रश्न है।",
+      "en": "Tested 9 times in UPPSC General Science."
+    },
+    "repetitionCount": 9,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "science",
+      "physics",
+      "sound",
+      "steel",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-HINDI-002",
+    "year": 2016,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "तत्सम एवं तद्भव शब्द",
+    "subtopic": "Camphor Root",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'कर्पूर' शब्द का तद्भव रूप क्या है?",
+      "en": "What is the Tadbhav derivative of the Sanskrit Tatsam word 'Karpura'?"
+    },
+    "options": {
+      "hi": [
+        "कपूर",
+        "करपर",
+        "कपड़ा",
+        "कपूरक"
+      ],
+      "en": [
+        "Kapoor (कपूर)",
+        "Karpar",
+        "Kapada",
+        "Kapoorak"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'कर्पूर' तत्सम शब्द है जिसका तद्भव 'कपूर' होता है।\n\nअन्य विकल्पों का विश्लेषण:\n• 'करपर' तत्सम है जिसका तद्भव 'खप्पर' (या खपड़ा) होता है।\n• 'कर्पट' तत्सम है जिसका तद्भव 'कपड़ा' होता है। (कर्पट ➔ कपड़ा UPPSC का एक और अत्यंत प्रसिद्ध प्रश्न है)।",
+      "en": "'Karpura' is the Sanskrit Tatsam word which yielded Tadbhav 'Kapoor' (Camphor). 'Karpat' is the Tatsam for 'Kapada' (Cloth), and 'Karpar' is the Tatsam for 'Khappar'."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - तत्सम एवं तद्भव शब्द कोश।",
+      "en": "Hardev Bahri - High-frequency Tatsam-Tadbhav pairs in UPPSC examinations."
+    },
+    "repeatNotes": {
+      "hi": "कर्पूर ➔ कपूर और कर्पट ➔ कपड़ा UPPSC में 8 बार पूछा गया है।",
+      "en": "Repeated 8 times across UPPSC exams."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "tatsam-tadbhav",
+      "kapoor",
+      "karpura",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-MAINS-GS-001",
+    "year": 2014,
+    "stage": "MAINS",
+    "paper": "MAINS_GS",
+    "subject": "Indian Polity",
+    "topic": "संवैधानिक पद",
+    "subtopic": "Comptroller and Auditor General of India (CAG)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के किस अनुच्छेद के तहत 'भारत के नियंत्रक एवं महालेखा परीक्षक' (CAG) के पद की व्यवस्था की गई है तथा इसे किसका 'मित्र एवं मार्गदर्शक' कहा जाता है?",
+      "en": "Under which Article of the Constitution is the office of the Comptroller and Auditor General (CAG) provided, and CAG is called the 'friend and philosopher' of which body?"
+    },
+    "options": {
+      "hi": [
+        "अनुच्छेद 148, लोक लेखा समिति का",
+        "अनुच्छेद 280, वित्त आयोग का",
+        "अनुच्छेद 76, भारत के महान्यायवादी का",
+        "अनुच्छेद 324, चुनाव आयोग का"
+      ],
+      "en": [
+        "Article 148, Public Accounts Committee (PAC)",
+        "Article 280, Finance Commission",
+        "Article 76, Attorney General of India",
+        "Article 324, Election Commission"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "भारतीय संविधान के अनुच्छेद 148 के तहत 'भारत के नियंत्रक एवं महालेखा परीक्षक' (CAG) के स्वतंत्र पद का प्रावधान है।\n• डॉ. अम्बेडकर ने CAG को संविधान का सर्वाधिक महत्वपूर्ण अधिकारी बताया था।\n• CAG की वार्षिक लेखापरीक्षा रिपोर्ट को संसद में लोक लेखा समिति (PAC) द्वारा परखा जाता है, इसलिए CAG को 'लोक लेखा समिति का मित्र, दार्शनिक एवं मार्गदर्शक' (Friend, Philosopher, and Guide) कहा जाता है।\n• CAG का कार्यकाल 6 वर्ष या 65 वर्ष की आयु (जो भी पहले हो) तक होता है।",
+      "en": "Article 148 provides for the independent office of the CAG, appointed by the President. Because the Public Accounts Committee (PAC) examines the audit reports submitted by the CAG, the CAG is officially recognized as the 'Friend, Philosopher, and Guide' of the Public Accounts Committee."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: नियंत्रक एवं महालेखा परीक्षक) - स्वायत्तता, शक्तियां एवं PAC से संबंध।",
+      "en": "M. Laxmikanth - CAG under Articles 148-151 and working relationship with PAC."
+    },
+    "repeatNotes": {
+      "hi": "अनुच्छेद 148 और CAG-PAC संबंध UPPSC मुख्य परीक्षा का प्रतिष्ठित प्रश्न है।",
+      "en": "Quizzed in UPPSC Mains and Prelims repeatedly."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "cag",
+      "pac",
+      "article-148",
+      "mains",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-HINDI-002",
+    "year": 2014,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms of Dietary Habits",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'आमिष' (या सामिष) शब्द का सही विलोम क्या है?",
+      "en": "What is the correct antonym of the Hindi word 'Aamish' (Carnivorous/Non-vegetarian)?"
+    },
+    "options": {
+      "hi": [
+        "निरामिष",
+        "अनामिष",
+        "शाकाहारी",
+        "परिशिष्ट"
+      ],
+      "en": [
+        "Niraamish (निरामिष)",
+        "Anaamish",
+        "Shakahari",
+        "Parishisht"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'आमिष' तथा 'सामिष' (दोनों का अर्थ: मांसयुक्त भोजन) का सटीक तत्सम विलोम 'निरामिष' (मांस रहित भोजन) होता है।\nसंधि: निर् + आमिष = निरामिष।\n(यद्यपि शाकाहारी भी अर्थ देता है, परंतु तत्सम शब्द 'आमिष' का तत्सम विलोम केवल 'निरामिष' ही मान्य है)।",
+      "en": "'Aamish' and 'Saamish' (meaning flesh-eating/non-vegetarian) pair exclusively with the Tatsam antonym 'Niraamish' (vegetarian/free from flesh). Root prefix 'Nir' + Aamish = Niraamish."
+    },
+    "coreConcept": {
+      "hi": "डॉ. वासुदेव नंदन प्रसाद - हिन्दी विलोम शब्द रचना।",
+      "en": "Vasudev Nandan Prasad - Tatsam prefixation rules for dietary antonyms."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO 2010, 2013, 2014, 2017, 2021 में पूछा गया।",
+      "en": "Asked in almost every RO/ARO iteration."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vilom",
+      "aamish",
+      "niraamish",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-UPGK-002",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश के लोक नृत्य",
+    "subtopic": "Charkula Dance of Braj",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'चरकुला' (Charkula) लोक नृत्य उत्तर प्रदेश के किस क्षेत्र से संबंधित है?",
+      "en": "The celebrated folk dance 'Charkula' is associated with which region of Uttar Pradesh?"
+    },
+    "options": {
+      "hi": [
+        "ब्रजभूमि क्षेत्र",
+        "बुंदेलखंड क्षेत्र",
+        "अवध क्षेत्र",
+        "पूर्वांचल क्षेत्र"
+      ],
+      "en": [
+        "Brajbhumi Region",
+        "Bundelkhand Region",
+        "Awadh Region",
+        "Purvanchal Region"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'चरकुला' ब्रजभूमि (मथुरा क्षेत्र) का एक अत्यंत लोकप्रिय और प्रमुख लोक नृत्य है।\n• इस नृत्य में महिलाएं 108 जलते दीपकों वाले पहिए (रथ के पहिए पर पिरामिड नुमा चरकुला) को सिर पर रखकर राधा-कृष्ण के प्रेम प्रसंगों पर नृत्य करती हैं।\n\nउत्तर प्रदेश के अन्य क्षेत्रीय लोक नृत्य:\n• बुंदेलखंड: ख्याल, राई (मयूर नृत्य), पाई डंडा, सेरा (सैरा), देवी नृत्य।\n• अवध: जोगिनी नृत्य, कलाबाजी नृत्य।\n• पूर्वांचल: धोबिया नृत्य, नटवारी नृत्य, कव्वाली, कहरवा।",
+      "en": "Charkula is an iconic folk dance of the Braj region (Mathura/Vrindavan). Women balance a multi-tiered wooden pyramid holding 108 burning oil lamps on their heads while dancing to Rasia songs celebrating Radha and Krishna. Bundelkhand features Rai and Pai Danda; Purvanchal features Dhobiya and Natwari."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - अध्याय: उत्तर प्रदेश के लोक नृत्य, संगीत एवं कला घराने।",
+      "en": "UP Pariksha Vani - Regional folk dance traditions and musical heritage of UP."
+    },
+    "repeatNotes": {
+      "hi": "चरकुला नृत्य UPPSC का सबसे अधिक बार पूछा जाने वाला लोक नृत्य प्रश्न है।",
+      "en": "Tested more than 10 times in UPPSC exams."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "culture",
+      "charkula",
+      "braj",
+      "dance",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-GS-002",
+    "year": 2013,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "History of India",
+    "topic": "प्राचीन भारत - मौर्य काल",
+    "subtopic": "Megasthenes and Indica",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "मौर्य सम्राट चंद्रगुप्त मौर्य के दरबार में यूनानी शासक सेल्यूकस निकेटर द्वारा भेजा गया राजदूत कौन था जिसने 'इंडिका' (Indica) नामक पुस्तक लिखी?",
+      "en": "Who was the Greek ambassador sent by Seleucus Nicator to the court of Chandragupta Maurya who authored the book 'Indica'?"
+    },
+    "options": {
+      "hi": [
+        "मेगस्थनीज",
+        "डायमेकस",
+        "डायोनिसियस",
+        "प्लिनी"
+      ],
+      "en": [
+        "Megasthenes",
+        "Deimachus",
+        "Dionysius",
+        "Pliny"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "मेगस्थनीज (Megasthenes) यूनानी शासक सेल्यूकस निकेटर का राजदूत था, जो लगभग 304 ई.पू. में चंद्रगुप्त मौर्य के पाटलिपुत्र दरबार में आया था। उसने अपनी पुस्तक 'इंडिका' में मौर्यकालीन प्रशासन, पाटलिपुत्र नगर परिषद (30 सदस्यों की 6 समितियां) और भारतीय समाज के '7 वर्गों' (दार्शनिक, किसान, चरवाहे, कारीगर, सैनिक, निरीक्षक, सभासद) का विस्तृत वर्णन किया।\n\nअन्य विदेशी यात्री:\n• डायमेकस (सीरिया के राजा अंतियोकस का राजदूत) ➔ बिंदुसार के दरबार में आया।\n• डायोनिसियस (मिस्र के राजा टॉलेमी फिलाडेल्फस का राजदूत) ➔ अशोक/बिंदुसार के दरबार में आया।\n• प्लिनी ➔ 'नेचुरल हिस्टोरिका' का लेखक।",
+      "en": "Megasthenes was the Hellenistic envoy sent by Seleucus I Nicator to the court of Chandragupta Maurya in Pataliputra. His work 'Indica' describes the municipal administration (six boards of five members each) and divided Indian society into seven castes. Deimachus visited Bindusara."
+    },
+    "coreConcept": {
+      "hi": "आर.एस. शर्मा (प्राचीन भारत) - मौर्य साम्राज्य की शासन व्यवस्था एवं विदेशी स्रोत।",
+      "en": "R.S. Sharma - Ancient India: Mauryan imperial governance and Greco-Roman accounts."
+    },
+    "repeatNotes": {
+      "hi": "मेगस्थनीज और पाटलिपुत्र की नगर परिषद UPPSC में 8 बार पूछा गया प्रश्न है।",
+      "en": "Tested 8 times in UPPSC Ancient History."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "history",
+      "ancient",
+      "mauryan",
+      "megasthenes",
+      "indica",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2010-INM-001",
+    "year": 2010,
+    "stage": "PRELIMS",
+    "paper": "GENERAL_STUDIES",
+    "subject": "Indian National Movement",
+    "topic": "उग्रवादी राष्ट्रवाद एवं होम रूल",
+    "subtopic": "Swaraj Quote by Bal Gangadhar Tilak",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'स्वराज्य मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूंगा' — यह ऐतिहासिक घोषणा लोकमान्य बाल गंगाधर तिलक ने कांग्रेस के किस अधिवेशन में की थी?",
+      "en": "'Swaraj is my birthright and I shall have it' — this historic proclamation was made by Lokmanya Bal Gangadhar Tilak at which Congress session?"
+    },
+    "options": {
+      "hi": [
+        "बनारस अधिवेशन 1905",
+        "कलकत्ता अधिवेशन 1906",
+        "सूरत अधिवेशन 1907",
+        "लखनऊ अधिवेशन 1916"
+      ],
+      "en": [
+        "Banaras Session 1905",
+        "Calcutta Session 1906",
+        "Surat Session 1907",
+        "Lucknow Session 1916"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "hi": "लोकमान्य बाल गंगाधर तिलक ने वर्ष 1916 के भारतीय राष्ट्रीय कांग्रेस के ऐतिहासिक 'लखनऊ अधिवेशन' में यह अमर उद्घोष किया था: 'स्वराज्य मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूंगा'।\nइस अधिवेशन में तिलक और एनी बेसेंट के प्रयासों से कांग्रेस के नरम और गरम दल का ऐतिहासिक पुनर्मिलन हुआ था।\n• 1906 के कलकत्ता अधिवेशन में दादाभाई नौरोजी की अध्यक्षता में कांग्रेस ने पहली बार 'स्वराज्य' को अपना लक्ष्य घोषित किया था।",
+      "en": "Lokmanya Bal Gangadhar Tilak made this celebrated declaration at the 1916 Lucknow Session of the Indian National Congress. In 1906 at Calcutta under Dadabhai Naoroji, Congress first officially adopted 'Swaraj' as its goal."
+    },
+    "coreConcept": {
+      "hi": "बिपिन चंद्र - भारत का स्वतंत्रता संग्राम; लोकमान्य तिलक एवं होमरूल आंदोलन।",
+      "en": "Bipan Chandra - India's Struggle for Independence: Tilak and Home Rule Movement."
+    },
+    "repeatNotes": {
+      "hi": "तिलक का स्वराज्य कथन और 1916 का लखनऊ अधिवेशन UPPSC में 11 बार पूछा गया है।",
+      "en": "Tested 11 times across UPPSC exams."
+    },
+    "repetitionCount": 11,
+    "source": "UPPSC RO/ARO Prelims Official Exam Paper 2010",
+    "officialStatus": true,
+    "tags": [
+      "inm",
+      "tilak",
+      "swaraj",
+      "lucknow-1916",
+      "pyq-2010"
+    ]
   }
 ]

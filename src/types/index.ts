@@ -77,6 +77,7 @@ export interface Question {
   subject: string;
   chapter: string;
   topic: string;
+  subtopic?: string;
   difficulty: 'easy' | 'medium' | 'hard';
   type: 'mcq';
   question: BilingualText;
@@ -88,7 +89,17 @@ export interface Question {
   explanation: BilingualText;
   sourceType: 'official_pyq' | 'original';
   pyqYear?: number;
+  year?: number;
   tags: string[];
+  source?: string;
+  officialStatus?: boolean;
+  repetitionCount?: number;
+  coreConcept?: BilingualText;
+  whyOthersWrong?: {
+    hi: string[];
+    en: string[];
+  };
+  repeatNotes?: BilingualText;
 }
 
 export interface INMEvent {
