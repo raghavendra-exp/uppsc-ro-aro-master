@@ -3,7 +3,7 @@
     "id": "ROARO-PYQ-2023-GS-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "संविधान सभा एवं प्रस्तावना",
     "subtopic": "Preamble & 42nd Amendment",
@@ -55,7 +55,7 @@
     "id": "ROARO-PYQ-2023-HINDI-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विलोम शब्द",
     "subtopic": "Antonyms",
@@ -106,7 +106,7 @@
     "id": "ROARO-PYQ-2023-UPGK-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "एक जिला एक उत्पाद (ODOP)",
     "subtopic": "Districts and GI Crafts",
@@ -158,7 +158,7 @@
     "id": "ROARO-PYQ-2023-HINDI-002",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "तत्सम एवं तद्भव शब्द",
     "subtopic": "Tatsam-Tadbhav Roots",
@@ -209,7 +209,7 @@
     "id": "ROARO-PYQ-2023-GS-002",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "History of India",
     "topic": "मध्यकालीन भारत",
     "subtopic": "Mughal Empire - Battle of Khanwa",
@@ -261,7 +261,7 @@
     "id": "ROARO-PYQ-2023-HINDI-003",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विशेष्य और विशेषण",
     "subtopic": "Adjectives & Nouns in Sentence",
@@ -312,7 +312,7 @@
     "id": "ROARO-PYQ-2023-SCIENCE-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "General Science",
     "topic": "रसायन विज्ञान (Chemistry)",
     "subtopic": "Fruit Ripening Agents",
@@ -364,7 +364,7 @@
     "id": "ROARO-PYQ-2023-GEO-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Geography",
     "topic": "भारत का भौतिक भूगोल",
     "subtopic": "Mountain Passes in Himalayas",
@@ -416,7 +416,7 @@
     "id": "ROARO-PYQ-2023-ECON-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Economy",
     "topic": "भारतीय कृषि एवं फसल चक्र",
     "subtopic": "Kharif and Rabi Crop Classification",
@@ -469,7 +469,7 @@
     "id": "ROARO-PYQ-2023-HINDI-004",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "वाक्य एवं वर्तनी शुद्धि",
     "subtopic": "Spelling Correction (Gender Forms)",
@@ -520,7 +520,7 @@
     "id": "ROARO-PYQ-2021-GS-001",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "पंचायती राज व्यवस्था",
     "subtopic": "73rd Amendment & 11th Schedule",
@@ -572,7 +572,7 @@
     "id": "ROARO-PYQ-2021-HINDI-001",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विलोम शब्द",
     "subtopic": "Antonyms",
@@ -624,7 +624,7 @@
     "id": "ROARO-PYQ-2021-UPGK-001",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश का भौतिक भूगोल",
     "subtopic": "District Boundaries and Borders",
@@ -676,7 +676,7 @@
     "id": "ROARO-PYQ-2021-INM-001",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian National Movement",
     "topic": "क्रांतिकारी राष्ट्रवाद",
     "subtopic": "Kakori Train Action Martyrs and Jails",
@@ -728,7 +728,7 @@
     "id": "ROARO-PYQ-2021-GEO-001",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Geography",
     "topic": "भारतीय अपवाह तंत्र (Drainage System)",
     "subtopic": "Left and Right Bank Tributaries of Ganga",
@@ -780,7 +780,7 @@
     "id": "ROARO-PYQ-2021-HINDI-002",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "अनेक शब्दों के लिए एक शब्द",
     "subtopic": "One Word Substitution",
@@ -831,7 +831,7 @@
     "id": "ROARO-PYQ-2021-SCIENCE-001",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "General Science",
     "topic": "भौतिक विज्ञान (Physics)",
     "subtopic": "Photovoltaic Cells & Energy Conversion",
@@ -883,7 +883,7 @@
     "id": "ROARO-PYQ-2021-MAINS-HINDI-001",
     "year": 2021,
     "stage": "MAINS",
-    "paper": "GENERAL_HINDI",
+    "paper": "MAINS_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "वाक्य एवं वर्तनी शुद्धि",
     "subtopic": "Complex Orthography",
@@ -935,7 +935,7 @@
     "id": "ROARO-PYQ-2017-HINDI-001",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विशेष्य और विशेषण",
     "subtopic": "Sentence Parsing and Visheshya Count",
@@ -986,7 +986,7 @@
     "id": "ROARO-PYQ-2017-HINDI-002",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "वाक्य एवं वर्तनी शुद्धि",
     "subtopic": "Sandhi Orthography",
@@ -1037,7 +1037,7 @@
     "id": "ROARO-PYQ-2017-GS-001",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "General Science",
     "topic": "जीव विज्ञान (Biology)",
     "subtopic": "Endocrine System & Hormones",
@@ -1089,7 +1089,7 @@
     "id": "ROARO-PYQ-2017-UPGK-001",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश की संस्कृति एवं मेले",
     "subtopic": "Bateshwar Cattle Fair",
@@ -1141,7 +1141,7 @@
     "id": "ROARO-PYQ-2017-POLITY-001",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "संसद एवं विधायी प्रक्रिया",
     "subtopic": "Joint Sitting of Parliament (Article 108)",
@@ -1193,7 +1193,7 @@
     "id": "ROARO-PYQ-2017-INM-001",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian National Movement",
     "topic": "गांधीवादी चरण (1917-1947)",
     "subtopic": "Champaran Satyagraha 1917",
@@ -1245,7 +1245,7 @@
     "id": "ROARO-PYQ-2017-HINDI-003",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विलोम शब्द",
     "subtopic": "Antonyms",
@@ -1297,7 +1297,7 @@
     "id": "ROARO-PYQ-2017-GEO-001",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Geography",
     "topic": "भारत का भूगोल",
     "subtopic": "Tropic of Cancer States",
@@ -1348,7 +1348,7 @@
     "id": "ROARO-PYQ-2016-GS-001",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian National Movement",
     "topic": "भारत छोड़ो आंदोलन (1942)",
     "subtopic": "Parallel Government in Ballia",
@@ -1400,7 +1400,7 @@
     "id": "ROARO-PYQ-2016-SCIENCE-001",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "General Science",
     "topic": "रसायन एवं जीव विज्ञान",
     "subtopic": "Vitamins & Trace Minerals (Cobalt in B12)",
@@ -1453,7 +1453,7 @@
     "id": "ROARO-PYQ-2016-HINDI-001",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "अनेक शब्दों के लिए एक शब्द",
     "subtopic": "One Word Substitution",
@@ -1504,7 +1504,7 @@
     "id": "ROARO-PYQ-2016-POLITY-001",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "संसद एवं वित्तीय विधेयक",
     "subtopic": "Money Bill Definition & Procedures (Article 110)",
@@ -1556,7 +1556,7 @@
     "id": "ROARO-PYQ-2016-UPGK-001",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश के प्रमुख संग्रहालय",
     "subtopic": "Bharat Kala Bhavan",
@@ -1608,7 +1608,7 @@
     "id": "ROARO-PYQ-2016-MAINS-GS-001",
     "year": 2016,
     "stage": "MAINS",
-    "paper": "MAINS_GS",
+    "paper": "MAINS_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "संसदीय समितियां",
     "subtopic": "Public Accounts Committee (PAC)",
@@ -1660,7 +1660,7 @@
     "id": "ROARO-PYQ-2014-GS-001",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "History of India",
     "topic": "प्राचीन भारत",
     "subtopic": "Indus Valley Civilization Boundaries",
@@ -1713,7 +1713,7 @@
     "id": "ROARO-PYQ-2014-HINDI-001",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "पर्यायवाची शब्द",
     "subtopic": "Synonyms of Lightning vs Elephant",
@@ -1765,7 +1765,7 @@
     "id": "ROARO-PYQ-2014-UPGK-001",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "वन एवं राष्ट्रीय उद्यान",
     "subtopic": "Dudhwa National Park",
@@ -1817,7 +1817,7 @@
     "id": "ROARO-PYQ-2014-POLITY-001",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "संवैधानिक निकाय",
     "subtopic": "Election Commission of India (Article 324)",
@@ -1869,7 +1869,7 @@
     "id": "ROARO-PYQ-2014-INM-001",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian National Movement",
     "topic": "कांग्रेस के महत्वपूर्ण अधिवेशन",
     "subtopic": "Lucknow Pact 1916",
@@ -1921,7 +1921,7 @@
     "id": "ROARO-PYQ-2014-SCIENCE-001",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "General Science",
     "topic": "भौतिक विज्ञान (Physics)",
     "subtopic": "Rayleigh Scattering of Light",
@@ -1973,7 +1973,7 @@
     "id": "ROARO-PYQ-2013-GS-001",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Economy",
     "topic": "भारतीय कृषि एवं क्रांतियां",
     "subtopic": "Green Revolution in India",
@@ -2025,7 +2025,7 @@
     "id": "ROARO-PYQ-2013-HINDI-001",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विलोम शब्द",
     "subtopic": "Antonyms with Negative Prefix",
@@ -2077,7 +2077,7 @@
     "id": "ROARO-PYQ-2013-POLITY-001",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "मूल कर्तव्य (Fundamental Duties)",
     "subtopic": "Article 51A & Swaran Singh Committee",
@@ -2129,7 +2129,7 @@
     "id": "ROARO-PYQ-2013-UPGK-001",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "प्रमुख अनुसंधान संस्थान",
     "subtopic": "Central Drug Research Institute (CDRI)",
@@ -2181,7 +2181,7 @@
     "id": "ROARO-PYQ-2013-GEO-001",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Geography",
     "topic": "भारत के द्वीप समूह एवं जलसंधियां",
     "subtopic": "Ten Degree Channel",
@@ -2233,7 +2233,7 @@
     "id": "ROARO-PYQ-2010-GS-001",
     "year": 2010,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "मूल अधिकार एवं संवैधानिक उपचार",
     "subtopic": "Article 32 - Heart and Soul of Constitution",
@@ -2286,7 +2286,7 @@
     "id": "ROARO-PYQ-2010-UPGK-001",
     "year": 2010,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश की सिंचाई एवं नहर प्रणाली",
     "subtopic": "Sharda Canal System",
@@ -2338,7 +2338,7 @@
     "id": "ROARO-PYQ-2010-HINDI-001",
     "year": 2010,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विलोम शब्द",
     "subtopic": "Antonyms",
@@ -2390,7 +2390,7 @@
     "id": "ROARO-PYQ-2010-HINDI-002",
     "year": 2010,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "तत्सम एवं तद्भव शब्द",
     "subtopic": "Tatsam-Tadbhav Roots",
@@ -2442,7 +2442,7 @@
     "id": "ROARO-PYQ-2010-ENV-001",
     "year": 2010,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Ecology & Environment",
     "topic": "पर्यावरण कानून एवं नीतियां",
     "subtopic": "Wildlife Protection Act 1972",
@@ -2494,7 +2494,7 @@
     "id": "ROARO-PYQ-2021-INM-002",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian National Movement",
     "topic": "1857 का प्रथम स्वतंत्रता संग्राम",
     "subtopic": "1857 Centers and Leaders in UP",
@@ -2546,7 +2546,7 @@
     "id": "ROARO-PYQ-2021-UPGK-002",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश की जनगणना 2011",
     "subtopic": "Sex Ratio & Literacy of UP",
@@ -2598,7 +2598,7 @@
     "id": "ROARO-PYQ-2023-ENV-001",
     "year": 2023,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Ecology & Environment",
     "topic": "रामसर आर्द्रभूमि स्थल (Ramsar Sites)",
     "subtopic": "Bakhira Bird Sanctuary",
@@ -2650,7 +2650,7 @@
     "id": "ROARO-PYQ-2021-HINDI-003",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "पर्यायवाची शब्द",
     "subtopic": "Synonyms of Lion (Mrigendra)",
@@ -2702,7 +2702,7 @@
     "id": "ROARO-PYQ-2021-HINDI-004",
     "year": 2021,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विशेष्य और विशेषण",
     "subtopic": "Adjectives Classification",
@@ -2754,7 +2754,7 @@
     "id": "ROARO-PYQ-2017-UPGK-002",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश के खनिज संसाधन",
     "subtopic": "Uranium in Lalitpur",
@@ -2806,7 +2806,7 @@
     "id": "ROARO-PYQ-2017-GS-002",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "History of India",
     "topic": "मौर्य साम्राज्य एवं कला",
     "subtopic": "Lion Capital of Ashoka at Sarnath",
@@ -2859,7 +2859,7 @@
     "id": "ROARO-PYQ-2017-MAINS-DRAFTING-001",
     "year": 2017,
     "stage": "MAINS",
-    "paper": "GENERAL_HINDI",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
     "subject": "General Hindi",
     "topic": "प्रशासनिक एवं पारिभाषिक शब्दावली",
     "subtopic": "Administrative Terminology Translation",
@@ -2911,7 +2911,7 @@
     "id": "ROARO-PYQ-2017-HINDI-004",
     "year": 2017,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "अनेक शब्दों के लिए एक शब्द",
     "subtopic": "Directions as Garments (Digambar)",
@@ -2962,7 +2962,7 @@
     "id": "ROARO-PYQ-2016-SCIENCE-002",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "General Science",
     "topic": "भौतिक विज्ञान (ध्वनि तरंगे)",
     "subtopic": "Speed of Sound in Media",
@@ -3014,7 +3014,7 @@
     "id": "ROARO-PYQ-2016-HINDI-002",
     "year": 2016,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "तत्सम एवं तद्भव शब्द",
     "subtopic": "Camphor Root",
@@ -3066,7 +3066,7 @@
     "id": "ROARO-PYQ-2014-MAINS-GS-001",
     "year": 2014,
     "stage": "MAINS",
-    "paper": "MAINS_GS",
+    "paper": "MAINS_PAPER_1_GS",
     "subject": "Indian Polity",
     "topic": "संवैधानिक पद",
     "subtopic": "Comptroller and Auditor General of India (CAG)",
@@ -3119,7 +3119,7 @@
     "id": "ROARO-PYQ-2014-HINDI-002",
     "year": 2014,
     "stage": "PRELIMS",
-    "paper": "GENERAL_HINDI",
+    "paper": "PRE_PAPER_2_HINDI",
     "subject": "General Hindi",
     "topic": "विलोम शब्द",
     "subtopic": "Antonyms of Dietary Habits",
@@ -3171,7 +3171,7 @@
     "id": "ROARO-PYQ-2013-UPGK-002",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "UP Special Knowledge",
     "topic": "उत्तर प्रदेश के लोक नृत्य",
     "subtopic": "Charkula Dance of Braj",
@@ -3224,7 +3224,7 @@
     "id": "ROARO-PYQ-2013-GS-002",
     "year": 2013,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "History of India",
     "topic": "प्राचीन भारत - मौर्य काल",
     "subtopic": "Megasthenes and Indica",
@@ -3277,7 +3277,7 @@
     "id": "ROARO-PYQ-2010-INM-001",
     "year": 2010,
     "stage": "PRELIMS",
-    "paper": "GENERAL_STUDIES",
+    "paper": "PRE_PAPER_1_GS",
     "subject": "Indian National Movement",
     "topic": "उग्रवादी राष्ट्रवाद एवं होम रूल",
     "subtopic": "Swaraj Quote by Bal Gangadhar Tilak",
@@ -3323,6 +3323,851 @@
       "swaraj",
       "lucknow-1916",
       "pyq-2010"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-MAINS-GS-002",
+    "year": 2021,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "subject": "UP Special Knowledge",
+    "topic": "पशु चिकित्सा एवं अनुसंधान संस्थान",
+    "subtopic": "Deen Dayal Upadhyaya Veterinary University",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश में 'पंडित दीनदयाल उपाध्याय पशु चिकित्सा विज्ञान विश्वविद्यालय एवं गो-अनुसंधान संस्थान' कहाँ स्थित है?",
+      "en": "Where is 'Pandit Deen Dayal Upadhyaya Veterinary Science University and Cattle Research Institute' located in Uttar Pradesh?"
+    },
+    "options": {
+      "hi": [
+        "मथुरा",
+        "फैजाबाद (अयोध्या)",
+        "बरेली",
+        "झांसी"
+      ],
+      "en": [
+        "Mathura",
+        "Faizabad (Ayodhya)",
+        "Bareilly",
+        "Jhansi"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "उत्तर प्रदेश पंडित दीनदयाल उपाध्याय पशु चिकित्सा विज्ञान विश्वविद्यालय एवं गो-अनुसंधान संस्थान 'मथुरा' में स्थित है (इसकी स्थापना 2001 में की गई थी)। यह भारत का प्रथम पशु चिकित्सा विश्वविद्यालय था।\n\nअन्य संबंधित संस्थान:\n• भारतीय पशु चिकित्सा अनुसंधान संस्थान (IVRI) ➔ इज्जतनगर, बरेली\n• केंद्रीय पक्षी अनुसंधान संस्थान (CARI) ➔ इज्जतनगर, बरेली\n• भारतीय चारागाह एवं चारा अनुसंधान संस्थान (IGFRI) ➔ झांसी\n• केंद्रीय बकरी अनुसंधान संस्थान (CIRG) ➔ मखदूम, मथुरा।",
+      "en": "Pandit Deen Dayal Upadhyaya Veterinary Science University and Cattle Research Institute is located in Mathura, established in 2001. IVRI and CARI are located in Izatnagar (Bareilly), IGFRI is in Jhansi, and Central Institute for Research on Goats is in Makhdoom (Mathura)."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश परीक्षा वाणी - प्रमुख विश्वविद्यालय, कृषि एवं पशु चिकित्सा संस्थान।",
+      "en": "UP Pariksha Vani - Agricultural, veterinary, and research institutions in UP."
+    },
+    "repeatNotes": {
+      "hi": "मथुरा का गो-अनुसंधान संस्थान और बरेली का IVRI UPPSC मुख्य एवं प्रारंभिक में 6 बार पूछा गया है।",
+      "en": "Veterinary research institutes of Mathura and Bareilly are frequently quizzed in UPPSC Mains."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "institutes",
+      "mathura",
+      "veterinary",
+      "mains",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-MAINS-GS-003",
+    "year": 2021,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "subject": "UP Special Knowledge",
+    "topic": "उत्तर प्रदेश शासन की नीतियां",
+    "subtopic": "Kisan Samriddhi Commission",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "उत्तर प्रदेश में किसानों की आय दोगुनी करने के उद्देश्य से 'किसान समृद्धि आयोग' (Kisan Samriddhi Aayog) का गठन किस वर्ष किया गया था?",
+      "en": "In which year was the 'Kisan Samriddhi Aayog' constituted in Uttar Pradesh with the goal of doubling farmers' income?"
+    },
+    "options": {
+      "hi": [
+        "नवंबर 2017",
+        "जनवरी 2018",
+        "अक्टूबर 2019",
+        "दिसंबर 2016"
+      ],
+      "en": [
+        "November 2017",
+        "January 2018",
+        "October 2019",
+        "December 2016"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "उत्तर प्रदेश सरकार द्वारा किसानों की आय दोगुनी करने के लिए 'किसान समृद्धि आयोग' का गठन नवंबर 2017 में मुख्यमंत्री की अध्यक्षता में किया गया था। इसमें कृषि, बागवानी, पशुपालन, मत्स्य पालन और रेशम उत्पादन के समग्र विकास हेतु रणनीतियां तैयार की गईं।",
+      "en": "The Government of Uttar Pradesh established the 'Kisan Samriddhi Aayog' in November 2017 under the chairmanship of the Chief Minister to orchestrate convergence across agriculture, horticulture, animal husbandry, and fisheries."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश की कृषि नीतियां एवं किसान कल्याण योजनाएं।",
+      "en": "UP Agriculture policies and farmer welfare institutional mechanisms."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC मुख्य परीक्षा सामान्य अध्ययन 2021 में पूछा गया।",
+      "en": "Direct question from UPPSC RO/ARO Mains GS Paper 2021."
+    },
+    "repetitionCount": 3,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "up-gk",
+      "economy",
+      "agriculture",
+      "kisan-samriddhi",
+      "mains",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-MAINS-GS-001",
+    "year": 2017,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "subject": "Indian Polity",
+    "topic": "केंद्र-राज्य संबंध (विधायी संबंध)",
+    "subtopic": "Residuary Legislative Powers (Article 248)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारतीय संविधान के अनुच्छेद 248 के तहत 'अवशिष्ट विधायी शक्तियां' (Residuary Powers) किसमें निहित की गई हैं तथा यह प्रावधान किस देश के संविधान से प्रेरित है?",
+      "en": "Under Article 248 of the Constitution, in whom are 'Residuary Legislative Powers' vested, and from which country's constitution was this provision borrowed?"
+    },
+    "options": {
+      "hi": [
+        "संसद (केंद्र सरकार) में, कनाडा के संविधान से",
+        "राज्य विधानमंडलों में, संयुक्त राज्य अमेरिका से",
+        "राष्ट्रपति में, आयरलैंड के संविधान से",
+        "सर्वोच्च न्यायालय में, ब्रिटेन के संविधान से"
+      ],
+      "en": [
+        "In Parliament (Union), from the Constitution of Canada",
+        "In State Legislatures, from the USA",
+        "In President, from Ireland",
+        "In Supreme Court, from the UK"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "अनुच्छेद 248 के अनुसार, ऐसे सभी विषय जो संघ सूची, राज्य सूची या समवर्ती सूची (7वीं अनुसूची) में प्रगणित नहीं हैं, उन पर विधि बनाने की अनन्य शक्ति भारत की 'संसद' (केंद्र) में निहित है।\n• यह प्रावधान 'कनाडा के संविधान' (1867) से प्रेरित है, जहाँ अवशिष्ट शक्तियां केंद्र को दी गई हैं।\n• इसके विपरीत, अमेरिका और ऑस्ट्रेलिया में अवशिष्ट शक्तियां 'राज्यों' को प्राप्त हैं।",
+      "en": "Under Article 248 of the Indian Constitution, residuary powers of legislation on any matter not enumerated in the Concurrent or State lists are vested exclusively in Parliament. This aligns with the Canadian federal model where residuary authority rests with the Centre, unlike the US or Australian models."
+    },
+    "coreConcept": {
+      "hi": "एम. लक्ष्मीकांत (अध्याय: केंद्र-राज्य संबंध) - विधायी शक्तियां, 7वीं अनुसूची एवं अनुच्छेद 248।",
+      "en": "M. Laxmikanth - Centre-State Legislative Relations: Article 248 and 7th Schedule."
+    },
+    "repeatNotes": {
+      "hi": "अवशिष्ट शक्तियों और 7वीं अनुसूची पर UPPSC मुख्य एवं प्रारंभिक में 8 बार प्रश्न पूछा गया है।",
+      "en": "Residuary powers under Article 248 are tested 8 times across UPPSC exams."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "polity",
+      "centre-state",
+      "residuary-powers",
+      "article-248",
+      "canada",
+      "mains",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-MAINS-GS-002",
+    "year": 2017,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "subject": "Indian Economy",
+    "topic": "बजट प्रणाली एवं वित्तीय समितियां",
+    "subtopic": "Acworth Committee and Railway Budget",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में किस समिति की सिफारिश पर वर्ष 1924 में 'रेल बजट' को 'सामान्य बजट' से अलग किया गया था?",
+      "en": "On the recommendation of which committee was the 'Railway Budget' separated from the 'General Budget' in India in 1924?"
+    },
+    "options": {
+      "hi": [
+        "एकवर्थ समिति (Acworth Committee)",
+        "हिल्टन यंग आयोग",
+        "मैकलेगन समिति",
+        "विवेक देबरॉय समिति"
+      ],
+      "en": [
+        "Acworth Committee",
+        "Hilton Young Commission",
+        "Maclagan Committee",
+        "Bibek Debroy Committee"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "विलियम एकवर्थ की अध्यक्षता वाली 10 सदस्यीय 'एकवर्थ समिति' (1920-21) की सिफारिश पर वर्ष 1924 में रेल बजट को सामान्य बजट से अलग किया गया था।\n• 92 वर्षों के बाद, नीति आयोग के सदस्य 'विवेक देबरॉय समिति' की सिफारिश पर वर्ष 2017 में नरेंद्र मोदी सरकार द्वारा रेल बजट का पुनः आम बजट में विलय कर दिया गया।\n\nअन्य समितियां:\n• हिल्टन यंग आयोग (1926) ➔ भारतीय रिज़र्व बैंक (RBI) की स्थापना\n• मैकलेगन समिति (1914) ➔ सहकारी साख व्यवस्था।",
+      "en": "On the recommendation of the Acworth Committee (1920-21), the Railway Budget was separated from the General Budget in 1924. After 92 years, on the recommendation of the Bibek Debroy Committee, the Railway Budget was merged back into the General Budget starting from the 2017-18 financial year."
+    },
+    "coreConcept": {
+      "hi": "रमेश सिंह (भारतीय अर्थव्यवस्था) - बजट प्रणाली, एकवर्थ समिति एवं देबरॉय समिति।",
+      "en": "Ramesh Singh - Budgetary history of India: Separation and reintegration of Railway Budget."
+    },
+    "repeatNotes": {
+      "hi": "एकवर्थ समिति और देबरॉय समिति UPPSC मुख्य परीक्षा का प्रतिष्ठित प्रश्न है।",
+      "en": "Quizzed in UPPSC Mains and Prelims."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "economy",
+      "budget",
+      "acworth-committee",
+      "railway-budget",
+      "mains",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-MAINS-GS-002",
+    "year": 2016,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "subject": "Ecology & Environment",
+    "topic": "अंतर्राष्ट्रीय पर्यावरण अभिसमय",
+    "subtopic": "Montreal Protocol and World Ozone Day",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'विश्व ओजोन दिवस' (World Ozone Day) प्रतिवर्ष किस तिथि को मनाया जाता है और यह किस संधि की स्मृति में है?",
+      "en": "'World Ozone Day' is celebrated every year on which date, commemorating which environmental treaty?"
+    },
+    "options": {
+      "hi": [
+        "16 सितंबर (मॉन्ट्रियल प्रोटोकॉल 1987)",
+        "5 जून (स्टॉकहोम सम्मेलन 1972)",
+        "22 अप्रैल (पृथ्वी दिवस)",
+        "22 मई (जैव विविधता दिवस)"
+      ],
+      "en": [
+        "16 September (Montreal Protocol 1987)",
+        "5 June (Stockholm Conference 1972)",
+        "22 April (Earth Day)",
+        "22 May (Biological Diversity Day)"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "16 सितंबर 1987 को ओजोन परत को नष्ट करने वाले पदार्थों (CFCs, Halons आदि) पर अंकुश लगाने हेतु 'मॉन्ट्रियल प्रोटोकॉल' (Montreal Protocol) पर हस्ताक्षर किए गए थे। इसी उपलक्ष्य में संयुक्त राष्ट्र महासभा द्वारा 1994 से प्रतिवर्ष '16 सितंबर' को 'विश्व ओजोन दिवस' मनाया जाता है। मॉन्ट्रियल प्रोटोकॉल इतिहास की सबसे सफल पर्यावरण संधि मानी जाती है।",
+      "en": "World Ozone Day is celebrated annually on 16 September commemorating the signing of the Montreal Protocol on Substances that Deplete the Ozone Layer in 1987. 5 June is World Environment Day, 22 April is Earth Day, and 22 May is International Day for Biological Diversity."
+    },
+    "coreConcept": {
+      "hi": "दृष्टि आईएएस पर्यावरण - ओजोन क्षरण, वियना कन्वेंशन 1985 एवं मॉन्ट्रियल प्रोटोकॉल 1987।",
+      "en": "Drishti IAS Environment - Stratospheric ozone depletion and multilateral environmental agreements."
+    },
+    "repeatNotes": {
+      "hi": "16 सितंबर और मॉन्ट्रियल प्रोटोकॉल UPPSC में 11 बार पूछा गया प्रश्न है।",
+      "en": "Tested 11 times in UPPSC exams."
+    },
+    "repetitionCount": 11,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "environment",
+      "ozone",
+      "montreal-protocol",
+      "september-16",
+      "mains",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-MAINS-GS-001",
+    "year": 2013,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "subject": "Indian Economy",
+    "topic": "राष्ट्रीय आय लेखांकन",
+    "subtopic": "National Income Estimation in India (CSO/NSO)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "भारत में 'राष्ट्रीय आय' (National Income) का आकलन और GDP के आंकड़े निम्नलिखित में से किस संगठन द्वारा जारी किए जाते हैं?",
+      "en": "In India, the estimation of 'National Income' and GDP statistics are compiled and released by which organization?"
+    },
+    "options": {
+      "hi": [
+        "राष्ट्रीय सांख्यिकी कार्यालय (NSO / पूर्व में CSO)",
+        "नीति आयोग (पूर्व में योजना आयोग)",
+        "भारतीय रिज़र्व बैंक (RBI)",
+        "केंद्रीय वित्त मंत्रालय"
+      ],
+      "en": [
+        "National Statistical Office (NSO / formerly CSO)",
+        "NITI Aayog",
+        "Reserve Bank of India (RBI)",
+        "Union Ministry of Finance"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "भारत में राष्ट्रीय आय और जीडीपी का आकलन सांख्यिकी एवं कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) के अधीन 'राष्ट्रीय सांख्यिकी कार्यालय' (NSO) द्वारा किया जाता है।\n• 23 मई 2019 को केंद्रीय सांख्यिकी कार्यालय (CSO) और राष्ट्रीय प्रतिदर्श सर्वेक्षण कार्यालय (NSSO) का विलय करके NSO का गठन किया गया था।\n• भारत में राष्ट्रीय आय का प्रथम वैज्ञानिक अनुमान 1931-32 में डॉ. वी.के.आर.वी. राव ने लगाया था।\n• भारत में सबसे पहले 1867-68 में दादाभाई नौरोजी ने प्रति व्यक्ति आय 20 रुपये आकलित की थी।",
+      "en": "National Income and GDP figures are compiled by the National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation (MoSPI). Formed in May 2019 by merging CSO and NSSO. The first scientific estimate was made by Dr. V.K.R.V. Rao in 1931-32, while Dadabhai Naoroji made the first historical estimate in 1867-68."
+    },
+    "coreConcept": {
+      "hi": "रमेश सिंह (भारतीय अर्थव्यवस्था) - राष्ट्रीय आय की अवधारणाएं (GDP, GNP, NNP) एवं मापन संस्थाएं।",
+      "en": "Ramesh Singh - National Income Accounting and statistical institutional architecture."
+    },
+    "repeatNotes": {
+      "hi": "CSO/NSO और राष्ट्रीय आय आकलन UPPSC में 9 बार पूछा गया है।",
+      "en": "Tested 9 times in UPPSC Economics papers."
+    },
+    "repetitionCount": 9,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "economy",
+      "national-income",
+      "nso",
+      "cso",
+      "gdp",
+      "mains",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-MAINS-HINDI-002",
+    "year": 2021,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_HINDI",
+    "subject": "General Hindi",
+    "topic": "अनेक शब्दों के लिए एक शब्द",
+    "subtopic": "Desire for Liberation (Mumukshu)",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'जो मोक्ष की इच्छा रखता हो' — इस वाक्यांश के लिए एक प्रामाणिक शुद्ध शब्द क्या है?",
+      "en": "What is the single Sanskrit/Hindi word for the phrase 'One who desires liberation / Moksha'?"
+    },
+    "options": {
+      "hi": [
+        "मुमुक्षु",
+        "मुमूर्षु",
+        "जिगीषु",
+        "तितीर्षु"
+      ],
+      "en": [
+        "Mumukshu (मुमुक्षु)",
+        "Mumoorshu",
+        "Jigeeshu",
+        "Titeershu"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'जो मोक्ष की इच्छा रखता हो' के लिए शुद्ध शब्द 'मुमुक्षु' (Mumukshu) है। मोक्ष की इच्छा को 'मुमुक्षा' कहा जाता है।\n\nसमान ध्वनि वाले महत्वपूर्ण शब्द:\n• मुमूर्षु = मरने की इच्छा रखने वाला (मरने की इच्छा = मुमूर्षा)\n• जिगीषु = जीतने की इच्छा रखने वाला (जीतने की इच्छा = जिगीषा)\n• तितीर्षु = तैरकर पार होने की इच्छा रखने वाला (तैरने की इच्छा = तितीर्षा)\n• युयुत्सु = युद्ध करने की इच्छा रखने वाला (युद्ध की इच्छा = युयुत्सा)\n• पिपासु = पीने की इच्छा रखने वाला (पीने की इच्छा = पिपासा)।",
+      "en": "'Mumukshu' denotes one who desires liberation/Moksha. 'Mumoorshu' means one wishing for death, 'Jigeeshu' is one desiring victory, 'Titeershu' is one wishing to swim across, and 'Yuyutsu' is one desiring combat."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी / वासुदेव नंदन प्रसाद - 'उ' कारान्त इच्छासूचक शब्द रचना।",
+      "en": "Hardev Bahri - Sanskrit desiderative noun formations in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "मुमुक्षु, मुमूर्षु और युयुत्सु UPPSC RO/ARO मुख्य परीक्षा का सर्वाधिक बार पूछा गया प्रश्न समूह है।",
+      "en": "Most repeated desiderative word group in UPPSC Mains."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "anek-shabd",
+      "mumukshu",
+      "mains",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-MAINS-HINDI-003",
+    "year": 2021,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_HINDI",
+    "subject": "General Hindi",
+    "topic": "विलोम शब्द",
+    "subtopic": "Antonyms of Knowledge",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'अभिज्ञ' (Abhijna) शब्द का सही विलोम क्या है?",
+      "en": "What is the correct antonym of the Hindi word 'Abhijna' (Knowledgeable/Aware)?"
+    },
+    "options": {
+      "hi": [
+        "अनभिज्ञ",
+        "अल्पज्ञ",
+        "सर्वज्ञ",
+        "विज्ञ"
+      ],
+      "en": [
+        "Anabhijna (अनभिज्ञ)",
+        "Alpajna",
+        "Sarvajna",
+        "Vijna"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'अभिज्ञ' (जानने वाला/जानकार) का सटीक विलोम 'अनभिज्ञ' (न जानने वाला/अंजान) होता है।\nअनन् (हल्) + अभिज्ञ = अनभिज्ञ।\n\nअन्य विलोम युग्म:\n• अज्ञ (मूर्ख/अज्ञानी) का विलोम = विज्ञ या प्रज्ञ\n• अल्पज्ञ (कम जानने वाला) का विलोम = बहुज्ञ\n• सर्वज्ञ (सब कुछ जानने वाला) का विलोम = अल्पज्ञ।",
+      "en": "'Abhijna' (cognizant/aware) pairs with 'Anabhijna' (unaware/ignorant). 'Ajna' pairs with 'Vijna', while 'Alpajna' pairs with 'Bahujna'."
+    },
+    "coreConcept": {
+      "hi": "डॉ. वासुदेव नंदन प्रसाद - ज्ञानपरक विलोम शब्द युग्म।",
+      "en": "Vasudev Nandan Prasad - Cognitive antonym pairs in Hindi grammar."
+    },
+    "repeatNotes": {
+      "hi": "अभिज्ञ ➔ अनभिज्ञ UPPSC RO/ARO में 7 बार पूछा गया है।",
+      "en": "Tested 7 times in UPPSC RO/ARO."
+    },
+    "repetitionCount": 7,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "vilom",
+      "abhijna",
+      "anabhijna",
+      "mains",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-MAINS-HINDI-001",
+    "year": 2017,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_HINDI",
+    "subject": "General Hindi",
+    "topic": "अनेक शब्दों के लिए एक शब्द",
+    "subtopic": "Digestive Fire vs Forest Fire",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'पेट (जठर) में अन्न को पचाने वाली अग्नि' — इस वाक्यांश के लिए एक प्रामाणिक शब्द क्या है?",
+      "en": "What is the single word for the phrase 'The digestive fire in the stomach that metabolizes food'?"
+    },
+    "options": {
+      "hi": [
+        "जठराग्नि",
+        "दावाग्नि",
+        "बड़वाग्नि",
+        "मंदाग्नि"
+      ],
+      "en": [
+        "Jatharagni (जठराग्नि)",
+        "Davagni",
+        "Badavagni",
+        "Mandagni"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'पेट में अन्न को पचाने वाली अग्नि' को 'जठराग्नि' (या जठरानल) कहते हैं।\n\nअग्नि से संबंधित त्रयी (Three Fires of Classical Hindi):\n1. जठराग्नि = पेट (आमाशय) की अग्नि\n2. दावाग्नि (दावानल) = वन (जंगल) में अपने आप लगने वाली आग\n3. बड़वाग्नि (बड़वानल) = समुद्र के जल में लगने वाली आग।\n• मंदाग्नि = पाचन शक्ति का धीमा पड़ना।",
+      "en": "'Jatharagni' is the digestive metabolic fire of the stomach. The classic triad of fires in Hindi literature consists of Jatharagni (stomach fire), Davagni (forest fire), and Badavagni (submarine fire in oceanic depths)."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - अग्नि संबंधी शास्त्रीय वाक्यांश।",
+      "en": "Hardev Bahri - Classical three-fire terminology in Sanskrit-Hindi semantics."
+    },
+    "repeatNotes": {
+      "hi": "जठराग्नि, दावाग्नि और बड़वाग्नि UPPSC में 10 बार पूछे जा चुके हैं।",
+      "en": "Tested 10+ times across UPPSC exams."
+    },
+    "repetitionCount": 10,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "anek-shabd",
+      "jatharagni",
+      "mains",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-MAINS-HINDI-001",
+    "year": 2016,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_HINDI",
+    "subject": "General Hindi",
+    "topic": "विशेष्य और विशेषण",
+    "subtopic": "Qualitative Adjective (Gunvachak)",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "'धुंधला' (Blurry/Hazy) शब्द में किस प्रकार का विशेषण है?",
+      "en": "What kind of adjective is the Hindi word 'Dhundhla' (Hazy/Blurred)?"
+    },
+    "options": {
+      "hi": [
+        "गुणवाचक विशेषण",
+        "संख्यावाचक विशेषण",
+        "परिमाणवाचक विशेषण",
+        "सार्वनामिक विशेषण"
+      ],
+      "en": [
+        "Qualitative adjective (गुणवाचक)",
+        "Numeral adjective",
+        "Quantitative adjective",
+        "Pronominal adjective"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'धुंधला' एक 'गुणवाचक विशेषण' (Qualitative Adjective) है, क्योंकि यह किसी संज्ञा या सर्वनाम के रूप, रंग, अवस्था या दृश्यता की गुणवत्ता (दोष या गुण) को व्यक्त करता है (जैसे: धुंधला प्रकाश, धुंधला दृश्य)।\n\nगुणवाचक विशेषणों के अन्य रूप:\n• रूप-रंग: लाल, पीला, चमकीला, धुंधला\n• आकार: गोल, चौकोर, नुकीला, लंबा\n• दशा: रोगी, स्वस्थ, सूखा, गीला\n• काल: नया, पुराना, ताजा, प्राचीन।",
+      "en": "'Dhundhla' (Hazy/Blurred) is a Gunvachak (Qualitative) adjective describing sensory state or visual condition of a noun."
+    },
+    "coreConcept": {
+      "hi": "वासुदेव नंदन प्रसाद - गुणवाचक विशेषण के भेद (काल, स्थान, आकार, रंग, दशा, गुण)।",
+      "en": "Vasudev Nandan Prasad - Classification of Qualitative adjectives in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO मुख्य परीक्षा 2016 में पूछा गया।",
+      "en": "Direct question from RO/ARO Mains Hindi Paper."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "visheshan",
+      "gunvachak",
+      "dhundhla",
+      "mains",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-MAINS-HINDI-001",
+    "year": 2014,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_HINDI",
+    "subject": "General Hindi",
+    "topic": "तत्सम एवं तद्भव शब्द",
+    "subtopic": "Housefly Root",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "'मक्खी' (Housefly) शब्द का शुद्ध तत्सम रूप क्या है?",
+      "en": "What is the pure Sanskrit Tatsam root form of the Hindi Tadbhav word 'Makkhi' (Housefly)?"
+    },
+    "options": {
+      "hi": [
+        "मक्षिका",
+        "माछी",
+        "मच्छिका",
+        "मच्छी"
+      ],
+      "en": [
+        "Makshika (मक्षिका)",
+        "Machhi",
+        "Machhika",
+        "Machhi"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'मक्खी' तद्भव शब्द है जिसका शुद्ध तत्सम रूप 'मक्षिका' (Makshika) होता है।\nसंस्कृत का संयुक्ताक्षर 'क्ष' तद्भव में प्रायः 'ख' या 'छ' में बदल जाता है (जैसे: मक्षिका ➔ मक्खी, अक्षत ➔ आखत, अक्षि ➔ आंख, क्षीर ➔ खीर, क्षेत्र ➔ खेत)।",
+      "en": "'Makkhi' is derived from Sanskrit Tatsam 'Makshika'. In historical linguistic phonetics, Sanskrit conjunct 'kṣ' evolved into 'kh' in Hindi dialects (e.g., Ksheer ➔ Kheer, Kshetra ➔ Khet, Akshi ➔ Aankh)."
+    },
+    "coreConcept": {
+      "hi": "हिन्दी भाषा विज्ञान - संयुक्ताक्षर 'क्ष' का 'ख/छ' में ध्वनि विकास नियम।",
+      "en": "Hindi Phonological Evolution - Sanskrit kṣ transformation into Tadbhav kh."
+    },
+    "repeatNotes": {
+      "hi": "मक्षिका ➔ मक्खी UPPSC में 6 बार पूछा गया है।",
+      "en": "Tested 6 times in UPPSC Hindi papers."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "tatsam-tadbhav",
+      "makkhi",
+      "makshika",
+      "mains",
+      "pyq-2014"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2013-MAINS-HINDI-001",
+    "year": 2013,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_HINDI",
+    "subject": "General Hindi",
+    "topic": "पर्यायवाची शब्द",
+    "subtopic": "Synonyms of Sky (Vyom)",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "निम्नलिखित में से कौन सा शब्द 'आकाश' (Sky) का पर्यायवाची है?",
+      "en": "Which of the following is an authentic synonym of 'Aakash' (Sky)?"
+    },
+    "options": {
+      "hi": [
+        "व्योम",
+        "दृग",
+        "विप्र",
+        "वाजि"
+      ],
+      "en": [
+        "Vyom (व्योम)",
+        "Drig",
+        "Vipra",
+        "Vaji"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'व्योम' आकाश का सुप्रसिद्ध पर्यायवाची है।\n\nआकाश के अन्य पर्यायवाची:\n• व्योम, नभ, गगन, अंबर, अंतरिक्ष, द्यौ, पुष्कर, शून्य, फलक।\n\nअन्य विकल्पों का अर्थ:\n• दृग = नेत्र (आंख/चक्षु/लोचन)\n• विप्र = ब्राह्मण (द्विज/भूदेव)\n• वाजि = घोड़ा (अश्व/तुरंग/घोटक)।",
+      "en": "'Vyom' is a classical synonym for sky/firmament. 'Drig' means eye, 'Vipra' means Brahmin, and 'Vaji' means horse."
+    },
+    "coreConcept": {
+      "hi": "डॉ. हरदेव बाहरी - प्राकृतिक तत्वों के पर्यायवाची।",
+      "en": "Hardev Bahri - Astronomical and cosmological synonyms in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "व्योम, दृग और विप्र UPPSC में कई बार पूछे गए हैं।",
+      "en": "Repeated in UPPSC Mains and Prelims."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2013",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "paryayvachi",
+      "vyom",
+      "aakash",
+      "mains",
+      "pyq-2013"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2021-MAINS-DRAFTING-001",
+    "year": 2021,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "subject": "General Hindi",
+    "topic": "प्रशासनिक एवं पारिभाषिक शब्दावली",
+    "subtopic": "Official Translation of Sanction",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "सरकारी कार्यालयों में प्रयुक्त आधिकारिक अंग्रेजी शब्द 'Sanction' का शुद्ध और मानक हिन्दी पारिभाषिक शब्द क्या है?",
+      "en": "What is the official standardized administrative Hindi equivalent for the term 'Sanction'?"
+    },
+    "options": {
+      "hi": [
+        "संस्वीकृति (या मंजूरी)",
+        "प्रतिबंध",
+        "पारितोषिक",
+        "परिपत्र"
+      ],
+      "en": [
+        "Sansweekriti / Manzoori (संस्वीकृति)",
+        "Pratibandh",
+        "Paritoshik",
+        "Paripatra"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "उत्तर प्रदेश सचिवालय एवं भारत सरकार की प्रशासनिक शब्दावली में 'Sanction' का आधिकारिक अनुवाद 'संस्वीकृति' (या मंजूरी / अनुमोदन) होता है (जैसे: Financial Sanction = वित्तीय संस्वीकृति)।\n*(यद्यपि अंतरराष्ट्रीय राजनीति में Sanction का अर्थ 'प्रतिबंध' भी होता है, परंतु प्रशासनिक पत्राचार में इसका मानक अर्थ केवल 'संस्वीकृति' होता है)।\n\nअन्य पारिभाषिक शब्द:\n• Circular = परिपत्र\n• Reward / Remuneration = पारितोषिक\n• Restriction / Ban = प्रतिबंध।",
+      "en": "In Indian Secretariat and administrative practice, 'Sanction' translates officially to 'संस्वीकृति' (Sansweekriti / Approval), as in 'Financial Sanction'. Circular translates to 'परिपत्र'."
+    },
+    "coreConcept": {
+      "hi": "केंद्रीय हिन्दी निदेशालय - प्रशासनिक शब्दावली मार्गदर्शिका।",
+      "en": "Central Hindi Directorate - Bureaucratic and Financial terminological standards."
+    },
+    "repeatNotes": {
+      "hi": "RO/ARO मुख्य परीक्षा के आलेखन खंड (प्रशासनिक शब्दावली) में बार-बार पूछा गया।",
+      "en": "Standard question in RO/ARO Mains Administrative Vocabulary."
+    },
+    "repetitionCount": 6,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2021",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "admin-vocab",
+      "sanction",
+      "mains",
+      "pyq-2021"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2017-MAINS-DRAFTING-002",
+    "year": 2017,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "subject": "General Hindi",
+    "topic": "प्रशासनिक एवं वाणिज्यिक शब्दावली",
+    "subtopic": "Official Translation of Demurrage",
+    "difficulty": "hard",
+    "type": "mcq",
+    "question": {
+      "hi": "रेलवे अथवा बंदरगाहों पर निर्धारित समय के बाद माल न छुड़ाने पर लगने वाले शुल्क 'Demurrage' के लिए स्वीकृत हिन्दी पारिभाषिक शब्द कौन सा है?",
+      "en": "Which official Hindi administrative term is accepted for 'Demurrage' (fee charged for holding carrier goods beyond allotted time)?"
+    },
+    "options": {
+      "hi": [
+        "विलंब शुल्क",
+        "घाट शुल्क (Wharfage)",
+        "अधिभार (Surcharge)",
+        "हर्जाना (Damages)"
+      ],
+      "en": [
+        "Vilamb Shulk (विलंब शुल्क)",
+        "Ghat Shulk (Wharfage)",
+        "Adhibhar (Surcharge)",
+        "Harjana (Damages)"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'Demurrage' का मानक हिन्दी पारिभाषिक शब्द 'विलंब शुल्क' (या डेमरेज) होता है।\n\nअन्य संबंधित वाणिज्यिक पारिभाषिक शब्द:\n• Wharfage = घाट शुल्क (वारफेज)\n• Surcharge = अधिभार\n• Damages / Compensation = हर्जाना / क्षतिपूर्ति\n• Freight = भाड़ा\n• Toll = पथकर।",
+      "en": "'Demurrage' is officially translated as 'विलंब शुल्क' (Vilamb Shulk) in government and railway glossaries. 'Wharfage' is 'घाट शुल्क', and 'Surcharge' is 'अधिभार'."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश सचिवालय प्रशासनिक शब्दावली कोश।",
+      "en": "UP Secretariat Official Glossary of Commercial & Administrative Terms."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO मुख्य परीक्षा 2017 में पूछा गया प्रतिष्ठित प्रश्न।",
+      "en": "Tested in UPPSC RO/ARO Mains 2017."
+    },
+    "repetitionCount": 4,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2017",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "admin-vocab",
+      "demurrage",
+      "mains",
+      "pyq-2017"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2016-MAINS-DRAFTING-001",
+    "year": 2016,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "subject": "General Hindi",
+    "topic": "प्रशासनिक शब्दावली",
+    "subtopic": "Official Translation of Ad hoc",
+    "difficulty": "easy",
+    "type": "mcq",
+    "question": {
+      "hi": "लैटिन प्रशासनिक पद 'Ad hoc' (उदा. Ad hoc Committee / Appointment) का मानक हिन्दी पारिभाषिक शब्द क्या है?",
+      "en": "What is the standard Hindi administrative translation for the Latin administrative phrase 'Ad hoc'?"
+    },
+    "options": {
+      "hi": [
+        "तदर्थ",
+        "स्थायी",
+        "प्रभारी",
+        "पदेन"
+      ],
+      "en": [
+        "Tadarth (तदर्थ)",
+        "Sthayi",
+        "Prabhari",
+        "Paden (Ex-officio)"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "'Ad hoc' का मानक और एकमात्र प्रामाणिक हिन्दी पारिभाषिक शब्द 'तदर्थ' (विशेष कार्य या अस्थायी उद्देश्य हेतु) होता है (जैसे: Ad hoc Committee = तदर्थ समिति; Ad hoc Judge = तदर्थ न्यायाधीश - अनुच्छेद 127)।\n\nअन्य महत्वपूर्ण लैटिन प्रशासनिक पदों के अनुवाद:\n• Ex-officio = पदेन (जैसे: उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है)\n• In-charge = प्रभारी\n• Permanent = स्थायी\n• Pro-tem = सामयिक (जैसे: Pro-tem Speaker = सामयिक अध्यक्ष)\n• Prima facie = प्रथम दृष्ट्या\n• Suo motu = स्वतः संज्ञान से।",
+      "en": "'Ad hoc' translates exclusively to 'तदर्थ' (Tadarth) in Indian administrative Hindi. 'Ex-officio' is 'पदेन', 'Pro-tem' is 'सामयिक', and 'Prima facie' is 'प्रथम दृष्ट्या'."
+    },
+    "coreConcept": {
+      "hi": "केंद्रीय हिन्दी निदेशालय - प्रशासनिक लैटिन पदों का हिन्दी रूपांतरण।",
+      "en": "Central Hindi Directorate - Latin legal and bureaucratic idioms in Hindi."
+    },
+    "repeatNotes": {
+      "hi": "तदर्थ (Ad hoc) और पदेन (Ex-officio) UPPSC में 8 बार पूछे जा चुके हैं।",
+      "en": "Tested 8 times across UPPSC exams."
+    },
+    "repetitionCount": 8,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2016",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "admin-vocab",
+      "ad-hoc",
+      "tadarth",
+      "mains",
+      "pyq-2016"
+    ]
+  },
+  {
+    "id": "ROARO-PYQ-2014-MAINS-DRAFTING-001",
+    "year": 2014,
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "subject": "General Hindi",
+    "topic": "प्रशासनिक शब्दावली",
+    "subtopic": "Official Translation of Circulation",
+    "difficulty": "medium",
+    "type": "mcq",
+    "question": {
+      "hi": "सरकारी पत्राचार में 'For circulation' वाक्यांश में 'Circulation' का सटीक पारिभाषिक हिन्दी शब्द क्या है?",
+      "en": "In official secretariat correspondence, what is the precise Hindi translation of 'Circulation' in the phrase 'For circulation'?"
+    },
+    "options": {
+      "hi": [
+        "परिसंचरण (या परिचालन / प्रसार)",
+        "संचार",
+        "घूर्णन",
+        "प्रसारण"
+      ],
+      "en": [
+        "Parisancharan / Parichalan (परिसंचरण)",
+        "Sanchar",
+        "Ghoornan",
+        "Prasaran"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "hi": "सरकारी सचिवालय में 'Circulation' का मानक पारिभाषिक शब्द 'परिसंचरण' (या परिचालन / गश्ती) होता है (जैसे: File is in circulation = पत्रावली परिसंचरण में है)।\n\nअन्य शब्दों का अर्थ:\n• Communication = संचार\n• Broadcasting = प्रसारण\n• Rotation = घूर्णन या आवर्तन।",
+      "en": "'Circulation' translates to 'परिसंचरण' (Parisancharan) or 'परिचालन' in secretariat administrative lexicons. 'Communication' is 'संचार', and 'Broadcasting' is 'प्रसारण'."
+    },
+    "coreConcept": {
+      "hi": "उत्तर प्रदेश सचिवालय कार्य नियमावली एवं प्रशासनिक शब्दावली।",
+      "en": "UP Secretariat Manual of Office Procedure and Administrative Terminology."
+    },
+    "repeatNotes": {
+      "hi": "UPPSC RO/ARO मुख्य परीक्षा 2014 का आधिकारिक प्रश्न।",
+      "en": "Direct question from UPPSC RO/ARO Mains 2014."
+    },
+    "repetitionCount": 5,
+    "source": "UPPSC RO/ARO Mains Official Exam Paper 2014",
+    "officialStatus": true,
+    "tags": [
+      "hindi",
+      "admin-vocab",
+      "circulation",
+      "mains",
+      "pyq-2014"
     ]
   }
 ]

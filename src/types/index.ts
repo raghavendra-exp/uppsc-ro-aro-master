@@ -73,9 +73,19 @@ export interface Question {
   id: string;
   exam: 'UPPSC_RO_ARO';
   stage: ExamStage;
-  paper: 'GENERAL_STUDIES' | 'GENERAL_HINDI' | 'MAINS_GS' | 'ADMIN_VOCAB';
+  paper: 
+    | 'PRE_PAPER_1_GS' 
+    | 'PRE_PAPER_2_HINDI' 
+    | 'MAINS_PAPER_1_GS' 
+    | 'MAINS_PAPER_2_HINDI' 
+    | 'MAINS_PAPER_3_DRAFTING_VOCAB'
+    | 'GENERAL_STUDIES' 
+    | 'GENERAL_HINDI' 
+    | 'MAINS_GS' 
+    | 'ADMIN_VOCAB' 
+    | string;
   subject: string;
-  chapter: string;
+  chapter?: string;
   topic: string;
   subtopic?: string;
   difficulty: 'easy' | 'medium' | 'hard';

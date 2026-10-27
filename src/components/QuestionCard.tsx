@@ -70,6 +70,50 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
     hard: 'bg-rose-100 text-rose-800 dark:bg-rose-950/60 dark:text-rose-300'
   };
 
+  const getPaperBadge = (paper: string, stage: string) => {
+    switch (paper) {
+      case 'PRE_PAPER_1_GS':
+      case 'GENERAL_STUDIES':
+        return {
+          label: language === 'hi' ? 'प्रारंभिक: पेपर-1 (सामान्य अध्ययन)' : 'Pre: Paper-1 GS',
+          color: 'bg-indigo-50 dark:bg-indigo-950/50 text-indigo-700 dark:text-indigo-300 border-indigo-200 dark:border-indigo-800'
+        };
+      case 'PRE_PAPER_2_HINDI':
+        return {
+          label: language === 'hi' ? 'प्रारंभिक: पेपर-2 (सामान्य हिन्दी)' : 'Pre: Paper-2 Hindi',
+          color: 'bg-emerald-50 dark:bg-emerald-950/50 text-emerald-700 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800'
+        };
+      case 'MAINS_PAPER_1_GS':
+      case 'MAINS_GS':
+        return {
+          label: language === 'hi' ? 'मुख्य: पेपर-1 (सामान्य अध्ययन)' : 'Mains: Paper-1 GS',
+          color: 'bg-blue-50 dark:bg-blue-950/50 text-blue-700 dark:text-blue-300 border-blue-200 dark:border-blue-800'
+        };
+      case 'MAINS_PAPER_2_HINDI':
+      case 'GENERAL_HINDI':
+        if (stage === 'MAINS') {
+          return {
+            label: language === 'hi' ? 'मुख्य: पेपर-2 (सामान्य हिन्दी वस्तुनिष्ठ)' : 'Mains: Paper-2 Hindi',
+            color: 'bg-teal-50 dark:bg-teal-950/50 text-teal-700 dark:text-teal-300 border-teal-200 dark:border-teal-800'
+          };
+        }
+        return {
+          label: language === 'hi' ? 'प्रारंभिक: पेपर-2 (सामान्य हिन्दी)' : 'Pre: Paper-2 Hindi',
+          color: 'bg-emerald-50 dark:bg-emerald-950/50 text-emerald-700 dark:text-emerald-300 border-emerald-200 dark:border-emerald-800'
+        };
+      case 'MAINS_PAPER_3_DRAFTING_VOCAB':
+      case 'ADMIN_VOCAB':
+        return {
+          label: language === 'hi' ? 'मुख्य: पेपर-3 (आलेखन व प्रशासनिक शब्दावली)' : 'Mains: Paper-3 Drafting & Vocab',
+          color: 'bg-amber-50 dark:bg-amber-950/50 text-amber-800 dark:text-amber-300 border-amber-200 dark:border-amber-800'
+        };
+      default:
+        return null;
+    }
+  };
+
+  const paperBadge = getPaperBadge(question.paper, question.stage);
+
   return (
     <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-4 sm:p-5 shadow-sm hover:shadow-md transition-all">
       {/* Question Header Meta */}
@@ -84,6 +128,12 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
           {displayYear && (
             <span className="px-2 py-0.5 rounded font-bold font-mono text-[11px] bg-purple-100 dark:bg-purple-950/60 text-purple-700 dark:text-purple-300 border border-purple-200 dark:border-purple-800">
               UPPSC {displayYear} {question.stage ? `(${question.stage})` : ''}
+            </span>
+          )}
+
+          {paperBadge && (
+            <span className={`px-2 py-0.5 rounded font-semibold text-[10px] sm:text-[11px] border ${paperBadge.color}`}>
+              {paperBadge.label}
             </span>
           )}
 
