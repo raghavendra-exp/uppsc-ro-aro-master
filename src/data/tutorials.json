@@ -429,5 +429,1325 @@
         }
       }
     ]
+  },
+  {
+    "id": "tut-science-phy-chem-bio",
+    "stage": "PRELIMS",
+    "paper": "PRE_PAPER_1_GS",
+    "moduleTitle": {
+      "hi": "खंड 2: सामान्य विज्ञान (General Science: Physics, Chemistry & Biology)",
+      "en": "Module 2: General Science (Physics, Chemistry & Biology)"
+    },
+    "chapterNumber": "अध्याय 2.1",
+    "title": {
+      "hi": "दैनिक जीवन का विज्ञान: भौतिकी, रसायन एवं मानव शरीर क्रिया विज्ञान",
+      "en": "Everyday Science: Physics, Chemistry & Human Physiology for UPPSC"
+    },
+    "subtitle": {
+      "hi": "प्रकाशिकी, गुप्त ऊष्मा, अम्ल-क्षार-लवण, रासायनिक सूत्र, मानव तंत्र, विटामिन एवं संक्रामक रोग",
+      "en": "Optics, Latent Heat, Acids-Bases-Salts, Chemical Formulas, Physiology, Vitamins & Pathogens"
+    },
+    "estimatedStudyTimeMinutes": 60,
+    "weightageQuestions": "18-22 प्रश्न (प्रारंभिक परीक्षा प्रश्नपत्र-1)",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "प्रकाशिकी के सिद्धांतों (पूर्ण आंतरिक परावर्तन, अपवर्तन, लेंस सूत्र) व दृष्टि दोष निवारण को समझना।",
+        "en": "Master optics principles (TIR, refraction, lens correction for vision defects)."
+      },
+      {
+        "hi": "दैनिक जीवन के प्रमुख रासायनिक यौगिकों (बेकिंग सोडा, विरंजक चूर्ण, पीओपी) के रासायनिक सूत्र व उपयोग याद करना।",
+        "en": "Memorize everyday chemical compounds, formulas and their applications."
+      },
+      {
+        "hi": "मानव पाचन, परिसंचरण तंत्र, रक्त समूह, Rh कारक एवं अंतःस्रावी ग्रंथियों की सटीक समझ।",
+        "en": "Comprehend human digestive, circulatory system, blood groups and endocrine glands."
+      },
+      {
+        "hi": "विटामिनों के रासायनिक नाम, कमी से होने वाले रोग तथा जीवाणु/विषाणु/प्रोटोजोआ जनित संक्रामक रोगों की पहचान।",
+        "en": "Identify vitamin chemical names, deficiency diseases and microbial pathogens."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "sci-sec-1",
+        "heading": {
+          "hi": "1. भौतिक विज्ञान: प्रकाशिकी, ऊष्मा एवं विद्युत के महत्वपूर्ण नियम",
+          "en": "1. Physics: Optics, Thermodynamics & Electricity Core Principles"
+        },
+        "bodyMarkdown": {
+          "hi": "**प्रकाशिकी एवं दृष्टि दोष (Optics & Vision):**\n• **पूर्ण आंतरिक परावर्तन (Total Internal Reflection - TIR):** जब प्रकाश सघन माध्यम से विरल माध्यम में जाता है और आपतन कोण (Angle of incidence) का मान क्रांतिक कोण (Critical angle) से अधिक हो जाता है, तो प्रकाश उसी माध्यम में पूर्णतः परावर्तित हो जाता है। \n  * *दैनिक उदाहरण:* हीरे की अत्यधिक चमक, रेगिस्तान में मृगमरीचिका (Mirage), पानी में हवा के बुलबुले का चमकना, तथा चिकित्सा में प्रयुक्त **एंडोस्कोपी एवं ऑप्टिकल फाइबर** (Optical Fiber) केबल।\n• **अपवर्तन (Refraction):** माध्यम बदलने पर प्रकाश की चाल व दिशा में परिवर्तन। पानी से भरे बीकर में रखी पेंसिल का मुड़ी हुई दिखना, रात्रि में तारों का टिमटिमाना, तथा सूर्योदय से पूर्व व सूर्यास्त के पश्चात भी सूर्य का कुछ क्षण दिखाई देना।\n• **दृष्टि दोष एवं निवारक लेंस:**\n  1. *निकट दृष्टि दोष (Myopia):* निकट की वस्तु स्पष्ट दिखती है, दूर की नहीं। नेत्र गोलक लंबा हो जाता है और प्रतिबिम्ब रेटिना के आगे बनता है। **निवारण:** अवतल लेंस (Concave Lens - अपसारी लेंस)।\n  2. *दूर दृष्टि दोष (Hypermetropia):* दूर की वस्तु स्पष्ट दिखती है, निकट की नहीं। प्रतिबिम्ब रेटिना के पीछे बनता है। **निवारण:** उत्तल लेंस (Convex Lens - अभिसारी लेंस)।\n  3. *जरा दृष्टि दोष (Presbyopia):* वृद्धावस्था में सिलीअरी मांसपेशियों के लचीलेपन में कमी। **निवारण:** द्विफोकसी लेंस (Bifocal Lens - ऊपरी भाग अवतल, निचला भाग उत्तल)।\n  4. *अबिंदुकता (Astigmatism):* क्षैतिज व ऊर्ध्वाधर रेखाओं में विभेद न होना। **निवारण:** बेलनाकार लेंस (Cylindrical Lens)।\n\n**ऊष्मा एवं ऊष्मागतिकी (Heat & Thermodynamics):**\n• **गुप्त ऊष्मा (Latent Heat):** अवस्था परिवर्तन के समय ताप में बिना बदलाव किए अवशोषित या उत्सर्जित ऊष्मा। 100°C के उबलते पानी की तुलना में 100°C की भाप से हाथ अधिक जलता है क्योंकि भाप में वाष्पन की गुप्त ऊष्मा (लगभग 540 cal/g) अतिरिक्त विद्यमान होती है।\n• **जल का असामान्य प्रसार (Anomalous Expansion of Water):** जल 0°C से 4°C तक गर्म करने पर सिकुड़ता है और उसका आयतन न्यूनतम तथा घनत्व अधिकतम (Maximum Density at 4°C) होता है। यही कारण है कि अत्यधिक शीत ऋतु में झीलों की ऊपरी सतह जम जाने पर भी नीचे का जल 4°C पर द्रव रहता है और जलीय जीव जीवित रहते हैं।",
+          "en": "**Optics & Human Vision Defect Corrections:**\n• **Total Internal Reflection (TIR):** Occurs when light travels from denser to rarer medium with angle of incidence greater than critical angle. Examples: Diamond sparkle, mirage in deserts, shining air bubbles in water, and optical fiber / endoscopy.\n• **Refraction:** Change in direction and speed across media. Explains apparent bending of pencils in water, twinkling of stars, and early sunrise/delayed sunset.\n• **Vision Defects & Corrective Lenses:**\n  - Myopia (Short-sightedness): Image forms in front of retina -> Corrected by Concave lens.\n  - Hypermetropia (Long-sightedness): Image forms behind retina -> Corrected by Convex lens.\n  - Presbyopia: Loss of accommodation in old age -> Corrected by Bifocal lens.\n  - Astigmatism: Curvature defect -> Corrected by Cylindrical lens.\n\n**Thermodynamics & Heat:**\n• **Latent Heat:** Latent heat of vaporization of steam (540 cal/g) causes more severe burns than boiling water at 100°C.\n• **Anomalous Expansion of Water:** Maximum density and minimum volume at 4°C, preserving aquatic life beneath frozen lakes."
+        },
+        "examTrapWarning": {
+          "hi": "परीक्षक प्रायः जर्मन सिल्वर में 'सिल्वर' का प्रतिशत पूछते हैं। याद रखें: जर्मन सिल्वर में तांबा (Cu), जस्ता (Zn) और निकल (Ni) होता है — इसमें चांदी (Silver) 0% होती है!",
+          "en": "Examiner Trap: German Silver contains Copper, Zinc, and Nickel — it contains ZERO percent Silver!"
+        }
+      },
+      {
+        "sectionId": "sci-sec-2",
+        "heading": {
+          "hi": "2. रसायन विज्ञान: महत्वपूर्ण यौगिक, रासायनिक सूत्र एवं दैनिक उपयोग",
+          "en": "2. Chemistry: Vital Compounds, Chemical Formulas & Everyday Applications"
+        },
+        "bodyMarkdown": {
+          "hi": "**आयोग की परीक्षा में सर्वाधिक पूछे जाने वाले रासायनिक सूत्र:**\n1. **बेकिंग सोडा (मीठा / खाने का सोडा):** सोडियम हाइड्रोजन कार्बोनेट / सोडियम बाइकार्बोनेट (NaHCO₃)। पेट की अम्लता (Antacid) दूर करने एवं अग्निशामक यंत्रों में प्रयुक्त।\n2. **धावन सोडा (धोने का सोडा):** सोडium कार्बोनेट डेकाहाइड्रेट (Na₂CO₃·10H₂O)। जल की स्थायी कठोरता दूर करने में प्रयुक्त।\n3. **विरंजक चूर्ण (Bleaching Powder):** कैल्शियम ऑक्सीक्लोराइड [CaOCl₂ या Ca(OCl)Cl]। कीटाणुनाशक तथा वस्त्र उद्योग में विरंजन हेतु।\n4. **प्लास्टर ऑफ पेरिस (P.O.P.):** कैल्शियम सल्फेट हेमीहाइड्रेट (CaSO₄·½H₂O)। जिप्सम (CaSO₄·2H₂O) को 373 K पर गर्म करने पर बनता है। टूटी हड्डियों को जोड़ने व मूर्तियों के निर्माण में।\n5. **नीला थोथा (Blue Vitriol):** कॉपर सल्फेट पेंटाहाइड्रेट (CuSO₄·5H₂O)।\n6. **भारी जल (Heavy Water):** ड्यूटेरियम ऑक्साइड (D₂O) — परमाणु रिएक्टरों में मंदक (Moderator) के रूप में प्रयुक्त।\n7. **हंसाने वाली गैस (Laughing Gas):** नाइट्रस ऑक्साइड (N₂O)।\n\n**मिश्र धातुएं (Important Alloys):**\n• **पीतल (Brass):** तांबा (Cu 70%) + जस्ता (Zn 30%)\n• **कांसा (Bronze):** तांबा (Cu 88%) + टिन (Sn 12%)\n• **टांका (Solder):** सीसा (Lead - Pb) + टिन (Sn)\n• **स्टेनलेस स्टील:** लोहा (Fe) + क्रोमियम (Cr) + निकल (Ni) + कार्बन (C - कठोरता प्रदान करने हेतु)।",
+          "en": "**High-Yield Chemical Formulas for UPPSC:**\n1. Baking Soda: Sodium Bicarbonate (NaHCO3)\n2. Washing Soda: Sodium Carbonate Decahydrate (Na2CO3.10H2O)\n3. Bleaching Powder: Calcium Oxychloride (CaOCl2)\n4. Plaster of Paris: Calcium Sulphate Hemihydrate (CaSO4.1/2H2O), produced by heating Gypsum (CaSO4.2H2O) at 373 K.\n5. Blue Vitriol: Copper Sulphate (CuSO4.5H2O)\n6. Heavy Water: Deuterium Oxide (D2O) - Moderator in nuclear reactors.\n7. Laughing Gas: Nitrous Oxide (N2O).\n\n**Essential Alloys:**\n- Brass: Cu (70%) + Zn (30%)\n- Bronze: Cu (88%) + Sn (12%)\n- Solder: Pb + Sn\n- Stainless Steel: Fe + Cr + Ni + C (Carbon imparts hardness)."
+        }
+      },
+      {
+        "sectionId": "sci-sec-3",
+        "heading": {
+          "hi": "3. मानव शरीर क्रिया विज्ञान: पाचन, रक्त परिसंचरण एवं अंतःस्रावी तंत्र",
+          "en": "3. Human Physiology: Digestion, Blood Circulation & Endocrine Glands"
+        },
+        "bodyMarkdown": {
+          "hi": "**पाचन तंत्र (Digestive System):**\n• मुख गुहा में लार ग्रंथि से **टायलिन (लारीय एमाइलेज)** स्रावित होता है जो स्टार्च को माल्टोज में तोड़ता है।\n• आमाशय (Stomach) में जठर रस से **पेप्सिन** (प्रोटीन को पेप्टोन में तोड़ता है) और हाइड्रोक्लोरिक अम्ल (HCl - जीवाणुओं को नष्ट करता है तथा माध्यम को अम्लीय बनाता है) स्रावित होता है।\n• **यकृत (Liver):** मानव शरीर की सबसे बड़ी ग्रंथि। यह **पित्त रस (Bile Juice)** बनाता है जो पित्ताशय (Gall Bladder) में संचित होता है। पित्त में कोई एंजाइम नहीं होता, किंतु यह वसा का पायसीकरण (Emulsification of Fats) करता है।\n• **अग्न्याशय (Pancreas):** मानव शरीर की दूसरी सबसे बड़ी व **मिश्रित ग्रंथि (Mixed Gland)** है। इसकी लैंगरहेंस की द्वीपिकाओं की **बीटा कोशिकाओं से इंसुलिन** स्रावित होता है जो रक्त में शर्करा स्तर को नियंत्रित करता है (कमी से मधुमेह/Diabetes Mellitus रोग होता है)।\n\n**रक्त परिसंचरण तंत्र (Circulatory System):**\n• विलियम हार्वे (1628) ने रक्त परिसंचरण की खोज की।\n• कार्ल लैंडस्टीनर ने ABO रक्त समूह की खोज की।\n• **सार्वत्रिक दाता (Universal Donor):** O नेगेटिव (O⁻) — इसमें कोई एंटीजन नहीं होता।\n• **सार्वत्रिक ग्राही (Universal Acceptor):** AB पॉजिटिव (AB⁺) — इसमें दोनों एंटीजन होते हैं, कोई एंटीबॉडी नहीं होती।\n• मानव हृदय 4 कोष्ठकीय होता है (दो अलिंद, दो निलय)। पेसमेकर (SA Node) को हृदय का पेसमेकर कहा जाता है।",
+          "en": "**Digestive Physiology:**\n- Salivary Amylase (Ptyalin) initiates starch digestion in the mouth.\n- Stomach secretes Pepsin (digests proteins) and HCl (creates acidic pH 1.5-2.0).\n- Liver is the largest gland: produces Bile (stored in gallbladder) which emulsifies fats.\n- Pancreas is a mixed gland: Beta-cells of Islets of Langerhans secrete Insulin (deficiency leads to Diabetes Mellitus).\n\n**Circulatory System:**\n- Karl Landsteiner discovered ABO blood groups.\n- Universal Donor: O Negative (O-).\n- Universal Recipient: AB Positive (AB+).\n- Sinoatrial (SA) Node acts as natural pacemaker."
+        }
+      },
+      {
+        "sectionId": "sci-sec-4",
+        "heading": {
+          "hi": "4. रोग एवं रोगजनक: जीवाणु, विषाणु, प्रोटोजोआ एवं आनुवंशिक रोग",
+          "en": "4. Human Diseases & Pathogens: Bacterial, Viral, Protozoan & Genetic"
+        },
+        "bodyMarkdown": {
+          "hi": "**1. जीवाणु (Bacteria) जनित रोग:**\n• क्षयरोग / टीबी (Mycobacterium tuberculosis) — बीसीजी का टीका।\n• हैजा (Vibrio cholerae) — दूषित जल व भोजन से।\n• टाइफाइड (Salmonella typhi) — विडाल परीक्षण (Widal Test)।\n• डिप्थीरिया, काली खांसी, टिटनेस — DPT का टीका।\n• प्लेग (Yersinia pestis) — चूहा पिस्सू वाहक।\n\n**2. विषाणु (Virus) जनित रोग:**\n• एड्स (Acquired Immuno Deficiency Syndrome) — HIV रेट्रोवायरस द्वारा; T-लिम्फोसाइट्स को नष्ट करता है; परीक्षण: ELISA टेस्ट व वेस्टर्न ब्लॉट।\n• पोलियो (Poliovirus) — तंत्रिका तंत्र प्रभावित; जोनास साल्क ने इंजेक्टेबल वैक्सीन और अल्बर्ट साबिन ने ओरल पोलियो ड्रॉप्स खोजी।\n• रेबीज (Rabies) — रेबडोवायरस; हाइड्रोफोबिया (पानी से डर); लुई पाश्चर ने टीका खोजा।\n• डेंगू — एडीज एजिप्टी मच्छर द्वारा; प्लेटलेट्स की संख्या में भारी गिरावट।\n\n**3. प्रोटोजोआ जनित रोग:**\n• मलेरिया — प्लाज्मोडियम परजीवी; मादा एनाफिली मच्छर वाहक; रोनाल्ड रॉस ने मलेरिया परजीवी चक्र की खोज की; दवा: कुनैन (सिनकोना वृक्ष की छाल से प्राप्त)।\n• कालाजार — लीशमानिया डोनोवानी; बालू मक्खी (Sandfly) वाहक।\n• स्लीपिंग सिकनेस (निद्रा रोग) — ट्रिपैनोसोमा; सीसी मक्खी (Tsetse fly) वाहक।",
+          "en": "**1. Bacterial Diseases:** Tuberculosis (BCG vaccine), Cholera (Vibrio cholerae), Typhoid (Widal test), Plague (Yersinia pestis), DPT trio (Diphtheria, Pertussis, Tetanus).\n**2. Viral Diseases:** AIDS (HIV retrovirus, ELISA test), Polio (Salk injectable / Sabin oral), Rabies (Louis Pasteur discovered vaccine, causing hydrophobia), Dengue (Aedes aegypti mosquito).\n**3. Protozoan Diseases:** Malaria (Plasmodium via female Anopheles; Quinine from Cinchona bark), Kala-azar (Leishmania via Sandfly), Sleeping Sickness (Trypanosoma via Tsetse fly)."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश में जापानी इन्सेफेलाइटिस (Japanese Encephalitis) तथा दिमागी बुखार का प्रकोप गोरखपुर एवं तराई क्षेत्र में प्रमुख रहा है, जिसके अनुसंधान हेतु गोरखपुर में नेशनल इंस्टीट्यूट ऑफ वायरोलॉजी का केंद्र स्थापित किया गया है। लखनऊ में 'केंद्रीय औषधि अनुसंधान संस्थान' (CDRI - जिसने गैर-हार्मोनल गर्भनिरोधक गोली 'सहेली/छाया' विकसित की) तथा 'राष्ट्रीय वनस्पति अनुसंधान संस्थान' (NBRI) स्थित हैं।",
+      "en": "Eastern UP (Gorakhpur region) has been endemic for Japanese Encephalitis, leading to a dedicated ICMR research center. Lucknow houses premier institutes like Central Drug Research Institute (CDRI - developers of 'Chhaya/Saheli') and National Botanical Research Institute (NBRI)."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "विटामिन B12 (साइनोकोबालामिन)",
+          "en": "Vitamin B12 (Cyanocobalamin)"
+        },
+        "explanation": {
+          "hi": "इसमें कोबाल्ट (Cobalt) धातु पाई जाती है। इसकी कमी से प्रणाशी रक्ताल्पता (Pernicious Anaemia) होती है।",
+          "en": "Contains Cobalt metal; deficiency causes Pernicious Anaemia."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "विटामिन D (कैल्सीफेरॉल)",
+          "en": "Vitamin D (Calciferol)"
+        },
+        "explanation": {
+          "hi": "इसे हार्मोन विटामिन भी कहा जाता है। त्वचा द्वारा सूर्य के प्रकाश में संश्लेषित होता है। कमी से बच्चों में रिकेट्स व वयस्कों में ऑस्टियोमलेशिया होता है।",
+          "en": "Acts like a hormone; synthesized in skin via sunlight; deficiency causes Rickets & Osteomalacia."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "विटामिन C (एस्कॉर्बिक एसिड)",
+          "en": "Vitamin C (Ascorbic Acid)"
+        },
+        "explanation": {
+          "hi": "घाव भरने में सहायक, गर्म करने पर सबसे पहले नष्ट होने वाला विटामिन। खट्टे फलों (आंवला में सर्वाधिक) में पाया जाता है।",
+          "en": "Aids wound healing; most heat-labile vitamin; found abundantly in Amla."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "पेसमेकर (SA Node)",
+          "en": "Natural Pacemaker (SA Node)"
+        },
+        "explanation": {
+          "hi": "हृदय के दाएं अलिंद (Right Atrium) में स्थित होता है, जो हृदय की धड़कन का उद्गम करता है।",
+          "en": "Located in right atrium of heart; initiates rhythmic cardiac contractions."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "विटामिन",
+        "रासायनिक नाम",
+        "घुलनशीलता",
+        "कमी से होने वाला रोग",
+        "प्रमुख स्रोत"
+      ],
+      "rows": [
+        [
+          "विटामिन A",
+          "रेटिनॉल (Retinol)",
+          "वसा में घुलनशील",
+          "रतौंधी (Nyctalopia), जेरोफ्थैलमिया",
+          "गाजर, पपीता, दूध, यकृत"
+        ],
+        [
+          "विटामिन B1",
+          "थायमीन (Thiamine)",
+          "जल में घुलनशील",
+          "बेरी-बेरी (पॉलिश चावल खाने से)",
+          "साबुत अनाज, दालें, खमीर"
+        ],
+        [
+          "विटामिन B3",
+          "नियासिन / निकोटिनिक एसिड",
+          "जल में घुलनशील",
+          "पेलाग्रा (4-D सिंड्रोम)",
+          "मांस, मूंगफली, दूध"
+        ],
+        [
+          "विटामिन B12",
+          "साइनोकोबालामिन (Cobalt युक्त)",
+          "जल में घुलनशील",
+          "घातक रक्ताल्पता (Pernicious Anaemia)",
+          "दूध, अंडा, मांस (पौधों में अनुपस्थित)"
+        ],
+        [
+          "विटामिन C",
+          "एस्कॉर्बिक अम्ल (Ascorbic Acid)",
+          "जल में घुलनशील",
+          "स्कर्वी (मसूड़ों से खून आना)",
+          "आंवला, नींबू, संतरा, अमरूद"
+        ],
+        [
+          "विटामिन D",
+          "कैल्सीफेरॉल (Calciferol)",
+          "वसा में घुलनशील",
+          "रिकेट्स (सूखा रोग), ऑस्टियोमलेशिया",
+          "सूर्य का प्रकाश, कॉड लिवर ऑयल"
+        ],
+        [
+          "विटामिन E",
+          "टोकोफेरॉल (Tocopherol)",
+          "वसा में घुलनशील",
+          "प्रजनन क्षमता में कमी, सौंदर्य विटामिन",
+          "अंकुरित गेहूं, बादाम, वनस्पति तेल"
+        ],
+        [
+          "विटामिन K",
+          "फिलोक्विनोन (Phylloquinone)",
+          "वसा में घुलनशील",
+          "रक्त का थक्का न जमना (Hemorrhage)",
+          "हरी पत्तेदार सब्जियां, टमाटर, आंत के जीवाणु"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tut-geography-india-world",
+    "stage": "PRELIMS",
+    "paper": "PRE_PAPER_1_GS",
+    "moduleTitle": {
+      "hi": "खंड 3: भारत एवं विश्व का भूगोल (Geography of India & World)",
+      "en": "Module 3: Geography of India & World"
+    },
+    "chapterNumber": "अध्याय 3.1",
+    "title": {
+      "hi": "भारत का भौतिक भूगोल, नदी अपवाह तंत्र, मिट्टियाँ एवं वैश्विक जलमार्ग",
+      "en": "Physiography of India, Drainage Systems, ICAR Soils & Strategic Straits"
+    },
+    "subtitle": {
+      "hi": "हिमालय संरचना, प्रायद्वीपीय नदियां, पंचप्रयाग, 8 प्रमुख मिट्टियाँ, महासागरीय धाराएं एवं महत्वपूर्ण जलडमरूमध्य",
+      "en": "Himalayas, Peninsular Rivers, Panch Prayag, 8 Soil Orders, Ocean Currents & Straits"
+    },
+    "estimatedStudyTimeMinutes": 60,
+    "weightageQuestions": "20-24 प्रश्न (प्रारंभिक परीक्षा प्रश्नपत्र-1)",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "हिमालय के 4 समानांतर भागों एवं प्रमुख पर्वतीय दर्रों की उत्तर से दक्षिण व पश्चिम से पूर्व स्थिति।",
+        "en": "Master 4 longitudinal Himalayan divisions and vital mountain passes."
+      },
+      {
+        "hi": "गंगा, ब्रह्मपुत्र, सिंधु एवं दक्षिण भारत की पूर्व व पश्चिम वाहिनी नदियों का अपवाह व सहायक नदियां।",
+        "en": "Trace origins, tributaries and deltaic patterns of Himalayan and Peninsular rivers."
+      },
+      {
+        "hi": "ICAR द्वारा वर्गीकृत भारत की 8 प्रमुख मिट्टियों की विशेषताएं एवं पोषक तत्वों की उपलब्धता।",
+        "en": "Differentiate ICAR 8 soil orders, chemistry, distribution and crop suitability."
+      },
+      {
+        "hi": "विश्व के सामरिक जलडमरूमध्यों (मलक्का, होर्मुज, बाब-अल-मंदेब, जिब्राल्टर) एवं महासागरीय जलधाराओं की पहचान।",
+        "en": "Locate strategic global straits and classify warm vs cold oceanic currents."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "geo-sec-1",
+        "heading": {
+          "hi": "1. भारत का भू-आकृतिक विभाजन एवं प्रमुख पर्वतीय दर्रे",
+          "en": "1. Physiographic Divisions of India & Strategic Mountain Passes"
+        },
+        "bodyMarkdown": {
+          "hi": "**उत्तर के महान पर्वत (The Northern Mountains):**\n1. **ट्रांस हिमालय:** काराकोरम (सर्वोच्च शिखर K2 / गॉडविन ऑस्टिन - 8611 मी, सियाचिन व बाल्टोरो हिमनद), लद्दाख (राकापोशी - विश्व की तीव्रतम ढाल वाली चोटी), जास्कर श्रेणी।\n2. **वृहद हिमालय (Himadri):** औसत ऊंचाई 6100 मी। माउंट एवरेस्ट (8848.86 मी, नेपाल में 'सागरमाथा'), कंचनजंगा (8586 मी, सिक्किम), नंदा देवी (उत्तराखंड)।\n3. **लघु / मध्य हिमालय (Himachal):** पीर पंजाल (सबसे लंबी श्रेणी), धौलाधर, नागटिब्बा, महाभारत श्रेणी। प्रसिद्ध स्वास्थ्यवर्धक स्थल (शिमला, कुल्लू, मनाली, मसूरी)।\n4. **शिवालिक (Outer Himalayas):** हिमालय की सबसे नवीनतम बाह्य श्रेणी। पोटवार बेसिन से असम तक विस्तृत। मध्य हिमालय व शिवालिक के बीच की अनुदैर्ध्य घाटियों को पश्चिम में **'दून'** (देहरादून) एवं पूर्व में **'द्वार'** (हरिद्वार) कहा जाता है।\n\n**प्रमुख पर्वतीय दर्रे (State-wise Mountain Passes):**\n• **लद्दाख:** जोजिला (श्रीनगर को लेह से जोड़ता है), खारदुंग ला, काराकोरम दर्रा।\n• **जम्मू-कश्मीर:** बनिहाल दर्रा (जवाहर सुरंग इसी में स्थित है - जम्मू को श्रीनगर से जोड़ता है), पीर पंजाल दर्रा।\n• **हिमाचल प्रदेश:** रोहतांग दर्रा (अटल टनल), शिपकी ला (सतलुज नदी भारत में इसी दर्रे से प्रवेश करती है), बारालाचा ला।\n• **उत्तराखंड:** माना दर्रा, नीति दर्रा, लिपुलेख दर्रा (कैलाश मानसरोवर यात्रा मार्ग)।\n• **सिक्किम:** नाथू ला (प्राचीन सिल्क रूट, 1962 के बाद 2006 में व्यापार हेतु पुनः खोला गया), जेलेप ला (तीस्ता नदी द्वारा निर्मित)।\n• **अरुणाचल प्रदेश:** बोमडिला, दीफू, यांग्याप दर्रा (ब्रह्मपुत्र नदी इसी के पास भारत में प्रवेश करती है)।\n• **प्रायद्वीपीय भारत:** थालघाट (मुंबई-नासिक-कोलकाता), भोरघाट (मुंबई-पुणे-चेन्नई), पालघाट (कोच्चि-कोयंबटूर, नीलगिरी व अन्नामलाई के बीच)।",
+          "en": "**The Northern Himalayan Architecture:**\n- Trans-Himalayas: Karakoram (K2 / Godwin Austen 8,611m), Ladakh, Zaskar.\n- Greater Himalayas (Himadri): Mt. Everest (8,848.86m), Kanchenjunga (8,586m in Sikkim).\n- Middle Himalayas (Himachal): Pir Panjal (longest), Dhauladhar.\n- Shiwaliks: Youngest outer foothills; longitudinal valleys called 'Duns' and 'Duars'.\n\n**Crucial Mountain Passes:**\n- Zoji La (Srinagar-Leh), Banihal (Jawahar Tunnel).\n- Shipki La (Sutlej entry point into India).\n- Mana, Niti, Lipulekh (Mansarovar pilgrimage route).\n- Nathu La & Jelep La in Sikkim.\n- Thalghat, Bhorghat, Palghat in Western Ghats."
+        },
+        "examTrapWarning": {
+          "hi": "परीक्षक प्रायः दक्षिण भारत की सर्वोच्च चोटी पूछते हैं। याद रखें: दक्षिण भारत की सर्वोच्च चोटी 'अनाईमुडी' (2695 मी - अन्नामलाई पर्वत) है, न कि डोडाबेटा (2637 मी - नीलगिरी)।",
+          "en": "Examiner Trap: The highest peak of South India is Anamudi (2,695m in Annamalai Hills), NOT Doddabetta (2,637m in Nilgiris)!"
+        }
+      },
+      {
+        "sectionId": "geo-sec-2",
+        "heading": {
+          "hi": "2. भारत का अपवाह तंत्र: गंगा, ब्रह्मपुत्र एवं प्रायद्वीपीय नदियां",
+          "en": "2. Drainage Systems: Ganga, Brahmaputra & Peninsular Rivers"
+        },
+        "bodyMarkdown": {
+          "hi": "**गंगा नदी तंत्र एवं पंचप्रयाग (The Sacred Confluences):**\nगंगा का उद्गम उत्तराखंड के उत्तरकाशी जिले में गोमुख के निकट गंगोत्री हिमनद से भागीरथी के रूप में होता है।\n• **विष्णुप्रयाग:** धौलीगंगा + अलकनंदा\n• **नंदप्रयाग:** नंदाकिनी + अलकनंदा\n• **कर्णप्रयाग:** पिंडर + अलकनंदा\n• **रुद्रप्रयाग:** मंदाकिनी (काली गंगा) + अलकनंदा\n• **देवप्रयाग:** भागीरथी + अलकनंदा = यहीं से संयुक्त धारा का नाम **'गंगा'** पड़ता है।\n*गंगा की बाएं तट की सहायक नदियां (पश्चिम से पूर्व क्रम):* रामगंगा ➔ गोमती (पीलीभीत के फुलहर झील से मैदानी उद्गम!) ➔ घाघरा (सरयू) ➔ गंडक ➔ कोसी (बिहार का शोक) ➔ महानंदा।\n*गंगा की दाएं तट की सहायक नदियां:* यमुना (सबसे बड़ी सहायक), सोन (अमरकंटक पठार से उत्तर की ओर बहकर पटना के पास गंगा में मिलने वाली)।\n\n**प्रायद्वीपीय अपवाह तंत्र (Peninsular Drainage):**\n1. **पूर्ववाहिनी नदियां (बंगाल की खाड़ी में गिरने वाली - डेल्टा निर्माण):**\n   • **गोदावरी (1465 किमी):** प्रायद्वीपीय भारत की सबसे लंबी नदी। उद्गम: त्र्यंबकेश्वर (नासिक, महाराष्ट्र)। इसे 'वृद्ध गंगा' या 'दक्षिण गंगा' कहते हैं। सहायक: वैनगंगा, पेनगंगा, मंजरा, इंद्रावती, प्राणहिता।\n   • **कृष्णा (1401 किमी):** उद्गम: महाबलेश्वर। सहायक: तुंगभद्रा, भीमा, कोयना, घाटप्रभा, मालप्रभा, मूसी (हैदराबाद तट पर)।\n   • **कावेरी (800 किमी):** उद्गम: ब्रह्मगिरि पहाड़ी (कूर्ग, कर्नाटक)। इसे 'दक्षिण भारत की गंगा' कहा जाता है। इसमें वर्ष भर जल रहता है (ग्रीष्मकालीन व शीतकालीन दोनों मानसून से जल प्राप्ति)।\n2. **पश्चिमवाहिनी नदियां (अरब सागर में गिरने वाली - भ्रंश घाटी में प्रवाह, एश्चुअरी/ज्वारनदमुख निर्माण):**\n   • **नर्मदा:** अमरकंटक पहाड़ी (म.प्र.) से उद्गम। विंध्य एवं सतपुड़ा के बीच भ्रंश घाटी में बहती है। जबलपुर के निकट भेड़ाघाट में धुआंधार जलप्रपात बनाती है।\n   • **तापी (ताप्ती):** मुलताई (बैतूल, म.प्र.) से उद्गम। सतपुड़ा के दक्षिण में भ्रंश घाटी में बहती है।\n   • **माही नदी:** मध्य प्रदेश से निकलकर राजस्थान और गुजरात में बहते हुए **कर्क रेखा को दो बार** काटती है!",
+          "en": "**The Ganga System & Panch Prayag:**\n- Vishnuprayag (Alaknanda + Dhauliganga)\n- Nandprayag (Alaknanda + Nandakini)\n- Karnaprayag (Alaknanda + Pindar)\n- Rudraprayag (Alaknanda + Mandakini)\n- Devprayag (Alaknanda + Bhagirathi -> Ganga).\n- Left-bank tributaries (W to E): Ramganga -> Gomti -> Ghaghara -> Gandak -> Kosi -> Mahananda.\n- Right-bank tributaries: Yamuna, Son (flows north from Amarkantak into Ganga near Patna).\n\n**Peninsular River Systems:**\n- Godavari (1,465 km): Dakshin Ganga; originates at Trimbakeshwar (Nashik).\n- Krishna (1,401 km): Originates at Mahabaleshwar; tributaries include Tungabhadra, Bhima, Musi.\n- Cauvery (800 km): Originates at Brahmagiri; perennial river receiving both SW and NE monsoons.\n- West-flowing rift valley rivers: Narmada (Dhuandhar falls) and Tapi. Mahi river cuts Tropic of Cancer twice."
+        }
+      },
+      {
+        "sectionId": "geo-sec-3",
+        "heading": {
+          "hi": "3. भारत की मिट्टियाँ (ICAR वर्गीकरण) एवं कृषि उपयुक्तता",
+          "en": "3. Soils of India (ICAR Classification) & Crop Adaptation"
+        },
+        "bodyMarkdown": {
+          "hi": "भारतीय कृषि अनुसंधान परिषद (ICAR) ने भारतीय मिट्टियों को 8 प्रमुख वर्गों में विभाजित किया है:\n\n1. **जलोढ़ मिट्टी (Alluvial Soil - लगभग 43% क्षेत्रफल):**\n   • भारत के विशाल उत्तरी मैदान और तटीय डेल्टाई क्षेत्रों में पाई जाती है।\n   • पोटाश, चूना और फास्फोरिक एसिड से समृद्ध, किंतु नाइट्रोजन और ह्यूमस की कमी होती है।\n   • दो उप-प्रकार: **खादर** (नवीन जलोढ़ - बाढ़ के मैदानों में प्रतिवर्ष नवीनीकृत, अत्यधिक उपजाऊ) तथा **बांगर** (पुरातन जलोढ़ - कंकड़ युक्त, बाढ़ स्तर से ऊपर)।\n\n2. **काली मिट्टी (Black Soil / Regur Soil - 15% क्षेत्रफल):**\n   • दक्कन के लावा पठार (महाराष्ट्र, गुजरात, म.प्र., कर्नाटक) में बेसाल्ट चट्टानों के अपक्षय से निर्मित।\n   • टाइटेनीफेरस मैग्नेटाइट और जीवांश के कारण काला रंग।\n   • इसमें जल धारण क्षमता अत्यधिक होती है। सूखने पर गहरी दरारें पड़ जाती हैं, अतः इसे **'स्वतः जुताई वाली मिट्टी'** (Self-ploughing Soil) कहते हैं।\n   • कपास (Cotton) की खेती हेतु सर्वोत्तम होने के कारण इसे 'कपास मृदा' या 'उष्णकटिबंधीय चेरनोजम' भी कहते हैं।\n\n3. **लाल एवं पीली मिट्टी (Red & Yellow Soil - 18% क्षेत्रफल):**\n   • कम वर्षा वाले क्रिस्टलीय आग्नेय शैलों (ग्रेनाइट व नीस) के क्षेत्र में पाई जाती है। फेरिक ऑक्साइड की उपस्थिति के कारण लाल रंग तथा जलयोजित होने पर पीली दिखती है।\n\n4. **लैटेराइट मिट्टी (Laterite Soil):**\n   • 200 सेमी से अधिक वर्षा तथा उच्च तापमान वाले क्षेत्रों (पश्चिमी घाट, मेघालय पठार) में तीव्र निक्षालन (Leaching) की प्रक्रिया से निर्मित।\n   • ईंट जैसी कठोर हो जाती है। काजू, चाय, कॉफी और रबर की बागवानी फसलों हेतु अत्यंत उपयुक्त।",
+          "en": "**ICAR Soil Classification Matrix:**\n- **Alluvial Soil (43%):** Most fertile; rich in potash and lime; deficient in nitrogen and humus. Khadar (new flood alluvium) vs Bangar (older calcareous alluvium).\n- **Black / Regur Soil (15%):** Derived from Deccan basalt lava; rich in titanium magnetite; high clay and moisture-retention; self-ploughing characteristics; ideal for cotton.\n- **Red & Yellow Soil (18%):** Formed over crystalline metamorphic rocks; red due to ferric oxides.\n- **Laterite Soil:** Formed under intense tropical leaching; ideal for cashew, coffee, tea."
+        }
+      },
+      {
+        "sectionId": "geo-sec-4",
+        "heading": {
+          "hi": "4. विश्व का भौतिक भूगोल: सामरिक जलडमरूमध्य एवं महासागरीय जलधाराएँ",
+          "en": "4. World Physical Geography: Strategic Straits & Ocean Currents"
+        },
+        "bodyMarkdown": {
+          "hi": "**विश्व के प्रमुख सामरिक जलडमरूमध्य (Strategic Global Straits):**\n1. **मलक्का जलडमरूमध्य (Strait of Malacca):** अंडमान सागर (हिंद महासागर) को दक्षिण चीन सागर (प्रशांत महासागर) से जोड़ता है। मलेशिया एवं इंडोनेशिया (सुमात्रा) को पृथक करता है।\n2. **होर्मुज जलडमरूमध्य (Strait of Hormuz):** फारस की खाड़ी को ओमान की खाड़ी (अरब सागर) से जोड़ता है। ईरान को ओमान/UAE से अलग करता है — विश्व का सबसे महत्वपूर्ण तेल चोक-पॉइंट।\n3. **बाब-अल-मंदेब (Bab-el-Mandeb - आंसुओं का द्वार):** लाल सागर को अदन की खाड़ी से जोड़ता है। यमन (एशिया) को जिबूती/इरिट्रिया (अफ्रीका) से पृथक करता है। स्वेज नहर का दक्षिणी प्रवेश द्वार।\n4. **जिब्राल्टर जलडमरूमध्य (Strait of Gibraltar - भूमध्य सागर की कुंजी):** अटलांटिक महासागर को भूमध्य सागर से जोड़ता है। स्पेन (यूरोप) को मोरक्को (अफ्रीका) से अलग करता है।\n5. **बॉस्फोरस एवं डार्डेनेल्स जलडमरूमध्य:** काला सागर को मरमरा सागर तथा एजियन सागर से जोड़ते हैं (तुर्किए)।\n6. **पाक जलडमरूमध्य (Palk Strait):** मन्नार की खाड़ी एवं बंगाल की खाड़ी को जोड़ता है; भारत (तमिलनाडु) को श्रीलंका से पृथक करता है।\n\n**महासागरीय जलधाराएँ (Ocean Currents):**\n• **गर्म जलधाराएँ (Warm Currents):** गल्फ स्ट्रीम (उत्तरी अटलांटिक की सबसे शक्तिशाली गर्म धारा - यूरोप का कम्बल कहलाती है), क्यूरोशियो (उत्तरी प्रशांत), ब्राजील धारा, मोजाम्बिक धारा।\n• **ठंडी जलधाराएँ (Cold Currents):** लैब्राडोर धारा (कनाडा), कैनरी धारा (उ. अटलांटिक), हम्बोल्ट / पेरू धारा (द. प्रशांत - एल नीनो का प्रभाव), बेंगुएला धारा (द. अटलांटिक), कैलिफोर्निया धारा, ओयाशियो (क्यूराइल धारा)।\n*नोट:* जहां गर्म और ठंडी जलधाराएं मिलती हैं (जैसे न्यूफाउंडलैंड के पास गल्फ स्ट्रीम + लैब्राडोर), वहां घना कोहरा बनता है और प्लैंकटन की प्रचुरता के कारण विश्व के सर्वोत्तम मत्स्यन क्षेत्र (Grand Banks) विकसित होते हैं।",
+          "en": "**Strategic Choke-points & Straits:**\n- Malacca Strait: Links Andaman Sea & South China Sea (Sumatra-Malaysia).\n- Hormuz Strait: Links Persian Gulf & Gulf of Oman (vital oil artery).\n- Bab-el-Mandeb: Links Red Sea & Gulf of Aden (Southern mouth of Suez).\n- Gibraltar: Links Atlantic Ocean & Mediterranean Sea (Key to Mediterranean).\n- Palk Strait: Links Gulf of Mannar & Bay of Bengal (India-Sri Lanka).\n\n**Ocean Currents:**\n- Warm: Gulf Stream (Europe's blanket), Kuroshio, Brazil, Mozambique.\n- Cold: Labrador, Humboldt/Peru (El Niño origin), Benguela, Canaries, Oyashio.\n- Mixing zones (e.g., Grand Banks near Newfoundland) foster rich plankton growth and world-class fisheries."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश का संपूर्ण मैदानी भाग गंगा-यमुना दोआब एवं मध्य गंगा मैदान का हिस्सा है। गंगा नदी उत्तर प्रदेश के बिजनौर जिले से प्रवेश करती है और बलिया जिले से बिहार में प्रवेश करती है। गोमती नदी एकमात्र ऐसी प्रमुख नदी है जो हिमालय से नहीं, बल्कि पीलीभीत जिले के माधोटांडा के पास गोमत ताल (फुलहर झील) से निकलकर गाजीपुर के पास गंगा में मिलती है।",
+      "en": "Uttar Pradesh occupies the core Middle Ganga Plain. Ganga enters UP in Bijnor district and exits from Ballia into Bihar. River Gomti is unique as it originates not from Himalayas but from the plains at Fulhar Lake (Gomat Taal) in Pilibhit."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "इंदिरा प्वाइंट (पिग्मेलियन प्वाइंट)",
+          "en": "Indira Point (Pygmalion Point)"
+        },
+        "explanation": {
+          "hi": "भारत का सबसे दक्षिणी बिंदु (6°4' N अक्षांश), जो ग्रेट निकोबार द्वीप में स्थित है। मुख्य भूमि का दक्षिणी बिंदु कन्याकुमारी (8°4' N) है।",
+          "en": "Southernmost point of India (6°4' N) located in Great Nicobar Island."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "भारतीय मानक समय रेखा (82°30' E)",
+          "en": "Indian Standard Meridian (82°30' E)"
+        },
+        "explanation": {
+          "hi": "प्रयागराज के निकट मिर्जापुर/नैनी से गुजरती है। यह 5 राज्यों (UP, MP, छत्तीसगढ़, ओडिशा, आंध्र प्रदेश) से होकर गुजरती है और GMT से 5 घंटे 30 मिनट आगे है।",
+          "en": "Passes through Mirjapur/Naini (UP) and cuts across 5 states; IST is GMT +5:30."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "कर्क रेखा (23°30' N)",
+          "en": "Tropic of Cancer (23°30' N)"
+        },
+        "explanation": {
+          "hi": "भारत के 8 राज्यों से गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम। (उत्तर प्रदेश से नहीं गुजरती!)",
+          "en": "Cuts across 8 states: GJ, RJ, MP, CG, JH, WB, TR, MZ. (Does NOT pass through UP!)"
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "10 डिग्री चैनल (10° Channel)",
+          "en": "10 Degree Channel"
+        },
+        "explanation": {
+          "hi": "अंडमान द्वीप समूह (लिटिल अंडमान) को निकोबार द्वीप समूह (कार निकोबार) से अलग करता है।",
+          "en": "Separates Andaman Islands (Little Andaman) from Nicobar Islands (Car Nicobar)."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "प्रयाग / नदी संगम",
+        "नदियों का मिलन",
+        "प्रमुख बांध / जलप्रपात",
+        "संबंधित नदी",
+        "राज्य"
+      ],
+      "rows": [
+        [
+          "देवप्रयाग",
+          "भागीरथी + अलकनंदा (गंगा का जन्म)",
+          "टिहरी बांध (भारत का सबसे ऊंचा 260.5 मी)",
+          "भागीरथी नदी",
+          "उत्तराखंड"
+        ],
+        [
+          "रुद्रप्रयाग",
+          "मंदाकिनी + अलकनंदा",
+          "कोटेश्वर जलविद्युत परियोजना",
+          "भागीरथी नदी",
+          "उत्तराखंड"
+        ],
+        [
+          "कर्णप्रयाग",
+          "पिंडर + अलकनंदा",
+          "भाखड़ा-नांगल बांध",
+          "सतलुज नदी",
+          "हिमाचल प्रदेश / पंजाब"
+        ],
+        [
+          "विष्णुप्रयाग",
+          "धौलीगंगा + अलकनंदा",
+          "सरदार सरोवर बांध",
+          "नर्मदा नदी",
+          "गुजरात"
+        ],
+        [
+          "प्रयागराज संगम",
+          "गंगा + यमुना + (अदृश्य सरस्वती)",
+          "हीराकुंड बांध (विश्व का सबसे लंबा मिट्टी बांध)",
+          "महानदी",
+          "ओडिशा"
+        ],
+        [
+          "शिवसमुद्रम जलप्रपात",
+          "कावेरी नदी (कर्नाटक)",
+          "नागार्जुन सागर बांध",
+          "कृष्णा नदी",
+          "आंध्र प्रदेश / तेलंगाना"
+        ],
+        [
+          "धुआंधार जलप्रपात",
+          "नर्मदा नदी (जबलपुर, म.प्र.)",
+          "माताटीला बांध (रानी लक्ष्मीबाई सागर)",
+          "बेतवा नदी",
+          "ललितपुर (उत्तर प्रदेश)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tut-economy-agriculture",
+    "stage": "PRELIMS",
+    "paper": "PRE_PAPER_1_GS",
+    "moduleTitle": {
+      "hi": "खंड 4: भारतीय अर्थव्यवस्था एवं कृषि (Indian Economy & Agriculture)",
+      "en": "Module 4: Indian Economy & Agriculture"
+    },
+    "chapterNumber": "अध्याय 4.1",
+    "title": {
+      "hi": "राष्ट्रीय आय, मौद्रिक नीति (RBI), बजट, कर प्रणाली एवं भारतीय कृषि तंत्र",
+      "en": "National Income, Monetary Policy (RBI), Budgeting, Taxation & Agrarian System"
+    },
+    "subtitle": {
+      "hi": "GDP/GNP सूत्र, रेपो/रिवर्स रेपो, राजकोषीय घाटा, GST, फसल ऋतुएं (खरीफ/रबी/जायद), MSP निर्धारण एवं कृषि क्रांतियां",
+      "en": "GDP/NNP Formulas, Repo/CRR, Fiscal Deficit, GST, Cropping Seasons, MSP & Green Revolution"
+    },
+    "estimatedStudyTimeMinutes": 55,
+    "weightageQuestions": "16-20 प्रश्न (प्रारंभिक परीक्षा प्रश्नपत्र-1)",
+    "importance": "VERY_HIGH",
+    "learningObjectives": [
+      {
+        "hi": "GDP, GNP, NNP एवं राष्ट्रीय आय की गणना में कारक लागत (Factor Cost) व बाजार मूल्य (Market Price) का अंतर।",
+        "en": "Master GDP, GNP, NNP formulas and differentiate Factor Cost vs Market Price."
+      },
+      {
+        "hi": "RBI के परिमाणात्मक उपकरणों (रेपो रेट, CRR, SLR, SDF) द्वारा मुद्रास्फीति व तरलता नियंत्रण की कार्यप्रणाली।",
+        "en": "Understand RBI monetary tools (Repo, CRR, SLR, SDF) and inflation targeting."
+      },
+      {
+        "hi": "राजकोषीय घाटा, राजस्व घाटा एवं प्राथमिक घाटे के सूत्र तथा 101वें संविधान संशोधन (GST) की संरचना।",
+        "en": "Compute fiscal, revenue, primary deficits and structure of GST Council (Art 279A)."
+      },
+      {
+        "hi": "खरीफ, रबी, जायद फसलों की बुवाई-कटाई चक्र, CACP द्वारा MSP निर्धारण सूत्र (A2+FL, C2) एवं कृषि क्रांतियां।",
+        "en": "Classify cropping seasons, MSP calculation formulas and agricultural revolutions."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "eco-sec-1",
+        "heading": {
+          "hi": "1. राष्ट्रीय आय की अवधारणाएं एवं मुद्रास्फीति मापन",
+          "en": "1. National Income Metrics & Inflation Measurement"
+        },
+        "bodyMarkdown": {
+          "hi": "**राष्ट्रीय आय समुच्चय (National Income Aggregates):**\n1. **सकल घरेलू उत्पाद (GDP):** किसी देश की घरेलू भौगोलिक सीमा के भीतर एक वित्तीय वर्ष में उत्पादित सभी अंतिम वस्तुओं एवं सेवाओं का कुल मौद्रिक मूल्य।\n2. **सकल राष्ट्रीय उत्पाद (GNP):** देश के नागरिकों द्वारा उत्पादित कुल मूल्य।\n   $$\\text{GNP} = \\text{GDP} + \\text{NFIA (विदेशों से शुद्ध साधन आय)}$$\n3. **शुद्ध राष्ट्रीय उत्पाद (NNP):**\n   $$\\text{NNP} = \\text{GNP} - \\text{मूल्यह्रास (Depreciation)}$$\n   *नोट:* **साधन लागत पर शुद्ध राष्ट्रीय उत्पाद (NNP at Factor Cost) को ही आधिकारिक रूप से देश की 'राष्ट्रीय आय' (National Income) कहा जाता है।**\n4. **वास्तविक GDP बनाम नाममात्र GDP:**\n   • **Nominal GDP:** चालू वर्ष के प्रचलित बाजार मूल्यों पर गणना।\n   • **Real GDP:** किसी निश्चित आधार वर्ष (वर्तमान में 2011-12) के स्थिर मूल्यों पर गणना। यह मुद्रास्फीति के प्रभाव को हटाकर वास्तविक उत्पादन वृद्धि दर्शाती है।\n   • **GDP Deflator** = $(\\text{Nominal GDP} / \\text{Real GDP}) \\times 100$\n\n**मुद्रास्फीति सूचकांक (CPI vs WPI):**\n• **थोक मूल्य सूचकांक (WPI):** वाणिज्य एवं उद्योग मंत्रालय द्वारा जारी; आधार वर्ष 2011-12; इसमें केवल **वस्तुएं (Goods)** शामिल हैं, सेवाएं नहीं!\n• **उपभोक्ता मूल्य सूचकांक (CPI संयुक्त):** NSO (सांख्यिकी मंत्रालय) द्वारा जारी; आधार वर्ष 2012; इसमें वस्तुएं और **सेवाएं (Services)** दोनों शामिल हैं। उर्जित पटेल समिति की सिफारिश पर RBI अपनी मौद्रिक नीति हेतु CPI (लक्ष्य: $4\\% \\pm 2\\%$) का उपयोग करता है।",
+          "en": "**National Income Framework:**\n- GDP: Monetary value of final goods & services within domestic boundary in a financial year.\n- GNP = GDP + Net Factor Income from Abroad (NFIA).\n- NNP = GNP - Depreciation.\n- **National Income = NNP at Factor Cost.**\n- Nominal vs Real GDP: Real GDP adjusts for inflation using constant base year (2011-12) prices.\n- CPI vs WPI: WPI covers goods only; CPI covers goods + services. RBI uses CPI Headline inflation targeting (4% +/- 2%)."
+        },
+        "examTrapWarning": {
+          "hi": "याद रखें: WPI में विनिर्मित उत्पाद (Manufactured Products) का भारांक (64.23%) सर्वाधिक होता है, जबकि CPI में 'खाद्य एवं पेय पदार्थ' (Food & Beverages - 45.86%) का भारांक सर्वाधिक होता है।",
+          "en": "Examiner Trap: Manufactured goods hold highest weight in WPI (64.23%), while Food & Beverages hold highest weight in CPI (45.86%)."
+        }
+      },
+      {
+        "sectionId": "eco-sec-2",
+        "heading": {
+          "hi": "2. भारतीय रिजर्व बैंक (RBI) एवं मौद्रिक नीति उपकरण",
+          "en": "2. Reserve Bank of India & Monetary Policy Transmission"
+        },
+        "bodyMarkdown": {
+          "hi": "**भारतीय रिजर्व बैंक की स्थापना एवं संरचना:**\n• हिल्टन यंग आयोग (1926) की संस्तुति पर **RBI अधिनियम 1934** के तहत 1 अप्रैल 1935 को स्थापना (आरंभिक मुख्यालय कोलकाता, 1937 में मुंबई)। 1 जनवरी 1949 को राष्ट्रीयकरण।\n• प्रथम गवर्नर: सर ओसबोर्न स्मिथ; प्रथम भारतीय गवर्नर: सी.डी. देशमुख।\n\n**परिमाणात्मक मौद्रिक उपकरण (Quantitative Tools):**\n1. **रेपो दर (Repo Rate):** वह अल्पकालिक ब्याज दर जिस पर वाणिज्यिक बैंक सरकारी प्रतिभूतियां गिरवी रखकर RBI से नकदी उधार लेते हैं। महंगाई बढ़ने पर RBI रेपो दर बढ़ाता है, जिससे बैंक ऋण महंगे होते हैं और बाजार में तरलता घटती है।\n2. **स्थायी जमा सुविधा (SDF):** वह दर जिस पर RBI बैंकों से बिना किसी कोलैटरल (प्रतिभूति) के तरलता अवशोषित करता है (यह रिवर्स रेपो का स्थान ले चुकी है)।\n3. **नकद आरक्षित अनुपात (CRR):** वाणिज्यिक बैंकों को अपनी कुल जमा (NDTL) का एक निश्चित प्रतिशत नकद रूप में RBI के पास अनिवार्यतः रखना होता है। इस पर RBI कोई ब्याज नहीं देता।\n4. **वैधानिक तरलता अनुपात (SLR):** बैंकों को अपनी NDTL का एक निश्चित हिस्सा तरल परिसंपत्तियों (स्वर्ण, नकदी, सरकारी प्रतिभूतियां) के रूप में स्वयं के पास रखना होता है।\n5. **खुला बाजार परिचालन (OMO):** RBI द्वारा बाजार में सरकारी प्रतिभूतियों का क्रय-विक्रय। तरलता बढ़ाने हेतु प्रतिभूतियां खरीदी जाती हैं; तरलता सोखने हेतु बेची जाती हैं।",
+          "en": "**RBI & Monetary Policy Toolkit:**\n- Established 1 April 1935 under RBI Act 1934 (Hilton Young Commission). Nationalised on 1 Jan 1949.\n- Repo Rate: Policy rate at which RBI lends short-term liquidity against government securities.\n- Standing Deposit Facility (SDF): Liquidity absorption without collateral.\n- Cash Reserve Ratio (CRR): Mandated liquid cash reserves kept with RBI (earns zero interest).\n- Statutory Liquidity Ratio (SLR): Mandated liquid assets (cash, gold, G-Secs) maintained by banks themselves.\n- Open Market Operations (OMO): Outright purchase/sale of G-Secs to regulate money supply."
+        }
+      },
+      {
+        "sectionId": "eco-sec-3",
+        "heading": {
+          "hi": "3. केंद्रीय बजट, राजकोषीय घाटा एवं GST कराधान",
+          "en": "3. Union Budget, Deficit Metrics & GST Architecture"
+        },
+        "bodyMarkdown": {
+          "hi": "**बजट घाटे के प्रकार (Deficit Formulations):**\n1. **राजस्व घाटा (Revenue Deficit):**\n   $$\\text{राजस्व घाटा} = \\text{कुल राजस्व व्यय} - \\text{कुल राजस्व प्राप्तियां}$$\n2. **राजकोषीय घाटा (Fiscal Deficit):**\n   $$\\text{राजकोषीय घाटा} = \\text{कुल व्यय} - (\\text{राजस्व प्राप्तियां} + \\text{गैर-ऋण पूंजीगत प्राप्तियां})$$\n   *तात्पर्य:* यह सरकार की कुल उधार (Borrowings) और देयताओं की आवश्यकता को दर्शाता है। FRBM अधिनियम 2003 के तहत इसे GDP के 3% तक सीमित करने का लक्ष्य रखा गया था।\n3. **प्राथमिक घाटा (Primary Deficit):**\n   $$\\text{प्राथमिक घाटा} = \\text{राजकोषीय घाटा} - \\text{ब्याज भुगतान (Interest Payments)}$$\n   यह दर्शाता है कि पिछले ऋणों के ब्याज भुगतान को छोड़कर वर्तमान वर्ष में सरकार की वित्तीय स्थिति क्या है।\n\n**वस्तु एवं सेवा कर (Goods and Services Tax - GST):**\n• **101वां संविधान संशोधन अधिनियम, 2016** (लागू: 1 जुलाई 2017)।\n• यह एक व्यापक, बहु-स्तरीय, गंतव्य-आधारित (Destination-based) अप्रत्यक्ष कर है जिसने 17 अप्रत्यक्ष करों और 23 उपकरों को समाहित किया।\n• कर स्लैब: 0%, 5%, 12%, 18%, 28%।\n• **अनुच्छेद 279A के तहत GST परिषद:** अध्यक्ष: केंद्रीय वित्त मंत्री। उपाध्यक्ष: राज्यों के वित्त मंत्रियों में से निर्वाचित। निर्णय 3/4 बहुमत से लिया जाता है (केंद्र का 1/3 मतभार, सभी राज्यों का संयुक्त 2/3 मतभार)।",
+          "en": "**Budgetary Deficit Formulations:**\n- Revenue Deficit = Revenue Expenditure - Revenue Receipts.\n- Fiscal Deficit = Total Expenditure - (Revenue Receipts + Non-debt Capital Receipts) = Total Government Borrowings.\n- Primary Deficit = Fiscal Deficit - Interest Payments.\n- **GST (101st Constitutional Amendment 2016):** Effective 1 July 2017. Destination-based indirect tax. GST Council created under Article 279A chaired by Union Finance Minister."
+        }
+      },
+      {
+        "sectionId": "eco-sec-4",
+        "heading": {
+          "hi": "4. भारतीय कृषि, फसल ऋतुएं, MSP एवं कृषि नीतियां",
+          "en": "4. Indian Agriculture: Cropping Seasons, MSP & Policy Framework"
+        },
+        "bodyMarkdown": {
+          "hi": "**फसल ऋतुएं (Cropping Seasons in India):**\n1. **खरीफ (Kharif):** दक्षिण-पश्चिम मानसून के साथ जून-जुलाई में बुवाई और अक्टूबर-नवंबर में कटाई।\n   • *प्रमुख फसलें:* धान (चावल), मक्का, ज्वार, बाजरा, रागी, सोयाबीन, मूंगफली, कपास, जूट, अरहर (तूर), उड़द, मूंग।\n2. **रबी (Rabi):** शीत ऋतु में अक्टूबर-दिसंबर में बुवाई और मार्च-अप्रैल में कटाई।\n   • *प्रमुख फसलें:* गेहूं, जौ, चना, मटर, सरसों, आलू, मसूर, अलसी, तोरिया।\n3. **जायद (Zaid):** रबी और खरीफ के मध्य मार्च से जून की शुष्क ग्रीष्म ऋतु में उगाई जाने वाली फसलें।\n   • *प्रमुख फसलें:* तरबूज, खरबूजा, खीरा, ककड़ी, मूंग (अल्पकालिक), पत्तेदार सब्जियां एवं चारा।\n\n**न्यूनतम समर्थन मूल्य (MSP) निर्धारण तंत्र:**\n• घोषणा: **आर्थिक मामलों की मंत्रिमंडलीय समिति (CCEA)** द्वारा वर्ष में दो बार (बुवाई से पूर्व)।\n• संस्तुति: **कृषि लागत एवं मूल्य आयोग (CACP - स्थापना 1965)** द्वारा।\n• कुल 22 अनिवार्य फसलों (7 अनाज, 5 दलहन, 7 तिलहन, 3 वाणिज्यिक) हेतु MSP तथा गन्ने हेतु 'उचित एवं लाभकारी मूल्य' (FRP) घोषित होता है।\n• **लागत फार्मूले:** \n  - $A_2$: बीज, खाद, कीटनाशक, मजदूरी, ईंधन पर प्रत्यक्ष नकद खर्च।\n  - $A_2 + FL$: प्रत्यक्ष खर्च + पारिवारिक श्रम का आकलित मूल्य। वर्तमान में सरकार $A_2 + FL$ लागत पर कम से कम 50% लाभ जोड़कर MSP तय करती है।\n  - $C_2$: व्यापक लागत (Comprehensive Cost - भूमि का किराया + पूंजी पर ब्याज भी शामिल)। स्वामीनाथन आयोग ने $C_2 + 50\\%$ की संस्तुति की थी।",
+          "en": "**Cropping Seasons & Crops:**\n- Kharif (Monsoon: Jun-Nov): Rice, Maize, Jowar, Bajra, Soybean, Groundnut, Cotton, Jute.\n- Rabi (Winter: Oct-Apr): Wheat, Barley, Gram, Mustard, Potato, Lentils.\n- Zaid (Summer: Mar-Jun): Watermelon, Cucumber, Summer vegetables.\n\n**Minimum Support Price (MSP) Mechanism:**\n- Recommended by Commission for Agricultural Costs & Prices (CACP, estd. 1965).\n- Approved by Cabinet Committee on Economic Affairs (CCEA).\n- Announced for 22 mandated crops + Fair & Remunerative Price (FRP) for Sugarcane.\n- Formulas: A2 (direct paid-out cost), A2+FL (direct cost + imputed family labour), C2 (comprehensive cost including land rent)."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश भारत में कुल खाद्यान्न उत्पादन (Foodgrains), गेहूं (Wheat), गन्ना (Sugarcane), आलू (Potato) और दुग्ध (Milk) उत्पादन में देश में **प्रथम स्थान** पर है। राज्य को **9 कृषि-जलवायु क्षेत्रों (Agro-Climatic Zones)** में विभाजित किया गया है। उत्तर प्रदेश में जोत का औसत आकार मात्र 0.73 हेक्टेयर है तथा 80% से अधिक कृषक सीमांत (< 1 हेक्टेयर) श्रेणी में आते हैं।",
+      "en": "Uttar Pradesh ranks FIRST in India in total foodgrain production, wheat, sugarcane, potato, and milk. The state is divided into 9 Agro-Climatic Zones. Average landholding size in UP is 0.73 hectare, with >80% marginal farmers."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "हरित क्रांति (Green Revolution)",
+          "en": "Green Revolution"
+        },
+        "explanation": {
+          "hi": "भारत में जनक: डॉ. एम.एस. स्वामीनाथन (1966-67); विश्व में जनक: नॉर्मन बोरलॉग (मैक्सिकन गेहूं की बौनी किस्में - लर्मा रोजो, सोनारा 64)।",
+          "en": "Father in India: Dr. M.S. Swaminathan (1966-67); Global: Norman Borlaug (HYV dwarf wheat)."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "श्वेत क्रांति / ऑपरेशन फ्लड (White Revolution)",
+          "en": "Operation Flood (1970)"
+        },
+        "explanation": {
+          "hi": "जनक: डॉ. वर्गीज कुरियन (NDDB आनंद, गुजरात)। भारत विश्व में सर्वाधिक दूध उत्पादक देश बना (UP प्रथम)।",
+          "en": "Architect: Dr. Verghese Kurien (NDDB Anand, Gujarat); India became #1 milk producer."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "नीली क्रांति (Blue Revolution)",
+          "en": "Blue Revolution"
+        },
+        "explanation": {
+          "hi": "मत्स्य उत्पादन में तीव्र वृद्धि। जनक: डॉ. हीरालाल चौधरी एवं डॉ. अरुण कृष्णन।",
+          "en": "Aquaculture & Fish production growth; pioneered by Dr. Hiralal Chaudhuri & Dr. Arun Krishnan."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "पीएम-किसान (PM-KISAN)",
+          "en": "PM-KISAN Scheme"
+        },
+        "explanation": {
+          "hi": "24 फरवरी 2019 को गोरखपुर (UP) से शुभारंभ। प्रतिवर्ष पात्र किसान परिवारों को ₹6,000 तीन समान किस्तों (₹2000-₹2000-₹2000) में प्रत्यक्ष बैंक खाते में।",
+          "en": "Launched from Gorakhpur (UP) on 24 Feb 2019; Rs 6,000/yr in 3 installments of Rs 2,000 directly via DBT."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "कृषि क्रांति",
+        "संबंधित क्षेत्र / उत्पाद",
+        "जनक / प्रमुख व्यक्तित्व",
+        "विशेष परीक्षा तथ्य"
+      ],
+      "rows": [
+        [
+          "हरित क्रांति (Green)",
+          "खाद्यान्न (गेहूं व चावल)",
+          "डॉ. एम.एस. स्वामीनाथन (भारत), नॉर्मन बोरलॉग (विश्व)",
+          "पंजाब, हरियाणा, पश्चिमी UP में सर्वाधिक प्रभाव"
+        ],
+        [
+          "श्वेत क्रांति (White)",
+          "दुग्ध उत्पादन (Operation Flood 1970)",
+          "डॉ. वर्गीज कुरियन ('मिल्कमैन ऑफ इंडिया')",
+          "अमूल मॉडल; 26 नवंबर राष्ट्रीय दुग्ध दिवस"
+        ],
+        [
+          "पीली क्रांति (Yellow)",
+          "तिलहन उत्पादन (सरसों, सोयाबीन)",
+          "सैम पित्रोदा",
+          "तिलहन प्रौद्योगिकी मिशन (TMO 1986)"
+        ],
+        [
+          "नीली क्रांति (Blue)",
+          "मत्स्य एवं समुद्री उत्पाद",
+          "डॉ. अरुण कृष्णन व डॉ. हीरालाल चौधरी",
+          "प्रधानमंत्री मत्स्य संपदा योजना"
+        ],
+        [
+          "गोल क्रांति (Round)",
+          "आलू उत्पादन",
+          "केंद्रीय आलू अनुसंधान संस्थान (CPRI शिमला)",
+          "उत्तर प्रदेश देश में आलू उत्पादन में नंबर 1"
+        ],
+        [
+          "लाल क्रांति (Red)",
+          "टमाटर एवं मांस उत्पादन",
+          "विशाल तिवारी",
+          "प्रसंस्कृत खाद्य निर्यात में वृद्धि"
+        ],
+        [
+          "स्वर्ण क्रांति (Golden)",
+          "फल, शहद, समग्र बागवानी (Horticulture)",
+          "निरपख तुतेज",
+          "राष्ट्रीय बागवानी मिशन"
+        ],
+        [
+          "रजत क्रांति (Silver)",
+          "अंडा एवं पोल्ट्री उत्पादन",
+          "इंदिरा गांधी द्वारा प्रोत्साहन",
+          "सिल्वर फाइबर: कपास क्रांति"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tut-env-ecology-biodiversity",
+    "stage": "PRELIMS",
+    "paper": "PRE_PAPER_1_GS",
+    "moduleTitle": {
+      "hi": "खंड 5: पर्यावरण, पारिस्थितिकी एवं जैव विविधता (Ecology, Environment & Biodiversity)",
+      "en": "Module 5: Ecology, Environment & Biodiversity"
+    },
+    "chapterNumber": "अध्याय 5.1",
+    "title": {
+      "hi": "पारिस्थितिकी तंत्र, जैव विविधता तप्त स्थल, राष्ट्रीय उद्यान एवं प्रमुख पर्यावरण अधिनियम",
+      "en": "Ecosystems, Biodiversity Hotspots, Protected Areas & Environmental Legislation"
+    },
+    "subtitle": {
+      "hi": "खाद्य श्रृंखला, ऊर्जा पिरामिड, रामसर आर्द्रभूमियां, वन्यजीव संरक्षण अधिनियम 1972, प्रोजेक्ट टाइगर एवं वैश्विक जलवायु समझौते",
+      "en": "Trophic Levels, Energy Pyramids, Ramsar Sites, WPA 1972, Project Tiger & UNFCCC Accords"
+    },
+    "estimatedStudyTimeMinutes": 50,
+    "weightageQuestions": "12-16 प्रश्न (प्रारंभिक परीक्षा प्रश्नपत्र-1)",
+    "importance": "VERY_HIGH",
+    "learningObjectives": [
+      {
+        "hi": "पारिस्थितिकी तंत्र के पोषण स्तरों, खाद्य जाल एवं ऊर्जा/जीवभार पिरामिडों के व्यवहार को समझना।",
+        "en": "Master trophic dynamics, food webs, and behavior of energy and biomass pyramids."
+      },
+      {
+        "hi": "स्व-स्थाने (In-situ) व बाह्य-स्थाने (Ex-situ) संरक्षण पद्धतियों और भारत के 4 जैव विविधता हॉटस्पॉट का ज्ञान।",
+        "en": "Differentiate In-situ vs Ex-situ conservation and 4 Indian biodiversity hotspots."
+      },
+      {
+        "hi": "वन्यजीव संरक्षण अधिनियम 1972, पर्यावरण संरक्षण अधिनियम 1986 तथा प्रोजेक्ट टाइगर के प्रमुख प्रावधान।",
+        "en": "Recall Wildlife Protection Act 1972, Environment Protection Act 1986 and Project Tiger."
+      },
+      {
+        "hi": "उत्तर प्रदेश के राष्ट्रीय उद्यान, 4 टाइगर रिजर्व तथा 10 रामसर स्थलों की सटीक जिलेवार स्थिति।",
+        "en": "Map UP's Dudhwa National Park, 4 Tiger Reserves, and 10 Ramsar wetlands."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "env-sec-1",
+        "heading": {
+          "hi": "1. पारिस्थितिकी एवं पारिस्थितिक तंत्र की संरचना व कार्य",
+          "en": "1. Ecology, Ecosystem Structure & Trophic Energy Dynamics"
+        },
+        "bodyMarkdown": {
+          "hi": "**पारिभाषिक शब्दावली एवं मूल संकल्पनाएँ:**\n• **इकोलॉजी (Ecology):** शब्द का सर्वप्रथम प्रयोग जर्मन जीववैज्ञानिक **अर्न्स्ट हेकेल** ने 1866 में (ओइकोलॉजी के रूप में) किया।\n• **पारिस्थितिक तंत्र (Ecosystem):** शब्द का सर्वप्रथम प्रयोग ब्रिटिश पारिस्थितिकीविद **ए.जी. टांसले (A.G. Tansley)** ने 1935 में किया।\n• **जैव विविधता (Biodiversity):** शब्द का सर्वप्रथम प्रयोग **वाल्टर जी. रोसेन** (1985) ने किया तथा संकल्पना को लोकप्रिय ई.ओ. विल्सन ने बनाया।\n\n**खाद्य श्रृंखला एवं ऊर्जा प्रवाह (Food Chains & Energy Flow):**\n• **लिंडमैन का 10% नियम (Lindeman's 10% Law - 1942):** एक पोषण स्तर (Trophic level) से अगले उच्च पोषण स्तर तक केवल **10% ऊर्जा** ही स्थानांतरित होती है, शेष 90% ऊर्जा श्वसन व ऊष्मा के रूप में नष्ट हो जाती है।\n• **पारिस्थितिक पिरामिड (Ecological Pyramids):**\n  1. *ऊर्जा का पिरामिड (Pyramid of Energy):* **सदैव सीधा (Always Upright)** होता है, क्योंकि ऊर्जा का प्रवाह एकदिशीय (Unidirectional) होता है।\n  2. *जीवभार का पिरामिड (Pyramid of Biomass):* \n     - स्थलीय पारिस्थितिक तंत्र (वन, घास के मैदान): सीधा होता है।\n     - जलीय पारिस्थितिक तंत्र (तालाब, झील, समुद्र): **उल्टा (Inverted)** होता है (क्योंकि पादप प्लवक का बायोमास छोटी मछलियों व व्हेल की तुलना में बहुत कम होता है)।\n  3. *संख्या का पिरामिड (Pyramid of Numbers):* सामान्यतः सीधा, किंतु एक वृक्ष पारिस्थितिक तंत्र (Tree Ecosystem) में उल्टा हो सकता है।\n\n**इकोटोन एवं जैव आवर्धन (Ecotone & Biomagnification):**\n• **इकोटोन (Ecotone):** दो या दो से अधिक विविध पारिस्थितिक तंत्रों का संक्रमण क्षेत्र (जैसे मैंग्रोव वन, आर्द्रभूमि, घास के मैदान)। यहाँ प्रजाति विविधता सर्वाधिक होती है, जिसे **'कोर प्रभाव' (Edge Effect)** कहते हैं।\n• **जैव संचय (Bioaccumulation):** किसी एक जीव के शरीर में किसी अविषाक्त/विषाक्त रसायन की सांद्रता का बढ़ना।\n• **जैव आवर्धन (Biomagnification):** खाद्य श्रृंखला के निचले स्तर से उच्च स्तर (शीर्ष शिकारी जैसे बाज, मनुष्य) की ओर जाने पर गैर-अपघटनीय रसायनों (DDT, पारा, लेड) की सांद्रता में निरंतर वृद्धि।",
+          "en": "**Core Foundations of Ecology:**\n- Ernst Haeckel coined 'Ecology' (1866).\n- A.G. Tansley coined 'Ecosystem' (1935).\n- Walter G. Rosen coined 'Biodiversity' (1985).\n- **Lindeman's 10% Energy Law:** Only 10% of energy transfers to successive trophic levels; 90% is dissipated as metabolic heat.\n- **Pyramid Dynamics:** Energy pyramid is ALWAYS UPRIGHT. Biomass pyramid is INVERTED in aquatic/pond ecosystems.\n- **Ecotone & Edge Effect:** Transition zone between two biomes (e.g., mangroves) exhibiting peak species richness.\n- **Biomagnification:** Progressive concentration buildup of non-biodegradable toxins (DDT, Mercury) up trophic levels."
+        },
+        "examTrapWarning": {
+          "hi": "आयोग का सबसे प्रिय फंदा: तालाब या समुद्र के पारिस्थितिक तंत्र में जीवभार (Biomass) का पिरामिड कैसा होता है? उत्तर है: 'उल्टा (Inverted)'। कभी भी इसे सीधा न लगाएं!",
+          "en": "Examiner Trap: The pyramid of biomass in a pond or marine ecosystem is INVERTED, whereas energy pyramid is always upright!"
+        }
+      },
+      {
+        "sectionId": "env-sec-2",
+        "heading": {
+          "hi": "2. जैव विविधता संरक्षण: स्व-स्थाने (In-situ) बनाम बाह्य-स्थाने (Ex-situ)",
+          "en": "2. Biodiversity Conservation: In-situ vs Ex-situ Protocols"
+        },
+        "bodyMarkdown": {
+          "hi": "**संरक्षण विधियों का वर्गीकरण (In-situ vs Ex-situ Conservation):**\n1. **स्व-स्थाने संरक्षण (In-situ Conservation):**\n   पादपों एवं जंतुओं का उनके प्राकृतिक आवास (Natural Habitat) में ही संरक्षण करना।\n   • *उदाहरण:*\n     - **राष्ट्रीय उद्यान (National Parks):** मानव गतिविधियों (शिकार, पशु चराई, वनोपज संग्रह) पर पूर्णतः प्रतिबंध।\n     - **वन्यजीव अभयारण्य (Wildlife Sanctuaries):** कुछ सीमित मानवीय अधिकारों (जैसे पारंपरिक चराई, वनोपज) की अनुमति मुख्य वन्यजीव प्रतिपालक की अनुमति से संभव।\n     - **बायोस्फीयर रिजर्व (Biosphere Reserves):** यूनेस्को के MAB (Man and the Biosphere) कार्यक्रम के तहत। तीन क्षेत्र: कोर जोन, बफर जोन, ट्रांजिशन जोन।\n     - **पवित्र उपवन (Sacred Groves):** जनजातीय समाजों द्वारा संरक्षित वन।\n\n2. **बाह्य-स्थाने संरक्षण (Ex-situ Conservation):**\n   संकटापन्न प्रजातियों को उनके प्राकृतिक आवास से बाहर विशेष कृत्रिम परिवेश में संरक्षित करना।\n   • *उदाहरण:* प्राणी उद्यान / चिड़ियाघर (Zoological Parks), वानस्पतिक उद्यान (Botanical Gardens), जीन बैंक, बीज बैंक (Seed Banks), एक्वेरियम, **क्रायोप्रिजर्वेशन (Cryopreservation - $-196^\\circ\\text{C}$ पर द्रव नाइट्रोजन में युग्मकों व ऊतकों का संरक्षण)**।\n\n**भारत के 4 जैव विविधता तप्त स्थल (Biodiversity Hotspots):**\nसंकल्पना: नॉर्मन मायर्स (1988)। विश्व में 36 हॉटस्पॉट, जिनमें 4 भारत में स्थित हैं:\n1. **पश्चिमी घाट एवं श्रीलंका (Western Ghats):** सर्वाधिक स्थानिक प्रजातियां (Endemic species)।\n2. **पूर्वी हिमालय (Eastern Himalayas):** नेपाल, भूटान, पूर्वोत्तर भारत।\n3. **भारत-म्यांमार क्षेत्र (Indo-Burma):** असम व अंडमान को छोड़कर संपूर्ण पूर्वोत्तर।\n4. **सुंडालैंड (Sundaland):** इसमें भारत का निकोबार द्वीप समूह शामिल है।",
+          "en": "**Conservation Modalities:**\n- **In-situ (On-site):** Conservation in natural habitats -> National Parks, Wildlife Sanctuaries, Biosphere Reserves (UNESCO MAB), Sacred Groves.\n- **Ex-situ (Off-site):** Conservation outside natural ecosystems -> Botanical Gardens, Zoological Parks, Seed Banks, Cryopreservation (-196°C in liquid Nitrogen).\n- **Biodiversity Hotspots (Norman Myers 1988):** India holds 4 global hotspots:\n  1. Western Ghats\n  2. Eastern Himalayas\n  3. Indo-Burma\n  4. Sundaland (Nicobar Islands)."
+        }
+      },
+      {
+        "sectionId": "env-sec-3",
+        "heading": {
+          "hi": "3. प्रमुख पर्यावरण कानून, परियोजनाएं एवं वैश्विक सम्मेलन",
+          "en": "3. Environmental Acts, Wildlife Projects & Global Accords"
+        },
+        "bodyMarkdown": {
+          "hi": "**भारत के प्रमुख पर्यावरण अधिनियम (Chronological Order):**\n1. **वन्यजीव (संरक्षण) अधिनियम, 1972:** वन्यजीवों के शिकार व व्यापार पर रोक; राष्ट्रीय उद्यानों व अभयारण्यों की स्थापना का आधार। (2022 संशोधन द्वारा अनुसूचियों की संख्या 6 से घटाकर 4 की गई)।\n2. **जल (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1974:** केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) की स्थापना।\n3. **वन (संरक्षण) अधिनियम, 1980:** गैर-वानिकी उपयोग हेतु वनों की कटाई पर केंद्र की पूर्वानुमति अनिवार्य।\n4. **वायु (प्रदूषण निवारण एवं नियंत्रण) अधिनियम, 1981** (1987 में शोर/ध्वनि प्रदूषण को वायु प्रदूषण में शामिल किया गया)।\n5. **पर्यावरण (संरक्षण) अधिनियम, 1986 (EPA):** भोपाल गैस त्रासदी (2-3 दिसंबर 1984, मिथाइल आइसोसाइनेट गैस) की पृष्ठभूमि में पारित। इसे संविधान के अनुच्छेद 253 के तहत 'छतरी विधान' (Umbrella Legislation) कहा जाता है।\n6. **जैव विविधता अधिनियम, 2002:** राष्ट्रीय जैव विविधता प्राधिकरण (NBA - चेन्नई) की स्थापना।\n7. **राष्ट्रीय हरित अधिकरण अधिनियम, 2010 (NGT Act):** पर्यावरण मामलों के 6 माह में त्वरित निपटारे हेतु।\n\n**प्रमुख वन्यजीव संरक्षण परियोजनाएं:**\n• **प्रोजेक्ट टाइगर (Project Tiger):** 1 अप्रैल 1973 को जिम कॉर्बेट नेशनल पार्क (उत्तराखंड) से शुरू।\n• **प्रोजेक्ट एलीफेंट (Project Elephant):** 1992 (हाथी को 2010 में राष्ट्रीय विरासत पशु घोषित किया गया)।\n• **प्रोजेक्ट राइनो (गैंडा):** 1987 (असम का काजीरंगा एक सींग वाले गैंडे हेतु प्रसिद्ध)।\n• **प्रोजेक्ट स्नो लेपर्ड (हिम तेंदुआ):** 2009।",
+          "en": "**Landmark Indian Environmental Statutes:**\n1. Wildlife Protection Act, 1972 (Foundation for protected areas; streamlined to 4 schedules in 2022 amendment).\n2. Water (Prevention & Control of Pollution) Act, 1974 (established CPCB).\n3. Forest (Conservation) Act, 1980.\n4. Air (Prevention & Control of Pollution) Act, 1981 (Noise included in 1987).\n5. Environment (Protection) Act, 1986 (Umbrella legislation passed post-Bhopal Gas Leak under Art 253).\n6. Biological Diversity Act, 2002 (National Biodiversity Authority at Chennai).\n7. National Green Tribunal (NGT) Act, 2010.\n\n**Wildlife Flagship Projects:**\n- Project Tiger: Launched 1 April 1973 (Corbett NP).\n- Project Elephant: 1992 (National Heritage Animal).\n- Project Rhino: 1987 (Kaziranga)."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश में **1 राष्ट्रीय उद्यान (दुधवा - लखीमपुर खीरी)** तथा **4 टाइगर रिजर्व** हैं: 1. दुधवा (1987), 2. पीलीभीत (2014 - TX2 अंतरराष्ट्रीय पुरस्कार विजेता), 3. अमानगढ़ (बिजनौर - कॉर्बेट का बफर), 4. रानीपुर टाइगर रिजर्व (चित्रकूट - 2022 में घोषित, बुंदेलखंड का प्रथम व भारत का 53वां टाइगर रिजर्व)। उत्तर प्रदेश में कुल **10 रामसर आर्द्रभूमि स्थल** अधिसूचित हैं।",
+      "en": "UP hosts 1 National Park (Dudhwa in Lakhimpur Kheri) and 4 Tiger Reserves: Dudhwa, Pilibhit (TX2 Award winner), Amangarh (Bijnor buffer to Corbett), and Ranipur (Chitrakoot - India's 53rd TR). UP has 10 designated Ramsar Wetland Sites."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "रामसर सम्मेलन (Ramsar Convention)",
+          "en": "Ramsar Convention (1971)"
+        },
+        "explanation": {
+          "hi": "2 फरवरी 1971 को कैस्पियन सागर तट पर ईरान के रामसर शहर में हस्ताक्षरित। 2 फरवरी को 'विश्व आर्द्रभूमि दिवस' मनाया जाता है।",
+          "en": "Signed on 2 Feb 1971 in Ramsar, Iran; 2 February observed as World Wetlands Day."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "मॉन्ट्रियल प्रोटोकॉल (1987)",
+          "en": "Montreal Protocol (1987)"
+        },
+        "explanation": {
+          "hi": "ओजोन परत को क्षीण करने वाले पदार्थों (CFCs, हैलॉन्स) के उत्पादन पर प्रतिबंध हेतु 16 सितंबर 1987 को हस्ताक्षरित (16 सितंबर = विश्व ओजोन दिवस)।",
+          "en": "Global treaty phasing out Ozone Depleting Substances (CFCs); 16 September is World Ozone Day."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "क्योटो प्रोटोकॉल (1997)",
+          "en": "Kyoto Protocol (1997)"
+        },
+        "explanation": {
+          "hi": "UNFCCC के तहत ग्रीनहाउस गैसों (GHGs - CO2, CH4, N2O, HFCs, PFCs, SF6) के उत्सर्जन में कटौती हेतु विकसित देशों पर कानूनी रूप से बाध्यकारी समझौता।",
+          "en": "Legally binding emission cuts on developed nations for 6 GHGs; established Clean Development Mechanism."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "पेरिस जलवायु समझौता (2015)",
+          "en": "Paris Agreement (COP-21, 2015)"
+        },
+        "explanation": {
+          "hi": "वैश्विक औसत तापमान वृद्धि को पूर्व-औद्योगिक स्तर से 2°C से काफी नीचे तथा 1.5°C तक सीमित रखने का वैश्विक संकल्प।",
+          "en": "Legally binding treaty to limit global warming well below 2°C, preferably 1.5°C above pre-industrial levels."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "उत्तर प्रदेश के रामसर स्थल",
+        "जिला",
+        "अधिसूचना वर्ष",
+        "प्रमुख आकर्षण / पारिस्थितिक विशेषता"
+      ],
+      "rows": [
+        [
+          "ऊपरी गंगा नदी (ब्रजघाट से नरोरा)",
+          "बुलंदशहर",
+          "2005",
+          "यूपी का पहला रामसर स्थल; गंगा डॉल्फिन व घड़ियाल"
+        ],
+        [
+          "नवाबगंज पक्षी अभयारण्य (चंद्रशेखर आजाद)",
+          "उन्नाव",
+          "2019",
+          "प्रवासी साइबेरियाई पक्षी, झील पारिस्थितिकी"
+        ],
+        [
+          "सांडी पक्षी अभयारण्य",
+          "हरदोई",
+          "2019",
+          "प्राकृतिक मीठे पानी की दलदली झील"
+        ],
+        [
+          "समसपुर पक्षी अभयारण्य",
+          "रायबरेली",
+          "2019",
+          "गंगा के बाढ़ के मैदान का आर्द्रभूमि तंत्र"
+        ],
+        [
+          "समन पक्षी अभयारण्य",
+          "मैनपुरी",
+          "2019",
+          "सारस क्रेन (Sarus Crane - UP का राजकीय पक्षी) का प्रमुख आवास"
+        ],
+        [
+          "पार्वती अरगा पक्षी अभयारण्य",
+          "गोंडा",
+          "2019",
+          "दो गोखुर झीलें (Oxbow lakes), अति संकटापन्न गिद्ध"
+        ],
+        [
+          "सरसई नावर झील",
+          "इटावा",
+          "2019",
+          "सारस क्रेन का स्थायी प्रजनन केंद्र"
+        ],
+        [
+          "सूर सरोवर (कीठम झील)",
+          "आगरा",
+          "2020",
+          "मानवनिर्मित जलाशय, भालू संरक्षण केंद्र (Bear Rescue)"
+        ],
+        [
+          "हैदरपुर वेटलैंड",
+          "बिजनौर / मुजफ्फरनगर",
+          "2021",
+          "मध्य गंगा बैराज, हस्तिनापुर वन्यजीव अभयारण्य का भाग"
+        ],
+        [
+          "बखिरा वन्यजीव अभयारण्य",
+          "संत कबीर नगर",
+          "2022",
+          "पूर्वी यूपी की सबसे बड़ी प्राकृतिक मीठे पानी की झील"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tut-history-ancient-medieval",
+    "stage": "PRELIMS",
+    "paper": "PRE_PAPER_1_GS",
+    "moduleTitle": {
+      "hi": "खंड 6: प्राचीन एवं मध्यकालीन भारतीय इतिहास (Ancient & Medieval History)",
+      "en": "Module 6: Ancient & Medieval Indian History"
+    },
+    "chapterNumber": "अध्याय 6.1",
+    "title": {
+      "hi": "सिंधु सभ्यता, 16 महाजनपद, बौद्ध-जैन संगीति, मौर्य-गुप्त साम्राज्य एवं सल्तनत-मुगल काल",
+      "en": "Indus Civilization, Mahajanapadas, Buddhist Councils, Mauryas, Guptas & Medieval Empires"
+    },
+    "subtitle": {
+      "hi": "हड़प्पा स्थल, UP के 8 महाजनपद, अशोक के अभिलेख, समुद्रगुप्त की प्रयाग प्रशस्ति, अलाउद्दीन की बाजार नीति एवं अकबर की मनसबदारी",
+      "en": "IVC Sites, 8 UP Mahajanapadas, Ashokan Edicts, Prayag Prashasti, Alauddin Reforms & Mansabdari"
+    },
+    "estimatedStudyTimeMinutes": 60,
+    "weightageQuestions": "14-18 प्रश्न (प्रारंभिक परीक्षा प्रश्नपत्र-1)",
+    "importance": "VERY_HIGH",
+    "learningObjectives": [
+      {
+        "hi": "सिंधु घाटी सभ्यता के प्रमुख नगरों (हड़प्पा, मोहनजोदड़ो, लोथल, कालीबंगन, आलमगीरपुर) की खोज व विशिष्ट अवशेष।",
+        "en": "Identify Indus Valley sites, excavations and key archaeological findings."
+      },
+      {
+        "hi": "16 महाजनपदों में से उत्तर प्रदेश में स्थित 8 महाजनपदों की राजधानियां एवं 4 बौद्ध संगीतियों का विवरण।",
+        "en": "Memorize 8 UP Mahajanapadas, capitals, and 4 Buddhist council matrices."
+      },
+      {
+        "hi": "मौर्य प्रशासन, अशोक के प्रमुख शिलालेख व स्तंभ लेख तथा गुप्त काल के सांस्कृतिक-वैज्ञानिक विकास का ज्ञान।",
+        "en": "Analyze Mauryan administration, Ashokan pillars and Gupta golden age achievements."
+      },
+      {
+        "hi": "दिल्ली सल्तनत की प्रशासनिक व्यवस्था (इक्ता, दाग-हुलिया, बाजार नियंत्रण) तथा मुगल कालीन मनसबदारी व भू-राजस्व प्रणाली।",
+        "en": "Trace Delhi Sultanate institutional systems and Mughal Mansabdari/Dahsala land revenue."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "hist-sec-1",
+        "heading": {
+          "hi": "1. सिंधु घाटी सभ्यता एवं वैदिक सभ्यता की महत्वपूर्ण विशेषताएं",
+          "en": "1. Indus Valley Civilization & Vedic Cultural Evolution"
+        },
+        "bodyMarkdown": {
+          "hi": "**सिंधु घाटी सभ्यता (हड़प्पा सभ्यता - 2500 ई.पू. से 1750 ई.पू.):**\n• यह आद्य-ऐतिहासिक (Proto-historic) एवं कांस्य-युगीन (Bronze Age) सभ्यता थी।\n• **नगर नियोजन:** ग्रिड पद्धति (Grid Pattern) पर आधारित सड़कें एक-दूसरे को समकोण पर काटती थीं; पकी ईंटों के दो-मंजिला मकान; ढकी हुई भूमिगत जल निकासी प्रणाली।\n• **प्रमुख पुरातात्विक स्थल एवं प्राप्त अवशेष:**\n  1. *हड़प्पा (1921 - दयाराम साहनी, रावी नदी, पंजाब-पाक):* 6-6 की दो पंक्तियों में 12 अन्नागार, आर-37 कब्रिस्तान, शंख का बना बैल।\n  2. *मोहनजोदड़ो (1922 - राखालदास बनर्जी, सिंधु नदी, सिंध-पाक):* विशाल स्नानागार (Great Bath), विशाल अन्नागार, नर्तकी की कांस्य मूर्ति (Bronze Dancing Girl), पशुपति शिव की मुहर, दाढ़ी वाले साधु की प्रस्तर मूर्ति।\n  3. *लोथल (एस.आर. राव, भोगवा नदी, गुजरात):* **गोदीवाड़ा (Dockyard - प्राचीनतम बंदरगाह)**, युगल शवाधान (Double burial), चावल की भूसी के साक्ष्य, मनके बनाने का कारखाना।\n  4. *कालीबंगन (अमलानंद घोष / बी.बी. लाल, घग्घर नदी, राजस्थान):* **जुते हुए खेत के साक्ष्य (Ploughed field)**, अग्निकुंड/हवन कुंड, अलंकृत ईंटें।\n  5. *धोलावीरा (आर.एस. बिष्ट, कच्छ-गुजरात):* त्रि-स्तरीय नगर नियोजन (दुर्ग, मध्यम नगर, निचला नगर), शैलकृत जल संचयन प्रणाली (Water Reservoirs), खेल का मैदान (स्टेडियम)।\n  6. *आलमगीरपुर (यज्ञदत्त शर्मा, हिंडन नदी, मेरठ, UP):* **सिंधु सभ्यता का सबसे पूर्वी स्थल (Easternmost Boundary)**।\n\n**ऋग्वैदिक काल बनाम उत्तर वैदिक काल:**\n• ऋग्वेद में 10 मंडल, 1028 सूक्त हैं। तीसरे मंडल में गायत्री मंत्र (सूर्य देव सविता को समर्पित, विश्वामित्र द्वारा रचित); 10वें मंडल के पुरुष सूक्त में चारों वर्णों (ब्राह्मण, क्षत्रिय, वैश्य, शूद्र) की उत्पत्ति का प्रथम उल्लेख।\n• **लोहे की खोज (Iron Age):** उत्तर प्रदेश के **एटा जिले के अतरंजीखेड़ा** से लगभग 1000 ईसा पूर्व लोहे के प्राचीनतम साक्ष्य प्राप्त हुए, जिसने कृषि क्रांति एवं महाजनपदों के उदय का मार्ग प्रशस्त किया।",
+          "en": "**Indus Valley Civilization Landmarks:**\n- Bronze Age urban civilization on grid layout with underground drainage.\n- Harappa (Dayaram Sahni 1921, Ravi river): Granaries, cemetery R-37.\n- Mohenjodaro (RD Banerji 1922, Indus river): Great Bath, Bronze Dancing Girl, Pashupati seal.\n- Lothal (Bhogava river, Gujarat): World's earliest tidal Dockyard, double burials.\n- Kalibangan (Ghaggar river, Rajasthan): Ploughed agricultural field, fire altars.\n- Dholavira (Kutch): 3-tier city division, colossal stone-cut water reservoirs.\n- Alamgirpur (Hindon river, Meerut, UP): Easternmost outpost of IVC.\n- Vedic Horizon: Iron discovered at Atranjikhera (Etah, UP) c. 1000 BCE, ushering in Second Urbanization."
+        }
+      },
+      {
+        "sectionId": "hist-sec-2",
+        "heading": {
+          "hi": "2. 16 महाजनपद (UP के 8 जनपद), बौद्ध एवं जैन धर्म",
+          "en": "2. 16 Mahajanapadas (8 in UP), Buddhism & Jainism Councils"
+        },
+        "bodyMarkdown": {
+          "hi": "**16 महाजनपद (6ठी शताब्दी ईसा पूर्व):**\nबौद्ध ग्रंथ 'अंगुत्तर निकाय' एवं जैन ग्रंथ 'भगवती सूत्र' में 16 महाजनपदों का उल्लेख मिलता है। इनमें से **8 महाजनपद वर्तमान उत्तर प्रदेश** में स्थित थे:\n1. **काशी:** राजधानी वाराणसी।\n2. **कोशल:** राजधानी अयोध्या / श्रावस्ती (राप्ती नदी तट पर; भगवान बुद्ध ने सर्वाधिक उपदेश यहीं दिए)।\n3. **वत्स:** राजधानी कौशाम्बी (यमुना नदी तट पर; वत्सराज उदयन प्रसिद्ध शासक)।\n4. **मल्ल:** राजधानी कुशीनगर व पावापुरी (गणतंत्रात्मक राज्य; बुद्ध व महावीर दोनों का महापरिनिर्वाण यहीं हुआ)।\n5. **पांचाल:** उत्तरी पांचाल की अहिच्छत्र (बरेली) व दक्षिणी पांचाल की काम्पिल्य (फर्रुखाबाद)।\n6. **शूरसेन:** राजधानी मथुरा (यदुवंशी शासक)।\n7. **कुरु:** राजधानी इंद्रप्रस्थ (मेरठ, दिल्ली, थानेश्वर क्षेत्र)।\n8. **चेदि:** राजधानी शुक्तिमती / सोथिवती (बुंदेलखंड क्षेत्र; महाभारत कालीन शिशुपाल)।\n\n**बौद्ध धर्म एवं 4 बौद्ध संगीतियाँ:**\nगौतम बुद्ध का जन्म 563 ई.पू. में लुंबिनी (नेपाल) में हुआ। बोधगया में निरंजना नदी तट पर पीपल वृक्ष के नीचे ज्ञान (बोधि) प्राप्त हुआ। प्रथम उपदेश सारनाथ (ऋषिपत्तन, वाराणसी) में दिया, जिसे **'धर्मचक्रप्रवर्तन'** कहा जाता है। महापरिनिर्वाण 483 ई.पू. में कुशीनगर में हुआ।",
+          "en": "**The 8 UP Mahajanapadas:**\n1. Kashi (Varanasi)\n2. Kosala (Ayodhya/Sravasti)\n3. Vatsa (Kaushambi)\n4. Malla (Kushinagar/Pava - Republic)\n5. Panchala (Ahichchhatra & Kampilya)\n6. Shurasena (Mathura)\n7. Kuru (Indraprastha)\n8. Chedi (Shuktimati in Bundelkhand).\n\n**Buddhism Milestone:**\nBuddha gave his first sermon (Dharmachakra Pravartana) at Sarnath near Varanasi, spent most monsoons at Sravasti, and attained Mahaparinirvana at Kushinagar."
+        }
+      },
+      {
+        "sectionId": "hist-sec-3",
+        "heading": {
+          "hi": "3. मौर्य साम्राज्य, गुप्त वंश का स्वर्ण युग एवं हर्षवर्धन",
+          "en": "3. Mauryan Empire, Gupta Golden Age & Harshavardhana"
+        },
+        "bodyMarkdown": {
+          "hi": "**मौर्य साम्राज्य (322 ई.पू. से 185 ई.पू.):**\n• चंद्रगुप्त मौर्य ने चाणक्य (विष्णुगुप्त) की सहायता से नंद वंश के धनानंद को पराजित कर मौर्य वंश की स्थापना की। सेल्यूकस निकेटर के राजदूत **मेगस्थनीज** ने 'इंडिका' लिखी, जिसमें पाटलिपुत्र नगर प्रशासन के 6 मंडलों (30 सदस्यों) का वर्णन है।\n• **सम्राट अशोक के अभिलेख:** जेम्स प्रिंसेप ने 1837 में सर्वप्रथम अशोक के ब्राह्मी लिपि के अभिलेखों को पढ़ा।\n  - *13वां वृहद शिलालेख:* कलिंग युद्ध (261 ई.पू.) के नरसंहार का वर्णन तथा भेरीघोष के स्थान पर 'धम्मघोष' अपनाने की घोषणा।\n  - *सारनाथ सिंह स्तंभ लेख (UP):* चार सिंह पीठ से पीठ सटाए खड़े हैं। नीचे अशोक चक्र में 24 तीलियां हैं (भारत का राष्ट्रीय प्रतीक)।\n\n**गुप्त काल - प्राचीन भारत का स्वर्ण युग (Gupta Golden Age):**\n• **चंद्रगुप्त प्रथम:** महाराजाधिराज की उपाधि धारण की, 319-320 ईस्वी में 'गुप्त संवत' की शुरुआत की।\n• **समुद्रगुप्त (भारत का नेपोलियन - विंसेंट स्मिथ द्वारा):** दरबारी कवि **हरिषेण द्वारा रचित 'प्रयाग प्रशस्ति'** (कौशाम्बी से लाकर इलाहाबाद किले में स्थापित स्तंभ पर चंपू काव्य शैली में उत्कीर्ण)। इसमें समुद्रगुप्त की आर्यावर्त एवं दक्षिणापथ विजय का विस्तृत वर्णन है। सिक्कों पर वीणा बजाते हुए दिखाया गया है (कविराज की उपाधि)।\n• **चंद्रगुप्त द्वितीय विक्रमादित्य:** शकों का उन्मूलन कर 'शकारि' की उपाधि ली। प्रसिद्ध चीनी यात्री **फाह्यान (Fa-Hien)** इन्हीं के समय आया। इनके दरबार में नवरत्न (कालिदास, वराहमिहिर, धन्वंतरि, अमरसिंह आदि) सुशोभित थे।\n• **हर्षवर्धन (606-647 ईस्वी):** पुष्यभूति वंश के शासक। राजधानी थानेश्वर से **कन्नौज (UP)** स्थानांतरित की। दरबारी कवि बाणभट्ट ने 'हर्षचरित' एवं 'कादंबरी' लिखी। चीनी यात्री **ह्वेनसांग (यात्रियों का राजकुमार)** इनके समय आया और नालंदा में अध्ययन किया। हर्ष कन्नौज में धार्मिक सभा तथा प्रयाग में प्रत्येक 5 वर्ष पर 'महामोक्ष परिषद' आयोजित करते थे।",
+          "en": "**Mauryas & Ashokan Inscriptions:**\n- Chandragupta Maurya founded dynasty with Chanakya (Arthashastra). Megasthenes wrote Indica.\n- James Prinsep deciphered Ashokan Brahmi edicts in 1837. 13th Rock Edict details Kalinga War (261 BCE).\n- Sarnath Lion Capital in UP adopted as National Emblem of India.\n\n**Guptas & Harshavardhana:**\n- Samudragupta (Napoleon of India): Prayag Prashasti composed by Harisena in Sanskrit Champu style at Allahabad Fort.\n- Chandragupta II Vikramaditya: Defeated Sakas; Chinese monk Fa-Hien visited; Navaratnas court (Kalidasa, Varahamihira).\n- Harshavardhana: Shifted capital to Kannauj (UP); court poet Banabhatta; Hiuen Tsang visited; organized Prayag Mahamoksha councils."
+        }
+      },
+      {
+        "sectionId": "hist-sec-4",
+        "heading": {
+          "hi": "4. दिल्ली सल्तनत एवं मुगल साम्राज्य प्रशासन",
+          "en": "4. Delhi Sultanate & Mughal Imperial Administration"
+        },
+        "bodyMarkdown": {
+          "hi": "**दिल्ली सल्तनत (1206-1526 ईस्वी):**\n1. **गुलाम वंश (1206-1290):** कुतुबुद्दीन ऐबक (लाखबख्श, कुतुबमीनार की नींव); इल्तुतमिश (वास्तविक संस्थापक, राजधानी लाहौर से दिल्ली लाया, इक्ता प्रणाली व तुर्कान-ए-चहलगानी 40 अमीरों का दल); रजिया सुल्तान (प्रथम महिला मुस्लिम शासिका); बलबन (लौह एवं रक्त नीति, सिजदा एवं पाबोस, नवरोज उत्सव)।\n2. **खिलजी वंश (1290-1320):** अलाउद्दीन खिलजी ने **दाग एवं हुलिया प्रथा** शुरू की; विशाल स्थायी सेना; **बाजार नियंत्रण एवं मूल्य निर्धारण प्रणाली** (शहना-ए-मंडी व दीवान-ए-रियासत)। अलाई दरवाजा निर्मित कराया।\n3. **तुगलक वंश (1320-1414):** \n   • मुहम्मद बिन तुगलक: सर्वाधिक शिक्षित शासक; सांकेतिक मुद्रा (Token Currency); राजधानी दिल्ली से दौलताबाद स्थानांतरण; कृषि विकास हेतु **'दीवान-ए-कोही'** विभाग की स्थापना।\n   • फिरोज शाह तुगलक: नहरों का विस्तृत जाल बनवाया; जौनपुर नगर (UP) की स्थापना अपने चचेरे भाई जौना खां (मुहम्मद बिन तुगलक) की याद में की; दीवान-ए-खैरात व दीवान-ए-बंदगान (दासों का विभाग) बनाया।\n\n**मुगल साम्राज्य (1526-1707 ईस्वी):**\n• **बाबर:** 21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में इब्राहिम लोदी को तुगलमा युद्ध नीति व तोपखाने द्वारा पराजित किया। तुर्की भाषा में 'तुजुक-ए-बाबरी' लिखी।\n• **शेरशाह सूरी (1540-1545):** ग्रांड ट्रंक रोड (सड़क-ए-आजम), चांदी का 'रुपया' (178 ग्रेन) तथा तांबे का 'दाम' चलाया; कबूलियत एवं पट्टा प्रथा।\n• **अकबर (1556-1605):** पानीपत का द्वितीय युद्ध (1556 - हेमू पराजित); 1564 में जजिया कर समाप्त; 1571 में फतेहपुर सीकरी की स्थापना; 1575 में इबादतखाना; 1579 में महजरनामा; 1582 में 'दीन-ए-इलाही'; 1580 में राजा टोडरमल द्वारा **आईन-ए-दहसाला भू-राजस्व प्रणाली** लागू; **मनसबदारी प्रणाली (जात एवं सवार)** की शुरुआत।",
+          "en": "**Delhi Sultanate Dynastic Architecture:**\n- Slave Dynasty: Iltutmish introduced Iqta system; Balban enforced Iron & Blood policy, Sijda and Paibos.\n- Khalji Dynasty: Alauddin introduced market price control, branding of horses (Dagh) and descriptive rolls (Chehra).\n- Tughlaq Dynasty: Muhammad bin Tughlaq created Diwan-i-Kohi (agriculture); Firoz Shah Tughlaq built extensive canals and founded Jaunpur (UP).\n\n**Mughal Empire:**\n- Babur: First Battle of Panipat (1526) using Tulghuma tactics and artillery.\n- Sher Shah Suri: Silver Rupee, Grand Trunk Road.\n- Akbar: Mansabdari system, Dahsala land revenue system engineered by Raja Todarmal, Din-i-Ilahi, Fatehpur Sikri."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "जौनपुर को मध्यकाल में उसकी समृद्ध इस्लामी शिक्षा, कला एवं संस्कृति के कारण **'शिराज-ए-हिंद' (Shiraz of India)** कहा जाता था। जौनपुर में शर्की सुल्तानों (मलिक सरवर, इब्राहिम शाह शर्की) द्वारा प्रसिद्ध **अटाला मस्जिद, जामी मस्जिद एवं लाल दरवाजा मस्जिद** का निर्माण कराया गया। इसके अतिरिक्त आगरा में ताजमहल, आगरा का किला तथा फतेहपुर सीकरी (बुलंद दरवाजा) यूनेस्को विश्व धरोहर स्थल हैं।",
+      "en": "Jaunpur in UP was renowned as 'Shiraz-e-Hind' for its Islamic scholarship and Sharqi architecture (Atala Masjid, Jami Masjid). Agra Fort, Taj Mahal, and Fatehpur Sikri (Buland Darwaza) are UNESCO World Heritage Sites."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "प्रयाग प्रशस्ति (Allahabad Pillar Inscription)",
+          "en": "Prayag Prashasti"
+        },
+        "explanation": {
+          "hi": "मूलतः कौशाम्बी में स्थित, जिसे अकबर ने इलाहाबाद किले में स्थापित कराया। समुद्रगुप्त के दरबारी कवि हरिषेण द्वारा संस्कृत में रचित।",
+          "en": "Inscribed by Harisena in praise of Samudragupta; moved from Kaushambi to Allahabad Fort by Akbar."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "दीवान-ए-कोही (Diwan-i-Kohi)",
+          "en": "Diwan-i-Kohi"
+        },
+        "explanation": {
+          "hi": "मुहम्मद बिन तुगलक द्वारा बंजर भूमि को कृषि योग्य बनाने एवं किसानों को तकावी ऋण देने हेतु स्थापित विशेष कृषि विभाग।",
+          "en": "Agricultural ministry established by Muhammad bin Tughlaq to provide Sondhar/Taccavi farm loans."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "मनसबदारी व्यवस्था (Mansabdari System)",
+          "en": "Mansabdari System"
+        },
+        "explanation": {
+          "hi": "अकबर द्वारा 1577 में लागू। मंगोल दशमलव प्रणाली पर आधारित। इसमें दो पद होते थे: 'जात' (व्यक्तिगत प्रतिष्ठा व वेतन) तथा 'सवार' (रखे जाने वाले घुड़सवारों की संख्या)।",
+          "en": "Military-administrative ranking system introduced by Akbar; dual ranks of Zat (status/pay) and Sawar (cavalry quota)."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "दहसाला प्रणाली (Dahsala System)",
+          "en": "Dahsala System (1580)"
+        },
+        "explanation": {
+          "hi": "अकबर के वित्त मंत्री राजा टोडरमल द्वारा 1580 में लागू भू-राजस्व व्यवस्था, जिसमें पिछले 10 वर्षों के औसत उत्पादन के आधार पर 1/3 राजस्व तय होता था।",
+          "en": "10-year average crop yield assessment system designed by Akbar's finance minister Raja Todarmal."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "बौद्ध संगीति",
+        "समय (वर्ष)",
+        "स्थान",
+        "तत्कालीन शासक",
+        "अध्यक्ष",
+        "प्रमुख ऐतिहासिक उपलब्धि"
+      ],
+      "rows": [
+        [
+          "प्रथम संगीति",
+          "483 ई.पू.",
+          "राजगृह (सप्तपर्णी गुफा)",
+          "अजातशत्रु (हर्यक वंश)",
+          "महाकस्सप",
+          "बुद्ध के उपदेशों का संकलन: सुत्तपिटक (आनंद) व विनयपिटक (उपालि)"
+        ],
+        [
+          "द्वितीय संगीति",
+          "383 ई.पू.",
+          "वैशाली",
+          "कालाशोक (शिशुनाग वंश)",
+          "सबाकामी",
+          "बौद्ध संघ का थेरावादी (स्थविर) एवं महासांघिक में प्रथम विभाजन"
+        ],
+        [
+          "तृतीय संगीति",
+          "250 ई.पू.",
+          "पाटलिपुत्र",
+          "सम्राट अशोक (मौर्य वंश)",
+          "मोग्गलिपुत्त तिस्स",
+          "तीसरे पिटक 'अभिधम्मपिटक' (दार्शनिक व्याख्या) का संकलन"
+        ],
+        [
+          "चतुर्थ संगीति",
+          "प्रथम शताब्दी",
+          "कुंडलवन (कश्मीर)",
+          "कनिष्क (कुषाण वंश)",
+          "वसुमित्र (उपाध्यक्ष: अश्वघोष)",
+          "बौद्ध धर्म का हीनयान एवं महायान शाखाओं में स्पष्ट विभाजन"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tut-mains-essay-mastery",
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "moduleTitle": {
+      "hi": "खंड 7: मुख्य परीक्षा सामान्य हिन्दी निबन्ध (Mains Hindi Essay: 120 Marks Master Guide)",
+      "en": "Module 7: Mains Hindi Essay (120 Marks Comprehensive Guide)"
+    },
+    "chapterNumber": "अध्याय 7.1",
+    "title": {
+      "hi": "UPPSC RO/ARO मुख्य परीक्षा निबन्ध लेखन: 90+ अंक प्राप्ति का अचूक वैज्ञानिक खाका",
+      "en": "Mastering UPPSC RO/ARO Mains Essay: Blueprint for 90+ Score in 120 Marks"
+    },
+    "subtitle": {
+      "hi": "3 खण्ड, 600 शब्द सीमा, 40-40 अंक के 3 निबन्ध — भूमिका, आयाम विस्तार (PESTLE), उत्तर प्रदेश विशिष्ट उदाहरण एवं निष्कर्ष",
+      "en": "3 Sections, 600 Words Each, 40 Marks x 3 Essays = 120 Marks; Structural Blueprints & Quotes"
+    },
+    "estimatedStudyTimeMinutes": 45,
+    "weightageQuestions": "120 अंक (3 निबन्ध × 40 अंक = मुख्य परीक्षा का 30% भारांक)",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "RO/ARO निबन्ध प्रश्न-पत्र के तीनों खण्डों (साहित्य/समाज, विज्ञान/अर्थव्यवस्था/कृषि, आपदा/राष्ट्रीय योजनाएं) का विश्लेषण।",
+        "en": "Decode 3 mandatory sections of RO/ARO Essay Paper (Literature, Tech/Agri, Disasters/Schemes)."
+      },
+      {
+        "hi": "600 शब्दों के निबन्ध का वैज्ञानिक विभाजन: प्रस्तावना (75 शब्द), मुख्य भाग (450 शब्द), निष्कर्ष (75 शब्द)।",
+        "en": "Structure 600-word essay: Introduction (75w), Body (450w), Conclusion (75w)."
+      },
+      {
+        "hi": "PESTLE उपागम (राजनीतिक, आर्थिक, सामाजिक, तकनीकी, विधिक, पर्यावरणीय) द्वारा बहुआयामी लेखन।",
+        "en": "Deploy PESTLE framework to guarantee multi-dimensional content coverage."
+      },
+      {
+        "hi": "उत्तर प्रदेश सरकार की प्रमुख फ्लैगशिप योजनाओं एवं प्रासंगिक सूक्तियों/श्लोकों का सटीक संयोजन।",
+        "en": "Seamlessly integrate UP flagship initiatives and high-scoring Hindi/Sanskrit quotations."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "ess-sec-1",
+        "heading": {
+          "hi": "1. RO/ARO मुख्य परीक्षा निबन्ध प्रश्न-पत्र की संरचना एवं समय प्रबंधन",
+          "en": "1. Exam Pattern, Section Demarcation & Time Allocation"
+        },
+        "bodyMarkdown": {
+          "hi": "**प्रश्न-पत्र संरचना (Total 120 Marks):**\nमुख्य परीक्षा में निबन्ध का एक स्वतंत्र 3 घंटे (180 मिनट) का प्रश्न-पत्र होता है, जिसमें कुल **3 खण्ड** होते हैं। प्रत्येक खण्ड में से 1-1 विषय चुनकर कुल **3 निबन्ध** लिखने होते हैं:\n\n1. **खण्ड 'क' (साहित्य और संस्कृति / सामाजिक क्षेत्र / राजनीतिक क्षेत्र) — 40 अंक (शब्द सीमा: 600 शब्द)**\n   • *संभावित विषय:* साहित्य समाज का दर्पण है, भारतीय संस्कृति में विविधता में एकता, भारतीय राजनीति में गठबंधन एवं शुचिता, महिला सशक्तिकरण के सामाजिक आयाम।\n2. **खण्ड 'ख' (विज्ञान, पर्यावरण एवं प्रौद्योगिकी / आर्थिक क्षेत्र / कृषि एवं व्यापार) — 40 अंक (शब्द सीमा: 600 शब्द)**\n   • *संभावित विषय:* आर्टिफिशियल इंटेलिजेंस: अवसर और चुनौतियाँ, भारत की 5 ट्रिलियन डॉलर अर्थव्यवस्था की राह, भारतीय कृषि: जलवायु संकट एवं खाद्य सुरक्षा, नवीकरणीय ऊर्जा एवं सतत विकास।\n3. **खण्ड 'ग' (राष्ट्रीय एवं अंतर्राष्ट्रीय घटनाक्रम / प्राकृतिक आपदाएं / राष्ट्रीय विकास योजनाएं) — 40 अंक (शब्द सीमा: 600 शब्द)**\n   • *संभावित विषय:* भूस्खलन एवं शहरी बाढ़: मानवजनित या प्राकृतिक, वैश्विक भू-राजनीति में भारत की बढ़ती धमक (G20 से ग्लोबल साउथ तक), विकसित भारत @2047: संकल्प और चुनौतियाँ, आत्मनिर्भर भारत अभियान।\n\n**समय प्रबंधन का स्वर्णिम सूत्र (180 मिनट):**\n• प्रत्येक निबन्ध हेतु निर्धारित समय: **60 मिनट**\n  - प्रथम 10 मिनट: विषय का चयन, विचार मंथन (Brainstorming), रफ ड्राफ्ट/माइक्रो-सिनॉप्सिस तैयार करना।\n  - अगले 45 मिनट: मुख्य निबन्ध लेखन (लगभग 500-600 शब्द, सुपाठ्य लिखावट में)।\n  - अंतिम 5 मिनट: पुनरावलोकन (Proofreading), वर्तनी व विराम-चिह्न सुधार, मुख्य कीवर्ड्स को अंडरलाइन करना।",
+          "en": "**Official Pattern (120 Marks / 3 Hours):**\nCandidates must write 3 essays (one from each section) in Hindi, 600 words each (40 marks x 3 = 120 marks):\n- **Section A:** Literature & Culture / Social Sphere / Political Sphere (40 Marks).\n- **Section B:** Science, Environment & Technology / Economic Sphere / Agriculture & Trade (40 Marks).\n- **Section C:** National & International Events / Natural Disasters / National Development Plans (40 Marks).\n- **Time Strategy:** 60 minutes per essay = 10 mins brain-storming + 45 mins drafting + 5 mins reviewing."
+        }
+      },
+      {
+        "sectionId": "ess-sec-2",
+        "heading": {
+          "hi": "2. 600 शब्दों के निबन्ध का आदर्श वैज्ञानिक खाका (The 3-Tier Blueprint)",
+          "en": "2. The 3-Tier Essay Architectural Formula (Intro-Body-Conclusion)"
+        },
+        "bodyMarkdown": {
+          "hi": "**1. प्रस्तावना / भूमिका (Introduction: 75-80 शब्द):**\n• कभी भी नीरस या घिसी-पिटी भाषा से शुरुआत न करें।\n• **आरंभ की विधियां:**\n  a) *प्रासंगिक श्लोक / काव्य पंक्ति:* (उदा. 'अंधकार है वहां जहां आदित्य नहीं है, मुर्दा है वह देश जहां साहित्य नहीं है' - साहित्य विषय पर)।\n  b) *ज्वलंत समसामयिक घटना:* किसी राष्ट्रीय/अंतरराष्ट्रीय रिपोर्ट, सूचकांक (Index) या हालिया कानून का संदर्भ।\n  c) *परिभाषा एवं विषय की प्रासंगिकता:* विषय के मूल मर्म को परिभाषित करते हुए वर्तमान समय में उसकी महत्ता को स्थापित करना।\n\n**2. मुख्य भाग (Body Paragraphs: 420-450 शब्द - PESTLE उपागम):**\nमुख्य भाग को 5 से 6 छोटे पैराग्राफों में विभाजित करें। प्रत्येक पैराग्राफ एक विशिष्ट आयाम प्रस्तुत करे:\n• **P (Political - राजनीतिक):** शासन व्यवस्था, नीति निर्माण, लोकतंत्र, जवाबदेही।\n• **E (Economic - आर्थिक):** बजट आवंटन, रोजगार, GDP वृद्धि, गरीबी उन्मूलन, लागत-लाभ।\n• **S (Social - सामाजिक):** लैंगिक समानता, वंचित वर्ग, स्वास्थ्य, शिक्षा, जीवन स्तर।\n• **T (Technological - तकनीकी):** डिजिटल गवर्नेंस, AI, ऑटोमेशन, डेटा सुरक्षा।\n• **L (Legal - विधिक):** संवैधानिक प्रावधान (अनुच्छेद), संसद द्वारा पारित अधिनियम, सर्वोच्च न्यायालय के निर्णय।\n• **E (Environmental - पर्यावरणीय):** जलवायु परिवर्तन, कार्बन उत्सर्जन, सतत विकास लक्ष्य (SDGs)।\n*नोट:* केवल समस्याएं न गिनाएं; सरकार के प्रयास (योजनाएं) एवं व्यावहारिक समाधान (Way Forward) अवश्य प्रस्तुत करें।\n\n**3. निष्कर्ष (Conclusion: 70-80 शब्द):**\n• निष्कर्ष कभी भी निराशावादी नहीं होना चाहिए।\n• भारत के संवैधानिक मूल्यों, 'अमृत काल', आत्मनिर्भर भारत तथा 'सर्वे भवन्तु सुखिनः' के उदात्त दर्शन के साथ एक भविष्योन्मुखी (Forward-looking & Visionary) अंत करें।",
+          "en": "**The 3-Tier Architecture:**\n1. **Introduction (75-80 words):** Hook the examiner with a poignant shloka, couplet, or contemporary global report context.\n2. **Body (420-450 words - PESTLE Model):** Deploy Political, Economic, Social, Technological, Legal, and Environmental dimensions across interconnected paragraphs. Always balance critique with government initiatives and constructive policy solutions.\n3. **Conclusion (70-80 words):** Positive, forward-looking, synthesizing constitutional ethics, Amrit Kaal vision 2047, and Vasudhaiva Kutumbakam."
+        }
+      },
+      {
+        "sectionId": "ess-sec-3",
+        "heading": {
+          "hi": "3. उच्च-प्राप्तांक मॉडल निबन्ध रूपरेखा: भारतीय कृषि एवं खाद्य सुरक्षा",
+          "en": "3. High-Scoring Model Essay Blueprint: Indian Agriculture & Food Security"
+        },
+        "bodyMarkdown": {
+          "hi": "**निबन्ध शीर्षक:** \"भारतीय कृषि: जलवायु परिवर्तन की चुनौतियाँ एवं खाद्य सुरक्षा का भविष्य\" (खण्ड ख)\n\n• **प्रस्तावना (Intro):** \n  *\"कृषिमूलं हि जीवनम्\"* — भारत केवल एक राष्ट्र नहीं, बल्कि एक कृषि संस्कृति है। 140 करोड़ आबादी की खाद्य सुरक्षा तथा 45% से अधिक कार्यबल की आजीविका कृषि पर निर्भर है। किंतु वर्तमान में ग्लोबल वार्मिंग, अनियमित मानसून तथा अल-नीनो के प्रभाव ने भारतीय कृषि के समक्ष अस्तित्वगत संकट खड़ा कर दिया है।\n• **आयाम 1 (चुनौतियाँ):** \n  तापमान में वृद्धि से गेहूं की उत्पादकता पर प्रतिकूल प्रभाव (Heat waves), भूजल स्तर का गिरना (पंजाब व पश्चिमी यूपी में संकट), रासायनिक खादों के अत्यधिक प्रयोग से मृदा की उर्वरता में ह्रास।\n• **आयाम 2 (सरकारी पहल):** \n  PM-KISAN द्वारा आय संबल, प्रधानमंत्री फसल बीमा योजना (PMFBY), मृदा स्वास्थ्य कार्ड योजना, नैनो यूरिया का प्रयोग, परम्परागत कृषि विकास योजना (जैविक खेती)।\n• **आयाम 3 (श्री अन्न / मिलेट्स क्रांति):** \n  मोटे अनाज (ज्वार, बाजरा, रागी) कम पानी में उगते हैं और जलवायु प्रतिरोधी हैं। अंतरराष्ट्रीय मिलेट्स वर्ष 2023 से पोषण सुरक्षा को बढ़ावा।\n• **आयाम 4 (उत्तर प्रदेश परिप्रेक्ष्य):** \n  यूपी का देश के कुल खाद्यान्न उत्पादन में 18% योगदान। 'एक जनपद एक उत्पाद' (ODOP) के तहत काला नमक चावल (सिद्धार्थनगर), आंवला (प्रतापगढ़)। बुंदेलखंड में प्राकृतिक खेती कॉरिडोर का विकास।\n• **निष्कर्ष (Conclusion):** \n  एम.एस. स्वामीनाथन का कथन — *\"यदि कृषि असफल होती है, तो देश में कुछ भी सफल नहीं हो सकता।\"* प्रौद्योगिकी (एग्री-ड्रोन, AI आधारित मौसम भविष्यवाणी) और पारंपरिक ज्ञान के संगम से ही भारत 2047 तक 'विश्व का अन्नदाता' बन सकेगा।",
+          "en": "**Model Essay Skeleton: Indian Agriculture & Climate Crisis (Section B)**\n- Intro: 'Krishimoolam Hi Jeevanam' - Agriculture sustains 1.4 billion people and 45% workforce, facing extreme climate stress.\n- Crisis Dimensions: Heatwaves lowering wheat yields, groundwater depletion in Western UP, chemical imbalance.\n- National Policy Shield: PM-KISAN, PMFBY, Soil Health Card, Nano Urea, Paramparagat Krishi.\n- Millets Revolution: Climate-resilient coarse grains ensuring nutritional security.\n- UP State Anchorage: 18% contribution to national foodgrain pool, ODOP black salt rice (Siddharthnagar), Bundelkhand organic corridor.\n- Visionary Outro: Swaminathan's dictum on agrarian primacy coupled with agri-drones and sustainable soil stewardship."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "यूपीपीएससी के निबन्ध में उत्तर प्रदेश के संदर्भों, आंकड़ों तथा योजनाओं (जैसे 'मिशन शक्ति', 'कन्या सुमंगला योजना', 'एक जनपद एक उत्पाद - ODOP', 'एक्सप्रेसवे नेटवर्क - गंगा व पूर्वांचल एक्सप्रेसवे', 'इन्वेस्टर्स समिट') को स्वाभाविक रूप से समाहित करने पर सामान्य निबन्ध की तुलना में **5 से 8 अतिरिक्त अंक** मिलते हैं।",
+      "en": "Infusing authentic UP context, state schemes (Mission Shakti, ODOP, Kanya Sumangala, Ganga Expressway) in essays awards candidates a distinctive 5-8 marks competitive edge over generic competitors."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "साहित्य पर उद्धरण",
+          "en": "Literature Quote"
+        },
+        "explanation": {
+          "hi": "साहित्य संगीत कला विहीनः साक्षात् पशुः पुच्छविषाणहीनः। (भर्तृहरि)",
+          "en": "Bhartrihari's adage highlighting life devoid of literature is akin to animal existence."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "नारी सशक्तिकरण पर उद्धरण",
+          "en": "Women Empowerment Quote"
+        },
+        "explanation": {
+          "hi": "यत्र नार्यस्तु पूज्यन्ते रमन्ते तत्र देवताः। यत्रैतास्तु न पूज्यन्ते सर्वास्तत्राफलाः क्रियाः॥ (मनुस्मृति)",
+          "en": "Where women are revered, divinity blossoms; where they are neglected, all actions become sterile."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "पर्यावरण एवं प्रकृति पर उद्धरण",
+          "en": "Environment Quote"
+        },
+        "explanation": {
+          "hi": "माता भूमिः पुत्रोऽहं पृथिव्याः। (अथर्ववेद - भूमि मेरी माता है और मैं पृथ्वी का पुत्र हूँ)",
+          "en": "Atharvaveda declaration: Earth is my mother, and I am her son."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "गांधीजी का ट्रस्टीशिप सिद्धांत",
+          "en": "Gandhian Environmentalism"
+        },
+        "explanation": {
+          "hi": "प्रकृति के पास हर व्यक्ति की आवश्यकता (Need) की पूर्ति के लिए पर्याप्त संसाधन हैं, किंतु किसी के लालच (Greed) के लिए नहीं।",
+          "en": "Nature has enough for everyone's need, but not for anyone's greed."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "निबन्ध खण्ड",
+        "विषय क्षेत्र",
+        "उच्च-प्राथमिकता संभावित विषय",
+        "महत्वपूर्ण सरकारी योजनाएं / आयोग रिपोर्ट"
+      ],
+      "rows": [
+        [
+          "खण्ड 'क' (40 अंक)",
+          "साहित्य एवं संस्कृति",
+          "भारतीय संस्कृति का वैश्विक प्रसार एवं वसुधैव कुटुम्बकम्",
+          "यूनेस्को अमूर्त सांस्कृतिक विरासत (कुंभ मेला, योग)"
+        ],
+        [
+          "खण्ड 'क' (40 अंक)",
+          "सामाजिक क्षेत्र",
+          "महिला सशक्तिकरण: आधी आबादी का संपूर्ण उत्कर्ष",
+          "मिशन शक्ति (UP), बेटी बचाओ बेटी पढ़ाओ, महिला आरक्षण अधिनियम 2023"
+        ],
+        [
+          "खण्ड 'क' (40 अंक)",
+          "राजनीतिक क्षेत्र",
+          "एक राष्ट्र, एक चुनाव: औचित्य, लाभ एवं चुनौतियां",
+          "पूर्व राष्ट्रपति रामनाथ कोविंद उच्चस्तरीय समिति रिपोर्ट"
+        ],
+        [
+          "खण्ड 'ख' (40 अंक)",
+          "विज्ञान एवं प्रौद्योगिकी",
+          "आर्टिफिशियल इंटेलिजेंस (AI): वरदान या मानवीय अस्तित्व पर संकट",
+          "राष्ट्रीय AI रणनीति (NITI आयोग), डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम 2023"
+        ],
+        [
+          "खण्ड 'ख' (40 अंक)",
+          "आर्थिक क्षेत्र",
+          "5 ट्रिलियन डॉलर अर्थव्यवस्था एवं रोजगार सृजन की राह",
+          "मेक इन इंडिया, गति शक्ति मिशन, PLI स्कीम्स, यूपी $1 Trillion विजन"
+        ],
+        [
+          "खण्ड 'ख' (40 अंक)",
+          "कृषि एवं पर्यावरण",
+          "प्राकृतिक खेती एवं श्री अन्न: खाद्य और पोषण सुरक्षा का समाधान",
+          "मिलेट्स मिशन, राष्ट्रीय सतत कृषि मिशन, PM-KISAN"
+        ],
+        [
+          "खण्ड 'ग' (40 अंक)",
+          "आपदा प्रबंधन",
+          "शहरी बाढ़ एवं भूस्खलन: अनियोजित विकास का प्रतिफल",
+          "NDMA दिशानिर्देश, जोशीमठ व वायनाड भूस्खलन केस स्टडी, स्मार्ट सिटी मिशन"
+        ],
+        [
+          "खण्ड 'ग' (40 अंक)",
+          "राष्ट्रीय विकास योजना",
+          "विकसित भारत @2047: विकसित राष्ट्र की परिकल्पना और रोडमैप",
+          "अमृत काल कार्ययोजना, पंच प्रण, राष्ट्रीय अवसंरचना पाइपलाइन (NIP)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tut-ro-aro-secretariat-rules",
+    "stage": "BOTH",
+    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "moduleTitle": {
+      "hi": "खंड 8: उत्तर प्रदेश सचिवालय कार्यविधि एवं सेवा नियमावली (Secretariat Rules & Service Dynamics)",
+      "en": "Module 8: UP Secretariat Rules & Service Dynamics"
+    },
+    "chapterNumber": "अध्याय 8.1",
+    "title": {
+      "hi": "समीक्षा अधिकारी (RO) एवं सहायक समीक्षा अधिकारी (ARO) के कार्य, पत्रावली संचलन एवं टंकण नियम",
+      "en": "Review Officer & ARO Service Dynamics, File Movement & Secretariat Procedures"
+    },
+    "subtitle": {
+      "hi": "सचिवालय पदानुक्रम, टिप्पणी लेखन (Noting), ड्राफ्टिंग (Drafting), RTI अधिनियम एवं ARO टाइपिंग/ओ-लेवल अहर्ता मानक",
+      "en": "Secretariat Hierarchy, File Noting Rules, Drafting Procedures, RTI & ARO Typing Benchmarks"
+    },
+    "estimatedStudyTimeMinutes": 40,
+    "weightageQuestions": "मुख्य परीक्षा 100 अंक ड्राफ्टिंग + सेवा साक्षात्कार एवं नियुक्ति ज्ञान",
+    "importance": "VERY_HIGH",
+    "learningObjectives": [
+      {
+        "hi": "उत्तर प्रदेश सचिवालय के प्रशासनिक पदानुक्रम एवं समीक्षा अधिकारी/सहायक समीक्षा अधिकारी के विधिक दायित्व।",
+        "en": "Understand UP Secretariat administrative hierarchy and statutory duties of RO/ARO."
+      },
+      {
+        "hi": "पत्रावली संचलन (File Movement), नेमी टिप्पणी (Routine Note) व सारगर्भित टिप्पणी (Substance Note) के नियम।",
+        "en": "Master file handling, routing, routine noting, and substantive legal noting procedures."
+      },
+      {
+        "hi": "सूचना का अधिकार (RTI Act 2005) के तहत लोक सूचना अधिकारी के रूप में समीक्षा अधिकारी की भूमिका।",
+        "en": "Navigate RTI Act 2005 timelines, exemptions under Section 8, and PIO responsibilities."
+      },
+      {
+        "hi": "ARO पद हेतु टंकण परीक्षा (25 WPM हिंदी, कृति देव 010 / मंगल इनस्क्रिप्ट) व ओ-लेवल समकक्षा के अद्यतन नियम।",
+        "en": "Verify ARO Hindi typing norms (25 WPM, Kruti Dev / Mangal) and O-Level equivalency GOs."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "sec-rules-1",
+        "heading": {
+          "hi": "1. उत्तर प्रदेश सचिवालय की प्रशासनिक संरचना एवं पदानुक्रम",
+          "en": "1. Administrative Hierarchy of UP Civil Secretariat"
+        },
+        "bodyMarkdown": {
+          "hi": "**सचिवालय का प्रशासनिक पदानुक्रम (Hierarchy of Governance):**\nउत्तर प्रदेश शासन का संपूर्ण प्रशासनिक केंद्र लखनऊ स्थित सचिवालय है। शासन में पदानुक्रम निम्नवत संचालित होता है:\n\n1. **मुख्य सचिव (Chief Secretary):** राज्य का सर्वोच्च प्रशासनिक अधिकारी व शासन का प्रमुख।\n2. **अपर मुख्य सचिव (Additional Chief Secretary - ACS)**\n3. **प्रमुख सचिव (Principal Secretary):** एक या अधिक विभागों का प्रशासनिक प्रमुख।\n4. **सचिव (Secretary) / विशेष सचिव (Special Secretary)**\n5. **संयुक्त सचिव (Joint Secretary)**\n6. **उप सचिव (Deputy Secretary)**\n7. **अनुभाग अधिकारी (Section Officer):** अनुभाग का राजपत्रित पर्यवेक्षक।\n8. **समीक्षा अधिकारी (Review Officer - RO):** अनुभाग की रीढ़। पत्रावलियों का विधिक व तथ्यात्मक परीक्षण, पूर्व दृष्टांतों की खोज, एवं टिप्पणी (Noting) प्रस्तुत करना। (वेतनमान: पे मैट्रिक्स लेवल-8, ग्रेड पे ₹4800)।\n9. **सहायक समीक्षा अधिकारी (Assistant Review Officer - ARO):** पत्रावलियों का रखरखाव, डाक डायरी, संदर्भ पंजिका संधारण, टंकण एवं समीक्षा अधिकारी को सहयोग। (वेतनमान: पे मैट्रिक्स लेवल-7, ग्रेड पे ₹4200)।",
+          "en": "**The Administrative Pyramid of UP Secretariat:**\n1. Chief Secretary (Apex bureaucratic head of state government)\n2. Additional Chief Secretary (ACS)\n3. Principal Secretary (Administrative head of departments)\n4. Secretary / Special Secretary\n5. Joint Secretary\n6. Deputy Secretary\n7. Section Officer (Gazetted supervisor of section)\n8. **Review Officer (RO):** Substantive core; examines legalities, precedent analysis, and drafts file notings (Pay Level-8, Grade Pay Rs 4800).\n9. **Assistant Review Officer (ARO):** Dossier tracking, diary maintenance, typing, and assisting RO (Pay Level-7, Grade Pay Rs 4200)."
+        }
+      },
+      {
+        "sectionId": "sec-rules-2",
+        "heading": {
+          "hi": "2. पत्रावली संचलन एवं टिप्पणी लेखन (Noting Procedure) के स्वर्णिम नियम",
+          "en": "2. File Movement, Noting Rules & Secretariat Documentation"
+        },
+        "bodyMarkdown": {
+          "hi": "**पत्रावली की संरचना (Anatomy of an Official File):**\nसचिवालय में प्रत्येक पत्रावली दो भागों में विभाजित होती है:\n1. **टिप्पणी भाग (Notes Portion):** पत्रावली के बाईं ओर। इसमें समस्या, संदर्भित नियम, शासनादेश, वित्तीय प्रभाव तथा निर्णय हेतु स्पष्ट संस्तुति लिखी जाती है।\n2. **पत्राचार भाग (Correspondence Portion):** पत्रावली के दाईं ओर। इसमें प्राप्त डाक, पत्र, साक्ष्य तथा संदर्भ दस्तावेज नत्थी किए जाते हैं।\n\n**टिप्पणी के प्रकार (Types of Notes):**\n• **नेमी टिप्पणी (Routine Note):** दैनिक सामान्य कार्यों, पत्रों को अग्रसारित करने या सामान्य सूचना मांगने हेतु लिखी गई 1-2 पंक्तियों की संक्षिप्त टिप्पणी।\n• **सारगर्भित टिप्पणी (Substantive Note):** जब किसी विषय पर नीतिगत या वित्तीय निर्णय लिया जाना हो। इसमें निम्नलिखित 4 अनिवार्य चरण होते हैं:\n  1. *प्रकरण की पृष्ठभूमि (Background of Case)*\n  2. *उठाई गई मांग या समस्या का विश्लेषण (Statement of Issue)*\n  3. *सुसंगत नियम, अधिनियम अथवा पूर्व दृष्टांत (Applicable Rules & Precedents)*\n  4. *अनुशंसा / निर्णय हेतु स्पष्ट प्रस्ताव (Specific Recommendation for Decision)*",
+          "en": "**Anatomy of a Government Dossier:**\n- Notes Portion (Left wing): Records deliberations, statutory citations, financial implications, and recommended orders.\n- Correspondence Portion (Right wing): Houses incoming dak, receipts, exhibits, and references.\n- Routine Notes: Short operational directives.\n- Substantive Notes: 4-part structured briefing: Background -> Issue Analysis -> Statutory Rules/Precedents -> Definite Recommendation for Competent Authority."
+        }
+      },
+      {
+        "sectionId": "sec-rules-3",
+        "heading": {
+          "hi": "3. सूचना का अधिकार (RTI 2005) एवं समीक्षा अधिकारी की भूमिका",
+          "en": "3. Right to Information Act, 2005 & PIO Mandate"
+        },
+        "bodyMarkdown": {
+          "hi": "**सचिवालय में RTI का क्रियान्वयन:**\nसमीक्षा अधिकारी अपने अनुभाग में जन सूचना अधिकारी (PIO) की सहायता हेतु नोडल भूमिका निभाता है:\n• **समय सीमा (Timelines):**\n  - सामान्य सूचना: आवेदन प्राप्ति के **30 दिन** के भीतर।\n  - यदि किसी व्यक्ति के जीवन एवं स्वतंत्रता (Life and Liberty) से संबंधित हो: **48 घंटे** के भीतर अनिवार्य रूप से।\n  - तृतीय पक्ष (Third Party) सूचना: 40 दिन।\n• **धारा 8 (छूट प्राप्त सूचनाएं - Exempted Information):**\n  - राष्ट्र की संप्रभुता, अखंडता एवं सुरक्षा को प्रभावित करने वाली सूचना।\n  - न्यायालय की अवमानना (Contempt of Court) करने वाली सूचना।\n  - मंत्रिमंडल के कागजात (मंत्रिपरिषद के निर्णय से पूर्व)।\n  - व्यक्तिगत निजता का अनावश्यक हनन करने वाली सूचना।",
+          "en": "**RTI Act 2005 Governance in UP Secretariat:**\n- Mandated response timeline: 30 days for general queries; 48 hours for queries concerning Life and Liberty.\n- Section 8 Exemptions: National security, sovereignty, contempt of court, Cabinet papers (pre-decision), trade secrets, invasion of privacy."
+        }
+      },
+      {
+        "sectionId": "sec-rules-4",
+        "heading": {
+          "hi": "4. ARO टंकण परीक्षा मानक एवं कंप्यूटर अहर्ता (O-Level) शासनादेश",
+          "en": "4. ARO Typing Speed Benchmarks & O-Level Equivalency GOs"
+        },
+        "bodyMarkdown": {
+          "hi": "**सहायक समीक्षा अधिकारी (ARO) टंकण परीक्षा के नियम:**\n1. **हिंदी टाइपिंग गति:** न्यूनतम **25 शब्द प्रति मिनट (WPM)** अनिवार्य।\n2. **फॉन्ट विकल्प:** आयोग कंप्यूटर पर **कृति देव 010 (Kruti Dev 010)** एवं **मंगल (Mangal Inscript)** दोनों फॉन्ट में परीक्षा आयोजित करता है। अभ्यर्थी अपनी सुविधानुसार चयन कर सकते हैं।\n3. **परीक्षा अवधि:** 5 मिनट (लगभग 125 से 150 शब्दों का गद्यांश दिया जाता है)।\n4. **अंग्रेजी टाइपिंग (वैकल्पिक/अधिमानी):** न्यूनतम 30 शब्द प्रति मिनट की गति रखने वाले अभ्यर्थी को अधिमानी अर्हता (Preference) दी जाती है।\n\n**ओ-लेवल (O-Level) एवं समकक्षा अद्यतन शासनादेश:**\nउत्तर प्रदेश शासन के कार्मिक विभाग के नवीनतम शासनादेश के अनुसार:\n• NIELIT (पूर्व DOEACC सोसाइटी) द्वारा प्रदत्त 'O' Level प्रमाण पत्र।\n• अथवा केंद्र/राज्य सरकार द्वारा मान्यता प्राप्त विश्वविद्यालय/बोर्ड/संस्थान से न्यूनतम 1 वर्ष की अवधि का कंप्यूटर डिप्लोमा (जैसे: PGDCA, BCA, MCA, B.Sc. कंप्यूटर साइंस, आदि) को ओ-लेवल के समकक्ष मान्यता दी गई है।",
+          "en": "**ARO Typing & Qualification Benchmarks:**\n- Hindi Typing Speed: Minimum 25 Words Per Minute (WPM).\n- Font Options: Kruti Dev 010 & Mangal (Inscript layout).\n- Duration: 5 minutes practical examination.\n- English Typing: 30 WPM (Preferential qualification).\n- O-Level Equivalency: NIELIT 'O' Level certificate OR 1-year recognized University diploma (PGDCA, BCA, B.Sc. Computer Science) as per official UP Personnel Department Government Orders."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश शासन का मुख्य प्रशासनिक सचिवालय लखनऊ में स्थित है। इसके प्रमुख भवन हैं: **लाल बहादुर शास्त्री भवन (एनेक्सी - मुख्यमंत्री कार्यालय)**, **विधान भवन (हजरतगंज)**, **बापू भवन (विधानसभा मार्ग)**, **योजना भवन** तथा नवनिर्मित अत्याधुनिक **लोक भवन**। समीक्षा अधिकारी इन्हीं प्रतिष्ठित भवनों में नीतियों के निर्माण में योगदान देते हैं।",
+      "en": "The Uttar Pradesh Secretariat operates from premier landmark complexes in Lucknow: Lal Bahadur Shastri Bhawan (Annexe - Chief Minister's Office), Vidhan Bhawan, Bapu Bhawan, Yojana Bhawan, and Lok Bhawan."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "समीक्षा अधिकारी ग्रेड पे",
+          "en": "RO Pay Scale"
+        },
+        "explanation": {
+          "hi": "पे मैट्रिक्स लेवल-8 (₹47,600 - ₹1,51,100), ग्रेड पे ₹4800 (राजपत्रित प्रोन्नति पद)।",
+          "en": "Pay Matrix Level-8 (GP Rs 4800); early gazetted promotional trajectory."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "सहायक समीक्षा अधिकारी ग्रेड पे",
+          "en": "ARO Pay Scale"
+        },
+        "explanation": {
+          "hi": "पे मैट्रिक्स लेवल-7 (₹44,900 - ₹1,42,400), ग्रेड पे ₹4200।",
+          "en": "Pay Matrix Level-7 (GP Rs 4200)."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "पत्रावली पर पुष्टिकरण",
+          "en": "Confirmation / Docketing"
+        },
+        "explanation": {
+          "hi": "पत्रावली पर उच्चाधिकारी द्वारा सहमति व्यक्त करते हुए हस्ताक्षर करना अथवा 'स्वीकृत' (Approved) लिखना।",
+          "en": "Formal approval docketed by competent signing officer."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "ARO हिंदी टंकण गति",
+          "en": "ARO Typing Speed"
+        },
+        "explanation": {
+          "hi": "कंप्यूटर पर न्यूनतम 25 शब्द प्रति मिनट (WPM) कृति देव 010 अथवा मंगल फॉन्ट पर।",
+          "en": "Minimum 25 WPM on Kruti Dev 010 or Mangal Inscript on computer."
+        }
+      }
+    ],
+    "masterRevisionTable": {
+      "headers": [
+        "शासकीय पदनाम (English)",
+        "मानक प्रशासनिक हिंदी पदनाम",
+        "प्रमुख पदीय दायित्व",
+        "वेतन स्तर"
+      ],
+      "rows": [
+        [
+          "Chief Secretary",
+          "मुख्य सचिव",
+          "राज्य का सर्वोच्च प्रशासनिक प्रधान, कैबिनेट सचिव",
+          "पे लेवल-17"
+        ],
+        [
+          "Principal Secretary",
+          "प्रमुख सचिव",
+          "विभाग का प्रशासनिक प्रधान, नीतिगत नियंत्रण",
+          "पे लेवल-15"
+        ],
+        [
+          "Special Secretary",
+          "विशेष सचिव",
+          "महत्वपूर्ण प्रभागों का पर्यवेक्षण",
+          "पे लेवल-13"
+        ],
+        [
+          "Section Officer",
+          "अनुभाग अधिकारी",
+          "अनुभाग का प्रत्यक्ष राजपत्रित पर्यवेक्षक",
+          "पे लेवल-10"
+        ],
+        [
+          "Review Officer (RO)",
+          "समीक्षा अधिकारी",
+          "पत्रावली परीक्षण, विधिक/शासनादेशीय समीक्षा, टिप्पणी लेखन",
+          "पे लेवल-8 (GP 4800)"
+        ],
+        [
+          "Assistant Review Officer (ARO)",
+          "सहायक समीक्षा अधिकारी",
+          "पत्रावली संधारण, डायरी, टंकण, संदर्भ संकलन",
+          "पे लेवल-7 (GP 4200)"
+        ],
+        [
+          "Private Secretary",
+          "निजी सचिव",
+          "अधिकारियों के निजी प्रभाग का प्रबंधन, डिक्टेशन",
+          "पे लेवल-8 / 10"
+        ]
+      ]
+    }
   }
 ]

@@ -415,6 +415,45 @@ export const TutorialsPage: React.FC<TutorialsPageProps> = ({ onNavigateTab, onN
             </div>
           )}
 
+          {/* Master Quick Revision Comparison Table */}
+          {activeChapter.masterRevisionTable && (
+            <div className="p-6 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-sm space-y-4">
+              <div className="flex items-center space-x-2 pb-2 border-b border-slate-100 dark:border-slate-800">
+                <Layers className="w-4 h-4 text-purple-600" />
+                <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white">
+                  {language === 'hi' ? 'त्वरित पुनरावलोकन तुलना तालिका (Master Quick Revision Table)' : 'Master Quick Revision Comparison Table'}
+                </h3>
+              </div>
+              <div className="overflow-x-auto rounded-xl border border-slate-200 dark:border-slate-800 shadow-inner">
+                <table className="w-full text-left text-xs">
+                  <thead className="bg-purple-50/80 dark:bg-purple-950/40 text-purple-900 dark:text-purple-200 font-bold border-b border-slate-200 dark:border-slate-800">
+                    <tr>
+                      {activeChapter.masterRevisionTable.headers.map((h, i) => (
+                        <th key={i} className="py-3 px-3.5 whitespace-nowrap">
+                          {h}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-slate-100 dark:divide-slate-800 text-slate-800 dark:text-slate-200">
+                    {activeChapter.masterRevisionTable.rows.map((row, rIdx) => (
+                      <tr 
+                        key={rIdx} 
+                        className={rIdx % 2 === 0 ? 'bg-white dark:bg-slate-900 hover:bg-slate-50 dark:hover:bg-slate-800/60 transition-colors' : 'bg-slate-50/50 dark:bg-slate-800/40 hover:bg-slate-50 dark:hover:bg-slate-800/60 transition-colors'}
+                      >
+                        {row.map((cell, cIdx) => (
+                          <td key={cIdx} className="py-2.5 px-3.5 align-top font-medium leading-relaxed">
+                            {cell}
+                          </td>
+                        ))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
+
           {/* Practice & PYQ Action Bar for this Chapter */}
           <div className="p-6 rounded-3xl bg-gradient-to-r from-purple-600 to-indigo-700 text-white shadow-lg flex flex-col sm:flex-row sm:items-center justify-between gap-4">
             <div>
