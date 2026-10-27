@@ -1,0 +1,157 @@
+[
+  {
+    "id": "mains-gs1-q01",
+    "paper": "GS_PAPER_1",
+    "subject": "Indian History & Culture",
+    "type": "SHORT_ANSWER",
+    "marks": 8,
+    "wordLimit": 75,
+    "question": {
+      "hi": "प्राचीन भारत में नागर शैली के मंदिर स्थापत्य की प्रमुख विशेषताओं का संक्षिप्त विवरण दीजिए।",
+      "en": "Briefly describe the salient features of Nagara style of temple architecture in ancient India."
+    },
+    "modelAnswer": {
+      "hi": "नागर शैली उत्तर भारत में विकसित प्रमुख मंदिर स्थापत्य शैली है।\nप्रमुख विशेषताएं:\n1. अधिष्ठान एवं गर्भगृह: मंदिर ऊंचे चबूतरे (जगाती) पर निर्मित होते हैं, जिसमें गर्भगृह में मुख्य देव प्रतिमा स्थापित होती है।\n2. शिखर: गर्भगृह के ऊपर रेखा-प्रसाद या लैटिना प्रकार का वक्राकार शिखर होता है, जिसके शीर्ष पर आमलक एवं कलश स्थापित होता है।\n3. मंडप व प्रदक्षिणा पथ: गर्भगृह के सम्मुख सभा मंडप तथा ढका हुआ प्रदक्षिणा पथ होता है।\nउत्तर प्रदेश में देवगढ़ (ललितपुर) का दशावतार मंदिर इसका उत्कृष्ट उदाहरण है।",
+      "en": "Nagara style is the prominent temple architecture that developed in Northern India.\nSalient Features:\n1. Plinth & Sanctum: Temples are constructed on a raised stone platform (Jagati); the sanctum sanctorum (Garbhagriha) houses the primary deity.\n2. Shikhara: Curvilinear tower (Rekha-Prasada) crowns the garbhagriha, topped by Amalaka (ribbed stone disc) and Kalasha.\n3. Mandapa & Ambulatory: Pillar halls (Mandapas) precede the sanctum with an enclosed circumambulatory path (Pradakshina-patha).\nExample: Dashavatara Temple at Deogarh (Lalitpur, UP)."
+    },
+    "structureBreakdown": {
+      "introduction": "Origin and regional spread (10 words)",
+      "coreFeatures": "Plinth, Shikhara, Mandapa, Amalaka (50 words)",
+      "example": "UP reference: Dashavatara Temple Deogarh (15 words)"
+    },
+    "examinerRubric": [
+      "Mentions Shikhara, Garbhagriha, Amalaka, and Jagati (4 marks)",
+      "Points formatted concisely within 75 words (2 marks)",
+      "UP historical example provided (2 marks)"
+    ]
+  },
+  {
+    "id": "mains-gs1-q02",
+    "paper": "GS_PAPER_1",
+    "subject": "Science and Technology",
+    "type": "LONG_ANSWER",
+    "marks": 12,
+    "wordLimit": 125,
+    "question": {
+      "hi": "भारत की बैलिस्टिक मिसाइल रक्षा प्रणाली (BMD) के दोहरे-स्तरीय सुरक्षा चक्र की विवेचना कीजिए तथा इसके रणनीतिक महत्व को स्पष्ट कीजिए।",
+      "en": "Discuss the two-tier architecture of India's Ballistic Missile Defence (BMD) system and elucidate its strategic significance."
+    },
+    "modelAnswer": {
+      "hi": "भारत का बैलिस्टिक मिसाइल रक्षा (BMD) कार्यक्रम DRDO द्वारा विकसित एक बहु-स्तरीय सुरक्षा कवच है, जो शत्रुतापूर्ण परमाणु एवं पारंपरिक मिसाइल हमलों को निष्प्रभावी करता है।\n\nद्वि-स्तरीय सुरक्षा संरचना:\n1. पृथ्वी एयर डिफेंस (PAD / प्रद्युम्न): यह एक्सो-एटमॉस्फेरिक (Exo-atmospheric) इंटरसेप्टर है, जो 50 से 80 किमी की ऊंचाई पर अंतरिक्ष के निकट लक्ष्य को मार गिराता है।\n2. एडवांस्ड एयर डिफेंस (AAD / अश्विन): यह एंडो-एटमॉस्फेरिक (Endo-atmospheric) इंटरसेप्टर है, जो 15 से 30 किमी की ऊंचाई पर वायुमंडल के भीतर मिसाइल को नष्ट करता है।\n\nरणनीतिक महत्व:\n• द्वितीय प्रहार क्षमता (Second Strike Capability): यह भारत की 'नो फर्स्ट यूज' (NFU) परमाणु नीति को व्यावहारिक विश्वसनीयता प्रदान करता है।\n• सामरिक सुरक्षा: राष्ट्रीय राजधानी क्षेत्र (NCR), रणनीतिक ठिकानों तथा उत्तर प्रदेश के महत्वपूर्ण रक्षा प्रतिष्ठानों को हवाई हमलों से अभेद्य सुरक्षा प्रदान करता है।",
+      "en": "India's Ballistic Missile Defence (BMD) programme developed by DRDO is a multi-layered shield designed to intercept hostile ballistic missiles.\n\nTwo-Tier Architecture:\n1. Prithvi Air Defence (PAD): An exo-atmospheric interceptor operating at altitudes of 50–80 km to destroy incoming missiles in the upper atmosphere.\n2. Advanced Air Defence (AAD / Ashwin): An endo-atmospheric interceptor operating at altitudes of 15–30 km to destroy missiles within the atmosphere.\n\nStrategic Significance:\n• Credible Deterrence: Reinforces India's 'No First Use' (NFU) nuclear doctrine by guaranteeing second-strike survivability.\n• Counter-force Protection: Shields vital political hubs (NCR), strategic command centers and critical assets across Northern India from aerial threats."
+    },
+    "structureBreakdown": {
+      "introduction": "DRDO BMD Program & purpose (20 words)",
+      "technicalBody": "PAD (Exo) & AAD (Endo) altitude and mechanism (60 words)",
+      "strategicSignificance": "NFU doctrine support, deterrence and critical infrastructure defence (45 words)"
+    },
+    "examinerRubric": [
+      "Distinction between PAD (Exo) and AAD (Endo) with altitude specs (5 marks)",
+      "Doctrinal linkage with No First Use / Second Strike (4 marks)",
+      "Clarity, technical precision and word boundary (3 marks)"
+    ]
+  },
+  {
+    "id": "mains-gs1-q03",
+    "paper": "GS_PAPER_1",
+    "subject": "Disaster Management",
+    "type": "SHORT_ANSWER",
+    "marks": 8,
+    "wordLimit": 75,
+    "question": {
+      "hi": "आपदा प्रबंधन चक्र (Disaster Management Cycle) के चार प्रमुख चरणों को रेखांकित कीजिए।",
+      "en": "Outline the four key phases of the Disaster Management Cycle."
+    },
+    "modelAnswer": {
+      "hi": "आपदा प्रबंधन चक्र आपदा जोखिम को कम करने एवं त्वरित पुनर्बहाली की चक्रीय प्रक्रिया है:\n1. रोकथाम एवं शमन (Mitigation): आपदा के प्रभाव को कम करने हेतु संरचनात्मक उपाय (उदा. तटबंध निर्माण)।\n2. तैयारी (Preparedness): पूर्व-चेतावनी प्रणाली, मॉक ड्रिल एवं जन-जागरूकता (NDMA/SDRF द्वारा)।\n3. त्वरित प्रतिक्रिया (Response): खोज, बचाव एवं प्राथमिक राहत अभियान (NDRF की तैनाती)।\n4. पुनर्प्राप्ति एवं पुनर्निर्माण (Recovery & Reconstruction): 'बिल्ड बैक बेटर' सिद्धांत पर बुनियादी ढांचे की पुनर्स्थापना।",
+      "en": "The Disaster Management Cycle is a continuous cyclical framework to minimize hazard impact:\n1. Mitigation: Structural and non-structural measures to eliminate risk (e.g., flood dykes).\n2. Preparedness: Early warning systems, SOPs and community capacity building by NDMA/SDRF.\n3. Response: Immediate search, rescue, and humanitarian relief deployment (NDRF).\n4. Recovery & Reconstruction: Rehabilitation based on the Sendai Framework's 'Build Back Better' principle."
+    },
+    "structureBreakdown": {
+      "introduction": "Concept definition (10 words)",
+      "fourPhases": "Mitigation, Preparedness, Response, Recovery with examples (55 words)",
+      "institutionalReference": "Sendai / NDMA reference (10 words)"
+    },
+    "examinerRubric": [
+      "Correct enumeration of all 4 phases (4 marks)",
+      "Practical examples and agency references: NDMA/NDRF/SDRF (2 marks)",
+      "Structural conciseness within 75 words (2 marks)"
+    ]
+  },
+  {
+    "id": "mains-gs2-q01",
+    "paper": "GS_PAPER_2",
+    "subject": "Ethics and Integrity",
+    "type": "SHORT_ANSWER",
+    "marks": 8,
+    "wordLimit": 75,
+    "question": {
+      "hi": "भारतीय दार्शनिक चिंतन में 'ऋत' और 'धर्म' की अवधारणाओं में अंतर स्पष्ट कीजिए।",
+      "en": "Distinguish between the concepts of 'Rit' and 'Dharma' in Indian philosophical thought."
+    },
+    "modelAnswer": {
+      "hi": "वैदिक चिंतन में 'ऋत' एवं 'धर्म' ब्रह्मांडीय और मानवीय व्यवस्था के आधारस्तंभ हैं:\n• ऋत (Cosmic Order): यह संपूर्ण सृष्टि, प्रकृति के नियमों और नैतिक नियमों को संचालित करने वाली शाश्वत प्राकृतिक व सार्वभौमिक व्यवस्था है (वरुण देव इसके संरक्षक माने गए हैं)।\n• धर्म (Moral Duty): यह मानव आचरण, कर्तव्य, सामाजिक सद्भाव और सदाचार का विधान है, जो ऋत को व्यावहारिक जीवन में धारण (धृ धातु) करता है।\nसंक्षेप में, ऋत समष्टिगत नियम है और धर्म व्यष्टिगत कर्तव्य आचरण है।",
+      "en": "In Vedic philosophy, 'Rit' and 'Dharma' underpin cosmic and human order:\n• Rit (Cosmic Order): The universal, immutable law governing the cosmos, nature's cycles, and cosmic morality (guarded by deity Varuna).\n• Dharma (Moral Duty): The operational ethical code derived from root 'Dhri' (to uphold). It represents personal righteousness, civic responsibility, and social harmony that sustains Rit in daily life.\nIn essence, Rit is cosmic law, while Dharma is the lived moral application."
+    },
+    "structureBreakdown": {
+      "definitionRit": "Universal/Cosmic order, Varuna (30 words)",
+      "definitionDharma": "Moral duty, root Dhri, ethical conduct (30 words)",
+      "distinction": "Macro cosmic law vs micro personal duty (15 words)"
+    },
+    "examinerRubric": [
+      "Clear differentiation between cosmic order (Rit) and ethical conduct (Dharma) (4 marks)",
+      "Etymological root and philosophical context cited (2 marks)",
+      "Precise word limit control (2 marks)"
+    ]
+  },
+  {
+    "id": "mains-gs2-q02",
+    "paper": "GS_PAPER_2",
+    "subject": "Ethics and Integrity",
+    "type": "LONG_ANSWER",
+    "marks": 12,
+    "wordLimit": 125,
+    "question": {
+      "hi": "भावनात्मक बुद्धिमत्ता (Emotional Intelligence) के प्रमुख आयाम क्या हैं? लोक प्रशासन में निर्णय-निर्माण तथा कमजोर वर्गों के प्रति संवेदनशीलता में इसकी उपयोगिता की विवेचना कीजिए।",
+      "en": "What are the core dimensions of Emotional Intelligence? Discuss its utility in public administrative decision-making and empathy towards vulnerable sections."
+    },
+    "modelAnswer": {
+      "hi": "भावनात्मक बुद्धिमत्ता (EI) स्वयं एवं दूसरों की भावनाओं को पहचानने, समझने और सकारात्मक रूप से प्रबंधित करने की क्षमता है।\n\nडैनियल गोलमैन के अनुसार प्रमुख आयाम:\n1. आत्म-जागरूकता (Self-awareness): अपनी भावनाओं व सीमाओं का बोध।\n2. आत्म-नियंत्रण (Self-regulation): दबाव में धैर्य व निष्पक्षता बनाए रखना।\n3. आंतरिक अभिप्रेरणा (Internal motivation): लोक सेवा के प्रति समर्पण।\n4. समानुभूति (Empathy): दूसरों के दृष्टिकोण व वेदना को समझना।\n5. सामाजिक कौशल (Social skills): प्रभावी संवाद एवं विवाद समाधान।\n\nलोक प्रशासन में उपयोगिता:\n• संतुलित निर्णय-निर्माण: प्रशासनिक दबाव, राजनीतिक हस्तक्षेप व संकट काल में पूर्वाग्रहमुक्त वस्तुनिष्ठ निर्णय लेना।\n• कमजोर वर्गों के प्रति संवेदनशीलता: समाज के अंतिम पायदान पर खड़े वृद्धों, महिलाओं, दिव्यांगों व वंचितों की समस्याओं को नियम-पुस्तिका से परे जाकर मानवीय दृष्टिकोण (Empathy) से हल करना।",
+      "en": "Emotional Intelligence (EI) is the ability to recognize, understand, and constructively manage one's own emotions and those of others.\n\nCore Dimensions (Daniel Goleman Framework):\n1. Self-Awareness: Recognizing personal emotions, triggers, and biases.\n2. Self-Regulation: Maintaining composure and objectivity under extreme administrative stress.\n3. Motivation: Deep commitment to public good beyond material incentives.\n4. Empathy: Sensitivity to the lived realities and distress of others.\n5. Social Skills: Persuasive communication, conflict resolution, and teamwork.\n\nAdministrative Utility:\n• Ethical Decision-Making: Prevents impulsive or partisan choices during civil unrest and administrative crises.\n• Inclusive Service Delivery: Inspires compassionate governance towards marginalized groups, poor citizens, and women, transforming procedural bureaucracy into humane public service."
+    },
+    "structureBreakdown": {
+      "definition": "EI definition & Goleman model (25 words)",
+      "dimensions": "5 components (Self-awareness, regulation, motivation, empathy, social skills) (50 words)",
+      "administrativeApplication": "Crisis management, objectivity, empathy towards vulnerable sections (50 words)"
+    },
+    "examinerRubric": [
+      "Enumeration of the 5 EI dimensions (5 marks)",
+      "Direct linkage with public service objectivity and crisis leadership (4 marks)",
+      "Empathy towards vulnerable sections demonstrated (3 marks)"
+    ]
+  },
+  {
+    "id": "mains-gs2-q03",
+    "paper": "GS_PAPER_2",
+    "subject": "Governance & Economy",
+    "type": "SHORT_ANSWER",
+    "marks": 8,
+    "wordLimit": 75,
+    "question": {
+      "hi": "उत्तर प्रदेश में कृषि क्षेत्र की प्रमुख समस्याओं को रेखांकित करते हुए सरकार द्वारा संचालित तकनीकी मिशनों का उल्लेख कीजिए।",
+      "en": "Highlight the major challenges facing the agricultural sector in Uttar Pradesh and mention key technology missions launched by the government."
+    },
+    "modelAnswer": {
+      "hi": "उत्तर प्रदेश में कृषि की प्रमुख चुनौतियां:\n1. लघु एवं सीमांत जोतों की बहुलता (औसत जोत आकार < 0.75 हेक्टेयर)।\n2. बुंदेलखंड में असिंचित भूमि व सूखा तथा पूर्वी उ.प्र. में जलभराव व बाढ़।\n3. फसल कटाई उपरांत भंडारण व आधुनिक शीत-गृहों की कमी।\n\nसरकारी समाधान एवं प्रौद्योगिकी मिशन:\n• 'द मिलियन फार्मर्स स्कूल' (किसान पाठशाला) द्वारा आधुनिक कृषि तकनीकी प्रशिक्षण।\n• कृषि यंत्रीकरण प्रोत्साहन योजना एवं किसान ई-मित्र (AI चैटबॉट)।\n• 'डिजिटल क्रॉप सर्वे' (एग्रीस्टैक) द्वारा पारदर्शी गिरदावरी।",
+      "en": "Major Agricultural Challenges in UP:\n1. Fragmentation of land: Predominance of small/marginal farmers (average holding < 0.75 ha).\n2. Regional disparity: Drought in Bundelkhand vs flood and water-logging in Eastern UP.\n3. Post-harvest storage deficit and cold-chain bottlenecks.\n\nGovernment Technology Missions:\n• 'The Million Farmers School' (Kisan Pathshala) for modern agronomic training.\n• Farm Mechanization subsidies and 'Kisan e-Mitra' AI chatbot assistance.\n• 'Digital Crop Survey' (AgriStack) for transparent automated land and harvest records."
+    },
+    "structureBreakdown": {
+      "challenges": "Land fragmentation, regional disparity, post-harvest deficit (40 words)",
+      "schemes": "Kisan Pathshala, AgriStack, Farm mechanization (35 words)"
+    },
+    "examinerRubric": [
+      "Mentions fragmentation, Bundelkhand/Purvanchal issues (4 marks)",
+      "Cites specific UP initiatives like Kisan Pathshala / AgriStack (3 marks)",
+      "Structured presentation within 75 words (1 mark)"
+    ]
+  }
+]

@@ -1,46 +1,84 @@
 [
   {
-    "id": "notif-ro-aro-cycle-active",
-    "cycle": "2023-2026 Examination Cycle",
-    "status": "Active / In Progress (Re-examination & Mains Schedule Tracked)",
-    "officialNotificationNumber": "A-7/E-1/2023 / UPPSC Re-Exam Update",
+    "id": "notif-ro-aro-2026-official",
+    "cycle": "2026 Official Examination Cycle",
+    "status": "Online Applications Active (26/10/2026 to 26/11/2026)",
+    "officialNotificationNumber": "ADVT. NO. : A-4/E-1/2026",
+    "officialNotificationDate": "26/10/2026",
     "officialSourceUrl": "https://uppsc.up.nic.in",
-    "lastVerifiedDate": "2026-09-27",
+    "otrPortalUrl": "https://otr.pariksha.nic.in",
+    "lastVerifiedDate": "2026-10-27",
     "vacancies": {
-      "total": 411,
-      "roSecretariat": 322,
-      "roRevenueCouncil": 3,
-      "roUPPSC": 9,
-      "aroSecretariat": 40,
-      "aroRevenueCouncil": 23,
-      "aroUPPSC": 13,
-      "aroAccountsUPPSC": 1
+      "total": 501,
+      "generalRecruitment": 495,
+      "specialRecruitment": 6,
+      "roSecretariat": 122,
+      "roUPPSC": 3,
+      "roRevenueBoard": 6,
+      "roAccountSecretariat": 31,
+      "aroSecretariat": 261,
+      "aroUPPSC": 21,
+      "aroRevenueBoard": 2,
+      "aroAdvocateGeneral": 45,
+      "managerUPPSC": 1,
+      "careTakerUPPSC": 1,
+      "receptionistUPPSC": 1,
+      "storeKeeperUPPSC": 1,
+      "aroAccountSpecialSecretariat": 6
     },
+    "categoryWiseBreakdown": [
+      { "post": "समीक्षा अधिकारी (यू.पी. सचिवालय)", "dept": "U.P. Secretariat", "total": 122, "ur": 39, "sc": 56, "st": 3, "obc": 12, "ews": 12, "female": 24, "ph": 4, "exs": 6, "dff": 2 },
+      { "post": "समीक्षा अधिकारी (उ.प्र. लोक सेवा आयोग)", "dept": "UPPSC", "total": 3, "ur": 2, "sc": 1, "st": 0, "obc": 0, "ews": 0, "female": 0, "ph": 0, "exs": 0, "dff": 0 },
+      { "post": "समीक्षा अधिकारी (राजस्व परिषद)", "dept": "Board of Revenue", "total": 6, "ur": 4, "sc": 2, "st": 0, "obc": 0, "ews": 0, "female": 1, "ph": 0, "exs": 1, "dff": 0 },
+      { "post": "समीक्षा अधिकारी - लेखा (सचिवालय)", "dept": "U.P. Secretariat", "total": 31, "ur": 11, "sc": 9, "st": 1, "obc": 9, "ews": 1, "female": 6, "ph": 1, "exs": 1, "dff": 0 },
+      { "post": "सहायक समीक्षा अधिकारी (सचिवालय)", "dept": "U.P. Secretariat", "total": 261, "ur": 153, "sc": 26, "st": 1, "obc": 55, "ews": 26, "female": 52, "ph": 10, "exs": 13, "dff": 5, "sports": 5 },
+      { "post": "सहायक समीक्षा अधिकारी (लोक सेवा आयोग)", "dept": "UPPSC", "total": 21, "ur": 11, "sc": 2, "st": 0, "obc": 7, "ews": 1, "female": 4, "ph": 0, "exs": 1, "dff": 0 },
+      { "post": "सहायक समीक्षा अधिकारी (राजस्व परिषद)", "dept": "Board of Revenue", "total": 2, "ur": 2, "sc": 0, "st": 0, "obc": 0, "ews": 0, "female": 0, "ph": 0, "exs": 0, "dff": 0 },
+      { "post": "सहायक समीक्षा अधिकारी (महाधिवक्ता कार्यालय)", "dept": "Office of Advocate General", "total": 45, "ur": 20, "sc": 9, "st": 1, "obc": 11, "ews": 4, "female": 9, "ph": 1, "exs": 2, "dff": 0 },
+      { "post": "प्रबंधक / केयर-टेकर / स्वागतकर्ता / स्टोर कीपर", "dept": "UPPSC", "total": 4, "ur": 4, "sc": 0, "st": 0, "obc": 0, "ews": 0, "female": 0, "ph": 0, "exs": 0, "dff": 0 },
+      { "post": "विशेष चयन: सहायक समीक्षा अधिकारी लेखा", "dept": "U.P. Secretariat", "total": 6, "ur": 0, "sc": 3, "st": 0, "obc": 3, "ews": 0, "female": 1, "ph": 0, "exs": 1, "dff": 0 }
+    ],
     "keyDates": {
-      "notificationRelease": "09-10-2023",
-      "applicationStartDate": "09-10-2023",
-      "applicationClosingDate": "24-11-2023 (Extended from 09-11-2023)",
-      "prelimsDateInitial": "11-02-2024",
-      "prelimsReExamSchedule": "Scheduled as per UPPSC Official Calendar",
-      "mainsExpected": "Post Prelims Results Declaration"
+      "notificationRelease": "26/10/2026",
+      "applicationStartDate": "26/10/2026",
+      "applicationClosingDate": "26/11/2026",
+      "feeSubmissionLastDate": "26/11/2026",
+      "correctionLastDate": "03/12/2026",
+      "otrCutoff": "Must obtain OTR number at least 72 hours before online application",
+      "prelimsTentative": "Early 2027 (As per UPPSC Calendar)",
+      "mainsTentative": "Mid 2027"
     },
+    "applicationFee": {
+      "unreserved_obc_ews": { "examFee": 100, "processingFee": 25, "total": 125 },
+      "sc_st": { "examFee": 40, "processingFee": 25, "total": 65 },
+      "pwd": { "examFee": 0, "processingFee": 25, "total": 25 },
+      "ex_servicemen": { "examFee": 40, "processingFee": 25, "total": 65 }
+    },
+    "payscale": "Level-5 (Rs. 29,200 - 64,700) to Level-8 (Rs. 47,600 - 1,51,100)",
     "eligibilitySummary": {
-      "ro": "Bachelor's Degree in any discipline from recognized university.",
-      "aro": "Bachelor's Degree + DOEACC / NIELIT 'O' Level (or UP Govt approved equivalent) + Hindi Typing on Computer (25 WPM in Kruti Dev 010 / Mangal font). English typing 30 WPM given preference."
+      "ro": "Bachelor's Degree from a University established by law in India or recognized equivalent. For Account post: Bachelor's degree in commerce with Accountancy.",
+      "aro": "Bachelor's Degree + DOEACC / NIELIT 'O' Level (or recognized equivalent diploma as per UP GO dated 05/05/2022) + Minimum 25 words per minute in Hindi typing on Computer (Kruti Dev 010 / Mangal). English typing is preferential.",
+      "ageLimit": "21 to 40 years as on July 01, 2026 (Candidates must not have been born earlier than 2nd July 1986 and not later than 1st July 2005). Relaxations: SC/ST/OBC/State Govt Employees/Skilled Players: +5 years (up to 45 yrs); PwD: +15 years (up to 55 yrs); CM Fellowship Scholars: up to +3 years."
     },
     "selectionProcess": [
-      "Stage 1: Preliminary Exam (Objective - 200 Marks: 140 GS + 60 Hindi)",
-      "Stage 2: Main Examination (400 Marks: 120 GS + 160 General Hindi & Drafting + 120 Hindi Essay)",
-      "Stage 3: Hindi Typing Qualification Test (Compulsory for ARO posts on Computer)",
-      "No Interview for RO/ARO (Direct Selection on Mains + Typing Qualification)"
+      "Stage 1: Preliminary Exam (Objective - 200 Questions / 200 Marks / 3 Hours: 140 GS + 60 General Hindi) with 0.33 negative marking",
+      "Stage 2: Main Examination (800 Marks Conventional: Paper 1 GS-I 200M + Paper 2 GS-II 200M + Paper 3 Hindi & Drafting 200M + Paper 4 Essay 200M)",
+      "Stage 3: Hindi Typing Qualification Test (Compulsory for ARO posts on Computer at 25 wpm)",
+      "Selection purely based on Main Examination (800 Marks) + CM Fellowship Weightage where applicable. No Interview."
+    ],
+    "specialProvisions2026": [
+      "15 times candidates of total vacancies (15 x 501 = 7,515 candidates) shall qualify Prelims for Main Examination.",
+      "Minimum efficiency standard: 35% for SC/ST and 40% for General, EWS and OBC categories in Prelims and Mains.",
+      "Three-copy OMR sheet: Pink (Original to UPPSC), Green (Preserved), Blue (Candidate Copy).",
+      "Strict penal action under Uttar Pradesh Examination (Prevention of Unfair Means) Act, 2024 dated August 6, 2024 and Bharatiya Nyaya Sanhita (BNS) for malpractice/forgery."
     ],
     "cutoffsHistorical": [
-      { "category": "General / Unreserved", "prelimsEstimatedCutoff2021": "127 - 130 / 200", "mainsFinalCutoff2021": "272 - 278 / 400" },
-      { "category": "OBC", "prelimsEstimatedCutoff2021": "125 - 128 / 200", "mainsFinalCutoff2021": "268 - 274 / 400" },
-      { "category": "EWS", "prelimsEstimatedCutoff2021": "124 - 127 / 200", "mainsFinalCutoff2021": "265 - 270 / 400" },
-      { "category": "SC", "prelimsEstimatedCutoff2021": "114 - 117 / 200", "mainsFinalCutoff2021": "248 - 253 / 400" },
-      { "category": "ST", "prelimsEstimatedCutoff2021": "100 - 105 / 200", "mainsFinalCutoff2021": "225 - 232 / 400" },
-      { "category": "Female (Sub-category)", "prelimsEstimatedCutoff2021": "120 - 124 / 200", "mainsFinalCutoff2021": "260 - 265 / 400" }
+      { "category": "General / Unreserved", "prelimsEstimatedCutoff": "128 - 132 / 200", "mainsFinalTarget": "540+ / 800 (New 800 Pattern)" },
+      { "category": "OBC", "prelimsEstimatedCutoff": "126 - 130 / 200", "mainsFinalTarget": "530+ / 800 (New 800 Pattern)" },
+      { "category": "EWS", "prelimsEstimatedCutoff": "125 - 128 / 200", "mainsFinalTarget": "525+ / 800 (New 800 Pattern)" },
+      { "category": "SC", "prelimsEstimatedCutoff": "115 - 118 / 200", "mainsFinalTarget": "480+ / 800 (New 800 Pattern)" },
+      { "category": "ST", "prelimsEstimatedCutoff": "102 - 106 / 200", "mainsFinalTarget": "440+ / 800 (New 800 Pattern)" },
+      { "category": "Female (UP Domicile)", "prelimsEstimatedCutoff": "122 - 126 / 200", "mainsFinalTarget": "515+ / 800 (New 800 Pattern)" }
     ]
   }
 ]

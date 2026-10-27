@@ -11,7 +11,9 @@ import {
   ChevronRight,
   TrendingUp,
   Landmark,
-  Share2
+  Share2,
+  Award,
+  Layers
 } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import essayTopicsData from '../data/essay-topics.json';
@@ -19,16 +21,20 @@ import { EssayTopic } from '../types';
 
 export const EssayLabPage: React.FC = () => {
   const { language, saveEssayAttempt, progress } = useApp();
-  const [selectedTopicId, setSelectedTopicId] = useState<string>('essay-cat-a-01');
+  const [selectedSection, setSelectedSection] = useState<'SECTION_1_800W' | 'SECTION_2_1200W'>('SECTION_1_800W');
+  const [selectedTopicId, setSelectedTopicId] = useState<string>('essay-sec1-science-01');
   const [essayText, setEssayText] = useState<string>('');
   const [activeTab, setActiveTab] = useState<'framework' | 'writing' | 'my-essays'>('framework');
   
-  // Timer state (60 minutes practice per essay)
-  const [timerSeconds, setTimerSeconds] = useState<number>(3600);
+  // Timer state (90 minutes practice per essay for 3-hour 2-essay exam)
+  const [timerSeconds, setTimerSeconds] = useState<number>(5400);
   const [timerRunning, setTimerRunning] = useState<boolean>(false);
   const [savedSuccess, setSavedSuccess] = useState<boolean>(false);
 
-  const activeTopic = essayTopicsData.find(e => e.id === selectedTopicId) || essayTopicsData[0];
+  const sectionTopics = essayTopicsData.filter(e => (e as any).mainsSection === selectedSection);
+  const activeTopic = essayTopicsData.find(e => e.id === selectedTopicId) || sectionTopics[0] || essayTopicsData[0];
+
+  const targetWordCount = activeTopic.wordCountLimit || (selectedSection === 'SECTION_1_800W' ? 800 : 1200);
 
   useEffect(() => {
     let interval: any = null;
@@ -49,6 +55,8 @@ export const EssayLabPage: React.FC = () => {
   };
 
   const wordCount = essayText.trim().split(/\s+/).filter(Boolean).length;
+  const isWordLimitNear = wordCount >= (targetWordCount * 0.85) && wordCount <= targetWordCount;
+  const isOverWordLimit = wordCount > targetWordCount;
 
   const handleSave = () => {
     saveEssayAttempt(activeTopic.id, essayText, wordCount);
@@ -57,8 +65,8 @@ export const EssayLabPage: React.FC = () => {
   };
 
   const handleRandomTopic = () => {
-    const randomIdx = Math.floor(Math.random() * essayTopicsData.length);
-    setSelectedTopicId(essayTopicsData[randomIdx].id);
+    const randomIdx = Math.floor(Math.random() * sectionTopics.length);
+    setSelectedTopicId(sectionTopics[randomIdx].id);
   };
 
   return (
@@ -71,13 +79,13 @@ export const EssayLabPage: React.FC = () => {
               <PenTool className="w-5 h-5" />
             </span>
             <h1 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white">
-              {language === 'hi' ? 'मुख्य परीक्षा 600 शब्द हिन्दी निबंध लैब' : 'Mains 600-Word Hindi Essay Lab'}
+              {language === 'hi' ? 'मुख्य परीक्षा हिन्दी निबन्ध लैब (प्रश्नपत्र-4 • 200 अंक)' : 'Mains Hindi Essay Lab (Paper IV • 200 Marks)'}
             </h1>
           </div>
           <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
             {language === 'hi'
-              ? 'तृतीय प्रश्नपत्र (120 अंक): 3 निबंध x 40 अंक (शब्द सीमा 600 शब्द प्रत्येक)। वैचारिक संरचना, आंकड़े व उत्तर प्रदेश परिप्रेक्ष्य।'
-              : 'Paper III (120 Marks): 3 Essays x 40 Marks (600 Words each). Comprehensive dimensional frameworks & UP context.'}
+              ? 'आधिकारिक 2026 पैटर्न: 2 अनिवार्य निबन्ध (खण्ड 1: 80 अंक / 800 शब्द + खण्ड 2: 120 अंक / 1200 शब्द), कुल 3 घंटे।'
+              : 'Official 2026 Pattern: 2 Mandatory Essays (Section 1: 80M / 800 words + Section 2: 120M / 1200 words), 3 Hours.'}
           </p>
         </div>
 
@@ -100,7 +108,7 @@ export const EssayLabPage: React.FC = () => {
                   : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
               }`}
             >
-              {language === 'hi' ? 'वैचारिक ढांचा' : 'Essay Blueprint'}
+              {language === 'hi' ? 'वैचारिक रूपरेखा' : 'Essay Blueprint'}
             </button>
             <button
               onClick={() => setActiveTab('writing')}
@@ -110,232 +118,228 @@ export const EssayLabPage: React.FC = () => {
                   : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
               }`}
             >
-              {language === 'hi' ? 'लेखन अभ्यास (600 शब्द)' : 'Write 600 Words'}
+              {language === 'hi' ? `लेखन अभ्यास (${targetWordCount} शब्द)` : `Write (${targetWordCount}w)`}
             </button>
           </div>
         </div>
       </div>
 
-      {/* Topic Selector Chips */}
-      <div className="flex items-center space-x-2 overflow-x-auto pb-2 scrollbar-none">
-        {essayTopicsData.map(topic => {
-          const isSelected = topic.id === selectedTopicId;
-          return (
-            <button
-              key={topic.id}
-              onClick={() => setSelectedTopicId(topic.id)}
-              className={`px-3.5 py-2 rounded-xl text-xs font-semibold whitespace-nowrap transition-all border ${
-                isSelected
-                  ? 'bg-indigo-600 text-white border-indigo-600 shadow-sm shadow-indigo-600/30'
-                  : 'bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-800 hover:border-slate-300'
-              }`}
-            >
-              {topic.title[language]}
-            </button>
-          );
-        })}
-      </div>
-
-      {/* Tab 1: Comprehensive Essay Learning Framework */}
-      {activeTab === 'framework' && (
-        <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-5 sm:p-6 shadow-sm space-y-6">
-          {/* Topic Title Header */}
-          <div className="pb-4 border-b border-slate-100 dark:border-slate-800">
-            <span className="text-xs font-bold text-indigo-600 dark:text-indigo-400 uppercase tracking-wide">
-              {activeTopic.categoryLabel[language]}
-            </span>
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mt-1 font-hindi">
-              "{activeTopic.title[language]}"
-            </h2>
-            <p className="text-xs text-slate-600 dark:text-slate-400 mt-2 leading-relaxed">
-              <strong className="text-slate-800 dark:text-slate-200">विषय की मूल समझ:</strong> {activeTopic.understanding[language]}
+      {/* Official 2-Tier Section Selector */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <button
+          onClick={() => {
+            setSelectedSection('SECTION_1_800W');
+            const match = essayTopicsData.find(e => (e as any).mainsSection === 'SECTION_1_800W');
+            if (match) setSelectedTopicId(match.id);
+          }}
+          className={`p-4 rounded-2xl border text-left transition-all flex flex-col justify-between ${
+            selectedSection === 'SECTION_1_800W'
+              ? 'bg-indigo-50/80 dark:bg-indigo-950/40 border-indigo-500 ring-2 ring-indigo-500/20'
+              : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-indigo-300'
+          }`}
+        >
+          <div>
+            <div className="flex items-center justify-between mb-1">
+              <span className="text-[10px] font-bold uppercase font-mono px-2 py-0.5 rounded bg-indigo-100 dark:bg-indigo-950 text-indigo-700 dark:text-indigo-300">
+                प्रथम खण्ड (SECTION 1)
+              </span>
+              <span className="text-xs font-mono font-bold text-amber-600 dark:text-amber-400">
+                80 अंक • 800 शब्द
+              </span>
+            </div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mt-1">
+              {language === 'hi' ? 'विज्ञान, पर्यावरण, अर्थव्यवस्था, कृषि एवं प्राकृतिक आपदाएं' : 'Science, Env, Economy, Agri & Disasters'}
+            </h3>
+            <p className="text-[11px] text-slate-500 mt-1">
+              4 विषयों में से किसी 1 विषय पर 800 शब्दों में संतुलित विश्लेषणात्मक निबंध।
             </p>
           </div>
+        </button>
 
-          {/* Quotations & Keywords Highlight */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div className="p-4 rounded-xl bg-amber-50/70 dark:bg-amber-950/20 border border-amber-200 dark:border-amber-900/40 text-xs space-y-2">
-              <span className="font-bold text-amber-900 dark:text-amber-300 flex items-center space-x-1.5">
-                <Sparkles className="w-4 h-4 text-amber-600" />
-                <span>{language === 'hi' ? 'सटीक उद्धरण / पंक्तियां (Quotations):' : 'Quotations & Invocations:'}</span>
+        <button
+          onClick={() => {
+            setSelectedSection('SECTION_2_1200W');
+            const match = essayTopicsData.find(e => (e as any).mainsSection === 'SECTION_2_1200W');
+            if (match) setSelectedTopicId(match.id);
+          }}
+          className={`p-4 rounded-2xl border text-left transition-all flex flex-col justify-between ${
+            selectedSection === 'SECTION_2_1200W'
+              ? 'bg-purple-50/80 dark:bg-purple-950/40 border-purple-500 ring-2 ring-purple-500/20'
+              : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-purple-300'
+          }`}
+        >
+          <div>
+            <div className="flex items-center justify-between mb-1">
+              <span className="text-[10px] font-bold uppercase font-mono px-2 py-0.5 rounded bg-purple-100 dark:bg-purple-950 text-purple-700 dark:text-purple-300">
+                द्वितीय खण्ड (SECTION 2)
               </span>
-              <ul className="space-y-1.5 italic text-slate-700 dark:text-slate-300 font-hindi">
-                {activeTopic.quotations.map((q, idx) => (
-                  <li key={idx} className="leading-relaxed">"{q}"</li>
+              <span className="text-xs font-mono font-bold text-purple-600 dark:text-purple-400">
+                120 अंक • 1200 शब्द
+              </span>
+            </div>
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white mt-1">
+              {language === 'hi' ? 'साहित्य, संस्कृति, सामाजिक-राजनीतिक, अंतर्राष्ट्रीय एवं योजनाएं' : 'Literature, Culture, Polity, Global Affairs & Schemes'}
+            </h3>
+            <p className="text-[11px] text-slate-500 mt-1">
+              4 विषयों में से किसी 1 विषय पर 1200 शब्दों में गहन वैचारिक एवं बहु-आयामी निबंध।
+            </p>
+          </div>
+        </button>
+      </div>
+
+      {/* Topic Selector Chips for Current Section */}
+      <div className="flex items-center space-x-2 overflow-x-auto pb-2">
+        {sectionTopics.map(topic => (
+          <button
+            key={topic.id}
+            onClick={() => setSelectedTopicId(topic.id)}
+            className={`px-3.5 py-2 rounded-xl text-xs font-bold transition-all whitespace-nowrap border ${
+              selectedTopicId === topic.id
+                ? 'bg-slate-900 dark:bg-white text-white dark:text-slate-900 border-transparent shadow-sm'
+                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-800 hover:border-slate-300'
+            }`}
+          >
+            {topic.title[language]}
+          </button>
+        ))}
+      </div>
+
+      {/* Tab 1: Structural Essay Blueprint */}
+      {activeTab === 'framework' && (
+        <div className="space-y-6">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-6 space-y-4 shadow-sm">
+            <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
+              <div className="space-y-0.5">
+                <span className="text-[10px] font-bold uppercase text-indigo-600 dark:text-indigo-400 font-mono">
+                  {(activeTopic as any).domain || (activeTopic as any).categoryLabel?.[language]}
+                </span>
+                <h2 className="text-lg font-bold text-slate-900 dark:text-white">
+                  {activeTopic.title[language]}
+                </h2>
+              </div>
+              <div className="flex items-center space-x-2">
+                <span className="text-xs font-mono font-bold px-2.5 py-1 rounded bg-amber-50 dark:bg-amber-950/40 text-amber-700 dark:text-amber-400 border border-amber-200 dark:border-amber-800">
+                  {activeTopic.marks || (selectedSection === 'SECTION_1_800W' ? 80 : 120)} अंक
+                </span>
+                <span className="text-xs font-mono font-bold px-2.5 py-1 rounded bg-indigo-50 dark:bg-indigo-950/40 text-indigo-700 dark:text-indigo-400 border border-indigo-200 dark:border-indigo-800">
+                  लक्ष्य: {targetWordCount} शब्द
+                </span>
+              </div>
+            </div>
+
+            <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/50 text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+              <strong>विषय की अंतर्दृष्टि:</strong> {activeTopic.understanding[language]}
+            </div>
+
+            {/* Dimensional Points Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
+              {activeTopic.dimensions.map((dim, idx) => (
+                <div key={idx} className="p-4 rounded-xl border border-slate-200 dark:border-slate-800 space-y-2 bg-slate-50/30 dark:bg-slate-800/20">
+                  <h4 className="text-xs font-bold text-indigo-700 dark:text-indigo-400 uppercase tracking-wide flex items-center space-x-1.5">
+                    <Layers className="w-3.5 h-3.5" />
+                    <span>{dim.dimension[language]}</span>
+                  </h4>
+                  <ul className="space-y-1 text-xs text-slate-600 dark:text-slate-300 font-hindi">
+                    {dim.points.map((pt, pIdx) => (
+                      <li key={pIdx} className="flex items-start space-x-1.5">
+                        <span className="text-indigo-500 font-bold">•</span>
+                        <span>{pt[language]}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+
+            {/* UP Perspective Box */}
+            <div className="p-4 rounded-xl bg-amber-50/70 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/60 space-y-2">
+              <h4 className="text-xs font-bold text-amber-800 dark:text-amber-300 uppercase tracking-wider flex items-center space-x-1.5">
+                <Landmark className="w-4 h-4" />
+                <span>{language === 'hi' ? 'उत्तर प्रदेश विशिष्ट परिप्रेक्ष्य (UP Perspective)' : 'Uttar Pradesh Specific Context'}</span>
+              </h4>
+              <ul className="space-y-1 text-xs text-amber-950 dark:text-amber-200 font-hindi">
+                {activeTopic.upPerspective.map((up, idx) => (
+                  <li key={idx} className="flex items-start space-x-1.5">
+                    <span className="font-bold">✓</span>
+                    <span>{up[language]}</span>
+                  </li>
                 ))}
               </ul>
             </div>
 
-            <div className="p-4 rounded-xl bg-indigo-50/70 dark:bg-indigo-950/20 border border-indigo-200 dark:border-indigo-900/40 text-xs space-y-2">
-              <span className="font-bold text-indigo-900 dark:text-indigo-300">
-                {language === 'hi' ? 'अनिवार्य की-वर्ड्स (Keywords):' : 'Key Terminology:'}
-              </span>
-              <div className="flex flex-wrap gap-1.5">
-                {activeTopic.keywords.map((kw, idx) => (
-                  <span key={idx} className="px-2 py-0.5 rounded-full bg-white dark:bg-slate-800 text-indigo-700 dark:text-indigo-300 font-medium border border-indigo-200 dark:border-indigo-800">
-                    {kw}
-                  </span>
-                ))}
-              </div>
-            </div>
-          </div>
-
-          {/* 10-Step Essay Construction Blueprint (Requirement #27) */}
-          <div className="space-y-4">
-            <h3 className="text-sm font-bold text-slate-900 dark:text-white uppercase tracking-wider">
-              {language === 'hi' ? '10-चरणीय निबंध निर्माण ढांचा (Step-by-Step Blueprint)' : '10-Step Essay Architecture'}
-            </h3>
-
-            <div className="space-y-3 text-xs sm:text-sm">
-              {/* 1. Introduction Framework */}
-              <div className="p-3.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/60 dark:bg-slate-800/40">
-                <span className="font-bold text-indigo-700 dark:text-indigo-400">1. प्रस्तावना (Introduction ~70-80 शब्द):</span>
-                <ul className="mt-1 space-y-1 pl-4 list-disc text-slate-700 dark:text-slate-300">
-                  {activeTopic.introductionFramework.map((it, idx) => (
-                    <li key={idx}>{it[language]}</li>
-                  ))}
-                </ul>
-              </div>
-
-              {/* 2. Dimensions */}
-              <div className="p-3.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/60 dark:bg-slate-800/40 space-y-2">
-                <span className="font-bold text-indigo-700 dark:text-indigo-400">2. बहुआयामी विश्लेषण (Dimensions ~250 शब्द):</span>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
-                  {activeTopic.dimensions.map((dim, dIdx) => (
-                    <div key={dIdx} className="p-2.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800">
-                      <strong className="text-slate-800 dark:text-slate-200 block mb-1">{dim.dimension[language]}</strong>
-                      {dim.points.map((pt, pIdx) => (
-                        <p key={pIdx} className="text-slate-600 dark:text-slate-400 text-xs">{pt[language]}</p>
-                      ))}
-                    </div>
+            {/* Quotations */}
+            {activeTopic.quotations && activeTopic.quotations.length > 0 && (
+              <div className="space-y-2 pt-2">
+                <h4 className="text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider">
+                  {language === 'hi' ? 'उपयोगी उद्धरण एवं सूक्तियां (Quotations):' : 'Key Quotations:'}
+                </h4>
+                <div className="space-y-1.5">
+                  {activeTopic.quotations.map((q, idx) => (
+                    <blockquote key={idx} className="text-xs italic text-indigo-900 dark:text-indigo-300 bg-indigo-50/50 dark:bg-indigo-950/20 p-2.5 rounded-lg border-l-4 border-indigo-500 font-hindi">
+                      "{q}"
+                    </blockquote>
                   ))}
                 </div>
               </div>
-
-              {/* 3. Facts & Govt Initiatives */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                <div className="p-3.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/60 dark:bg-slate-800/40">
-                  <span className="font-bold text-indigo-700 dark:text-indigo-400">3. सरकारी योजनाएं एवं नीतियां:</span>
-                  <ul className="mt-1 space-y-1 pl-4 list-disc text-slate-700 dark:text-slate-300 text-xs">
-                    {activeTopic.govtInitiatives.map((gi, idx) => (
-                      <li key={idx}>{gi[language]}</li>
-                    ))}
-                  </ul>
-                </div>
-
-                <div className="p-3.5 rounded-xl border border-amber-200 dark:border-amber-900/50 bg-amber-50/40 dark:bg-amber-950/20">
-                  <span className="font-bold text-amber-800 dark:text-amber-400 flex items-center space-x-1">
-                    <Landmark className="w-3.5 h-3.5" />
-                    <span>4. उत्तर प्रदेश परिप्रेक्ष्य (UP Perspective):</span>
-                  </span>
-                  <ul className="mt-1 space-y-1 pl-4 list-disc text-slate-700 dark:text-slate-300 text-xs">
-                    {activeTopic.upPerspective.map((up, idx) => (
-                      <li key={idx}>{up[language]}</li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
-
-              {/* 4. Way Forward & Conclusion */}
-              <div className="p-3.5 rounded-xl border border-slate-200 dark:border-slate-800 bg-slate-50/60 dark:bg-slate-800/40">
-                <span className="font-bold text-indigo-700 dark:text-indigo-400">5. समाधानपरक आगे की राह एवं उपसंहार (Way Forward & Conclusion ~100 शब्द):</span>
-                <p className="mt-1 text-slate-700 dark:text-slate-300 text-xs leading-relaxed">
-                  {activeTopic.conclusionFramework[0][language]}
-                </p>
-              </div>
-            </div>
-          </div>
-
-          {/* Self-Evaluation Checklist */}
-          <div className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-800 text-xs space-y-2">
-            <span className="font-bold text-slate-900 dark:text-white flex items-center space-x-1.5">
-              <CheckSquare className="w-4 h-4 text-emerald-600" />
-              <span>{language === 'hi' ? 'स्व-मूल्यांकन चेकलिस्ट:' : 'Self-Evaluation Checklist:'}</span>
-            </span>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-              {activeTopic.checklist.map((chk, idx) => (
-                <div key={idx} className="flex items-center space-x-2 text-slate-700 dark:text-slate-300">
-                  <input type="checkbox" className="rounded text-indigo-600 focus:ring-0" />
-                  <span>{chk[language]}</span>
-                </div>
-              ))}
-            </div>
+            )}
           </div>
         </div>
       )}
 
-      {/* Tab 2: Interactive 600-word Writing Box with Word Counter & Timer */}
+      {/* Tab 2: Interactive Writing Workspace */}
       {activeTab === 'writing' && (
-        <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-5 sm:p-6 shadow-sm space-y-4">
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800 gap-3">
-            <div>
-              <span className="text-xs font-bold text-indigo-600 dark:text-indigo-400 uppercase tracking-wide">
-                {language === 'hi' ? '600 शब्द निबंध लेखन सिमुलेटर' : '600-Word Essay Simulator'}
-              </span>
-              <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white font-hindi">
-                "{activeTopic.title[language]}"
-              </h2>
-            </div>
-
-            {/* Word Counter & Live Timer */}
+        <div className="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-6 space-y-4 shadow-sm">
+          {/* Writing Toolbar */}
+          <div className="flex flex-wrap items-center justify-between gap-3 pb-3 border-b border-slate-100 dark:border-slate-800 text-xs">
             <div className="flex items-center space-x-3">
-              <div className={`px-3 py-1.5 rounded-lg border text-xs font-mono font-bold flex items-center space-x-1.5 ${
-                wordCount > 650 
-                  ? 'border-rose-400 text-rose-600 bg-rose-50 dark:bg-rose-950/40' 
-                  : wordCount >= 550 
-                  ? 'border-emerald-400 text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40' 
-                  : 'border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300'
-              }`}>
-                <span>{wordCount} / 600 {language === 'hi' ? 'शब्द' : 'words'}</span>
+              <div className="flex items-center space-x-1.5 font-mono text-slate-600 dark:text-slate-300">
+                <Clock className="w-4 h-4 text-indigo-500" />
+                <span className="text-sm font-bold">{formatTimer(timerSeconds)}</span>
               </div>
-
-              <div className="flex items-center space-x-1.5 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-xs font-mono font-bold text-slate-700 dark:text-slate-200">
-                <Clock className="w-3.5 h-3.5 text-amber-500" />
-                <span>{formatTimer(timerSeconds)}</span>
-                <button
-                  onClick={() => setTimerRunning(!timerRunning)}
-                  className="text-[10px] uppercase font-semibold text-indigo-600 dark:text-indigo-400 ml-1 hover:underline"
-                >
-                  {timerRunning ? 'PAUSE' : 'START'}
-                </button>
-              </div>
+              <button
+                onClick={() => setTimerRunning(!timerRunning)}
+                className="px-2.5 py-1 rounded bg-slate-100 dark:bg-slate-800 font-semibold text-slate-700 dark:text-slate-300"
+              >
+                {timerRunning ? 'Pause' : 'Start Timer'}
+              </button>
             </div>
-          </div>
 
-          {/* Interactive Writing Area */}
-          <textarea
-            rows={18}
-            value={essayText}
-            onChange={e => setEssayText(e.target.value)}
-            placeholder={language === 'hi' 
-              ? "निबंध की शुरुआत एक प्रासंगिक सूक्ति या कविता की पंक्ति से करें...\n\nप्रस्तावना:\n...\n\nमुख्य भाग (आर्थिक, सामाजिक, तकनीकी, राजनीतिक आयाम):\n...\n\nउत्तर प्रदेश का संदर्भ एवं सरकारी नीतियां:\n...\n\nनिष्कर्ष:" 
-              : "Commence your 600-word essay following introduction, dimensions, UP perspective and visionary conclusion..."}
-            className="w-full p-4 rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-100 text-xs sm:text-sm font-sans leading-relaxed focus:outline-none focus:ring-2 focus:ring-indigo-500 font-hindi"
-          />
+            <div className="flex items-center space-x-3">
+              <span className={`font-mono font-bold px-3 py-1 rounded-full ${
+                isOverWordLimit
+                  ? 'bg-rose-100 text-rose-700 dark:bg-rose-950 dark:text-rose-300'
+                  : isWordLimitNear
+                  ? 'bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300'
+                  : 'bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300'
+              }`}>
+                {wordCount} / {targetWordCount} {language === 'hi' ? 'शब्द' : 'words'}
+              </span>
 
-          {/* Footer action buttons */}
-          <div className="flex items-center justify-between pt-2">
-            <span className="text-xs text-slate-400">
-              {wordCount < 500 && (language === 'hi' ? 'आदर्श शब्द सीमा 550 से 650 शब्द है।' : 'Ideal length is 550 to 650 words.')}
-              {wordCount >= 550 && wordCount <= 650 && (language === 'hi' ? 'उत्कृष्ट! शब्द सीमा संतुलित है।' : 'Optimal length achieved.')}
-              {wordCount > 650 && (language === 'hi' ? 'सावधान: शब्द सीमा 600 शब्द से अधिक हो रही है।' : 'Warning: Exceeding 600 words target.')}
-            </span>
-
-            <div className="flex items-center space-x-2">
-              {savedSuccess && (
-                <span className="text-xs font-bold text-emerald-600 dark:text-emerald-400">
-                  {language === 'hi' ? 'निबंध सहेजा गया!' : 'Essay Saved!'}
-                </span>
-              )}
               <button
                 onClick={handleSave}
-                className="px-5 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white font-bold text-xs sm:text-sm shadow-md transition-all flex items-center space-x-1.5"
+                className="px-3.5 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white font-bold flex items-center space-x-1.5 transition-all shadow-sm"
               >
-                <Save className="w-4 h-4" />
-                <span>{language === 'hi' ? 'प्रगति सहेजें (Save Locally)' : 'Save Essay'}</span>
+                <Save className="w-3.5 h-3.5" />
+                <span>{savedSuccess ? (language === 'hi' ? 'सहेजा गया!' : 'Saved!') : (language === 'hi' ? 'निबंध सहेजें' : 'Save Essay')}</span>
               </button>
             </div>
           </div>
+
+          <textarea
+            value={essayText}
+            onChange={(e) => setEssayText(e.target.value)}
+            placeholder={language === 'hi'
+              ? `यहाँ ${targetWordCount} शब्दों में निबंध लिखना प्रारंभ करें...\n\nप्रस्तावना (10% शब्द): उद्धरण, परिभाषा या संदर्भ से प्रभावशाली शुरुआत करें।\nमुख्य भाग (80% शब्द): विभिन्न आयामों (सामाजिक, आर्थिक, सांस्कृतिक, तकनीकी व उ.प्र. संदर्भ) में पैराग्राफ बनाएं।\nनिष्कर्ष (10% शब्द): समाधानपरक एवं सकारात्मक भविष्यगामी निष्कर्ष दें।`
+              : `Start writing your ${targetWordCount}-word essay here...\n\nIntro (10%): Opening quote, context, definition.\nBody (80%): Multi-dimensional paragraphs covering UP context and data.\nConclusion (10%): Constructive, optimistic way forward.`}
+            rows={18}
+            className="w-full p-4 rounded-2xl bg-slate-50/50 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 leading-relaxed font-hindi"
+          />
+
+          {isOverWordLimit && (
+            <p className="text-xs text-rose-600 dark:text-rose-400 font-semibold">
+              ⚠️ ध्यान दें: आप शब्द सीमा ({targetWordCount} शब्द) पार कर चुके हैं। मुख्य परीक्षा में शब्द सीमा से अधिक लिखने पर अंक कटते हैं।
+            </p>
+          )}
         </div>
       )}
     </div>

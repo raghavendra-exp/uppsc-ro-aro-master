@@ -1,210 +1,317 @@
 [
   {
-    "id": "essay-cat-a-01",
-    "category": "A_LITERATURE_CULTURE_SOCIAL_POLITICAL",
-    "categoryLabel": { "hi": "खंड 1: साहित्य, संस्कृति, सामाजिक एवं राजनीतिक क्षेत्र", "en": "Section 1: Literature, Culture, Social & Political Spheres" },
-    "title": { "hi": "साहित्य समाज का दर्पण ही नहीं, अपितु दीपक भी है", "en": "Literature is Not Just a Mirror of Society, but a Guiding Beacon" },
-    "wordCountLimit": 600,
+    "id": "essay-sec1-science-01",
+    "mainsSection": "SECTION_1_800W",
+    "sectionNumber": 1,
+    "domain": "विज्ञान, पर्यावरण एवं प्रौद्योगिकी (Science, Environment & Technology)",
+    "marks": 80,
+    "wordCountLimit": 800,
+    "title": {
+      "hi": "कृत्रिम बुद्धिमत्ता (AI) और रोबोटिक्स: भारत में विकास, रोजगार और नैतिक चुनौतियां",
+      "en": "Artificial Intelligence & Robotics: Development, Employment and Ethical Challenges in India"
+    },
     "understanding": {
-      "hi": "यह निबंध दोहरी भूमिका पर केंद्रित है: (1) दर्पण के रूप में साहित्य सामाजिक यथार्थ, कुरीतियों और संघर्षों को प्रतिबिंबित करता है, तथा (2) दीपक के रूप में वह समाज को नई दिशा, मूल्य, संवेदना और प्रगतिशील चेतना प्रदान करता है।",
-      "en": "Dual perspective: Literature as mirror reflects socio-cultural realities and flaws; as beacon it illuminates progressive values and conscience."
+      "hi": "यह निबंध चतुर्थ औद्योगिक क्रांति (Industry 4.0), उत्पादकता लाभ, विस्थापन बनाम नए अवसरों के द्वंद्व तथा डेटा गोपनीयता व एल्गोरिदमिक पक्षपात के नैतिक आयामों का संतुलित विश्लेषण करता है।",
+      "en": "Analyzes Industry 4.0, productivity gains, technological unemployment vs new skill creation, and ethical AI governance."
     },
     "introductionFramework": [
-      { "hi": "आचार्य महावीर प्रसाद द्विवेदी या मैथिलीशरण गुप्त की पंक्तियों से आरंभ: 'साहित्य समाज की संचित चित्तवृत्तियों का प्रतिबिंब है'।", "en": "Begin with classical quote on literature being reflective consciousness of humankind." },
-      { "hi": "दर्पण और दीपक के रूपक (Metaphor) की दार्शनिक व्याख्या करें।", "en": "Unpack the metaphor: passive reflection versus active enlightenment." }
+      { "hi": "स्टीफन हॉकिंग या सुंदर पिचाई के कथन से आरंभ: 'एआई मानवता के लिए बिजली या आग की खोज से भी अधिक गहरा प्रभावकारी परिवर्तन है'।", "en": "Begin with profound quote on AI as general-purpose foundational technology." },
+      { "hi": "भारत की राष्ट्रीय रणनीति 'AI for All' (NITI Aayog) का संदर्भ प्रस्तुत करें।", "en": "Cite NITI Aayog's 'AI for All' national mission." }
     ],
     "backgroundContext": {
-      "hi": "भक्ति आंदोलन से लेकर स्वतंत्रता संग्राम और आधुनिक डिजिटल युग तक साहित्य ने सदैव सामाजिक परिवर्तन का पथ प्रशस्त किया है।",
-      "en": "From Bhakti movement to freedom movement and modern cyber-era, literature paved systemic reform."
+      "hi": "स्वास्थ्य, कृषि (प्रेसिजन फार्मिंग), रक्षा और प्रशासन में जनरेटिव एआई तथा रोबोटिक्स का तीव्र गति से प्रवेश।",
+      "en": "Rapid deployment of GenAI and automated robotics across healthcare, agriculture, defense, and public governance."
     },
     "dimensions": [
       {
-        "dimension": { "hi": "सांस्कृतिक एवं नैतिक आयाम", "en": "Cultural & Ethical Dimension" },
+        "dimension": { "hi": "आर्थिक एवं विनिर्माण आयाम", "en": "Economic & Manufacturing Dimension" },
         "points": [
-          { "hi": "कबीर, तुलसी और सूरदास ने तत्कालीन विषमताओं को दिखाया और मानवीय समरसता का दीपक जलाया।", "en": "Kabir, Tulsi highlighted bigotry while preaching fraternal humanism." }
+          { "hi": "उत्पादकता में तीव्र वृद्धि, विनिर्माण में शून्य-दोष उत्पादन, लॉजिस्टिक्स व आपूर्ति श्रृंखला का स्वतः संचालन।", "en": "Hyper-productivity, zero-defect automated manufacturing, supply chain optimization." }
         ]
       },
       {
-        "dimension": { "hi": "राष्ट्रवादी एवं राजनीतिक आयाम", "en": "Nationalist & Political Dimension" },
+        "dimension": { "hi": "रोजगार एवं कार्यबल रूपांतरण", "en": "Employment & Workforce Transformation" },
         "points": [
-          { "hi": "भारतेंदु हरिश्चंद्र ('भारत दुर्दशा'), प्रेमचंद ('गोदान', 'कफ़न') और दिनकर ('हुंकार') ने जनता में स्वराज की लौ प्रज्वलित की।", "en": "Premchand, Bharatendu Harishchandra stirred anti-colonial resistance and peasant awakening." }
+          { "hi": "परंपरागत बीपीओ, डेटा एंट्री व शारीरिक श्रम वाले कार्यों में विस्थापन की आशंका; साइबर सुरक्षा, एआई ट्रेनिंग और डेटा साइंस में नए उच्च-वेतन रोजगार।", "en": "Displacement risks in routine clerical/BPO tasks vs emergence of high-value AI auditing and data science roles." }
         ]
       },
       {
-        "dimension": { "hi": "समकालीन सामाजिक विमर्श (दलित, स्त्री व हाशिए का समाज)", "en": "Contemporary Subaltern & Gender Discourse" },
+        "dimension": { "hi": "शासन एवं जन-कल्याण आयाम", "en": "Governance & Citizen Welfare Dimension" },
         "points": [
-          { "hi": "महादेवी वर्मा, मन्नू भंडारी, ओमप्रकाश वाल्मीकि ने उपेक्षित वर्गों की वेदना को मुखर किया।", "en": "Women and subaltern writers illuminating systemic inequities and dignity." }
+          { "hi": "सरकारी सेवाओं में पारदर्शिता, चेहरे की पहचान (FRT), आयुष्मान भारत में एआई डायग्नोस्टिक्स, किसान ई-मित्र।", "en": "Facial recognition in PDS, AI diagnostics in Ayushman Bharat, automated welfare grievance redressal." }
+        ]
+      },
+      {
+        "dimension": { "hi": "नैतिक एवं सुरक्षा संबंधी चुनौतियां", "en": "Ethical & Security Challenges" },
+        "points": [
+          { "hi": "डीपफेक, साइबर युद्ध, एल्गोरिदमिक पूर्वाग्रह, डिजिटल विभाजन तथा रोबोटिक्स में घातक स्वायत्त हथियार प्रणाली (LAWS)।", "en": "Deepfakes, Lethal Autonomous Weapon Systems (LAWS), algorithmic bias, surveillance capitalism." }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "यदि साहित्य केवल यथार्थ (दर्पण) दिखाए तो निराशा उत्पन्न हो सकती है; दीपक के रूप में वह समाधान और आशा का संचार करता है।", "en": "Mirror alone breeds cynicism; beacon provides constructive hope and ethical direction." }
+      { "hi": "तकनीक मानव की स्थानापन्न (Substitute) नहीं, बल्कि पूरक (Enabler) बननी चाहिए। 'मानव-केंद्रित एआई' (Human-centric AI) ही स्थाई समाधान है।", "en": "Technology must augment human capability rather than replace human agency." }
     ],
     "relevantFactsAndData": [
-      { "hi": "मुंशी प्रेमचंद की पत्रिका 'हंस' और गणेश शंकर विद्यार्थी का 'प्रताप' स्वतंत्रता की वैचारिक पीठिका बने।", "en": "Premchand's 'Hans' and Ganesh Shankar Vidyarthi's 'Pratap' served as intellectual launchpads of freedom." }
+      { "hi": "नीति आयोग का अनुमान: 2035 तक भारतीय अर्थव्यवस्था में AI का योगदान $967 बिलियन हो सकता है।", "en": "NITI Aayog projects AI will add $967 billion to the Indian economy by 2035." }
     ],
     "govtInitiatives": [
-      { "hi": "साहित्य अकादमी पुरस्कार, ज्ञानपीठ, उत्तर प्रदेश हिन्दी संस्थान द्वारा भारत भारती पुरस्कार।", "en": "Sahitya Akademi, Jnanpith, and UP Hindi Sansthan Bharat Bharati awards celebrating literary merit." }
+      { "hi": "इंडिया एआई मिशन (₹10,372 करोड़), डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम (DPDPA 2023), राष्ट्रीय रोबोटिक्स रणनीति।", "en": "IndiaAI Mission (₹10,372 Cr), Digital Personal Data Protection Act 2023, National Strategy for Robotics." }
     ],
     "upPerspective": [
-      { "hi": "उत्तर प्रदेश हिन्दी साहित्य का उद्गम स्थल रहा है: कबीर (काशी), तुलसी (चित्रकूट/वाराणसी), प्रेमचंद (लमही), निराला (प्रयागराज), महादेवी वर्मा (प्रयागराज)।", "en": "UP is the heartland of Hindi: Kabir & Tulsi (Kashi), Premchand (Lamhi), Nirala & Mahadevi (Prayagraj)." }
+      { "hi": "उत्तर प्रदेश: लखनऊ में देश का पहला 'एआई सिटी' (AI City Lucknow) विकास परियोजना; नोएडा व ग्रेटर नोएडा में डेटा सेंटर हब; यूपी 112 में आपातकालीन प्रतिक्रिया हेतु प्रेडिक्टिव पुलिसिंग।", "en": "UP: India's first AI City planned at Lucknow; Data Center hub in Greater Noida; predictive emergency analytics in UP-112." }
     ],
     "wayForward": [
-      { "hi": "डिजिटल एवं सोशल मीडिया के दौर में गंभीर पठन संस्कृति को बढ़ावा देना, पुस्तकालयों का पुनरुद्धार और स्थानीय बोलियों का संरक्षण।", "en": "Fostering deep reading culture in digital age, revitalizing public libraries and preserving folk dialects." }
+      { "hi": "व्यापक री-स्किलिंग एवं अप-स्किलिंग मिशन, विद्यालयों में कोडिंग व स्टेम (STEM) शिक्षा, मजबूत विधिक व नैतिक नियामक ढांचा।", "en": "Large-scale workforce reskilling, school STEM literacy, and statutory ethical AI guardrails." }
     ],
     "conclusionFramework": [
-      { "hi": "साहित्य केवल शब्दों का विन्यास नहीं, राष्ट्र की आत्मा है। जब तक समाज में अन्याय रहेगा, साहित्य का दीपक जलता रहेगा।", "en": "Literature is the soul of the commonwealth, an unquenchable light upholding truth." }
+      { "hi": "एआई एक शक्तिशाली उपकरण है। यदि इसका नियंत्रण मानवीय मूल्यों, न्याय और समावेशिता के साथ किया जाए तो यह 'विकसित भारत 2047' का सबसे बड़ा इंजन सिद्ध होगा।", "en": "AI steered by human ethics and constitutional justice will be the premier catalyst for Viksit Bharat 2047." }
     ],
-    "keywords": ["प्रतिबिंब", "दिशा-बोध", "संवेदना", "मानवतावाद", "सामाजिक कुरीतियां", "जागृति", "उत्तर प्रदेश साहित्य पीठ"],
+    "keywords": ["चतुर्थ औद्योगिक क्रांति", "मानव-केंद्रित एआई", "एआई सिटी लखनऊ", "इंडिया एआई मिशन", "डेटा संप्रभुता", "नैतिक रूपरेखा"],
     "quotations": [
-      "साहित्य जनसमूह के हृदय का विकास है। — पं. बालकृष्ण भट्ट",
-      "साहित्य वह जादू की लकड़ी है जो पशुओं में ईंट-पत्थरों में भी जान फूंक देती है। — मुंशी प्रेमचंद"
+      "मशीनें कभी भी मानवीय संवेदना, अंतरात्मा और नैतिक विवेक का विकल्प नहीं बन सकतीं।",
+      "तकनीक जब तक वंचितों के आंसू पोंछने में काम न आए, तब तक वह पूर्ण नहीं है।"
     ],
     "commonPitfalls": [
-      { "hi": "केवल कवियों की जीवनी लिख देना और विषय के विश्लेषणात्मक पक्ष को छोड़ देना।", "en": "Writing poet biographies instead of analytical synthesis of social impact." },
-      { "hi": "शब्द सीमा (600 शब्द) से बहुत अधिक या कम लिखना।", "en": "Deviating drastically from 600 words target." }
+      { "hi": "केवल तकनीकी शब्दावली का अत्यधिक उपयोग करना और सामाजिक-आर्थिक प्रभावों की उपेक्षा करना।", "en": "Over-indexing on tech jargon while ignoring socio-economic and employment realities." }
     ],
     "checklist": [
-      { "hi": "क्या प्रस्तावना में शीर्षक का अर्थ स्पष्ट किया गया है?", "en": "Is the core premise clarified in introduction?" },
-      { "hi": "क्या दर्पण और दीपक दोनों पक्षों पर संतुलित विचार है?", "en": "Is balance maintained between reflection (mirror) and enlightenment (beacon)?" },
-      { "hi": "क्या उ.प्र. के साहित्यकारों के प्रासंगिक उदाहरण दिए गए हैं?", "en": "Are UP literary legends suitably cited?" },
-      { "hi": "क्या शब्द संख्या 550 से 650 के मध्य है?", "en": "Is word count strictly 550 - 650 words?" }
+      { "hi": "क्या NITI Aayog की 'AI for All' रणनीति का उल्लेख है?", "en": "Mentioned NITI Aayog's AI for All?" },
+      { "hi": "क्या उत्तर प्रदेश के लखनऊ AI City या डेटा सेंटर का संदर्भ दिया?", "en": "Referenced UP's Lucknow AI City or Data Centers?" },
+      { "hi": "क्या 800 शब्द सीमा के भीतर संतुलित निष्कर्ष निकाला?", "en": "Maintained strict 800-word discipline with constructive conclusion?" }
     ]
   },
   {
-    "id": "essay-cat-b-01",
-    "category": "B_SCIENCE_TECH_ECONOMY_AGRI",
-    "categoryLabel": { "hi": "खंड 2: विज्ञान, पर्यावरण, प्रौद्योगिकी, अर्थव्यवस्था, कृषि एवं व्यापार", "en": "Section 2: Science, Environment, Tech, Economy, Agri & Trade" },
-    "title": { "hi": "कृत्रिम बुद्धिमत्ता (AI): विकास का संवाहक अथवा मानवता हेतु चुनौती", "en": "Artificial Intelligence (AI): Engine of Growth or Existential Challenge to Humanity" },
-    "wordCountLimit": 600,
+    "id": "essay-sec1-disasters-02",
+    "mainsSection": "SECTION_1_800W",
+    "sectionNumber": 1,
+    "domain": "प्राकृतिक आपदाएं (Natural Disasters: Floods, Droughts, Landslides)",
+    "marks": 80,
+    "wordCountLimit": 800,
+    "title": {
+      "hi": "जलवायु परिवर्तन और प्राकृतिक आपदाएं: भारत में शमन, अनुकूलन एवं आपदा प्रबंधन चक्र",
+      "en": "Climate Change & Natural Disasters: Mitigation, Adaptation & Disaster Management Cycle in India"
+    },
     "understanding": {
-      "hi": "आधुनिक युग में जेनरेटिव एआई एवं मशीन लर्निंग के अभूतपूर्व प्रसार से आर्थिक समृद्धि और प्रशासनिक दक्षता बढ़ी है, किंतु डेटा सुरक्षा, रोजगार संकट और नैतिक संकट भी उभरे हैं।",
-      "en": "Surge of Generative AI accelerating economic efficiency and public service delivery while raising data privacy, job disruption and existential ethical dilemmas."
+      "hi": "बाढ़, सूखा, चक्रवात और भूस्खलन की बढ़ती आवृत्ति के बीच पारंपरिक राहत-केंद्रित दृष्टिकोण से हटकर 'आपदा जोखिम न्यूनीकरण' (DRR) एवं सेंडाई फ्रेमवर्क के क्रियान्वयन का मूल्यांकन।",
+      "en": "Assesses the transition from reactive relief to proactive Disaster Risk Reduction (DRR) and Sendai Framework."
     },
     "introductionFramework": [
-      { "hi": "चौथी औद्योगिक क्रांति (Industry 4.0) के केंद्र में एआई की उपस्थिति को रेखांकित करते हुए निबंध आरंभ करें।", "en": "Open with Fourth Industrial Revolution framing AI as the transformative electricity of 21st century." }
+      { "hi": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस के कथन से आरंभ: 'ग्लोबल वार्मिंग का युग समाप्त हो चुका है; अब ग्लोबल बॉयलिंग का युग शुरू हो गया है'।", "en": "Open with UN Secretary-General's warning on global boiling and extreme climate events." },
+      { "hi": "आपदा और जोखिम के मध्य संबंध को परिभाषित करें।", "en": "Define Disaster Risk = (Hazard x Vulnerability) / Capacity." }
     ],
     "backgroundContext": {
-      "hi": "चैटजीपीटी, डीपफेक, ऑटोनॉमस सिस्टम्स एवं स्वास्थ्य-कृषि में एआई के बढ़ते अनुप्रयोग।",
-      "en": "Rapid adoption of LLMs, robotics, precision agriculture and smart governance diagnostics."
+      "hi": "भारत का 58% भूभाग भूकंपीय रूप से संवेदनशील, 12% क्षेत्र बाढ़ प्रवण, 68% कृषि भूमि सूखे से प्रभावित तथा 7516 किमी लंबी तटरेखा चक्रवातों से सुभेद्य।",
+      "en": "58% India landmass quake-prone, 12% flood-prone, 68% drought-prone, and 7516 km coastline cyclone-vulnerable."
     },
     "dimensions": [
       {
-        "dimension": { "hi": "प्रशासनिक एवं आर्थिक समृद्धि (सकारात्मक)", "en": "Governance & Economic Dividends" },
+        "dimension": { "hi": "भौगोलिक एवं पर्यावरणीय आयाम", "en": "Geographical & Environmental Dimension" },
         "points": [
-          { "hi": "ई-ऑफिस, जन शिकायतों का ऑटोमेटेड विश्लेषण, कृषि में कीट पहचान और मौसम पूर्वानुमान।", "en": "Predictive maintenance, automated grievance redressal, smart agricultural advisory." }
+          { "hi": "हिमालयी पारिस्थितिकी में भूस्खलन व ग्लेशियल लेक आउटबर्स्ट फ्लड्स (GLOF); पश्चिमी विक्षोभ और मानसूनी अनिश्चितता।", "en": "Himalayan fragility, landslides, GLOF, erratic western disturbances." }
         ]
       },
       {
-        "dimension": { "hi": "रोजगार एवं आर्थिक विषमता (चुनौती)", "en": "Employment & Economic Disparity" },
+        "dimension": { "hi": "आपदा प्रबंधन चक्र (Disaster Management Cycle)", "en": "Disaster Management Cycle" },
         "points": [
-          { "hi": "व्हाइट-कॉलर नौकरियों पर संकट, रोबोटिक्स से श्रम विस्थापन, तकनीकी एकाधिकार।", "en": "Risk of disruption in entry-level analytical and clerical roles; algorithmic bias." }
+          { "hi": "तैयारी (पूर्व-चेतावनी, मौसम रडार) → त्वरित बचाव (NDRF/SDRF) → राहत वितरण → लचीला पुनर्निर्माण (Build Back Better)।", "en": "Preparedness (Doppler radars) → Response (NDRF) → Relief → Resilient Reconstruction." }
         ]
       },
       {
-        "dimension": { "hi": "नैतिक, कानूनी एवं साइबर सुरक्षा पहलू", "en": "Ethical, Legal & Cybersecurity Dimensions" },
+        "dimension": { "hi": "आर्थिक एवं कृषि प्रभाव", "en": "Economic & Agricultural Impact" },
         "points": [
-          { "hi": "डीपफेक से भ्रामक सूचनाएं, निजता का हनन (डीपीडीपी एक्ट 2023), स्वायत्त हथियारों का खतरा।", "en": "Deepfakes eroding democratic trust; personal data infringement; weaponization of AI." }
+          { "hi": "जीडीपी को प्रत्यक्ष नुकसान, फसल क्षति, ग्रामीण ऋणग्रस्तता एवं आपदा जनित विस्थापन।", "en": "GDP destruction, crop losses, distress rural migration." }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "प्रौद्योगिकी स्वयं में तटस्थ होती है; उसका मानवीय कल्याण या विनाशकारी उपयोग हमारे विनियामक ढांचे पर निर्भर करता है।", "en": "Technology is intrinsically neutral; human agency and regulatory guardrails govern its ultimate outcome." }
+      { "hi": "आपदाएं प्राकृतिक हो सकती हैं, किंतु उनकी भयावहता मानवीय अनियोजित विकास, वनों की कटाई और अतिक्रमण का परिणाम है।", "en": "Hazards may be natural, but disasters are exacerbated by unplanned development and ecological degradation." }
     ],
     "relevantFactsAndData": [
-      { "hi": "नीति आयोग का 'AI for All' विजन; वैश्विक एआई बाजार 2030 तक 1.3 ट्रिलियन डॉलर पहुंचने का अनुमान।", "en": "NITI Aayog's 'AI for All' initiative; Global AI market projected to surpass $1.3 Trillion by 2030." }
+      { "hi": "सेंडाई फ्रेमवर्क (2015-2030) के 4 स्तंभ और प्रधानमंत्री का 10-सूत्रीय आपदा जोखिम एजेंडा।", "en": "Sendai Framework (2015-2030) priorities and PM's 10-Point DRR Agenda." }
     ],
     "govtInitiatives": [
-      { "hi": "डिजिटल इंडिया भाषिणी (स्थानीय भारतीय भाषाओं में एआई अनुवाद), इंडिया एआई मिशन (IndiaAI Mission - ₹10,372 करोड़)।", "en": "Bhashini AI language bridge; IndiaAI Mission with allocation of over ₹10,372 Crores." }
+      { "hi": "आपदा प्रबंधन अधिनियम 2005, NDMA, राष्ट्रीय आपदा मोचन बल (NDRF), आपदा रोधी अवसंरचना गठबंधन (CDRI)।", "en": "Disaster Management Act 2005, NDMA, NDRF, Coalition for Disaster Resilient Infrastructure (CDRI)." }
     ],
     "upPerspective": [
-      { "hi": "उत्तर प्रदेश सरकार लखनऊ को देश की प्रथम 'एआई सिटी' (AI City) के रूप में विकसित कर रही है; नोएडा में आईटी-एआई हब।", "en": "UP Govt establishing India's first dedicated 'AI City' in Lucknow; expanding Noida IT/AI corridor." }
+      { "hi": "उत्तर प्रदेश: पूर्वी उ.प्र. (तराई क्षेत्र) में घाघरा, राप्ती और गंडक की वार्षिक बाढ़; बुंदेलखंड में दीर्घकालिक सूखा एवं भूजल संकट; राहत आयुक्त कार्यालय द्वारा 'राहत पोर्टल' और अर्ली वार्निंग सायरन नेटवर्क।", "en": "UP: Eastern UP annual floods (Rapti, Ghaghra, Gandak); Bundelkhand chronic drought; UP Relief Commissioner's Raahat Portal." }
     ],
     "wayForward": [
-      { "hi": "कड़े नैतिक मानक (Responsible AI), व्यापक डिजिटल पुनर्-कौशलीकरण (Reskilling), और मजबूत डेटा सुरक्षा कानून का क्रियान्वयन।", "en": "Implementation of ethical AI benchmarks, mass workforce reskilling, and robust data protection enforcement." }
+      { "hi": "प्रकृति-आधारित समाधान (Nature-based solutions), मैंग्रोव व वेटलैंड्स का पुनरुद्धार, जलवायु-सहिष्णु कृषि, जिला स्तरीय सामुदायिक स्वयंसेवकों (आपदा मित्र) का सशक्तिकरण।", "en": "Nature-based solutions, climate-resilient agriculture, empowerment of community Aapda Mitra volunteers." }
     ],
     "conclusionFramework": [
-      { "hi": "एआई को मानव का विकल्प नहीं बल्कि मानव बुद्धि का पूरक बनना चाहिए। 'प्रौद्योगिकी मानव की सेवा के लिए है, मानव प्रौद्योगिकी की नहीं'।", "en": "AI must augment human intellect rather than replace it, anchored in empathy and constitutional values." }
+      { "hi": "प्रकृति के साथ संघर्ष नहीं, सह-अस्तित्व ही मानव जाति की रक्षा कर सकता है। सेंडाई फ्रेमवर्क का अक्षरशः पालन ही सुरक्षित भारत का मार्ग है।", "en": "Coexistence with ecology rather than conquest will secure civilizational resilience." }
     ],
-    "keywords": ["कृत्रिम बुद्धिमत्ता", "चतुर्थ औद्योगिक क्रांति", "जिम्मेदार एआई", "भाषिणी", "लखनऊ एआई सिटी", "पुनर्कौशलीकरण"],
+    "keywords": ["आपदा प्रबंधन चक्र", "सेंडाई फ्रेमवर्क", "बिल्ड बैक बेटर", "एनडीआरएफ", "बुंदेलखंड सूखा", "सीडीआरआई"],
     "quotations": [
-      "विज्ञान वरदान है या अभिशाप, यह इस बात पर निर्भर करता है कि उसका उपयोग कौन और किस उद्देश्य से कर रहा है।"
+      "पृथ्वी सभी की आवश्यकताओं की पूर्ति कर सकती है, किंतु किसी के लालच की नहीं। — महात्मा गांधी"
     ],
     "commonPitfalls": [
-      { "hi": "केवल तकनीकी परिभाषाओं में उलझ जाना और सामाजिक-प्रशासनिक पहलुओं की अनदेखी करना।", "en": "Overemphasizing technical jargon while ignoring socio-economic and ethical impacts." }
+      { "hi": "केवल बाढ़ या भूकंप का वर्णन करना और आपदा प्रबंधन चक्र (Mitigation, Response, Recovery) के तकनीकी चरणों को छोड़ देना।", "en": "Merely describing damages without explaining the institutional Disaster Management Cycle." }
     ],
     "checklist": [
-      { "hi": "क्या एआई के लाभ और खतरे दोनों निष्पक्ष रूप से प्रस्तुत किए गए हैं?", "en": "Are both benefits and perils balanced equitably?" },
-      { "hi": "क्या भारत एवं उ.प्र. सरकार (उदा. लखनऊ एआई सिटी) का उल्लेख है?", "en": "Are Govt of India & UP initiatives (e.g. Lucknow AI City) cited?" },
-      { "hi": "क्या समाधानपरक निष्कर्ष (Way Forward) दिया गया है?", "en": "Is a forward-looking conclusion articulated?" }
+      { "hi": "क्या आपदा प्रबंधन चक्र के चारों चरण शामिल हैं?", "en": "Explained all 4 phases of Disaster Cycle?" },
+      { "hi": "क्या पूर्वी उ.प्र. बाढ़ और बुंदेलखंड सूखे का विशिष्ट उल्लेख है?", "en": "Included Eastern UP floods & Bundelkhand drought?" }
     ]
   },
   {
-    "id": "essay-cat-c-01",
-    "category": "C_NATIONAL_INTERNATIONAL_DISASTER_PLANS",
-    "categoryLabel": { "hi": "खंड 3: राष्ट्रीय एवं अंतर्राष्ट्रीय घटनाक्रम, प्राकृतिक आपदाएं एवं राष्ट्रीय विकास योजनाएं", "en": "Section 3: National/International Events, Natural Calamities & National Development Plans" },
-    "title": { "hi": "जलवायु परिवर्तन, बाढ़ एवं सूखा: उत्तर प्रदेश के संदर्भ में आपदा प्रबंधन", "en": "Climate Change, Floods & Droughts: Disaster Management in UP's Context" },
-    "wordCountLimit": 600,
+    "id": "essay-sec2-culture-01",
+    "mainsSection": "SECTION_2_1200W",
+    "sectionNumber": 2,
+    "domain": "साहित्य एवं संस्कृति (Literature & Culture)",
+    "marks": 120,
+    "wordCountLimit": 1200,
+    "title": {
+      "hi": "भारतीय संस्कृति में 'वसुधैव कुटुम्बकम्' और 'सर्वे भवन्तु सुखिनः': शाश्वत मूल्य एवं समकालीन प्रासंगिकता",
+      "en": "'Vasudhaiva Kutumbakam' and Universal Welfare in Indian Culture: Timeless Values and Contemporary Global Relevance"
+    },
     "understanding": {
-      "hi": "वैश्विक जलवायु परिवर्तन के कारण अनपेक्षित मौसमी घटनाएं बढ़ी हैं। उत्तर प्रदेश में एक ओर पूर्वांचल और तराई में भीषण बाढ़ तथा दूसरी ओर बुंदेलखंड में सूखे की विभीषिका एक गंभीर विकासात्मक चुनौती है।",
-      "en": "Climate change triggers asymmetric extremes: recurrent flooding in Eastern UP/Terai alongside perpetual drought cycles in Bundelkhand."
+      "hi": "1200 शब्दों का यह दीर्घ निबंध भारतीय दर्शन, उपनिषदिक चिंतन, सर्व-समावेशिता, वैश्विक कूटनीति (G20 थीम), पर्यावरण संरक्षण तथा युद्ध-ग्रस्त विश्व में शांति की भारतीय अवधारणा का गहन दार्शनिक अन्वेषण करता है।",
+      "en": "A 1200-word analytical exploration of Upanishadic universal brotherhood, cosmopolitan diplomacy, and India's soft power."
     },
     "introductionFramework": [
-      { "hi": "आईपीसीसी (IPCC) की नवीनतम रिपोर्ट के हवाले से जलवायु संकट की तीव्रता और खाद्य-सुरक्षा पर इसके खतरे से शुरुआत।", "en": "Begin with IPCC warning on accelerating weather anomalies and threats to food security in Gangetic basin." }
+      { "hi": "महोपनिषद् के श्लोक से भव्य आरंभ: 'अयं निजः परो वेति गणना लघुचेतसाम्। उदारचरितानां तु वसुधैव कुटुम्बकम्॥'", "en": "Open with classical Maha Upanishad verse defining universal fraternity." },
+      { "hi": "भारत की जी-20 अध्यक्षता का आधिकारिक आदर्श वाक्य 'एक पृथ्वी, एक कुटुम्ब, एक भविष्य' (One Earth, One Family, One Future) के वैश्विक संदर्भ से जोड़ें।", "en": "Connect to G20 diplomatic motto: 'One Earth, One Family, One Future'." }
     ],
     "backgroundContext": {
-      "hi": "उ.प्र. की भौगोलिक विविधता: घाघरा, राप्ती, गंगा में बाढ़ की पुनरावृत्ति तथा विंध्य-बुंदेलखंड की जल संकटग्रस्त स्थिति।",
-      "en": "Geographical contrast: Ghaghra, Rapti, Gandak causing floods, while Betwa and Ken basins suffer acute rain deficits."
+      "hi": "वैदिक काल से लेकर आधुनिक युग तक भारत ने कभी साम्राज्यवादी विस्तार नहीं किया, बल्कि 'सत्यमेव जयते' और 'अहिंसा परमो धर्मः' के नैतिक संदेश को विश्व में प्रसारित किया।",
+      "en": "From Vedic antiquity to modern era, India radiated moral universalism rather than geopolitical imperial conquest."
     },
     "dimensions": [
       {
-        "dimension": { "hi": "कृषि एवं आजीविका पर प्रभाव", "en": "Agricultural & Livelihood Impact" },
+        "dimension": { "hi": "दार्शनिक एवं आध्यात्मिक आयाम", "en": "Philosophical & Spiritual Dimension" },
         "points": [
-          { "hi": "खड़ी फसलों का विनाश, पशुधन हानि, किसानों का मौसमी पलायन।", "en": "Crop destruction, livestock losses, and distress migration of marginal farmers." }
+          { "hi": "अद्वैत वेदांत (शंकराचार्य): समस्त जीवों में एक ही ब्रह्म का निवास; प्राणीमात्र के प्रति करुणा एवं आत्मीयता।", "en": "Advaita Vedanta: Unity of all cosmic existence, empathy for all sentient life." }
         ]
       },
       {
-        "dimension": { "hi": "स्वास्थ्य एवं पारिस्थितिक संकट", "en": "Health & Ecological Fallout" },
+        "dimension": { "hi": "सांस्कृतिक एवं ऐतिहासिक सहिष्णुता", "en": "Cultural & Historical Pluralism" },
         "points": [
-          { "hi": "जलजनित बीमारियां (डायरिया, हैजा), भूजल स्तर में भारी गिरावट।", "en": "Spread of water-borne epidemics and alarming depletion of groundwater tables." }
+          { "hi": "पारसियों, यहूदियों, तिब्बतियों को शरण; विभिन्न धर्मों, जातियों व संस्कृतियों का भारत में गंगा-जमुनी समागम।", "en": "Historic sanctuary to Parsis, Jews, Tibetans; composite Ganga-Jamuni syncretism." }
         ]
       },
       {
-        "dimension": { "hi": "प्रशासनिक एवं आपदा प्रबंधन तंत्र", "en": "Administrative & Disaster Management Architecture" },
+        "dimension": { "hi": "विदेश नीति एवं वैश्विक कूटनीतिक आयाम", "en": "Foreign Policy & Geopolitical Soft Power" },
         "points": [
-          { "hi": "राहत वितरण से आगे बढ़कर 'आपदा-पूर्व तैयारी' और जोखिम न्यूनीकरण (Sendai Framework) की आवश्यकता।", "en": "Shifting from reactive relief to proactive Sendai Framework of disaster risk reduction." }
+          { "hi": "'वैक्सीन मैत्री', आपदाओं में 'ऑपरेशन दोस्त', ग्लोबल साउथ की आवाज बनना, अंतर्राष्ट्रीय सौर गठबंधन (ISA) व मिशन लाइफ (LiFE)।", "en": "Vaccine Maitri, Operation Dost, championing the Global South, International Solar Alliance." }
+        ]
+      },
+      {
+        "dimension": { "hi": "आधुनिक विश्व की चुनौतियां एवं भारतीय समाधान", "en": "Contemporary Crises & Indic Solutions" },
+        "points": [
+          { "hi": "भू-राजनीतिक संघर्ष (यूक्रेन, मध्य पूर्व), जलवायु संकट, संकीर्ण राष्ट्रवाद और आतंकवाद का समाधान एकात्म मानव दर्शन में निहित है।", "en": "Antidote to polarising geopolitics, xenophobia, ecological devastation and war." }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "नदियों के जल का वैज्ञानिक प्रबंधन और इंटरलिंकिंग (उदा. केन-बेतवा लिंक) सूखे और बाढ़ दोनों का स्थायी समाधान बन सकता है।", "en": "Scientific watershed management and Ken-Betwa river interlinking offer twin solutions to flood-drought imbalance." }
+      { "hi": "वसुधैव कुटुम्बकम् केवल एक आकर्षक नारा नहीं, बल्कि 21वीं सदी में मानव अस्तित्व की अनिवार्य शर्त (Prerequisite for Survival) है।", "en": "Universal fraternity is not rhetoric, but an existential imperative for planetary survival." }
     ],
     "relevantFactsAndData": [
-      { "hi": "उ.प्र. का लगभग 27% भूभाग बाढ़ संवेदनशील है, विशेषकर तराई व पूर्वी जिले।", "en": "Nearly 27% of UP's geographical expanse is flood-prone, predominantly Terai and Purvanchal." }
+      { "hi": "भारत द्वारा 100 से अधिक देशों को कोविड टीकों का निर्यात, पर्यावरण संरक्षण हेतु 'मिशन LiFE' (Lifestyle for Environment)।", "en": "Export of vaccines to 100+ nations; Mission LiFE lifestyle philosophy embraced globally." }
     ],
     "govtInitiatives": [
-      { "hi": "प्रधानमंत्री कृषि सिंचाई योजना, अटल भूजल योजना, राज्य आपदा मोचन निधि (SDRF), राहत आयुक्त कार्यालय का डिजिटल डैशबोर्ड।", "en": "PM Krishi Sinchayee Yojana, Atal Bhujal Yojana, UP SDRF modernization and Relief Commissioner real-time portal." }
+      { "hi": "अंतर्राष्ट्रीय योग दिवस (21 जून), अंतर्राष्ट्रीय सौर गठबंधन, आपदा रोधी अवसंरचना गठबंधन (CDRI), राष्ट्रीय पांडुलिपि मिशन।", "en": "International Day of Yoga, International Solar Alliance, CDRI, National Manuscripts Mission." }
     ],
     "upPerspective": [
-      { "hi": "बुंदेलखंड में 'खेत-तालाब योजना' एवं केन-बेतवा लिंक परियोजना; गोरखपुर-महराजगंज में तटबंधों की जियो-टैगिंग।", "en": "Bundelkhand Khet-Talab Yojana, Ken-Betwa link project, and geo-tagging of embankments in Gorakhpur/Maharajganj." }
+      { "hi": "उत्तर प्रदेश: काशी (विश्व की प्राचीनतम जीवंत सांस्कृतिक नगरी), प्रयागराज (महाकुंभ - मानवता की अमूर्त सांस्कृतिक धरोहर), अयोध्या (मर्यादा पुरुषोत्तम राम का समरसता संदेश), सारनाथ (भगवान बुद्ध का प्रथम धम्मचक्र प्रवर्तन)।", "en": "UP as cultural epicenter: Kashi, Prayagraj Mahakumbh (UNESCO Intangible Heritage), Ayodhya, Sarnath." }
     ],
     "wayForward": [
-      { "hi": "पारंपरिक जल स्रोतों (बावड़ियों, पोखरों) का पुनर्जीवन, अर्ली वॉर्निंग सिस्टम का विस्तार, सामुदायिक आपदा मित्रों का प्रशिक्षण।", "en": "Revival of traditional ponds/baolis, Doppler radar early warnings, and training grassroots Aapda Mitra volunteers." }
+      { "hi": "शैक्षिक पाठ्यक्रमों में भारतीय ज्ञान प्रणाली (IKS) का समावेशन, सांस्कृतिक कूटनीति का सुदृढ़ीकरण, वैश्विक संस्थाओं (UNSC) में सुधार।", "en": "Mainstreaming Indian Knowledge Systems (IKS), strengthening cultural diplomacy, UN multilateral reforms." }
     ],
     "conclusionFramework": [
-      { "hi": "प्रकृति के साथ समन्वय ही टिकाऊ विकास का मार्ग है। आपदा-प्रतिरोधी अवसंरचना से ही उत्तर प्रदेश 'एक ट्रिलियन डॉलर अर्थव्यवस्था' का लक्ष्य प्राप्त कर सकेगा।", "en": "Disaster-resilient infrastructure is vital for UP to realize its vision of a $1 Trillion economy sustainably." }
+      { "hi": "'सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः' के वैश्विक मंगलाचरण के साथ समापन। जब विश्व युद्ध और स्वार्थ में जल रहा हो, तब भारत का सांस्कृतिक दर्शन ही विश्व बंधुत्व का शीतल अमृत प्रदान कर सकता है।", "en": "Conclude with Sarve Bhavantu Sukhinah: When global order fractures, India's cultural compass offers healing fraternity." }
     ],
-    "keywords": ["जलवायु परिवर्तन", "आपदा प्रबंधन", "सेंडाई फ्रेमवर्क", "केन-बेतवा लिंक", "बुंदेलखंड जल संकट", "आपदा मित्र"],
+    "keywords": ["वसुधैव कुटुम्बकम्", "महाकुंभ प्रयागराज", "गंगा-जमुनी तहजीब", "मिशन लाइफ", "वैक्सीन मैत्री", "सॉफ्ट पावर"],
     "quotations": [
-      "धरती के पास सबकी जरूरत पूरा करने के लिए पर्याप्त है, किंतु किसी के लालच के लिए नहीं। — महात्मा गांधी"
+      "अयं निजः परो वेति गणना लघुचेतसाम्। उदारचरितानां तु वसुधैव कुटुम्बकम्॥ — महोपनिषद्",
+      "सत्य एक है, विद्वान उसे विभिन्न नामों से पुकारते हैं (एकं सद् विप्रा बहुधा वदन्ति)। — ऋग्वेद",
+      "भारत केवल एक भूमि का टुकड़ा नहीं, वह मानवता की चेतना का विस्तार है। — स्वामी विवेकानंद"
     ],
     "commonPitfalls": [
-      { "hi": "केवल बाढ़ का वर्णन करना और बुंदेलखंड के सूखे तथा समाधानों को भूल जाना।", "en": "Focusing solely on floods while neglecting drought mitigation and structural solutions." }
+      { "hi": "1200 शब्दों की आवश्यकता में पुनरावृत्ति करना; विभिन्न आयामों (दार्शनिक, कूटनीतिक, पर्यावरणीय, यूपी विशेष) में संतुलित विभाजन न करना।", "en": "Repetitive writing; failing to articulate multi-layered philosophical, diplomatic, environmental and UP dimensions across 1200 words." }
     ],
     "checklist": [
-      { "hi": "क्या बाढ़ और सूखा दोनों पक्षों को संतुलित रूप से उठाया गया है?", "en": "Are both flood and drought dimensions addressed?" },
-      { "hi": "क्या केन-बेतवा एवं उ.प्र. विशिष्ट योजनाओं का उल्लेख है?", "en": "Are Ken-Betwa and UP specific relief schemes cited?" },
-      { "hi": "क्या आपदा पूर्व तैयारी (Disaster Preparedness) पर जोर है?", "en": "Is disaster preparedness emphasized over mere post-facto relief?" }
+      { "hi": "क्या 1200 शब्द सीमा का सम्मान करते हुए 6-8 स्पष्ट पैराग्राफ लिखे हैं?", "en": "Structured across comprehensive multi-dimensional sections for 1200 words?" },
+      { "hi": "क्या उपनिषदिक श्लोक, जी20 थीम एवं काशी/प्रयागराज का उल्लेख है?", "en": "Included Upanishadic verses, G20 theme and Kashi/Prayagraj heritage?" }
+    ]
+  },
+  {
+    "id": "essay-sec2-schemes-02",
+    "mainsSection": "SECTION_2_1200W",
+    "sectionNumber": 2,
+    "domain": "राष्ट्रीय विकास-योजनाएं एवं परियोजनाएं (National Development Schemes & Projects)",
+    "marks": 120,
+    "wordCountLimit": 1200,
+    "title": {
+      "hi": "'विकसित भारत @2047': अधोसंरचना क्रांति, औद्योगिक गलियारे एवं उत्तर प्रदेश की ट्रिलियन-डॉलर अर्थव्यवस्था का मार्ग",
+      "en": "'Viksit Bharat @2047': Infrastructure Revolution, Industrial Corridors & UP's Trillion-Dollar Economy Roadmap"
+    },
+    "understanding": {
+      "hi": "भारत की स्वतंत्रता के शताब्दी वर्ष (2047) तक विकसित राष्ट्र बनने के विजन, पीएम गति शक्ति, लॉजिस्टिक्स नीति, राष्ट्रीय विनिर्माण और इसमें उत्तर प्रदेश के $1 ट्रिलियन अर्थव्यवस्था लक्ष्य का विशद विश्लेषण।",
+      "en": "Examines Viksit Bharat 2047 blueprint, PM Gati Shakti, multimodal infrastructure, and UP's $1 Trillion economy roadmap."
+    },
+    "introductionFramework": [
+      { "hi": "प्रधानमंत्री के 'पंच प्रण' और 2047 तक भारत को विकसित राष्ट्र बनाने के राष्ट्रीय संकल्प से आरंभ करें।", "en": "Open with PM's 'Panch Pran' and the civilizational mission of Viksit Bharat by 2047." },
+      { "hi": "आर्थिक विकास में अवसंरचना (Infrastructure) को 'विकास का गुणक' (Multiplier of Growth) सिद्ध करें।", "en": "Establish infrastructure as the non-negotiable growth multiplier." }
+    ],
+    "backgroundContext": {
+      "hi": "भारत विश्व की 5वीं सबसे बड़ी अर्थव्यवस्था है; वैश्विक आपूर्ति श्रृंखलाओं के चीन-प्लस-वन विविधीकरण का ऐतिहासिक लाभ उठाने का स्वर्णिम अवसर।",
+      "en": "India as 5th largest economy leveraging China+1 global supply chain diversification."
+    },
+    "dimensions": [
+      {
+        "dimension": { "hi": "मल्टीमॉडल अवसंरचना एवं पीएम गति शक्ति", "en": "Multimodal Logistics & PM Gati Shakti" },
+        "points": [
+          { "hi": "समन्वित योजना निर्माण, सड़क, रेल, जलमार्ग एवं बंदरगाहों का एकीकृत नेटवर्क; लॉजिस्टिक्स लागत को जीडीपी के 14% से घटाकर 8% करना।", "en": "Synchronized planning across roads, railways, ports to slash logistics costs from 14% to 8%." }
+        ]
+      },
+      {
+        "dimension": { "hi": "औद्योगिक एवं माल ढुलाई गलियारे (Freight Corridors)", "en": "Dedicated Freight Corridors (DFCs)" },
+        "points": [
+          { "hi": "ईस्टर्न डीएफसी (EDFC) और वेस्टर्न डीएफसी (WDFC); औद्योगिक क्लस्टरों से बंदरगाहों तक माल परिवहन समय में 50% कमी।", "en": "EDFC and WDFC dramatically reducing transit times from heartland to maritime gateways." }
+        ]
+      },
+      {
+        "dimension": { "hi": "उत्तर प्रदेश: भारत का विकास इंजन (Growth Engine of India)", "en": "UP as National Growth Engine" },
+        "points": [
+          { "hi": "देश का 'एक्सप्रेसवे प्रदेश' (पूर्वांचल, बुंदेलखंड, गंगा, आगरा-लखनऊ एक्सप्रेसवे); जेवर (नोएडा) इंटरनेशनल एयरपोर्ट; डिफेंस इंडस्ट्रियल कॉरिडोर (लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़, चित्रकूट)।", "en": "UP as Expressway Capital, Jewar International Airport, and UP Defence Industrial Corridor (6 nodes)." }
+        ]
+      },
+      {
+        "dimension": { "hi": "मानव पूंजी एवं समावेशी विकास", "en": "Human Capital & Inclusive Growth" },
+        "points": [
+          { "hi": "अधोसंरचना विकास के साथ-साथ शिक्षा, स्वास्थ्य, कौशल विकास और ग्रामीण सशक्तिकरण का समन्वय अनिवार्य है।", "en": "Bridging physical infrastructure with health, skilling, and rural income generation." }
+        ]
+      }
+    ],
+    "keyArguments": [
+      { "hi": "उत्तर प्रदेश के बिना भारत का विकसित राष्ट्र बनना असंभव है। देश की 17% आबादी वाले राज्य का $1 ट्रिलियन का लक्ष्य राष्ट्रीय लक्ष्य की रीढ़ है।", "en": "India cannot become a developed nation without UP prosperous; UP's $1T goal is the bedrock of the national target." }
+    ],
+    "relevantFactsAndData": [
+      { "hi": "केंद्रीय बजट में ₹11.11 लाख करोड़ का पूंजीगत व्यय (Capex); यूपी में 40 लाख करोड़ से अधिक के निवेश प्रस्ताव (GIS 2023)।", "en": "Record ₹11.11 Lakh Cr Capex outlay; UP Global Investors Summit garnering ₹40 Lakh Cr+ MoUs." }
+    ],
+    "govtInitiatives": [
+      { "hi": "पीएम गति शक्ति राष्ट्रीय मास्टर प्लान, राष्ट्रीय लॉजिस्टिक्स नीति, भारतमाला, सागरमाला, मेक इन इंडिया, पीएलआई (PLI) योजनाएं।", "en": "PM Gati Shakti, National Logistics Policy, Bharatmala, Sagarmala, PLI schemes." }
+    ],
+    "upPerspective": [
+      { "hi": "उ.प्र. का 'एक जिला एक उत्पाद' (ODOP), जल जीवन मिशन में देश में प्रथम स्थान, वाराणसी में मल्टीमॉडल इनलैंड वाटरवे टर्मिनल (NW-1), सौर ऊर्जा पार्क (बुंदेलखंड)।", "en": "UP ODOP global exports, National Waterway 1 terminal at Varanasi, Bundelkhand solar parks." }
+    ],
+    "wayForward": [
+      { "hi": "भूमि अधिग्रहण प्रक्रियाओं का सरलीकरण, पर्यावरणीय स्थिरता के साथ हरित अवसंरचना (Green Infra), अनुसंधान व नवाचार (R&D) में निवेश।", "en": "Streamlining land records, green resilient infra, and boosting R&D investments." }
+    ],
+    "conclusionFramework": [
+      { "hi": "जब आधुनिक अवसंरचना, कुशल युवा और पारदर्शी सुशासन एक साथ मिलते हैं, तब राष्ट्र का उत्कर्ष निश्चित होता है। 2047 का विकसित भारत इसी की नींव पर खड़ा होगा।", "en": "Synchronized infrastructure, empowered demographic dividend, and transparent governance will materialize Viksit Bharat." }
+    ],
+    "keywords": ["विकसित भारत 2047", "पीएम गति शक्ति", "ईस्टर्न डीएफसी", "डिफेंस कॉरिडोर", "जेवर एयरपोर्ट", "एक ट्रिलियन डॉलर"],
+    "quotations": [
+      "अवसंरचना केवल कंक्रीट और स्टील नहीं है, यह करोड़ों नागरिकों की आकांक्षाओं को जोड़ने वाला सेतु है।",
+      "उत्तम सड़कें और त्वरित संचार ही किसी सभ्यता की प्रगति का थर्मामीटर हैं।"
+    ],
+    "commonPitfalls": [
+      { "hi": "केवल राष्ट्रीय स्तर के आंकड़ों तक सीमित रहना और उत्तर प्रदेश के बुनियादी ढांचे व विशिष्ट परियोजनाओं का उल्लेख न करना।", "en": "Restricting only to national statistics while ignoring UP's expressways, airports, and industrial corridor nodes." }
+    ],
+    "checklist": [
+      { "hi": "क्या 1200 शब्दों का गहन विश्लेषणात्मक प्रारूप पूरा किया गया?", "en": "Covered 1200-word comprehensive framework?" },
+      { "hi": "क्या उत्तर प्रदेश के डिफेंस कॉरिडोर के 6 नोड्स और एक्सप्रेसवे का उल्लेख है?", "en": "Mentioned UP's 6 defense corridor nodes and expressways?" }
     ]
   }
 ]

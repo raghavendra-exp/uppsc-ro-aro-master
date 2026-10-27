@@ -161,8 +161,8 @@ export const DraftingPage: React.FC = () => {
           </div>
           <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
             {language === 'hi'
-              ? 'मुख्य परीक्षा द्वितीय प्रश्नपत्र (100 अंक खंड क + 60 अंक खंड ख): पत्र प्रारूप, सारणी रूप, प्रशासनिक शब्दावली'
-              : 'Mains Paper II: 9 Official letter types, Tabular Précis, Rule-based Validator & Admin Vocab'}
+              ? 'मुख्य परीक्षा तृतीय प्रश्नपत्र (सामान्य हिन्दी एवं आलेखन — 200 अंक): 9 प्रकार के पत्र प्रारूप, सारणी रूप, प्रशासनिक शब्दावली, मुहावरे एवं व्याकरण'
+              : 'Mains Paper III (General Hindi & Drafting — 200 Marks): 9 Letter formats, Tabular Précis, Rule-based Validator & Admin Vocab'}
           </p>
         </div>
 

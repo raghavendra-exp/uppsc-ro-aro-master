@@ -284,7 +284,7 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice }
             <div className="p-5 rounded-2xl border-2 border-emerald-500/40 bg-emerald-50/20 dark:bg-emerald-950/10 space-y-3">
               <div className="flex items-center justify-between">
                 <span className="font-extrabold text-base text-emerald-800 dark:text-emerald-300">
-                  2026 (नवीनतम आधिकारिक बेसलाइन)
+                  2026 (आधिकारिक विज्ञापन सं. A-4/E-1/2026)
                 </span>
                 <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-emerald-600 text-white uppercase">
                   CURRENT
@@ -293,19 +293,27 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice }
               <ul className="space-y-2 text-slate-700 dark:text-slate-300">
                 <li className="flex items-start space-x-2">
                   <span className="text-emerald-600 font-bold">✓</span>
-                  <span><strong>OTR अनिवार्यता:</strong> आवेदन से कम से कम 72 घंटे पूर्व OTR पंजीकरण होना अनिवार्य।</span>
+                  <span><strong>मुख्य परीक्षा 800 अंक:</strong> 4 परम्परागत प्रश्नपत्र (प्रत्येक 200 अंक व 3 घंटे) — पूर्णतः वर्णनात्मक।</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="text-emerald-600 font-bold">✓</span>
-                  <span><strong>ओ-लेवल समकक्षता:</strong> 5 मई 2022 के शासनादेश के तहत 28 अधिकृत डिप्लोमा/डिग्री स्पष्टतः मान्य।</span>
+                  <span><strong>जीएस उत्तर लेखन:</strong> 20 प्रश्न प्रति पेपर — 10 लघु उत्तरीय (8 अंक / 75 शब्द) + 10 दीर्घ उत्तरीय (12 अंक / 125 शब्द)।</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="text-emerald-600 font-bold">✓</span>
-                  <span><strong>टंकण दक्षता:</strong> ARO हेतु कम्प्यूटर पर 25 श.प्र.मि. (कुर्तिदेव 010 अथवा मंगल इनस्क्रिप्ट)।</span>
+                  <span><strong>नीतिशास्त्र एवं शासन व्यवस्था:</strong> जीएस पेपर-2 में नीतिशास्त्र (ऋत, धर्म, भावनात्मक बुद्धिमत्ता) व शासन व्यवस्था शामिल।</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span className="text-emerald-600 font-bold">✓</span>
-                  <span><strong>ऋणात्मक अंकन:</strong> 1/3 (0.33) नेगेटिव मार्किंग दोनों वस्तुनिष्ठ प्रश्नपत्रों में लागू।</span>
+                  <span><strong>निबंध 200 अंक (2-स्तरीय):</strong> खण्ड 1 (80 अंक / 800 शब्द) + खण्ड 2 (120 अंक / 1200 शब्द)।</span>
+                </li>
+                <li className="flex items-start space-x-2">
+                  <span className="text-emerald-600 font-bold">✓</span>
+                  <span><strong>मुख्यमंत्री फेलोशिप वेटेज:</strong> शोधार्थियों हेतु मुख्य परीक्षा में 1 से 7.5 अंक वेटेज व 3 वर्ष तक आयु छूट।</span>
+                </li>
+                <li className="flex items-start space-x-2">
+                  <span className="text-emerald-600 font-bold">✓</span>
+                  <span><strong>नकल विरोधी कानून 2024:</strong> उ.प्र. अनुचित साधन निवारण अधिनियम, 2024 एवं BNS के तहत कठोर दंडात्मक प्रावधान।</span>
                 </li>
               </ul>
             </div>
@@ -314,7 +322,7 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice }
             <div className="p-5 rounded-2xl border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/40 space-y-3 opacity-90">
               <div className="flex items-center justify-between">
                 <span className="font-extrabold text-base text-slate-700 dark:text-slate-300">
-                  2023 (विज्ञापन सं. A-7/E-1/2023)
+                  2023 (विज्ञापन सं. A-7/E-1/2023 - पुराना पैटर्न)
                 </span>
                 <span className="px-2 py-0.5 rounded-full text-[10px] font-bold bg-slate-400 text-white uppercase">
                   ARCHIVED
@@ -323,15 +331,23 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice }
               <ul className="space-y-2 text-slate-600 dark:text-slate-400">
                 <li className="flex items-start space-x-2">
                   <span>•</span>
-                  <span>प्रारंभिक परीक्षा 11 फरवरी 2024 को आयोजित हुई थी जिसे आयोग द्वारा रद्द कर पुन: परीक्षा कराने का निर्णय लिया गया।</span>
+                  <span><strong>मुख्य परीक्षा 400 अंक:</strong> 3 प्रश्नपत्र (जीएस वस्तुनिष्ठ 120 अंक + हिन्दी 160 अंक + निबंध 120 अंक)।</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span>•</span>
-                  <span>ओटीआर सर्वर दबाव के कारण आवेदन की अंतिम तिथि को 9 नवंबर से बढ़ाकर 24 नवंबर 2023 किया गया था।</span>
+                  <span><strong>जीएस वस्तुनिष्ठ था:</strong> मुख्य परीक्षा में जीएस 120 बहुविकल्पीय प्रश्नों का ऑब्जेक्टिव पेपर था।</span>
                 </li>
                 <li className="flex items-start space-x-2">
                   <span>•</span>
-                  <span>मूल पाठ्यक्रम (140 GS + 60 हिन्दी) अपरिवर्तित रहा, परंतु सुरक्षा एवं मूल्यांकन मानकों में व्यापक सुधार किए गए।</span>
+                  <span><strong>नीतिशास्त्र अनुपस्थित:</strong> पुराने पाठ्यक्रम में एथिक्स, इमोशनल इंटेलिजेंस व गवर्नेंस का पृथक मॉड्यूल नहीं था।</span>
+                </li>
+                <li className="flex items-start space-x-2">
+                  <span>•</span>
+                  <span><strong>निबंध 3 x 40 अंक:</strong> 3 छोटे निबंध (600 शब्द प्रत्येक) लिखने होते थे।</span>
+                </li>
+                <li className="flex items-start space-x-2">
+                  <span>•</span>
+                  <span><strong>फेलोशिप वेटेज नहीं:</strong> मुख्यमंत्री फेलोशिप के लिए मुख्य परीक्षा में कोई अतिरिक्त वेटेज नियम नहीं था।</span>
                 </li>
               </ul>
             </div>

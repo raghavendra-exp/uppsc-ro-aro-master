@@ -33,7 +33,7 @@
           ]
         }
       ],
-      "officialReferenceNote": "Most tested book in UPPSC GS papers; directly addresses 12-15 questions."
+      "officialReferenceNote": "Most tested book in UPPSC GS papers; directly addresses 14-18 questions in Prelims & Mains GS-2."
     },
     {
       "id": "book-modern-bipanchandra",
@@ -70,6 +70,127 @@
       "officialReferenceNote": "Critical for conceptual clarity in GS-1 and Indian National Movement weightage."
     },
     {
+      "id": "book-ethics-lexicon",
+      "title": { "hi": "नीतिशास्त्र, सत्यनिष्ठा एवं अभिरुचि (Lexicon for Ethics, Integrity & Aptitude)", "en": "Lexicon for Ethics, Integrity and Aptitude" },
+      "author": "एन. एन. ओझा / सुब्बा राव व पी.एन. रॉय चौधरी",
+      "publisher": "क्रॉनिकल पब्लिकेशन्स / एक्सेस पब्लिशिंग",
+      "stage": "Mains",
+      "subject": "Ethics and Integrity (GS Paper II)",
+      "purpose": {
+        "hi": "मुख्य परीक्षा पेपर-2 के नए विषय 'नीतिशास्त्र एवं सत्यनिष्ठा' (ऋत, धर्म, पुरुषार्थ, उपयोगितावाद, कर्तव्यवाद, अभिवृत्ति, भावनात्मक बुद्धिमत्ता) की सर्वांगीण तैयारी।",
+        "en": "Tailor-made coverage for Mains GS-II Ethics module including Indian ethical thought (Rit, Dharma, Purushartha) and Western ethics."
+      },
+      "level": "Standard",
+      "syllabusMapping": [
+        {
+          "subject": "Ethics & Integrity",
+          "chapters": [
+            "Chapter 1: Ethics as Normative Study of Morality (नीतिशास्त्र की आधारशिला)",
+            "Chapter 2: Indian Ethical Thoughts (ऋत, धर्म, यम, नियम, ब्रह्म-विहार)",
+            "Chapter 3: Western Ethical Theories (उपयोगितावाद, कर्तव्यवाद, संवेगवाद)",
+            "Chapter 4: Attitude & Moral Influence (अभिवृत्ति एवं सामाजिक अनुनय)",
+            "Chapter 5: Aptitude and Emotional Intelligence (भावनात्मक बुद्धिमत्ता व लोक सेवा मूल्य)"
+          ],
+          "mappedTopics": [
+            "Rit and Dharma in administrative justice",
+            "Emotional Intelligence dimensions in public leadership",
+            "Foundational values: Impartiality, Objectivity, Dedication"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Essential core book for the newly notified 2026 GS Paper II Section 4."
+    },
+    {
+      "id": "book-society-ramahuja",
+      "title": { "hi": "भारतीय समाज (Indian Society)", "en": "Indian Society" },
+      "author": "राम आहूजा (Ram Ahuja)",
+      "publisher": "रावत पब्लिकेशन्स, जयपुर",
+      "stage": "Mains",
+      "subject": "Indian Society (GS Paper I)",
+      "purpose": {
+        "hi": "भारतीय समाज की संरचना, महिलाओं की भूमिका, नगरीकरण, वैश्वीकरण के प्रभाव, सामाजिक सशक्तिकरण व सामाजिक न्याय का अकादमिक प्रामाणिक विश्लेषण।",
+        "en": "Comprehensive analysis of Indian social structure, women's organizations, urbanization, LPG impact, and inclusive growth."
+      },
+      "level": "Standard",
+      "syllabusMapping": [
+        {
+          "subject": "Indian Society",
+          "chapters": [
+            "Salient features of Indian Society & Cultural Diversity",
+            "Role of Women & Women's Organizations",
+            "Urbanization: Trends, Slums & Infrastructure Issues",
+            "Impact of Globalization & Liberalization on Social Stratification",
+            "Social Empowerment & Inclusive Growth Schemes"
+          ],
+          "mappedTopics": [
+            "Mains GS-I Section 2 questions (75 & 125 words)",
+            "Essay Paper Section 2 (Social & Political issues)"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Direct syllabus alignment for GS Paper 1 Section 2."
+    },
+    {
+      "id": "book-geography-majidhussain",
+      "title": { "hi": "भारत एवं विश्व का भूगोल (Geography of India & World)", "en": "Geography of India" },
+      "author": "माजिद हुसैन (Majid Husain)",
+      "publisher": "मैकग्रा हिल (McGraw Hill)",
+      "stage": "Both",
+      "subject": "Geography of India & UP",
+      "purpose": {
+        "hi": "भौतिक भूगोल, अपवाह तंत्र, कृषि, सिंचाई, खनिज संसाधन, औद्योगिक प्रदेश एवं उत्तर प्रदेश के भौगोलिक नियोजन का सम्पूर्ण कवरेज।",
+        "en": "In-depth treatment of physiography, drainage networks, minerals, industrial zones, and spatial planning."
+      },
+      "level": "Standard",
+      "syllabusMapping": [
+        {
+          "subject": "Geography",
+          "chapters": [
+            "Physiographic Structure & Geomorphology of India",
+            "Drainage Systems (Himalayan & Peninsular)",
+            "Climate, Monsoonal Dynamics & Soils",
+            "Mineral Belts & Energy Resources of India & UP",
+            "Urban & Rural Settlement Hierarchies"
+          ],
+          "mappedTopics": [
+            "Prelims Geography (20+ questions)",
+            "Mains GS-I Section 3 (Geography of India & UP Planning)"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Premier reference for both objective Prelims and descriptive Mains questions."
+    },
+    {
+      "id": "book-science-tech-raviagrahari",
+      "title": { "hi": "विज्ञान एवं प्रौद्योगिकी (Science and Technology)", "en": "Science and Technology" },
+      "author": "रवि पी. अग्रहरि (Ravi P. Agrahari)",
+      "publisher": "मैकग्रा हिल (McGraw Hill)",
+      "stage": "Both",
+      "subject": "Science & Technology and Environment",
+      "purpose": {
+        "hi": "इसरो अंतरिक्ष तकनीक, मिसाइल रक्षा प्रणाली, ड्रोन/यूएवी, नैनोतकनीक, रोबोटिक्स/एआई, परमाणु नीति, जैव प्रौद्योगिकी और पर्यावरण संरक्षण अधिनियम का अद्यतन कवरेज।",
+        "en": "Updated coverage of Space, Satellite, Missiles, UAVs, Nanotechnology, AI & Robotics, Nuclear policy, and Biotech."
+      },
+      "level": "Advanced",
+      "syllabusMapping": [
+        {
+          "subject": "Science & Tech",
+          "chapters": [
+            "Space Technology: Cryogenic Engines, Gaganyaan, Chandrayaan, Remote Sensing",
+            "Defence Technology: Ballistic Missile Defence, Agni Series, Stealth, UAVs",
+            "Emerging Tech: Nanomaterials, Robotics, Artificial Intelligence & Unemployment",
+            "Biotechnology: Biopiracy, Gene Editing, Bioinformatics & Ethical Issues",
+            "Environment Protection Act 1986, Pollution & Disaster Management Cycle"
+          ],
+          "mappedTopics": [
+            "Mains GS-I Section 4 (Environment & Disaster Management)",
+            "Mains GS-I Section 5 (Science and Technology)"
+          ]
+        }
+      ],
+      "officialReferenceNote": "Directly maps to the detailed science & technology subtopics notified in Appendix-3."
+    },
+    {
       "id": "book-hindi-bahri",
       "title": { "hi": "सामान्य हिन्दी (General Hindi for Competitive Exams)", "en": "General Hindi" },
       "author": "डॉ. हरदेव बाहरी (Dr. Hardev Bahri)",
@@ -77,8 +198,8 @@
       "stage": "Both",
       "subject": "General Hindi",
       "purpose": {
-        "hi": "यूपीपीएससी द्वारा मान्य मानक शब्दकोश। प्रारंभिक परीक्षा के 6 विषयों (विलोम, शुद्धि, वाक्यांश, तत्सम-तद्भव, विशेषण, पर्यायवाची) का अकादमिक प्रामाणिक स्रोत।",
-        "en": "The premier academic standard recognized in UPPSC answer evaluations for all 6 Prelims Hindi modules."
+        "hi": "यूपीपीएससी द्वारा मान्य मानक शब्दकोश। प्रारंभिक परीक्षा के 6 विषयों एवं मुख्य परीक्षा के पारिभाषिक शब्दावली, विलोम, तद्भव-तत्सम व शुद्धि का सर्वोच्च अकादमिक स्रोत।",
+        "en": "The premier academic standard recognized in UPPSC answer evaluations for both Prelims and Mains."
       },
       "level": "Standard",
       "syllabusMapping": [
@@ -94,120 +215,227 @@
           ],
           "mappedTopics": [
             "Prelims Paper 2: 60/60 target",
-            "Mains Paper 2 Part B: 60/60 target"
+            "Mains Paper 3: Hindi Grammar, Semantics & Error Rectification"
           ]
         }
       ],
-      "officialReferenceNote": "Primary dispute resolution reference used by UPPSC expert review committees."
+      "officialReferenceNote": "Official UPPSC court and evaluation benchmark book."
     },
     {
-      "id": "book-geography-gcleong",
-      "title": { "hi": "प्रमाणिक भौतिक एवं मानव भूगोल (Certificate Physical & Human Geography)", "en": "Certificate Physical & Human Geography" },
-      "author": "जी.सी. लियोंग (G.C. Leong)",
-      "publisher": "ऑक्सफोर्ड यूनिवर्सिटी प्रेस (Oxford)",
-      "stage": "Prelims",
-      "subject": "Geography",
+      "id": "book-hindi-vasudev",
+      "title": { "hi": "आधुनिक हिन्दी व्याकरण और रचना (Modern Hindi Grammar & Composition)", "en": "Modern Hindi Grammar" },
+      "author": "डॉ. वासुदेव नंदन प्रसाद (Dr. Vasudev Nandan Prasad)",
+      "publisher": "भारती भवन, पटना / प्रयागराज",
+      "stage": "Mains",
+      "subject": "Hindi Grammar & Varna Vichar (Paper 3)",
       "purpose": {
-        "hi": "विश्व जलवायु प्रदेश, भू-आकृतियां, महासागरीय धाराएं, पर्वत, पठार एवं चक्रवात की स्पष्ट संकल्पनात्मक समझ।",
-        "en": "Conceptual clarity on geomorphology, climate zones, ocean currents, mountain systems and weather phenomena."
+        "hi": "मुख्य परीक्षा पेपर-3 के वर्ण-विचार (स्वर-व्यंजन वर्गीकरण), शब्द-रचना (संधि, समास, उपसर्ग, प्रत्यय), संज्ञा, सर्वनाम, कारक, क्रिया एवं विराम-चिह्न की अचूक तैयारी।",
+        "en": "Definitive authority for Varna Vichar, Sandhi, Samas, Case-relations, Verbs and Punctuation rules."
       },
       "level": "Standard",
       "syllabusMapping": [
         {
-          "subject": "Geography",
+          "subject": "Hindi Grammar",
           "chapters": [
-            "The Earth's Crust & Volcanoes",
-            "Weathering, Mass Movement and Groundwater",
-            "Landforms of Glaciation and Arid Deserts",
-            "The Oceans: Currents, Salinity and Tides",
-            "The Hot, Wet Equatorial Climate",
-            "The Mediterranean Climate & Savanna"
+            "वर्ण-विचार: स्वर एवं व्यंजन वर्णों का वर्गीकरण (उच्चारण स्थान व प्रयत्न)",
+            "संधि: स्वर संधि, व्यंजन संधि, विसर्ग संधि नियम",
+            "समास: समस्त पद, विग्रह एवं छह प्रमुख भेद",
+            "संज्ञा, सर्वनाम, विशेषण, क्रिया, काल, कारक एवं अव्यय",
+            "विराम-चिह्नों के मानक नियम एवं अनुप्रयोग"
           ],
           "mappedTopics": [
-            "Global ocean currents (Warm vs Cold)",
-            "World major straits (Gibraltar, Malacca, Hormuz)",
-            "Equatorial vs Monsoon forest characteristics"
+            "Mains Paper 3: Question 5 (30 Marks) & Question 6 (10 Marks)",
+            "Mains Paper 3: Question 7 (40 Marks)"
           ]
         }
       ],
-      "officialReferenceNote": "Direct source for world geography physical phenomena questions in RO/ARO."
+      "officialReferenceNote": "Core reference book for Hindi grammar and theoretical linguistic questions."
     },
     {
-      "id": "book-up-ghatnachakra",
-      "title": { "hi": "उत्तर प्रदेश तथ्य सार एवं पूर्व अवलोकन", "en": "Uttar Pradesh Fact Compendium" },
-      "author": "समसामयिक घटना चक्र संपादकीय मंडल",
+      "id": "book-up-special-ghatnachakra",
+      "title": { "hi": "उत्तर प्रदेश तथ्य सार एवं दृष्टि (UP Special Tathya Saar)", "en": "UP Special Tathya Saar" },
+      "author": "समसामयिक घटना चक्र सम्पादकीय मंडल",
       "publisher": "घटना चक्र, प्रयागराज",
       "stage": "Both",
       "subject": "UP Special Knowledge",
       "purpose": {
-        "hi": "उत्तर प्रदेश के इतिहास, संस्कृति, मेले, उद्योग, वन, नदियां, वन्यजीव, बजट एवं 75 जिलों के तथ्यात्मक आंकड़ों का अद्यतन संकलन।",
-        "en": "Updated compendium of UP history, art, fairs, industries, canals, wild life, state budget and census."
+        "hi": "उत्तर प्रदेश का इतिहास, कला-संस्कृति, भूगोल, नदियां, नहरे, ओडीओपी (ODOP), एक्सप्रेसवे, बजट, कृषि एवं कल्याणकारी योजनाओं का संपूर्ण समेकन।",
+        "en": "Comprehensive compilation of UP History, Geography, Expressways, ODOP, Folk Arts and State Budget."
       },
-      "level": "PYQ",
+      "level": "Standard",
       "syllabusMapping": [
         {
           "subject": "UP Special",
           "chapters": [
-            "उ.प्र. एक दृष्टि में (प्रशासनिक आंकड़े)",
-            "उ.प्र. का इतिहास एवं महाजनपद काल",
-            "उ.प्र. की नदियां, झीलें एवं सिंचाई",
-            "उ.प्र. के खनिज, वन एवं वन्यजीव",
-            "उ.प्र. की प्रमुख बोलियां, नृत्य एवं संगीत घराने",
-            "एक जिला एक उत्पाद (ODOP) सूची"
+            "उ.प्र. का संक्षिप्त इतिहास एवं 1857 के क्रांतिकारी केंद्र",
+            "उ.प्र. के 9 कृषि जलवायु क्षेत्र एवं प्रमुख फसलें",
+            "उ.प्र. की प्रमुख सिंचाई नहरें एवं बहुउद्देश्यीय बांध",
+            "उ.प्र. के एक्सप्रेसवे (पूर्वांचल, बुंदेलखंड, गंगा) एवं औद्योगिक गलियारे",
+            "उ.प्र. की 75 जनपदों की 'एक जिला एक उत्पाद' (ODOP) सूची",
+            "उ.प्र. के लोकनृत्य, लोकगीत, बोलियां एवं प्रमुख मेले"
           ],
           "mappedTopics": [
-            "UP 15-20 Questions in Prelims GS",
-            "UP perspective in all 3 Mains Essays"
+            "Prelims Paper 1: 18-22 questions",
+            "Mains GS-I & GS-II: UP-specific analytical segments"
           ]
         }
       ],
-      "officialReferenceNote": "Indispensable for state-specific factual recall."
+      "officialReferenceNote": "Top recommended annual guide by previous RO/ARO rank holders."
     }
   ],
-  "ncertMappings": [
+  "freeInternetResources": [
     {
-      "classLevel": "Class 11",
-      "subject": "Polity",
-      "bookTitle": "भारत का संविधान: सिद्धांत और व्यवहार (Indian Constitution at Work)",
-      "relevantChapters": [
-        {
-          "chapterNumber": 1,
-          "title": { "hi": "संविधान: क्यों और कैसे?", "en": "Constitution: Why and How?" },
-          "roAroRelevance": { "hi": "संविधान सभा का गठन, 9 दिसंबर 1946 प्रथम बैठक, उद्देश्य प्रस्ताव।", "en": "Formation of Constituent Assembly, first meeting, Objectives Resolution." },
-          "keyThemes": ["Constituent Assembly", "Philosophy of Constitution"]
-        },
-        {
-          "chapterNumber": 2,
-          "title": { "hi": "भारतीय संविधान में अधिकार", "en": "Rights in the Indian Constitution" },
-          "roAroRelevance": { "hi": "अनुच्छेद 14-18 (समानता), अनुच्छेद 19-22 (स्वतंत्रता), अनुच्छेद 32 (संवैधानिक उपचार)।", "en": "Fundamental Rights (Articles 14 to 32), Writs and DPSP distinction." },
-          "keyThemes": ["Fundamental Rights", "Writs", "DPSP"]
-        },
-        {
-          "chapterNumber": 4,
-          "title": { "hi": "कार्यपालिका", "en": "Executive" },
-          "roAroRelevance": { "hi": "राष्ट्रपति की वीटो शक्तियां, महाभियोग (अनु. 61), अध्यादेश (अनु. 123)।", "en": "Presidential powers, impeachment, ordinance making power." },
-          "keyThemes": ["President", "Prime Minister", "Cabinet"]
-        }
+      "id": "res-ncert-online",
+      "category": "NCERT Official E-Textbooks (Class 11 & 12)",
+      "provider": "NCERT (National Council of Educational Research and Training)",
+      "accessUrl": "https://ncert.nic.in/textbook.php",
+      "freeAccess": true,
+      "format": "Full PDF Chapters in Hindi & English",
+      "description": {
+        "hi": "राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद के कक्षा 11 एवं 12 के समस्त पाठ्यपुस्तकों का आधिकारिक निःशुल्क डिजिटल संग्रह। आधारभूत संकल्पनाओं हेतु अनिवार्य।",
+        "en": "Official free digital textbooks for Classes 11 & 12 covering fundamental concepts for GS-1 and GS-2."
+      },
+      "recommendedModules": [
+        { "title": "भारत का संविधान: सिद्धांत और व्यवहार (Class 11)", "subjects": "Polity, Fundamental Rights, Federalism, Judiciary" },
+        { "title": "भारतीय इतिहास के कुछ विषय (भाग I, II, III) (Class 12)", "subjects": "Ancient, Medieval, and Modern Indian History" },
+        { "title": "भौतिक भूगोल के मूल सिद्धांत & भारत: भौतिक पर्यावरण (Class 11)", "subjects": "Geomorphology, Climate, River Systems, Soils" },
+        { "title": "भारतीय समाज & भारत में सामाजिक परिवर्तन एवं विकास (Class 12)", "subjects": "Social Structure, Women's Movement, Urbanization, LPG" }
       ]
     },
     {
-      "classLevel": "Class 11",
-      "subject": "Geography",
-      "bookTitle": "भारत: भौतिक पर्यावरण (India: Physical Environment)",
-      "relevantChapters": [
-        {
-          "chapterNumber": 2,
-          "title": { "hi": "संरचना तथा भू-आकृति विज्ञान", "en": "Structure and Physiography" },
-          "roAroRelevance": { "hi": "उत्तर का विशाल मैदान, भाबर, तराई, बांगर, खादर की विशिष्टताएं (उ.प्र. के विशेष संदर्भ में)।", "en": "Bhabar, Terai, Bhangar, Khadar soil zones across the Gangetic plain." },
-          "keyThemes": ["Himalayas", "Northern Plains", "Peninsula"]
-        },
-        {
-          "chapterNumber": 3,
-          "title": { "hi": "अपवाह तंत्र", "en": "Drainage System" },
-          "roAroRelevance": { "hi": "गंगा नदी तंत्र (सहायक नदियां: रामगंगा, गोमती, घाघरा, गंडक, यमुना) एवं उद्गम स्थल।", "en": "Ganga & Yamuna tributaries, origins and confluence points in UP." },
-          "keyThemes": ["Ganga Drainage", "River Confluences"]
-        }
+      "id": "res-egyankosh-ignou",
+      "category": "IGNOU eGyanKosh Free Digital Learning Repository",
+      "provider": "Indira Gandhi National Open University (IGNOU)",
+      "accessUrl": "https://egyankosh.ac.in",
+      "freeAccess": true,
+      "format": "High quality university-level study modules in PDF",
+      "description": {
+        "hi": "विश्वविद्यालय स्तर की निःशुल्क प्रामाणिक अध्ययन सामग्री। मुख्य परीक्षा के नए विषयों जैसे नीतिशास्त्र, आपदा प्रबंधन एवं लोक प्रशासन हेतु सर्वश्रेष्ठ।",
+        "en": "Free open-access university learning units covering Ethics in Governance, Public Administration, and Disaster Management."
+      },
+      "recommendedModules": [
+        { "title": "MPA-015: लोक प्रशासन में लोक नीति एवं नैतिकता (Public Policy & Ethics)", "subjects": "Ethics, Values, Integrity, Dilemmas in Administration" },
+        { "title": "MPA-018: आपदा प्रबंधन (Disaster Management)", "subjects": "Disaster Cycle, NDMA, Hazard mitigation, Community response" },
+        { "title": "EPA-01 / MPA-011: प्रशासनिक सिद्धांत एवं शासन व्यवस्था (Administrative Theory & Governance)", "subjects": "Structure of Executive, NITI Aayog, Pressure Groups, ICT in Governance" }
+      ]
+    },
+    {
+      "id": "res-pib-india",
+      "category": "Press Information Bureau (PIB) Official Releases",
+      "provider": "Ministry of Information and Broadcasting, Govt of India",
+      "accessUrl": "https://pib.gov.in",
+      "freeAccess": true,
+      "format": "Daily Government Press Releases & Policy Factsheets",
+      "description": {
+        "hi": "केंद्र सरकार की समस्त नीतियों, योजनाओं, समझौतों, कैबिनेट निर्णयों एवं आंकड़ों का प्रामाणिक प्रथम स्रोत। निबंध एवं समसामयिकी हेतु अपरिहार्य।",
+        "en": "Primary official source for Union Government policies, Cabinet briefings, national schemes and authentic data."
+      },
+      "recommendedModules": [
+        { "title": "Year-End Reviews (वार्षिक समीक्षाएं)", "subjects": "Ministry of Science & Tech, Environment, Agriculture, Rural Dev" },
+        { "title": "Cabinet Decisions & Economic Pacts", "subjects": "Infrastructure projects, MSP revisions, Trade pacts, Space initiatives" }
+      ]
+    },
+    {
+      "id": "res-prs-legislative",
+      "category": "PRS Legislative Research Portal",
+      "provider": "PRS India",
+      "accessUrl": "https://prsindia.org",
+      "freeAccess": true,
+      "format": "Bill Summaries, Parliamentary Briefs & Policy Reports",
+      "description": {
+        "hi": "संसद एवं विधानसभाओं में पारित प्रमुख विधेयकों, अधिनियमों, संविधान संशोधनों एवं संसदीय समितियों की निष्पक्ष विश्लेषणात्मक रिपोर्ट।",
+        "en": "Concise analytical briefs on constitutional amendments, legislative enactments and parliamentary standing committees."
+      },
+      "recommendedModules": [
+        { "title": "Bharatiya Nyaya Sanhita (BNS) & Criminal Law Reforms", "subjects": "Criminal Justice & Exam Malpractice Legal Framework" },
+        { "title": "Centre-State Financial Relations & Finance Commission Briefs", "subjects": "Federal devolution, GST Council deliberations" }
+      ]
+    },
+    {
+      "id": "res-up-gov-portals",
+      "category": "Uttar Pradesh Official Government Portals & State Budget",
+      "provider": "Government of Uttar Pradesh",
+      "accessUrl": "https://up.gov.in & https://budget.up.nic.in",
+      "freeAccess": true,
+      "format": "Official Reports, Budget Speeches, Economic Reviews & Statistical Books",
+      "description": {
+        "hi": "उत्तर प्रदेश सरकार के आधिकारिक वेब-पोर्टल जहां से उ.प्र. का आर्थिक सर्वेक्षण, वार्षिक बजट, योजनाएं एवं 'एक जिला एक उत्पाद' की सटीक जानकारी मिलती है।",
+        "en": "Official portals for UP Budget, Economic Review, State statistical diary, Expressways and ODOP catalog."
+      },
+      "recommendedModules": [
+        { "title": "उत्तर प्रदेश वार्षिक बजट दस्तावेज (UP Annual Budget)", "subjects": "Fiscal deficits, Capital outlay, Expressways, Agriculture allocation" },
+        { "title": "सूचना एवं जनसंपर्क विभाग (Information Dept - vikas.up.nic.in)", "subjects": "State welfare initiatives, Cultural festivals, Tourism policies" },
+        { "title": "ODOP आधिकारिक पोर्टल (odop.up.gov.in)", "subjects": "75 districts indigenous crafts, raw materials and export centers" }
+      ]
+    },
+    {
+      "id": "res-chd-admin-glossary",
+      "category": "Central Hindi Directorate Official Administrative Glossary",
+      "provider": "केंद्रीय हिन्दी निदेशालय, भारत सरकार (Ministry of Education)",
+      "accessUrl": "https://hindinideshalaya.nic.in",
+      "freeAccess": true,
+      "format": "Comprehensive Searchable Online Administrative Glossary",
+      "description": {
+        "hi": "भारत सरकार द्वारा विहित मानक प्रशासनिक एवं वाणिज्यिक पारिभाषिक शब्दावली का आधिकारिक ऑनलाइन शब्दकोश। मुख्य परीक्षा पेपर-3 हेतु 100% प्रामाणिक।",
+        "en": "Official standardized English-Hindi Administrative Glossary created by Govt of India for official correspondence."
+      },
+      "recommendedModules": [
+        { "title": "वृहत् प्रशासनिक शब्दावली (Comprehensive Administrative Glossary)", "subjects": "Exact Hindi & English equivalents for Question 3 in Mains Paper 3" }
+      ]
+    },
+    {
+      "id": "res-ndma-isro",
+      "category": "NDMA Disaster Guidelines & ISRO Science Portals",
+      "provider": "National Disaster Management Authority (NDMA) & ISRO",
+      "accessUrl": "https://ndma.gov.in & https://www.isro.gov.in",
+      "freeAccess": true,
+      "format": "Standard Operating Protocols, Mission Summaries & Disaster Frameworks",
+      "description": {
+        "hi": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण के दिशा-निर्देश (बाढ़, सूखा, भूकंप, भूस्खलन) तथा इसरो के अंतरिक्ष मिशनों के आधिकारिक बुलेटिन।",
+        "en": "Official SOPs for Disaster Management cycles (NDMA, NDRF, SDRF) and ISRO space mission dossiers."
+      },
+      "recommendedModules": [
+        { "title": "National Disaster Management Plan (NDMP)", "subjects": "Disaster mitigation, Sendai Framework, early warning systems" },
+        { "title": "ISRO Space Missions & Technology Applications", "subjects": "Remote sensing, Cryogenics, NavIC, Satellite communication" }
       ]
     }
-  ]
+  ],
+  "firstAttemptRankerBlueprint": {
+    "philosophy": {
+      "hi": "प्रथम प्रयास में सफलता प्राप्त करने का एकमात्र वैज्ञानिक सूत्र: 'एकीकृत प्रारंभिक + मुख्य परीक्षा दृष्टिकोण' (Integrated Prelims-cum-Mains Study)। प्रारंभिक परीक्षा केवल गेटवे है; अंतिम मेरिट 800 अंक की मुख्य परीक्षा से निर्धारित होती है।",
+      "en": "First-attempt success requires an integrated Prelims-cum-Mains methodology. Prelims is merely a qualifying filter; final selection is decided by the 800-mark Mains."
+    },
+    "threePillars": [
+      {
+        "pillar": "Pillar 1: Prelims 135+ Scoring Strategy (140 GS + 60 Hindi)",
+        "strategy": {
+          "hi": "हिन्दी में 60 में से 55+ अंक अनिवार्यतः प्राप्त करें (डॉ. हरदेव बाहरी से विलोम, शुद्धि, अनेक शब्द, तत्सम-तद्भव, विशेषण, पर्यायवाची का दैनिक 1 घंटा अभ्यास)। सामान्य अध्ययन में 140 में से 80-85 शुद्ध प्रश्न हल करें (इतिहास/आईएनएम 20, भूगोल 20, यूपी स्पेशल 18, समसामयिकी 22 को उच्च प्राथमिकता दें)।",
+          "en": "Target 55+/60 in General Hindi (non-negotiable safety net). Target 80-85 net in GS with heavy weightage on INM, Geography, UP Special and Current Affairs."
+        }
+      },
+      {
+        "pillar": "Pillar 2: Mains 800-Mark Answer Writing Command",
+        "strategy": {
+          "hi": "जीएस पेपर 1 एवं 2 के 75-शब्द (8 अंक) प्रश्नों को 3 भागों में लिखें: (1) सारगर्भित परिभाषा/तथ्य (15 शब्द), (2) 3-4 बुलेट पॉइंट्स जिसमें उ.प्र. का उदाहरण हो (45 शब्द), (3) निष्कर्ष (15 शब्द)। 125-शब्द (12 अंक) प्रश्नों में एक छोटा फ्लोचार्ट/आरेख, संवैधानिक अनुच्छेद या समिति का नाम अवश्य शामिल करें।",
+          "en": "Master the 75-word (8M) and 125-word (12M) formats. Use the 3-tier structure: Crisp definition (15w), multi-dimensional bullet body with UP reference (45w), forward-looking conclusion (15w). For 125w, embed flowcharts, committee references, or articles."
+        }
+      },
+      {
+        "pillar": "Pillar 3: Hindi Drafting, Grammar & 2-Tier Essay Mastery",
+        "strategy": {
+          "hi": "पेपर 3 (200 अंक) में 140+ का लक्ष्य रखें: सारणी रूप सार (10 अंक), पत्राचार (20 अंक), पारिभाषिक शब्दावली (20 अंक), मुहावरे (30 अंक), वर्ण-विचार (10 अंक), संधि/समास (10 अंक) में पूर्ण अंक प्राप्त करना संभव है। पेपर 4 निबंध में खण्ड 1 (800 शब्द / 80 अंक) व खण्ड 2 (1200 शब्द / 120 अंक) का पूर्व-संरचित रूपरेखा आधारित अभ्यास करें।",
+          "en": "Aim for 140+/200 in Paper 3 (Drafting, Vocab, Varn Vichar and Grammar are scoring). In Paper 4 Essay, craft disciplined blueprints for Section 1 (800w/80M) and Section 2 (1200w/120M) with quotes, multi-sectoral dimensions, and UP perspective."
+        }
+      }
+    ],
+    "dailyRoutine": [
+      { "slot": "06:00 - 08:30 (Morning Slot 1)", "task": "GS Conceptual Foundation (Polity / History / Geography) + Notes Making" },
+      { "slot": "09:30 - 11:30 (Morning Slot 2)", "task": "General Hindi Mastery (60Q Prelims Vocab + Paper 3 Grammar & Varn Vichar)" },
+      { "slot": "12:00 - 01:30 (Midday Slot)", "task": "UP Special (Uttar Pradesh History, Geography, ODOP, Budget & Current Affairs)" },
+      { "slot": "03:00 - 04:30 (Afternoon Slot)", "task": "Daily Practice Bank (50 MCQs) + Negative Marking Analysis & Error Notebook" },
+      { "slot": "05:00 - 07:00 (Evening Slot)", "task": "Mains Answer Writing Drill: 2 Short (75w) + 1 Long (125w) Questions OR 1 Official Draft" },
+      { "slot": "08:30 - 10:00 (Night Slot)", "task": "National & International Current Affairs Capsules + PIB / NITI Aayog Summary" },
+      { "slot": "10:00 - 10:30 (Bedtime Slot)", "task": "3D Flashcard Revision & Weekly Spaced Review Queue" }
+    ]
+  }
 }

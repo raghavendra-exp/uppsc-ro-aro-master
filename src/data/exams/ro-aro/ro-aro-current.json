@@ -2,21 +2,22 @@
   "activeVersionId": "ro-aro-2026",
   "activeVersionYear": 2026,
   "negativeMarks": 0.33,
-  "lastVerified": "2026-09-27",
-  "verifiedBy": "UPPSC Official Recruitment Portal & UP Govt Orders",
+  "lastVerified": "2026-10-27",
+  "officialNoticeNumber": "A-4/E-1/2026",
+  "verifiedBy": "UPPSC Official Notification Advt No. A-4/E-1/2026 dated 26/10/2026",
   "sourceNoticeUrl": "https://uppsc.up.nic.in",
   "allVersions": [
     {
       "id": "ro-aro-2026",
       "year": 2026,
       "status": "CURRENT",
-      "label": "2026 (Current Official Baseline)"
+      "label": "2026 (Advt No. A-4/E-1/2026 - 800M Mains Official Pattern)"
     },
     {
       "id": "ro-aro-2023",
       "year": 2023,
       "status": "ARCHIVED",
-      "label": "2023 (Advt A-7/E-1/2023 Archived)"
+      "label": "2023 (Advt No. A-7/E-1/2023 - 400M Mains Archived Pattern)"
     }
   ]
 }

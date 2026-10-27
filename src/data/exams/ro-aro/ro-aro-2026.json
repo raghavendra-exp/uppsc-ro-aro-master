@@ -3,61 +3,129 @@
   "versionYear": 2026,
   "status": "CURRENT",
   "title": {
-    "hi": "उत्तर प्रदेश लोक सेवा आयोग RO/ARO नवीनतम आधिकारिक परीक्षा पैटर्न (अद्यतन)",
-    "en": "UPPSC RO/ARO Latest Official Examination Pattern (Current Baseline)"
+    "hi": "उत्तर प्रदेश लोक सेवा आयोग RO/ARO आधिकारिक परीक्षा पैटर्न 2026 (विज्ञापन सं. A-4/E-1/2026)",
+    "en": "UPPSC RO/ARO Official Examination Pattern 2026 (Advt No. A-4/E-1/2026)"
   },
-  "notificationNumber": "UPPSC/RO-ARO/CURRENT-STANDARD",
-  "notificationDate": "2026",
-  "lastVerified": "2026-09-27",
+  "notificationNumber": "A-4/E-1/2026",
+  "notificationDate": "26/10/2026",
+  "applicationDates": {
+    "commencement": "26/10/2026",
+    "feeLastDate": "26/11/2026",
+    "submissionLastDate": "26/11/2026",
+    "modificationLastDate": "03/12/2026"
+  },
+  "totalVacancies": 501,
+  "lastVerified": "2026-10-27",
   "officialSourceUrl": "https://uppsc.up.nic.in",
   "negativeMarking": 0.33,
+  "minimumEfficiencyStandard": {
+    "sc_st": "35%",
+    "others": "40%"
+  },
   "prelimsPattern": {
     "paper1GS": { "questions": 140, "marks": 140, "durationMinutes": 120 },
     "paper2Hindi": { "questions": 60, "marks": 60, "durationMinutes": 60 },
     "totalQuestions": 200,
-    "totalMarks": 200
+    "totalMarks": 200,
+    "totalDurationMinutes": 180,
+    "format": "Single composite 3-hour objective test (140 GS + 60 General Hindi)"
   },
   "mainsPattern": {
-    "paper1GS": { "questions": 120, "marks": 120, "durationMinutes": 120 },
-    "paper2PartAConventional": { "marks": 100, "durationMinutes": 150 },
-    "paper2PartBVocab": { "questions": 30, "marks": 60, "durationMinutes": 30 },
-    "paper3Essay": { "essaysCount": 3, "wordsPerEssay": 600, "marks": 120, "durationMinutes": 180 },
-    "totalMarks": 400
+    "totalMarks": 800,
+    "totalPapers": 4,
+    "paper1GS": {
+      "name": "General Studies - I (सामान्य अध्ययन- प्रथम)",
+      "type": "Conventional / Descriptive (परम्परागत)",
+      "questions": 20,
+      "marks": 200,
+      "durationMinutes": 180,
+      "structure": "10 Short Questions (8 Marks / 75 Words each) + 10 Long Questions (12 Marks / 125 Words each)"
+    },
+    "paper2GS": {
+      "name": "General Studies - II (सामान्य अध्ययन- द्वितीय)",
+      "type": "Conventional / Descriptive (परम्परागत)",
+      "questions": 20,
+      "marks": 200,
+      "durationMinutes": 180,
+      "structure": "10 Short Questions (8 Marks / 75 Words each) + 10 Long Questions (12 Marks / 125 Words each)"
+    },
+    "paper3HindiDrafting": {
+      "name": "General Hindi & Drafting (सामान्य हिन्दी एवं आलेखन)",
+      "type": "Conventional (परम्परागत)",
+      "questions": 8,
+      "marks": 200,
+      "durationMinutes": 180,
+      "structure": "Passage Précis (30M) + Tabular Précis (10M) + 9 Letters (20M) + Admin Vocab (20M) + Muhavare (30M) + Grammar & Punctuation (30M) + Varn Vichar (10M) + Word Groups & Formation (40M) + Computer (10M)"
+    },
+    "paper4Essay": {
+      "name": "Hindi Essay (हिन्दी निबन्ध)",
+      "type": "Conventional (परम्परागत)",
+      "essaysCount": 2,
+      "marks": 200,
+      "durationMinutes": 180,
+      "structure": "Section 1: 1 Essay (80 Marks / 800 Words) from Science/Env/Econ/Disaster; Section 2: 1 Essay (120 Marks / 1200 Words) from Lit/Culture/Polity/International/Schemes"
+    }
+  },
+  "chiefMinisterFellowship": {
+    "ageRelaxation": "Up to 3 years (1 year tenure = 1 year, 2 years = 2 years, 3+ years = 3 years)",
+    "mainsWeightage": {
+      "upTo100Marks": { "1yr": 1.0, "2yr": 2.0, "3yr": 3.0 },
+      "101to500Marks": { "1yr": 1.5, "2yr": 3.0, "3yr": 4.5 },
+      "501to1000Marks": { "1yr": 2.0, "2yr": 4.0, "3yr": 6.0 },
+      "moreThan1000Marks": { "1yr": 2.5, "2yr": 5.0, "3yr": 7.5 }
+    }
   },
   "eligibility": {
     "qualificationRO": {
-      "hi": "भारत में विधि द्वारा स्थापित विश्वविद्यालय से स्नातक उपाधि। विशेष पदों (उदा. लेखा, हिन्दी, उर्दू) हेतु विशिष्ट अर्हता।",
-      "en": "Bachelor's degree from recognized Indian University. Specialized posts (Accounts, Hindi, Urdu) require specific degree/proficiency."
+      "hi": "भारत में विधि द्वारा स्थापित विश्वविद्यालय से स्नातक उपाधि। विशेष पदों (उदा. लेखा) हेतु वाणिज्य में स्नातक।",
+      "en": "Bachelor's degree from recognized Indian University. Specialized post of RO Account requires Commerce degree."
     },
     "qualificationARO": {
-      "hi": "स्नातक उपाधि + NIELIT 'O' लेवल प्रमाणपत्र अथवा शासनादेश द्वारा मान्य समकक्ष डिप्लोमा + हिन्दी टंकण में न्यूनतम 25 श.प्र.मि. (कम्प्यूटर पर)।",
-      "en": "Bachelor's degree + NIELIT 'O' level or recognized equivalent diploma/degree as per UP Govt GOs + Minimum 25 wpm Hindi typing speed on computer."
+      "hi": "स्नातक उपाधि + NIELIT / DOEACC 'O' लेवल प्रमाणपत्र अथवा समकक्ष डिप्लोमा + कम्प्यूटर पर हिन्दी टंकण में न्यूनतम 25 शब्द प्रति मिनट (कृतिदेव 010 / मंगल)। अंग्रेजी टाइपिंग जानने वाले को वरीयता।",
+      "en": "Bachelor's degree + DOEACC/NIELIT 'O' Level (or UP Govt equivalent diploma as per GO 05.05.2022) + Minimum 25 wpm Hindi typing speed on computer. English typing gives preference."
     },
     "typingCriteriaARO": {
-      "hi": "हिन्दी टाइपिंग टेस्ट अनिवार्य रूप से कम्प्यूटर पर (कृतिदेव 010 या मंगल इनस्क्रिप्ट फॉन्ट)। अंग्रेजी टाइपिंग (30 श.प्र.मि.) वरीयता हेतु।",
-      "en": "Mandatory Hindi typing test on computer (Kruti Dev 010 or Mangal Inscript). English typing (30 wpm) provides preferential merit."
+      "hi": "हिन्दी टंकण परीक्षा कम्प्यूटर पर 25 शब्द प्रति मिनट अनिवार्य। अंग्रेजी टंकण (30 श.प्र.मि.) वरीयता हेतु।",
+      "en": "Mandatory Hindi typing test on computer at 25 wpm. English typing (30 wpm) provides preferential merit."
     },
     "ageLimit": {
       "min": 21,
       "max": 40,
+      "cutoffDate": "01/07/2026 (Born between 02/07/1986 and 01/07/2005)",
       "relaxationDetails": {
-        "hi": "उ.प्र. के आरक्षित वर्ग (SC, ST, OBC) हेतु 5 वर्ष की छूट; दिव्यांग अभ्यर्थियों हेतु 15 वर्ष की छूट।",
-        "en": "5 years relaxation for UP reserved categories (SC, ST, OBC); 15 years for PwD candidates as per UP rules."
+        "hi": "उ.प्र. के SC, ST, OBC, कुशल खिलाड़ियों व राज्य कर्मचारियों हेतु 5 वर्ष की छूट (अधिकतम 45 वर्ष); दिव्यांग अभ्यर्थियों हेतु 15 वर्ष की छूट (अधिकतम 55 वर्ष)। मुख्यमंत्री फेलोशिप शोधार्थियों को अधिकतम 3 वर्ष की छूट।",
+        "en": "5 years relaxation for UP SC, ST, OBC, skilled sportspersons & UP state employees (up to 45 yrs); 15 years for UP PwD (up to 55 yrs); up to 3 years for CM Fellowship scholars."
       }
     }
   },
   "changesFromPrevious": [
     {
-      "hi": "ओटीआर (One Time Registration) संख्या अनिवार्य; आवेदन से पूर्व 72 घंटे पहले ओटीआर जनरेट होना आवश्यक।",
-      "en": "Mandatory OTR (One Time Registration); must be generated at least 72 hours before form submission."
+      "hi": "मुख्य परीक्षा का पूर्णांक 400 से बढ़ाकर 800 अंक किया गया (4 वर्णनात्मक प्रश्नपत्र, प्रत्येक 200 अंक)।",
+      "en": "Mains total marks upgraded from 400 to 800 Marks across 4 comprehensive conventional papers (200 marks each)."
     },
     {
-      "hi": "उत्तर पुस्तिकाओं के मूल्यांकन में मानक मानकीकरण और बहुस्तरीय सत्यापन प्रणाली।",
-      "en": "Strict multi-tier verification and standardized evaluation for conventional papers."
+      "hi": "मुख्य परीक्षा सामान्य अध्ययन में 20-20 वर्णनात्मक प्रश्न: 10 लघु उत्तरीय (8 अंक / 75 शब्द) + 10 दीर्घ उत्तरीय (12 अंक / 125 शब्द)।",
+      "en": "Mains GS transitioned to conventional answer-writing: 10 short (8 marks / 75 words) and 10 long questions (12 marks / 125 words)."
     },
     {
-      "hi": "ओ-लेवल समकक्षता संबंधी 5 मई 2022 के शासनादेश के अनुरूप स्पष्ट डिप्लोमा सूची मान्य।",
-      "en": "Explicit equivalent diploma list as per UP Government GO dated 5 May 2022 strictly recognized."
+      "hi": "जीएस-2 में 'नीतिशास्त्र एवं सत्यनिष्ठा' (Ethics and Integrity) तथा 'शासन व्यवस्था' (Governance) का विस्तृत समावेशन।",
+      "en": "Inclusion of dedicated 'Ethics and Integrity' (Rit, Dharma, Purushartha, Utilitarianism, Emotional Intelligence) and 'Governance' in GS Paper II."
+    },
+    {
+      "hi": "सामान्य हिन्दी एवं आलेखन (पेपर-3) में वर्ण-विचार, शब्द-रचना (संधि, समास, उपसर्ग, प्रत्यय) और व्याकरण को शामिल कर 200 अंक का व्यापक प्रश्नपत्र बनाया गया।",
+      "en": "General Hindi & Drafting (Paper 3) expanded to 200 Marks, incorporating Varna Vichar, Sandhi, Samas, and comprehensive grammar."
+    },
+    {
+      "hi": "निबंध प्रश्नपत्र (पेपर-4) अब 200 अंक का है: खण्ड 1 (80 अंक / 800 शब्द) तथा खण्ड 2 (120 अंक / 1200 शब्द)।",
+      "en": "Hindi Essay restructured into 200 Marks: Section 1 (80 Marks / 800 Words) and Section 2 (120 Marks / 1200 Words)."
+    },
+    {
+      "hi": "उत्तर प्रदेश परीक्षा (अनुचित साधनों का निवारण) अधिनियम, 2024 (दिनांक 6 अगस्त 2024) तथा भारतीय न्याय संहिता (BNS) के दंडात्मक प्रावधान लागू।",
+      "en": "Strict implementation of UP Examination (Prevention of Unfair Means) Act, 2024 (dated 06.08.2024) and Bharatiya Nyaya Sanhita (BNS)."
+    },
+    {
+      "hi": "मुख्यमंत्री फेलोशिप कार्यक्रम के शोधार्थियों हेतु मुख्य परीक्षा में 1 से 7.5 अंक तक का विशेष वेटेज एवं आयु सीमा में 3 वर्ष तक की छूट।",
+      "en": "Special weightage (1 to 7.5 marks) in Mains and up to 3 years age relaxation for CM Fellowship Programme research scholars."
     }
   ]
 }

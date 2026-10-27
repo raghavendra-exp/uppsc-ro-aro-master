@@ -46,27 +46,27 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
     },
     {
       id: 'mains',
-      title: { hi: 'आरओ/एआरओ मुख्य परीक्षा', en: 'RO/ARO Mains Engine' },
-      subtitle: { hi: 'GS (120 अंक) + आलेखन (100) + शब्दावली (60) + निबंध (120)', en: 'GS (120) + Drafting (100) + Vocab (60) + Essay (120)' },
+      title: { hi: 'आरओ/एआरओ मुख्य परीक्षा (800 अंक)', en: 'RO/ARO Mains Engine (800 Marks)' },
+      subtitle: { hi: '4 परम्परागत प्रश्नपत्र: जीएस-1 (200) + जीएस-2 (200) + आलेखन (200) + निबंध (200)', en: '4 Conventional Papers: GS-1 (200) + GS-2 (200) + Drafting (200) + Essay (200)' },
       icon: Award,
       color: 'from-indigo-600 to-purple-700',
-      badge: { hi: '400 अंक • सीधा चयन', en: '400 Marks • Merit' }
+      badge: { hi: '800 अंक • सीधा चयन', en: '800 Marks • Merit' }
     },
     {
       id: 'drafting',
       title: { hi: 'शासकीय आलेखन एवं पत्राचार लैब', en: 'Official Drafting Simulator' },
-      subtitle: { hi: 'शासकीय/अर्धशासकीय पत्र, कार्यालय ज्ञाप, परिपत्र, सारणी रूप', en: 'Official, D.O. Letter, O.M., Circular, Tabular Précis' },
+      subtitle: { hi: 'शासकीय/अर्धशासकीय पत्र, कार्यालय ज्ञाप, परिपत्र, सारणी रूप, वर्ण-विचार', en: 'Official, D.O. Letter, O.M., Circular, Tabular Précis' },
       icon: FileText,
       color: 'from-rose-500 to-red-600',
       badge: { hi: 'संरचनात्मक परीक्षक', en: 'Format Evaluator' }
     },
     {
       id: 'essay',
-      title: { hi: '600 शब्द हिन्दी निबंध लैब', en: '600-Word Hindi Essay Lab' },
-      subtitle: { hi: 'साहित्य, विज्ञान, आपदा, उ.प्र. परिप्रेक्ष्य, टाइमर व वर्ड-काउंटर', en: 'Literature, Science, Calamities, UP View, Word Counter' },
+      title: { hi: 'हिन्दी निबन्ध लैब (200 अंक)', en: 'Hindi Essay Lab (200 Marks)' },
+      subtitle: { hi: 'खण्ड 1 (800 शब्द / 80 अंक) + खण्ड 2 (1200 शब्द / 120 अंक)', en: 'Section 1 (800w / 80M) + Section 2 (1200w / 120M)' },
       icon: PenTool,
       color: 'from-emerald-600 to-teal-700',
-      badge: { hi: '3 निबंध • 120 अंक', en: '3 Essays • 120 Marks' }
+      badge: { hi: '2 निबंध • 200 अंक', en: '2 Essays • 200 Marks' }
     },
     {
       id: 'practice',
@@ -186,8 +186,8 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
             <span className="text-[10px] text-slate-400 uppercase font-semibold">
               {language === 'hi' ? 'मुख्य परीक्षा' : 'Mains Target'}
             </span>
-            <div className="text-xl font-bold text-white mt-0.5">400 {language === 'hi' ? 'अंक' : 'Marks'}</div>
-            <span className="text-[10px] text-indigo-300">{language === 'hi' ? 'सीधा चयन (नो इंटरव्यू)' : 'Direct Merit (No Interview)'}</span>
+            <div className="text-xl font-bold text-white mt-0.5">800 {language === 'hi' ? 'अंक' : 'Marks'}</div>
+            <span className="text-[10px] text-indigo-300">{language === 'hi' ? '4 वर्णनात्मक पेपर (सीधा चयन)' : '4 Conventional Papers'}</span>
           </div>
 
           <div className="bg-slate-800/40 backdrop-blur rounded-xl p-3 border border-slate-700/50">
@@ -217,8 +217,8 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
             </div>
             <p className="text-xs text-amber-800/90 dark:text-amber-300/90 mt-0.5 leading-relaxed">
               {language === 'hi'
-                ? `कुल 411 पद (समीक्षा अधिकारी 322 पद, सहायक समीक्षा अधिकारी 40 पद)। 1/3 ऋणात्मक अंकन प्रणाली। OTR अनिवार्य।`
-                : `Total 411 Vacancies (RO: 322, ARO: 40). 1/3 Negative Marking strictly applicable. OTR Mandatory.`}
+                ? `नवीनतम विज्ञापन सं. ${activeNotif.officialNotificationNumber} • कुल 501 पद • ऑनलाइन आवेदन: ${activeNotif.keyDates.applicationStartDate} से ${activeNotif.keyDates.applicationClosingDate} तक। नया 800 अंक मुख्य परीक्षा पैटर्न।`
+                : `Official Advt ${activeNotif.officialNotificationNumber} • 501 Vacancies • Online Applications: ${activeNotif.keyDates.applicationStartDate} to ${activeNotif.keyDates.applicationClosingDate}. New 800-Mark Mains Pattern.`}
             </p>
           </div>
         </div>

@@ -32,13 +32,7 @@ export interface ExamVersion {
     totalQuestions: number;
     totalMarks: number;
   };
-  mainsPattern: {
-    paper1GS: { questions: number; marks: number; durationMinutes: number };
-    paper2PartAConventional: { marks: number; durationMinutes: number };
-    paper2PartBVocab: { questions: number; marks: number; durationMinutes: number };
-    paper3Essay: { essaysCount: number; wordsPerEssay: number; marks: number; durationMinutes: number };
-    totalMarks: number;
-  };
+  mainsPattern: any;
   eligibility: {
     qualificationRO: BilingualText;
     qualificationARO: BilingualText;
@@ -164,8 +158,12 @@ export interface IdiomPhrase {
 
 export interface EssayTopic {
   id: string;
-  category: 'A_LITERATURE_CULTURE_SOCIAL_POLITICAL' | 'B_SCIENCE_TECH_ECONOMY_AGRI' | 'C_NATIONAL_INTERNATIONAL_DISASTER_PLANS';
-  categoryLabel: BilingualText;
+  category?: 'A_LITERATURE_CULTURE_SOCIAL_POLITICAL' | 'B_SCIENCE_TECH_ECONOMY_AGRI' | 'C_NATIONAL_INTERNATIONAL_DISASTER_PLANS';
+  categoryLabel?: BilingualText;
+  mainsSection?: 'SECTION_1_800W' | 'SECTION_2_1200W';
+  sectionNumber?: number;
+  domain?: string;
+  marks?: number;
   title: BilingualText;
   wordCountLimit: number;
   understanding: BilingualText;
@@ -182,6 +180,19 @@ export interface EssayTopic {
   quotations: string[];
   commonPitfalls: BilingualText[];
   checklist: BilingualText[];
+}
+
+export interface MainsDescriptiveQuestion {
+  id: string;
+  paper: 'GS_PAPER_1' | 'GS_PAPER_2';
+  subject: string;
+  type: 'SHORT_ANSWER' | 'LONG_ANSWER';
+  marks: number;
+  wordLimit: number;
+  question: BilingualText;
+  modelAnswer: BilingualText;
+  structureBreakdown: Record<string, string>;
+  examinerRubric: string[];
 }
 
 export interface CurrentAffairArticle {
