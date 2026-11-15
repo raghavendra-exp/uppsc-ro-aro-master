@@ -18,7 +18,8 @@ import {
   Target,
   Clock,
   Layers,
-  CheckCircle2
+  CheckCircle2,
+  Keyboard
 } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { Roadmap } from '../components/Roadmap';
@@ -59,6 +60,14 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
       icon: FileText,
       color: 'from-rose-500 to-red-600',
       badge: { hi: 'संरचनात्मक परीक्षक', en: 'Format Evaluator' }
+    },
+    {
+      id: 'typing',
+      title: { hi: 'ARO हिन्दी एवं अंग्रेजी टंकण सिमुलेटर', en: 'ARO Official Typing Simulator' },
+      subtitle: { hi: '25 WPM हिन्दी (कृति देव 010 / मंगल इनस्क्रिप्ट), 30 WPM अंग्रेजी, 5 मिनट टाइमर', en: '25 WPM Hindi (Kruti Dev 010 / Mangal Inscript), 30 WPM English, 5-min timer & pass/fail badge' },
+      icon: Keyboard,
+      color: 'from-fuchsia-600 to-pink-700',
+      badge: { hi: '25 WPM अनिवार्य', en: '25 WPM Mandatory' }
     },
     {
       id: 'essay',

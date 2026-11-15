@@ -29,6 +29,8 @@ export default {
       },
       fontFamily: {
         hindi: ['"Noto Sans Devanagari"', '"Rozha One"', 'system-ui', 'sans-serif'],
+        krutidev: ['"Kruti Dev 010"', '"Noto Sans Devanagari"', 'sans-serif'],
+        mangal: ['Mangal', '"Noto Sans Devanagari"', 'sans-serif'],
         sans: ['Inter', '"Noto Sans Devanagari"', 'system-ui', 'sans-serif'],
       }
     },

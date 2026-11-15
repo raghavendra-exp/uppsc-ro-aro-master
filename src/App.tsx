@@ -24,6 +24,7 @@ import { RevisionPage } from './pages/RevisionPage';
 import { BooksPage } from './pages/BooksPage';
 import { NotificationPage } from './pages/NotificationPage';
 import { TutorialsPage } from './pages/TutorialsPage';
+import { TypingTestPage } from './pages/TypingTestPage';
 
 const AppContent: React.FC = () => {
   const { language } = useApp();
@@ -112,6 +113,9 @@ const AppContent: React.FC = () => {
       case 'tutorials':
         base.push({ label: { hi: 'सम्पूर्ण विस्तृत अध्ययन सामग्री (Master Book)', en: 'Comprehensive Master Book' } });
         break;
+      case 'typing':
+        base.push({ label: { hi: 'ARO टंकण परीक्षा सिमुलेटर (Kruti Dev / Mangal)', en: 'ARO Typing Test Simulator' } });
+        break;
       case 'notices':
         base.push({ label: { hi: 'आधिकारिक सूचना केंद्र', en: 'Notification Center' } });
         break;
@@ -158,6 +162,7 @@ const AppContent: React.FC = () => {
         {currentTab === 'revision' && <RevisionPage />}
         {currentTab === 'books' && <BooksPage onNavigatePractice={handleNavigatePractice} />}
         {currentTab === 'tutorials' && <TutorialsPage onNavigateTab={handleNavigateTab} onNavigatePractice={handleNavigatePractice} />}
+        {currentTab === 'typing' && <TypingTestPage />}
         {currentTab === 'notices' && <NotificationPage />}
       </main>
 

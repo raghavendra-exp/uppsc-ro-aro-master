@@ -33,6 +33,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentTab, onSelectTab }) => {
     { id: 'prelims', label: { hi: 'प्रारंभिक', en: 'Prelims' } },
     { id: 'mains', label: { hi: 'मुख्य परीक्षा', en: 'Mains' } },
     { id: 'drafting', label: { hi: 'आलेखन लैब', en: 'Drafting' } },
+    { id: 'typing', label: { hi: 'ARO टंकण (Typing)', en: 'ARO Typing' } },
     { id: 'essay', label: { hi: 'निबंध लैब (200 अंक)', en: 'Essay Lab' } },
     { id: 'pyq', label: { hi: 'PYQ 2013-24', en: 'PYQ Bank' } },
     { id: 'practice', label: { hi: '1000+ प्रश्न', en: '1000+ Qs' } },

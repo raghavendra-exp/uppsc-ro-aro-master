@@ -1749,5 +1749,477 @@
         ]
       ]
     }
+  },
+  {
+    "id": "tut-ethics-integrity-governance",
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_2_GS",
+    "moduleTitle": {
+      "hi": "खण्ड 4: नीतिशास्त्र, सत्यनिष्ठा एवं लोक प्रशासन में अभिरुचि",
+      "en": "Module 4: Ethics, Integrity & Aptitude in Governance"
+    },
+    "chapterNumber": "अध्याय 2.4",
+    "title": {
+      "hi": "नीतिशास्त्र, सत्यनिष्ठा एवं लोक सेवा में मानवीय मूल्य (Lexicon Ethics Master Guide)",
+      "en": "Ethics, Integrity & Human Values in Civil Administration (Lexicon Ethics Master Guide)"
+    },
+    "subtitle": {
+      "hi": "ऋत एवं धर्म, सुकरात-प्लेटो-अरस्तू-कांट-मिल दर्शन, अभिवृत्ति (CAB मॉडल), भावनात्मक बुद्धिमत्ता एवं नोलन समिति के 7 सिद्धांत",
+      "en": "Rta & Dharma, Western Philosophers, Attitude CAB Model, Emotional Intelligence & Nolan Principles"
+    },
+    "estimatedStudyTimeMinutes": 55,
+    "weightageQuestions": "5-8 प्रश्न (मुख्य परीक्षा सामान्य अध्ययन द्वितीय प्रश्नपत्र — 200 अंक)",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "भारतीय एवं पाश्चात्य नीतिशास्त्रीय सिद्धांतों (कांट का कर्त्तव्यशास्त्र, मिल का उपयोगितावाद, अरस्तू का सद्गुण सिद्धांत) की प्रशासनिक प्रासंगिकता समझना।",
+        "en": "Understand administrative relevance of Deontology, Utilitarianism, and Virtue Ethics."
+      },
+      {
+        "hi": "अभिवृत्ति (Attitude) की संरचना, CAB मॉडल एवं प्रशासनिक व्यवहार में अभिवृत्ति परिवर्तन की विधियों को आत्मसात करना।",
+        "en": "Master Attitude structure (CAB model) and techniques of attitude change in public administration."
+      },
+      {
+        "hi": "डैनियल गोलमैन की भावनात्मक बुद्धिमत्ता (Emotional Intelligence) के 5 घटकों का प्रशासनिक संकटों में अनुप्रयोग।",
+        "en": "Apply Daniel Goleman's 5 Emotional Intelligence domains to public administration crises."
+      },
+      {
+        "hi": "नोलन समिति के 7 सिद्धांतों तथा द्वितीय प्रशासनिक सुधार आयोग (ARC-II) की नीतिशास्त्रीय संस्तुतियों का संस्मरण।",
+        "en": "Memorize Nolan Committee 7 Principles and ARC-II recommendations on Ethics in Governance."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "sec-ethics-foundations",
+        "heading": {
+          "hi": "1. नीतिशास्त्र के मूल तत्व एवं भारतीय दार्शनिक चिंतन",
+          "en": "1. Foundations of Ethics & Indian Philosophical Traditions"
+        },
+        "bodyMarkdown": {
+          "hi": "### नीतिशास्त्र (Ethics) की संकल्पना\n• नीतिशास्त्र मानव आचरण की औचित्यपरकता (Rightness) एवं अनौचित्यपरकता (Wrongness) का व्यवस्थित और दार्शनिक अध्ययन है।\n• **मूल्य (Values)**: वे अमूर्त आदर्श या विश्वास हैं जो व्यक्ति या समाज के व्यवहार को निर्देशित करते हैं (उदा. सत्य, अहिंसा, ईमानदारी)।\n• **नैतिकता (Morality)**: व्यक्तिगत या समूह स्तर पर स्वीकृत आचरण नियम।\n\n### भारतीय परंपरा में नीतिशास्त्र (Indian Ethical Thought)\n1. **ऋत (Rta)**: ऋग्वैदिक काल की सर्वोच्च अवधारणा जो संपूर्ण ब्रह्मांड की प्राकृतिक, लौकिक एवं नैतिक व्यवस्था (Cosmic Order) का प्रतीक है।\n2. **धर्म (Dharma)**: 'धारणाद् धर्म इत्याहुः धर्मो धारयते प्रजाः' — जो समाज को धारण करे, सुव्यवस्थित रखे वही धर्म है। धर्म मात्र पूजा-पद्धति नहीं, कर्तव्य और न्यायपूर्ण आचरण है।\n3. **पुरुषार्थ चतुष्टय**: मानव जीवन के चार अभीष्ट लक्ष्य — **धर्म (कर्तव्य एवं नैतिकता)**, **अर्थ (भौतिक साधन)**, **काम (इच्छाएं)**, एवं **मोक्ष (आत्मिक मुक्ति)**। यहाँ अर्थ और काम को सदैव धर्म के अधीन रखा गया है।\n4. **श्रीमद्भगवद्गीता का निष्काम कर्मयोग**: 'कर्मण्येवाधिकारस्ते मा फलेषु कदाचन' — फल की आसक्ति से मुक्त होकर लोककल्याण (लोकसंग्रह) हेतु कर्तव्य पालन। यह एक सिविल सेवक के लिए अनासक्त निष्पक्षता का सर्वोच्च आदर्श है।\n5. **बौद्ध दर्शन (अष्टांगिक मार्ग)**: सम्यक दृष्टि, सम्यक संकल्प, सम्यक वाक, सम्यक कर्म, सम्यक आजीव, सम्यक व्यायाम, सम्यक स्मृति, सम्यक समाधि।\n6. **अशोक का धम्म**: अहिंसा, सहिष्णुता, वृद्धों का सम्मान, कैदियों के प्रति दया तथा सभी संप्रदायों के प्रति आदर।",
+          "en": "### Concept of Ethics\n• Systematic philosophical study of human conduct in terms of right and wrong.\n• Indian traditions anchor ethics in **Rta** (cosmic order), **Dharma** (righteous duty holding society together), **Purushartha** (Dharma, Artha, Kama, Moksha), and the Gita's **Nishkama Karma** (duty without fruit attachment)."
+        }
+      },
+      {
+        "sectionId": "sec-western-moral-philosophers",
+        "heading": {
+          "hi": "2. पाश्चात्य नैतिक विचारक एवं सिद्धांत (Western Thinkers)",
+          "en": "2. Western Moral Thinkers & Philosophical Frameworks"
+        },
+        "bodyMarkdown": {
+          "hi": "### 1. सुकरात (Socrates)\n• 'ज्ञान ही सद्गुण है' (Knowledge is Virtue)। यदि मनुष्य को वास्तविक अच्छाई का ज्ञान हो तो वह बुरा कार्य नहीं कर सकता।\n• 'अनपरीक्षित जीवन जीने योग्य नहीं है' (An unexamined life is not worth living)।\n\n### 2. प्लेटो (Plato)\n• चार कार्डिनल सद्गुण (Four Cardinal Virtues): **प्रज्ञा (Wisdom)**, **साहस (Courage)**, **संयम (Temperance)**, एवं **न्याय (Justice)**। राज्य में जब दार्शनिक राजा में प्रज्ञा, सैनिकों में साहस और उत्पादकों में संयम हो, तभी 'न्याय' की स्थापना होती है।\n\n### 3. अरस्तू (Aristotle) — सद्गुण नीतिशास्त्र (Virtue Ethics)\n• सर्वोच्च साध्य: **यूडाइमोनिया (Eudaimonia - Flourishing / Happiness)**।\n• **स्वर्ण मध्यमार्ग (Golden Mean)**: सद्गुण दो अतिवादी दोषों (अति एवं न्यूनता) के बीच का मध्यमार्ग है (उदा. कायरता और दुस्साहस के बीच का संतुलन 'साहस' है)।\n\n### 4. इमैनुएल कांट (Immanuel Kant) — कर्त्तव्यशास्त्र (Deontology)\n• परिणाम नहीं, कर्म का उद्देश्य/इरादा (Intention) महत्वपूर्ण है।\n• **निरपेक्ष आदेश (Categorical Imperative)**: केवल उसी नियम के अनुसार कार्य करो जिसे तुम सार्वभौमिक नियम (Universal Law) बनाना चाहो।\n• **मानवता का साध्य सूत्र**: मनुष्य को सदैव साध्य (End in itself) मानो, कभी किसी अन्य लक्ष्य की प्राप्ति का साधन (Means) मात्र नहीं।\n\n### 5. उपयोगितावाद (Utilitarianism) — परिणामवाद (Consequentialism)\n• **जेरेमी बेंथम**: 'अधिकतम व्यक्तियों का अधिकतम सुख' (Greatest happiness of the greatest number)। सुखों में केवल मात्रात्मक अंतर (Hedonic Calculus) होता है।\n• **जे.एस. मिल**: सुखों में गुणात्मक अंतर भी होता है। 'एक संतुष्ट सुअर होने से असंतुष्ट सुकरात होना बेहतर है'।\n\n### 6. जॉन रॉल्स (John Rawls) — न्याय का सिद्धांत\n• **अज्ञान का पर्दा (Veil of Ignorance)**: नियमों का निर्माण इस दशा में हो कि किसी को अपनी जाति, धर्म, वर्ग या प्रतिभा का भान न हो।\n• **विभेद सिद्धांत (Difference Principle)**: सामाजिक व आर्थिक असमानताएं तभी स्वीकार्य हैं जब वे समाज के सबसे पिछड़े/कमजोर वर्ग के लिए अधिकतम लाभकारी हों।",
+          "en": "### Western Philosophies\n• **Socrates**: Knowledge is virtue.\n• **Plato**: 4 Cardinal Virtues (Wisdom, Courage, Temperance, Justice).\n• **Aristotle**: Golden Mean and Eudaimonia.\n• **Kant**: Categorical Imperative & treat humanity as an end, never merely as means.\n• **Bentham & Mill**: Greatest happiness of greatest number (quantitative vs qualitative).\n• **John Rawls**: Justice as Fairness, Veil of Ignorance & Difference Principle."
+        }
+      },
+      {
+        "sectionId": "sec-attitude-emotional-intelligence",
+        "heading": {
+          "hi": "3. अभिवृत्ति (Attitude) संरचना एवं भावनात्मक बुद्धिमत्ता (EI)",
+          "en": "3. Attitude Structure (CAB Model) & Emotional Intelligence (EI)"
+        },
+        "bodyMarkdown": {
+          "hi": "### अभिवृत्ति का त्रि-घटकीय मॉडल (CAB Model)\n1. **संज्ञानात्मक घटक (Cognitive Component - C)**: किसी विषय, व्यक्ति या संस्था के बारे में ज्ञान, विचार या विश्वास (उदा. 'ई-गवर्नेंस से भ्रष्टाचार घटता है')।\n2. **भावात्मक घटक (Affective Component - A)**: उस विचार से जुड़ी भावनाएं, पसंद या नापसंद (उदा. डिजिटल प्रणाली के प्रति सकारात्मक भावना)।\n3. **व्यवहारात्मक घटक (Behavioral Component - B)**: उस भावना के अनुरूप कार्य करने की प्रवृत्ति (उदा. कार्यालय में फाइलों को ई-ऑफिस पर चलाना)।\n\n### अभिवृत्ति परिवर्तन की तकनीकें (Techniques of Attitude Change)\n• **प्रोत्साहन एवं अनुनय (Persuasion)**: स्रोत की विश्वसनीयता (Credibility), संदेश की तार्किकता (Logic), तथा प्राप्तकर्ता की संवेदना।\n• **संज्ञानात्मक विसंगति (Cognitive Dissonance - Leon Festinger)**: जब व्यक्ति के विचार और कार्य में विरोधाभास होता है, तो वह मानसिक असहजता दूर करने हेतु अपनी अभिवृत्ति में संशोधन करता है।\n\n### भावनात्मक बुद्धिमत्ता (Emotional Intelligence - Daniel Goleman Framework)\n• अपनी तथा दूसरों की भावनाओं को पहचानने, समझने, प्रबंधित करने तथा प्रभावी संबंध संचालन की क्षमता।\n1. **आत्म-जागरूकता (Self-Awareness)**: अपने संवेगों, शक्तियों एवं दुर्बलताओं का सटीक ज्ञान।\n2. **आत्म-नियमन (Self-Regulation)**: तनाव, क्रोध या आवेश की दशा में संयम और संवेग नियंत्रण।\n3. **आंतरिक अभिप्रेरणा (Internal Motivation)**: बाह्य पुरस्कारों से परे लोककल्याण हेतु कार्य करने का समर्पण।\n4. **सहानुभूति / समानुभूति (Empathy)**: वंचितों व पीड़ितों के दर्द को उनके दृष्टिकोण से महसूस करना (उदा. प्रशासनिक जनसुनवाई में वृद्धों व महिलाओं की बात ध्यान से सुनना)।\n5. **सामाजिक कौशल (Social Skills)**: टीम प्रबंधन, संघर्ष समाधान एवं प्रभावी संप्रेषण।",
+          "en": "### CAB Model of Attitude\n• Cognitive (beliefs), Affective (emotions), and Behavioral (tendency to act).\n• Emotional Intelligence (Daniel Goleman): Self-awareness, Self-regulation, Internal motivation, Empathy, and Social skills vital for administrative harmony."
+        }
+      },
+      {
+        "sectionId": "sec-nolan-principles-up-ethics",
+        "heading": {
+          "hi": "4. लोक सेवा मूल्य, नोलन समिति एवं उत्तर प्रदेश में प्रशासनिक सत्यनिष्ठा",
+          "en": "4. Public Service Values, Nolan Principles & UP Administrative Integrity"
+        },
+        "bodyMarkdown": {
+          "hi": "### नोलन समिति (Nolan Committee) के 7 सिद्धांत (1995)\n1. **निस्वार्थता (Selflessness)**: सार्वजनिक पदधारी केवल लोकहित में निर्णय लें, व्यक्तिगत लाभ हेतु नहीं।\n2. **सत्यनिष्ठा (Integrity)**: किसी भी ऐसे बाह्य वित्तीय दायित्व में न बंधें जिससे आधिकारिक कार्यों में प्रभाव पड़े।\n3. **वस्तुनिष्ठता (Objectivity)**: नियुक्तियां, अनुबंध व पुरस्कार केवल योग्यता और तथ्यों के आधार पर दिए जाएं।\n4. **जवाबदेही (Accountability)**: अपने निर्णयों एवं कार्यों के लिए जनता तथा कानून के समक्ष उत्तरदायी होना।\n5. **खुलापन (Openness)**: निर्णयों के कारणों को पारदर्शी रूप से सार्वजनिक करना; गोपनीयता केवल विधिक अपवादों में।\n6. **ईमानदारी (Honesty)**: अपने निजी हितों को घोषित करना और हित-संघर्ष (Conflict of Interest) को तुरंत सुलझाना।\n7. **नेतृत्व (Leadership)**: इन सिद्धांतों को स्वयं के उदाहरण द्वारा स्थापित व प्रोत्साहित करना।\n\n### उत्तर प्रदेश में लोकायुक्त एवं भ्रष्टाचार निवारण तंत्र\n• **उत्तर प्रदेश लोकायुक्त एवं उप-लोकायुक्त अधिनियम, 1975**: राज्य के मंत्रियों, विधायकों एवं लोक सेवकों के विरुद्ध भ्रष्टाचार व पद के दुरुपयोग की जांच हेतु स्वतंत्र वैधानिक संस्था।\n• **हित-संघर्ष (Conflict of Interest)**: जब लोक सेवक का व्यक्तिगत या पारिवारिक हित उसके आधिकारिक कर्तव्य से टकराए। समाधान: मामले से स्वयं को अलग करना (Recusal) तथा वरिष्ठ प्राधिकारी को अग्रिम सूचना देना।\n• **व्हिसलब्लोअर संरक्षण (Whistleblower Protection)**: पद के दुरुपयोग या भ्रष्टाचार को उजागर करने वाले कार्मिकों को उत्पीड़न से वैधानिक सुरक्षा।",
+          "en": "### Nolan Committee 7 Principles\n• Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty, and Leadership.\n• UP Lokayukta Act 1975 provides independent statutory investigation against administrative malpractices."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश संदर्भ: प्रदेश के प्रशासनिक इतिहास में सत्यनिष्ठा के प्रतीक रहे पंडित गोविंद बल्लभ पंत, लाल बहादुर शास्त्री (सदाचार व रेल दुर्घटना पर त्यागपत्र), तथा समकालीन समय में ई-ऑफिस, जनसुनवाई (IGRS पोर्टल) व मिशन शक्ति द्वारा प्रशासनिक जवाबदेही को संस्थागत स्वरूप प्रदान किया गया है।",
+      "en": "UP Context: Ethical benchmarks set by Lal Bahadur Shastri (resignation on moral grounds), Pt. Govind Ballabh Pant, and modern integrity frameworks like IGRS Jansunwai portal."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "नोलन समिति की स्थापना",
+          "en": "Nolan Committee Setup"
+        },
+        "explanation": {
+          "hi": "1994 में ब्रिटेन में लॉर्ड नोलन की अध्यक्षता में गठित, 1995 में 7 सिद्धांत प्रतिपादित किए।",
+          "en": "Set up in UK under Lord Nolan in 1994, published 7 principles in 1995."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "द्वितीय प्रशासनिक सुधार आयोग (ARC-II)",
+          "en": "2nd ARC 4th Report"
+        },
+        "explanation": {
+          "hi": "चौथी रिपोर्ट 'शासन में नीतिशास्त्र' (Ethics in Governance) विरप्पा मोइली की अध्यक्षता में प्रस्तुत।",
+          "en": "4th Report 'Ethics in Governance' under Veerappa Moily."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "संज्ञानात्मक विसंगति सिद्धांत (Cognitive Dissonance)",
+          "en": "Cognitive Dissonance Theory"
+        },
+        "explanation": {
+          "hi": "लियोन फेस्टिंगर (1957) द्वारा प्रतिपादित।",
+          "en": "Propounded by Leon Festinger (1957)."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "उत्तर प्रदेश लोकायुक्त अधिनियम",
+          "en": "UP Lokayukta Act"
+        },
+        "explanation": {
+          "hi": "वर्ष 1975 में पारित हुआ। उत्तर प्रदेश के प्रथम लोकायुक्त न्यायमूर्ति विशम्भर दयाल थे।",
+          "en": "Passed in 1975. First UP Lokayukta was Justice Vishwambhar Dayal."
+        }
+      }
+    ]
+  },
+  {
+    "id": "tut-hindi-master-vyakaran-rachna",
+    "stage": "BOTH",
+    "paper": "MAINS_PAPER_3_HINDI",
+    "moduleTitle": {
+      "hi": "खण्ड 5: सामान्य हिन्दी एवं व्याकरण महाग्रंथ",
+      "en": "Module 5: General Hindi, Grammar & Linguistic Master Guide"
+    },
+    "chapterNumber": "अध्याय 3.2",
+    "title": {
+      "hi": "सामान्य हिन्दी व्याकरण एवं रचना महाग्रंथ: वर्ण, संधि, समास, तत्सम-तद्भव व शुद्धि (30 अध्यायों का सार)",
+      "en": "General Hindi Master Grammar & Composition: Phonetics, Sandhi, Samas, Tatsam & Orthography"
+    },
+    "subtitle": {
+      "hi": "आदित्य वस्तुनिष्ठ, अरिहंत एवं मानक व्याकरण नोट्स से संकलित वैज्ञानिक नियम, अपवाद व 60/60 अंक फॉर्मूला",
+      "en": "Synthesized from Aditya Vastunisth, Arihant & Standard Hindi Grammar Notes with 100% Rules"
+    },
+    "estimatedStudyTimeMinutes": 60,
+    "weightageQuestions": "60 अंक प्रारंभिक परीक्षा + 60 अंक मुख्य परीक्षा वस्तुनिष्ठ + 140 अंक परम्परागत आलेखन",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "हिन्दी वर्णमाला, घोष-अघोष, अल्पप्राण-महाप्राण एवं 8 उच्चारण स्थानों का वैज्ञानिक वर्गीकरण स्मरण करना।",
+        "en": "Master phonetics, voiced/unvoiced, aspirated/unaspirated, and 8 articulation zones."
+      },
+      {
+        "hi": "स्वर संधि के 5 भेद, व्यंजन संधि के 10 सूत्र एवं विसर्ग संधि के अपवादों पर पूर्ण अधिकार प्राप्त करना।",
+        "en": "Decode rules and exceptions across Svara, Vyanjana, and Visarga Sandhi."
+      },
+      {
+        "hi": "समास के 6 भेदों (विशेषकर कर्मधारय vs बहुव्रीहि) के विग्रह के वैज्ञानिक नियम समझना।",
+        "en": "Differentiate subtle boundaries of Samas compounds with precise vigraha logic."
+      },
+      {
+        "hi": "तत्सम-तद्भव पहचानने के 10 अचूक सूत्र तथा विगत 15 वर्षों के 50 सर्वाधिक पूछे जाने वाले वर्तनी शब्दों को कंठस्थ करना।",
+        "en": "Master 10 golden rules of Tatsam-Tadbhav identification and 50 high-yield orthography words."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "sec-varnamala-phonetics",
+        "heading": {
+          "hi": "1. वर्णमाला, ध्वन्यात्मक वर्गीकरण एवं उच्चारण स्थान",
+          "en": "1. Hindi Phonetics, Sound Classification & Articulation Places"
+        },
+        "bodyMarkdown": {
+          "hi": "### वर्णों की कुल संख्या एवं विभाजन\n• **कुल वर्ण**: मानक हिन्दी में **52 वर्ण** स्वीकार किए गए हैं।\n• **स्वर (11)**: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ। (अं = अनुस्वार, अः = विसर्ग — ये दोनों 'अयोगवाह' कहलाते हैं)।\n• **व्यंजन (39)**:\n  1. **स्पर्श व्यंजन (25)**: क-वर्ग, च-वर्ग, ट-वर्ग, त-वर्ग, प-वर्ग।\n  2. **अंतःस्थ व्यंजन (4)**: य, र, ल, व। ('य' व 'व' को 'अर्धस्वर', 'र' को 'लुंठित/प्रकंपित', तथा 'ल' को 'पार्श्विक' कहा जाता है)।\n  3. **ऊष्म/संघर्षी व्यंजन (4)**: श, ष, स, ह।\n  4. **संयुक्त व्यंजन (4)**: क्ष (क्+ष्), त्र (त्+र्), ज्ञ (ज्+ञ्), श्र (श्+र्)।\n  5. **द्विगुण/उत्क्षिप्त व्यंजन (2)**: ड़, ढ़।\n\n### उच्चारण स्थान सारणी (Articulation Table)\n• **कंठ्य**: अ, आ, क-वर्ग, ह, विसर्ग (:) [अकुहविसर्जनीयानां कण्ठः]\n• **तालव्य**: इ, ई, च-वर्ग, य, श [इचुयशानां तालु]\n• **मूर्धन्य**: ऋ, ट-वर्ग, र, ष [ऋटुरषाणां मूर्धा]\n• **दंत्य**: त-वर्ग, ल, स [लृतुलसानां दन्ताः]\n• **ओष्ठ्य**: उ, ऊ, प-वर्ग [उपूपध्मानीयानामोष्ठौ]\n• **नासिक्य**: ङ, ञ, ण, न, म (पंचमाक्षर) तथा अनुस्वार\n• **कंठतालव्य**: ए, ऐ\n• **कंठोष्ठ्य**: ओ, औ\n• **दंतोष्ठ्य**: व\n\n### घोषत्व एवं प्राणत्व के आधार पर वर्गीकरण\n• **अघोष (Unvoiced)**: प्रत्येक वर्ग का **पहला व दूसरा वर्ण (1, 2)** तथा श, ष, स।\n• **सघोष / घोष (Voiced)**: प्रत्येक वर्ग का **तीसरा, चौथा व पांचवां वर्ण (3, 4, 5)**, सभी स्वर, ड़, ढ़, अंतःस्थ (य, र, ल, व) तथा 'ह'।\n• **अल्पप्राण (Unaspirated)**: प्रत्येक वर्ग का **पहला, तीसरा व पांचवां वर्ण (1, 3, 5)**, सभी स्वर तथा अंतःस्थ (य, र, ल, व)।\n• **महाप्राण (Aspirated)**: प्रत्येक वर्ग का **दूसरा व चौथा वर्ण (2, 4)** तथा ऊष्म व्यंजन (श, ष, स, ह)।",
+          "en": "### Varnamala & Phonetics\n• 52 total characters: 11 Svara, 25 Sparsha, 4 Antahastha, 4 Ushma, 4 Sanyukta, 2 Utkshipta, 2 Ayogavaha.\n• Aghosh (1st, 2nd + sh, shh, s) vs Saghosh (3rd, 4th, 5th + all vowels + y, r, l, v, h).\n• Alpapran (1, 3, 5 + vowels + y, r, l, v) vs Mahapran (2, 4 + sh, shh, s, h)."
+        }
+      },
+      {
+        "sectionId": "sec-sandhi-rules",
+        "heading": {
+          "hi": "2. संधि प्रकरण के अचूक नियम एवं तकनीकी अपवाद",
+          "en": "2. Sandhi Engineering: Svara, Vyanjana & Visarga Formulas"
+        },
+        "bodyMarkdown": {
+          "hi": "### 1. स्वर संधि (5 भेद)\n• **दीर्घ संधि**: ह्रस्व या दीर्घ अ, इ, उ के बाद वही स्वर आए तो दीर्घ (आ, ई, ऊ) बनता है (विद्या + आलय = विद्यालय, भानु + उदय = भानूदय)।\n• **गुण संधि**: अ/आ के बाद इ/ई आए तो 'ए', उ/ऊ आए तो 'ओ', ऋ आए तो 'अर्' बनता है (देव + इन्द्र = देवेन्द्र, महा + उत्सव = महोत्सव, सप्त + ऋषि = सप्तर्षि)।\n• **वृद्धि संधि**: अ/आ के बाद ए/ऐ आए तो 'ऐ', ओ/औ आए तो 'औ' बनता है (एक + एक = एकैक, महा + ओज = महौज, महा + औषध = महौषध)।\n• **यण संधि**: इ/ई का 'य', उ/ऊ का 'व', ऋ का 'र' बन जाता है (यदि + अपि = यद्यपि, अनु + अय = अन्वय, पितृ + आज्ञा = पित्राज्ञा)।\n• **अयादि संधि**: ए का 'अय', ऐ का 'आय', ओ का 'अव', औ का 'आव' बन जाता है (ने + अन = नयन, नै + अक = नायक, पो + अन = पवन, पौ + अक = पावक)।\n\n### 2. व्यंजन संधि के प्रमुख नियम\n• **वर्ग के प्रथम वर्ण का तीसरे वर्ण में परिवर्तन**: क्, च्, ट्, त्, प् के बाद कोई सघोष वर्ण आए तो वे क्रमशः ग्, ज्, ड्, द्, ब् बन जाते हैं (दिक् + अंत = दिगंत, वाक् + ईश = वागीश, अच् + अंत = अजंत, सत् + आशय = सदाशय)।\n• **प्रथम वर्ण का पंचम वर्ण में परिवर्तन**: क्, च्, ट्, त्, प् के बाद 'न' या 'म' आए तो वे पंचमाक्षर (ङ्, ञ्, ण्, न्, म्) बनते हैं (वाक् + मय = वाङ्मय, सत् + मार्ग = सन्मार्ग, उत् + नति = उन्नति)।\n• **त् संबंधी नियम**: त् + च/छ = च्च (उत् + चारण = उच्चारण); त् + ज/झ = ज्ज (सत् + जन = सज्जन, उत् + ज्वल = उज्ज्वल); त् + ल = ल्ल (उत् + लास = उल्लास); त् + ह = द्ध (उत् + हार = उद्धार, तत् + हित = तद्धित)।\n\n### 3. विसर्ग संधि के महत्वपूर्ण नियम व अपवाद\n• यदि विसर्ग से पहले 'अ' हो और बाद में सघोष वर्ण हो, तो विसर्ग का 'ओ' बन जाता है (मनः + हर = मनोहर, यशः + दा = यशोदा, वयः + वृद्ध = वयोवृद्ध)।\n• **विशेष अपवाद (जहाँ विसर्ग सुरक्षित रहता है)**: प्रातः + काल = प्रातःकाल, मनः + कामना = मनःकामना (मनोकामना अशुद्ध है), पयः + पान = पयःपान, अधः + पतन = अधःपतन।",
+          "en": "### Sandhi Rules\n• Svara Sandhi: Dirgha, Guna, Vriddhi, Yana, Ayadi.\n• Vyanjana Sandhi: 1st letter to 3rd letter, 1st to 5th (Vak + maya = Vangmaya), Ut + jwal = Ujjwal (double half ja).\n• Visarga Sandhi: Manah + har = Manohar, but Pratahkal and Manahkamna remain unchanged."
+        }
+      },
+      {
+        "sectionId": "sec-tatsam-tadbhav-formulas",
+        "heading": {
+          "hi": "3. तत्सम-तद्भव पहचानने के 10 अचूक सूत्र",
+          "en": "3. 10 Golden Formulas for Tatsam-Tadbhav Identification"
+        },
+        "bodyMarkdown": {
+          "hi": "### 10 अचूक वैज्ञानिक सूत्र (Golden Rules)\n1. **सूत्र 1 ('क्ष' नियम)**: तत्सम शब्दों में प्रायः 'क्ष' वर्ण होता है, जो तद्भव में बदलकर **'ख'** या **'छ'** हो जाता है।\n   • अक्षि -> आँख, क्षीर -> खीर, क्षेत्र -> खेत, पक्षी -> पंछी, लक्षण -> लच्छन।\n2. **सूत्र 2 ('व' बनाम 'ब' नियम)**: तत्सम में 'व' प्रयुक्त होता है, जो तद्भव में 'ब' बन जाता है।\n   • वानर -> बंदर, विवाह -> ब्याह, वधू -> बहू, वाष्प -> भाप, विद्युत -> बिजली, वक -> बगुला।\n3. **सूत्र 3 ('श' बनाम 'स' नियम)**: तत्सम में तालव्य 'श' होता है, जो तद्भव में दंत्य 'स' में बदल जाता है।\n   • श्यामल -> साँवला, शुक -> सुआ, श्वशुर -> ससुर, शुष्क -> सूखा, शाक -> साग।\n4. **सूत्र 4 ('ष' नियम)**: मूर्धन्य 'ष' वर्ण वाले शब्द **शत-प्रतिशत तत्सम** होते हैं।\n   • महिष -> भैंस, वर्षा -> बरसात, कृषक -> किसान, पुष्कर -> पोखर।\n5. **सूत्र 5 ('ऋ' नियम)**: 'ऋ' स्वर अथवा 'ृ' की मात्रा वाले सभी शब्द **सदैव तत्सम** होते हैं।\n   • घृत -> घी, भ्रातृ -> भाई, मृतिका -> मिट्टी, घृणा -> घिन, श्रृंगार -> सिंगार।\n6. **सूत्र 6 (चंद्रबिंदु 'ँ' नियम)**: चंद्रबिंदु (अनुनासिक) से युक्त शब्द **सदैव तद्भव** होते हैं।\n   • गोधूम -> गेहूँ, चंद्र -> चाँद, मुख -> मुँह, दंत -> दाँत, कूप -> कुआँ।\n7. **सूत्र 7 (प्र, त्र, ज्ञ, श्र संयुक्त वर्ण)**: ये वर्ण युक्त शब्द सदैव तत्सम होते हैं।\n   • प्रस्तर -> पत्थर, पत्र -> पत्ता, ज्ञान -> जानना, श्रावण -> सावन।\n8. **सूत्र 8 (य बनाम ज)**: तत्सम का 'य' तद्भव में 'ज' में बदल जाता है (युवा -> जवान, यमुना -> जमुना, यजमान -> जजमान, युग -> जुग)।",
+          "en": "### Tatsam-Tadbhav 10 Rules\n• Rule 1: 'Ksha' in Tatsam becomes 'Kha' or 'Chha' in Tadbhav.\n• Rule 2: 'Va' becomes 'Ba'.\n• Rule 3: Talavya 'Sha' becomes Dantya 'Sa'.\n• Rule 4: Murdhanya 'Shha' is 100% Tatsam.\n• Rule 5: 'Ri' vowel and matra is 100% Tatsam.\n• Rule 6: Chandrabindu (ँ) is ALWAYS Tadbhav.\n• Rule 7: Sanyukta varnas (Tra, Gya, Shra) are Tatsam.\n• Rule 8: 'Ya' transforms to 'Ja'."
+        }
+      },
+      {
+        "sectionId": "sec-vartani-vakya-shuddhi",
+        "heading": {
+          "hi": "4. वर्तनी एवं वाक्य शुद्धि के 50 सर्वोच्च उच्च-आवृत्ति शब्द",
+          "en": "4. Top 50 High-Frequency Orthography & Sentence Correction Words"
+        },
+        "bodyMarkdown": {
+          "hi": "### विगत 15 वर्षों में UPPSC द्वारा सर्वाधिक पूछे गए 25 शुद्ध वर्तनी शब्द\n1. **उज्ज्वल** (अशुद्ध: उज्जवल, उज्वल) — दोनों 'ज' आधे होते हैं (उत् + ज्वल)।\n2. **कवयित्री** (अशुद्ध: कवियित्री, कवीयत्री) — 'कव' के बाद 'यित्री'।\n3. **रचयिता** (अशुद्ध: रचियता)।\n4. **श्रृंगार** (अशुद्ध: श्रृंगार में 'श्र' के साथ 'ऋ' नहीं लगता, केवल 'श' पर ऋ की मात्रा 'शृंगार' होती है)।\n5. **अनुगृहीत** (अशुद्ध: अनुग्रहीत) — 'ह' पर बड़ी 'ी' और 'ग' पर 'ऋ'।\n6. **आशीर्वाद** (अशुद्ध: आश्रिवाद, आशिरवाद) — 'व' के ऊपर रेफ 'र्' लगता है।\n7. **ज्योत्स्ना** (अशुद्ध: ज्योत्सना) — 'त' और 'स' दोनों आधे होते हैं।\n8. **अंत्याक्षरी** (अशुद्ध: अंताक्षरी)।\n9. **कुमुदिनी** (अशुद्ध: कुमुदनी, कुमुदनि)।\n10. **विरहिणी** (अशुद्ध: विरहिणी, विरहणी)।\n11. **अधीन** (अशुद्ध: आधीन)।\n12. **पूजनीय** अथवा **पूज्य** (अशुद्ध: पूज्यनीय)।\n13. **जीजीविषा** (अशुद्ध: जिजीविषा) — जीने की तीव्र इच्छा।\n14. **यज्ञवल्क्य** (अशुद्ध: याज्ञवल्क)।\n15. **सुश्रूषा** (अशुद्ध: शुश्रुषा) — रोगियों/बुजुर्गों की सेवा।\n\n### वाक्य शुद्धि के प्रमुख नियम\n• **अनेक बनाम अनेकों**: 'अनेक' स्वयं बहुवचन है, अतः 'अनेकों' लिखना सदैव अशुद्ध है (उदा. 'वहाँ अनेकों लोग उपस्थित थे' अशुद्ध -> 'वहाँ अनेक लोग उपस्थित थे' शुद्ध)।\n• **केवल और मात्र**: दोनों समानार्थी हैं, अतः एक साथ प्रयोग वर्जित है (उदा. 'केवल मात्र दस रुपये' अशुद्ध -> 'मात्र दस रुपये' अथवा 'केवल दस रुपये' शुद्ध)।\n• **लिंग संबंधी अशुद्धि**: 'दही खट्टी है' अशुद्ध -> 'दही खट्टा है' शुद्ध ('दही' पुल्लिंग है)।",
+          "en": "### High Yield Orthography & Corrections\n• Ujjwal (both 'ja' half), Kawayitri (NOT Kawiyitri), Shringar, Anugriheet, Ashirwad, Jyotsna (half ta and half sa).\n• Sentence traps: 'Anek' is already plural (never use 'Aneko'); never use 'Keval' and 'Matra' together."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश हिन्दी संस्थान (लखनऊ) तथा उत्तर प्रदेश सचिवालय में सामान्य हिन्दी एवं शासकीय आलेखन का स्तर सर्वोच्च माना जाता है। प्रारंभिक परीक्षा में 60 में से 55+ अंक तथा मुख्य परीक्षा में 200 में से 140+ अंक प्राप्त करने वाले अभ्यर्थी ही अंतिम मेरिट में RO (समीक्षा अधिकारी) का पद प्राप्त करते हैं।",
+      "en": "UP Secretariat and UPPSC maintain the highest standards of Hindi orthography. Scoring 55+ in Prelims and 140+ in Mains Hindi is indispensable for securing RO rank."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "हिन्दी दिवस",
+          "en": "Hindi Day"
+        },
+        "explanation": {
+          "hi": "14 सितंबर (14 सितंबर 1949 को संविधान सभा द्वारा राजभाषा के रूप में स्वीकार)।",
+          "en": "14 September (adopted as official language by Constituent Assembly in 1949)."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "संविधान में राजभाषा उपबंध",
+          "en": "Constitutional Provisions"
+        },
+        "explanation": {
+          "hi": "भाग 17, अनुच्छेद 343 से 351 तक। अनुच्छेद 343(1) के अनुसार संघ की राजभाषा हिन्दी और लिपि देवनागरी होगी।",
+          "en": "Part XVII, Articles 343 to 351. Union official language Hindi in Devanagari script."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "अष्टम अनुसूची में भाषाएं",
+          "en": "8th Schedule Languages"
+        },
+        "explanation": {
+          "hi": "मूल संविधान में 14 भाषाएं थीं, वर्तमान में 22 भाषाएं सम्मिलित हैं।",
+          "en": "Originally 14, currently 22 constitutional languages."
+        }
+      }
+    ]
+  },
+  {
+    "id": "tut-disaster-management-environment",
+    "stage": "MAINS",
+    "paper": "MAINS_PAPER_1_GS",
+    "moduleTitle": {
+      "hi": "खण्ड 6: आपदा प्रबंधन, पारिस्थितिकी एवं पर्यावरण अभिशासन",
+      "en": "Module 6: Disaster Management, Ecology & Environmental Governance"
+    },
+    "chapterNumber": "अध्याय 1.5",
+    "title": {
+      "hi": "आपदा प्रबंधन, पारिस्थितिकी संकट एवं उत्तर प्रदेश का सुभेद्यता परिदृश्य",
+      "en": "Disaster Management, Ecological Crises & UP Vulnerability Landscape"
+    },
+    "subtitle": {
+      "hi": "आपदा प्रबंधन अधिनियम 2005, सेंडाई फ्रेमवर्क, पूर्वांचल बाढ़, बुंदेलखंड सूखा, आकाशीय बिजली एवं दामिनी ऐप",
+      "en": "DM Act 2005, Sendai Framework, Eastern UP Floods, Bundelkhand Drought, Lightning & Early Warning"
+    },
+    "estimatedStudyTimeMinutes": 50,
+    "weightageQuestions": "3-5 प्रश्न (प्रारंभिक सामान्य अध्ययन एवं मुख्य परीक्षा जीएस पेपर-1 वर्णनात्मक)",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "आपदा प्रबंधन अधिनियम 2005 की त्रिस्तरीय संस्थागत संरचना (NDMA, SDMA, DDMA) को समझना।",
+        "en": "Understand 3-tier institutional setup under Disaster Management Act 2005."
+      },
+      {
+        "hi": "सेंडाई फ्रेमवर्क (Sendai Framework 2015-2030) की 4 प्राथमिकताओं एवं Build Back Better दृष्टिकोण का विश्लेषण।",
+        "en": "Analyze Sendai Framework's 4 priorities and 'Build Back Better' (BBB) approach."
+      },
+      {
+        "hi": "उत्तर प्रदेश की भौगोलिक आपदाओं (पूर्वांचल बाढ़, बुंदेलखंड सूखा, वज्रपात) के कारण एवं शमन रणनीतियों का ज्ञान।",
+        "en": "Master UP disaster vulnerabilities across floods, droughts, and lightning."
+      },
+      {
+        "hi": "प्रारंभिक चेतावनी प्रणालियों (दामिनी ऐप, सचेत पोर्टल) एवं पर्यावरण संरक्षण पहलों का संस्मरण।",
+        "en": "Memorize early warning systems (DAMINI app, SACHET) and state environmental initiatives."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "sec-dm-act-institutions",
+        "heading": {
+          "hi": "1. आपदा प्रबंधन अधिनियम 2005 एवं संस्थागत संरचना",
+          "en": "1. Disaster Management Act 2005 & Institutional Framework"
+        },
+        "bodyMarkdown": {
+          "hi": "### आपदा की परिभाषा एवं वर्गीकरण\n• आपदा प्रबंधन अधिनियम, 2005 के अनुसार आपदा वह प्रलय, विपत्ति या दुर्घटना है जो प्राकृतिक या मानव-जनित कारणों से उत्पन्न होती है और जिससे व्यापक जन-धन की हानि एवं पर्यावरण का विनाश होता है।\n• **सहमति दृष्टिकोण में बदलाव**: प्रतिक्रियात्मक (Reactive/Relief-centric) दृष्टिकोण से बदलकर **सक्रिय, पूर्व-तैयारी एवं शमन (Proactive, Prevention & Mitigation)** पर बल।\n\n### त्रि-स्तरीय संस्थागत तंत्र (Three-Tier Setup)\n1. **राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA)**: प्रधानमंत्री इसके पदेन अध्यक्ष होते हैं। यह राष्ट्रीय नीतियां एवं दिशानिर्देश तय करता है।\n2. **राज्य आपदा प्रबंधन प्राधिकरण (SDMA)**: मुख्यमंत्री इसके पदेन अध्यक्ष होते हैं (उत्तर प्रदेश SDMA लखनऊ में स्थित है)।\n3. **जिला आपदा प्रबंधन प्राधिकरण (DDMA)**: जिला मजिस्ट्रेट / कलेक्टर इसके पदेन अध्यक्ष तथा जिला पंचायत अध्यक्ष इसके सह-अध्यक्ष होते हैं। यह ज़मीनी क्रियान्वयन की मुख्य इकाई है।\n\n### प्रमुख कार्य बल एवं कोष\n• **राष्ट्रीय आपदा मोचन बल (NDRF)**: 2006 में गठित बहु-कुशल समर्पित बल (उत्तर प्रदेश में 11वीं वाहिनी वाराणसी में तैनात है)।\n• **राज्य आपदा मोचन बल (SDRF)**: उत्तर प्रदेश में लखनऊ, गाजियाबाद व प्रयागराज में वाहिनियां स्थापित।\n• **कोष व्यवस्था**: राष्ट्रीय आपदा अनुक्रिया कोष (NDRF) एवं राज्य आपदा अनुक्रिया कोष (SDRF) में केंद्र और सामान्य राज्यों का अंशदान 75:25 तथा पूर्वोत्तर/पर्वतीय राज्यों में 90:10 होता है।",
+          "en": "### DM Act 2005 Institutional Architecture\n• Shift from relief-centric to proactive prevention and mitigation.\n• Three-tier structure: NDMA (chaired by PM), SDMA (chaired by CM), DDMA (chaired by DM with Zila Panchayat President as Co-chair).\n• NDRF (11th Battalion stationed at Varanasi) and State SDRF units."
+        }
+      },
+      {
+        "sectionId": "sec-sendai-framework",
+        "heading": {
+          "hi": "2. सेंडाई फ्रेमवर्क (Sendai Framework 2015-2030)",
+          "en": "2. Sendai Framework for Disaster Risk Reduction (2015-2030)"
+        },
+        "bodyMarkdown": {
+          "hi": "### सेंडाई फ्रेमवर्क की 4 प्राथमिकताएं (4 Priorities for Action)\n1. **प्राथमिकता 1: आपदा जोखिम को समझना** — वैज्ञानिक डेटा, मैपिंग एवं जन-जागरूकता।\n2. **प्राथमिकता 2: आपदा जोखिम अभिशासन को सुदृढ़ करना** — संस्थागत समन्वय एवं स्पष्ट उत्तरदायित्व।\n3. **प्राथमिकता 3: आपदा जोखिम न्यूनीकरण में निवेश** — लचीले बुनियादी ढांचे (Resilient Infrastructure) का निर्माण।\n4. **प्राथमिकता 4: प्रभावी प्रत्युत्तर एवं 'बेहतर पुनर्निर्माण' (Build Back Better - BBB)** — आपदा के बाद पुनर्वास को अधिक सुरक्षित स्वरूप प्रदान करना।\n\n### प्रधानमंत्री के 10-सूत्रीय एजेंडा (PM's 10-Point Agenda on DRR)\n• विकास परियोजनाओं में आपदा जोखिम न्यूनीकरण को समाहित करना।\n• जोखिम बीमा का विस्तार।\n• महिलाओं के नेतृत्व को प्रोत्साहित करना।\n• वैश्विक जोखिम मैपिंग एवं विश्वविद्यालयों के माध्यम से शोध संवर्धन।",
+          "en": "### Sendai Framework (2015-2030)\n• 4 Priorities: Understand risk, Strengthen risk governance, Invest in resilience, and 'Build Back Better' (BBB) in recovery.\n• Complements Paris Agreement and Sustainable Development Goals (SDGs)."
+        }
+      },
+      {
+        "sectionId": "sec-up-disaster-vulnerability",
+        "heading": {
+          "hi": "3. उत्तर प्रदेश का आपदा प्रोफाइल एवं विशिष्ट सुभेद्यता",
+          "en": "3. Uttar Pradesh Disaster Profile & Region-Specific Vulnerability"
+        },
+        "bodyMarkdown": {
+          "hi": "### 1. पूर्वांचल में बाढ़ विभीषिका (Eastern UP Floods)\n• **प्रमुख संवेदनशील जिले**: गोरखपुर, देवरिया, कुशीनगर, महाराजगंज, बलरामपुर, सिद्धार्थनगर, बहराइच, गोंडा, श्रावस्ती, लखीमपुर खीरी।\n• **नदियां**: घाघरा (सरयू), राप्ती, रोहिन, बूढ़ी राप्ती, शारदा, गंडक।\n• **कारण**: नेपाल के जल-ग्रहण क्षेत्रों में भारी मानसूनी वर्षा, सिल्टेशन (गाद जमने) से नदी तल का उथला होना, तथा तटबंधों का कटना।\n• **समाधान**: 'बाढ़ राहत ऐप', ड्रोन निगरानी, नदी ड्रेजिंग एवं तटबंधों का सुदृढ़ीकरण।\n\n### 2. बुंदेलखंड का सूखा एवं जल संकट (Bundelkhand Drought)\n• **संवेदनशील जिले**: झाँसी, ललितपुर, जालौन, हमीरपुर, महोबा, बांदा, चित्रकूट।\n• **कारण**: असमान मानसूनी वर्षा, कठोर ग्रेनाइट चट्टानों के कारण कम भूजल पुनर्भरण, पारंपरिक तालाबों (चंदेल/बुंदेला कालीन) का अतिक्रमण।\n• **सरकारी पहल**: केन-बेतवा लिंक परियोजना (देश की प्रथम राष्ट्रीय नदी जोड़ो परियोजना), 'खेत-तालाब योजना', स्प्रिंकलर व ड्रिप सिंचाई पर 90% अनुदान।\n\n### 3. आकाशीय बिजली / वज्रपात (Lightning Hazard)\n• उत्तर प्रदेश में प्रतिवर्ष वज्रपात से 250 से 350 नागरिकों की मृत्यु होती है (विशेषकर सोनभद्र, मिर्जापुर, प्रयागराज, फतेहपुर, बांदा, चंदौली)।\n• **दामिनी ऐप (DAMINI App)**: पृथ्वी विज्ञान मंत्रालय एवं IITM पुणे द्वारा विकसित ऐप, जो 20-30 किलोमीटर के दायरे में 30-40 मिनट पूर्व चेतावनी प्रदान करता है।\n• **'सचेत' (SACHET) पोर्टल**: NDMA द्वारा विकसित एसएमएस एवं सेल-ब्रॉडकास्ट आपदा चेतावनी प्रणाली।",
+          "en": "### UP Disaster Matrix\n• Floods: Eastern UP (Ghaghra, Rapti, Gandak in Gorakhpur, Deoria, Balrampur).\n• Drought: Bundelkhand (Jhansi, Banda, Mahoba) tackled via Ken-Betwa link and Khet-Talab scheme.\n• Lightning: Major mortality in Sonbhadra, Mirzapur, Prayagraj mitigated via DAMINI App and SACHET alerts."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश राज्य आपदा प्रबंधन प्राधिकरण (UPSDMA) ने आपदाओं के त्वरित प्रबंधन हेतु प्रदेश के सभी 75 जनपदों में इमरजेंसी ऑपरेशन्स सेंटर (EOC) तथा राज्य स्तर पर 'राहत आयुक्त' (Relief Commissioner) कार्यालय के अंतर्गत 24x7 कंट्रोल रूम स्थापित किया है।",
+      "en": "UPSDMA coordinates with the Relief Commissioner's 24x7 control room and District Emergency Operation Centers (DEOC) across all 75 districts."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "आपदा प्रबंधन अधिनियम पारित",
+          "en": "DM Act Enactment"
+        },
+        "explanation": {
+          "hi": "23 दिसंबर 2005 को राष्ट्रपति की स्वीकृति प्राप्त हुई।",
+          "en": "Received Presidential assent on 23 December 2005."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "दामिनी ऐप का विकास",
+          "en": "DAMINI App Developer"
+        },
+        "explanation": {
+          "hi": "भारतीय उष्णदेशीय मौसम विज्ञान संस्थान (IITM), पुणे द्वारा।",
+          "en": "Indian Institute of Tropical Meteorology (IITM), Pune."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "केन-बेतवा लिंक परियोजना",
+          "en": "Ken-Betwa River Link"
+        },
+        "explanation": {
+          "hi": "मध्य प्रदेश के पन्ना से उत्तर प्रदेश के बांदा, महोबा, झांसी, ललितपुर को सिंचित करने वाली परियोजना।",
+          "en": "Transfers surplus water from Ken in MP to Betwa in UP Bundelkhand."
+        }
+      }
+    ]
+  },
+  {
+    "id": "tut-polity-up-governance-institutions",
+    "stage": "BOTH",
+    "paper": "MAINS_PAPER_2_GS",
+    "moduleTitle": {
+      "hi": "खण्ड 7: उत्तर प्रदेश राज्यव्यवस्था, पंचायती राज एवं प्रशासनिक संस्थाएं",
+      "en": "Module 7: UP State Polity, Panchayati Raj & Governance Institutions"
+    },
+    "chapterNumber": "अध्याय 2.5",
+    "title": {
+      "hi": "उत्तर प्रदेश राज्यव्यवस्था, पंचायती राज एवं प्रशासनिक संस्थाएं (Laxmikanth & UP Governance)",
+      "en": "UP State Polity, Panchayati Raj Institutions & Statutory Bodies (Laxmikanth & UP Governance)"
+    },
+    "subtitle": {
+      "hi": "73वां-74वां संशोधन, उप्र पंचायती राज अधिनियम 1947, उप्र लोकायुक्त अधिनियम 1975, जनहित गारंटी अधिनियम एवं ई-डिस्ट्रिक्ट",
+      "en": "73rd-74th Amendments, UP Panchayati Raj Act 1947, UP Lokayukta Act 1975, Public Service Guarantee & e-District"
+    },
+    "estimatedStudyTimeMinutes": 50,
+    "weightageQuestions": "4-6 प्रश्न (प्रारंभिक एवं मुख्य परीक्षा सामान्य अध्ययन द्वितीय प्रश्नपत्र)",
+    "importance": "CRITICAL",
+    "learningObjectives": [
+      {
+        "hi": "73वें एवं 74वें संविधान संशोधन के अनिवार्य एवं स्वैच्छिक उपबंधों की संवैधानिक स्थिति स्पष्ट करना।",
+        "en": "Understand mandatory vs voluntary provisions of 73rd and 74th Constitutional Amendments."
+      },
+      {
+        "hi": "उत्तर प्रदेश पंचायती राज अधिनियम 1947 एवं उप्र क्षेत्र पंचायत तथा जिला पंचायत अधिनियम 1961 की त्रिस्तरीय संरचना मास्टर करना।",
+        "en": "Master 3-tier structure under UP Panchayati Raj Act 1947 and Kshettra/Zila Panchayat Act 1961."
+      },
+      {
+        "hi": "उत्तर प्रदेश लोकायुक्त एवं उप-लोकायुक्त अधिनियम 1975 की जांच शक्तियों एवं सीमाओं का विश्लेषण।",
+        "en": "Analyze investigative powers and limitations of UP Lokayukta Act 1975."
+      },
+      {
+        "hi": "उत्तर प्रदेश जनहित गारंटी अधिनियम 2011, ई-डिस्ट्रिक्ट एवं आईजीआरएस (IGRS) जनसुनवाई प्रणाली का प्रशासनिक अध्ययन।",
+        "en": "Examine UP Public Services Guarantee Act 2011, e-District and IGRS grievance redressal."
+      }
+    ],
+    "contentSections": [
+      {
+        "sectionId": "sec-constitutional-panchayats",
+        "heading": {
+          "hi": "1. पंचायती राज का संवैधानिक ढांचा (73वां व 74वां संशोधन)",
+          "en": "1. Constitutional Framework of Panchayats & Municipalities"
+        },
+        "bodyMarkdown": {
+          "hi": "### 73वां संविधान संशोधन अधिनियम, 1992\n• **लागू तिथि**: 24 अप्रैल 1993 (अतः 24 अप्रैल को राष्ट्रीय पंचायती राज दिवस मनाया जाता है)।\n• **संविधान में नया भाग**: भाग IX (अनुच्छेद 243 से 243O तक) तथा **11वीं अनुसूची (29 विषय)** जोड़ी गई।\n• **अनिवार्य उपबंध (Mandatory Provisions)**:\n  - ग्राम सभा का गठन (अनुच्छेद 243A)।\n  - त्रि-स्तरीय प्रणाली (ग्राम, मध्यवर्ती, जिला स्तर) — 20 लाख से कम आबादी वाले राज्यों में मध्यवर्ती स्तर छोड़ सकते हैं (अनुच्छेद 243B)।\n  - सभी स्तरों पर प्रत्यक्ष निर्वाचन (अनुच्छेद 243C)।\n  - अनुसूचित जातियों/जनजातियों हेतु जनसंख्या अनुपात में आरक्षण तथा महिलाओं हेतु **न्यूनतम 1/3 (33%) सीटें आरक्षित** (अनुच्छेद 243D)।\n  - 5 वर्ष का निश्चित कार्यकाल; विघटन की दशा में 6 माह के भीतर चुनाव अनिवार्य (अनुच्छेद 243E)।\n  - चुनाव लड़ने हेतु न्यूनतम आयु **21 वर्ष** (अनुच्छेद 243F)।\n  - राज्य वित्त आयोग का प्रत्येक 5 वर्ष में गठन (अनुच्छेद 243I)।\n  - राज्य निर्वाचन आयोग द्वारा स्वतंत्र निर्वाचन संचालन (अनुच्छेद 243K)।",
+          "en": "### 73rd Constitutional Amendment Act 1992\n• Came into force on 24 April 1993 (Panchayati Raj Day).\n• Added Part IX (Articles 243-243O) and 11th Schedule with 29 subjects.\n• Mandatory: Gram Sabha, 3 tiers, direct elections, 1/3 women quota, State Finance Commission (243I), State Election Commission (243K)."
+        }
+      },
+      {
+        "sectionId": "sec-up-panchayat-acts",
+        "heading": {
+          "hi": "2. उत्तर प्रदेश पंचायती राज अधिनियम 1947 एवं त्रिस्तरीय व्यवस्था",
+          "en": "2. UP Panchayati Raj Act 1947 & 3-Tier Governance Hierarchy"
+        },
+        "bodyMarkdown": {
+          "hi": "### उत्तर प्रदेश में त्रि-स्तरीय पंचायती ढांचा\n1. **ग्राम पंचायत (निम्न स्तर)**: उत्तर प्रदेश पंचायती राज अधिनियम, 1947 के अंतर्गत गठित।\n   - **प्रमुख**: ग्राम प्रधान (प्रत्यक्ष निर्वाचन)।\n   - **प्रशासनिक अधिकारी**: ग्राम पंचायत अधिकारी (VDO) / ग्राम विकास अधिकारी।\n   - **अविश्वास प्रस्ताव**: प्रधान के निर्वाचन के प्रथम 2 वर्ष के भीतर अविश्वास प्रस्ताव नहीं लाया जा सकता। प्रस्ताव पारित करने हेतु उपस्थित व मतदान करने वाले सदस्यों के 2/3 बहुमत की आवश्यकता होती है।\n2. **क्षेत्र पंचायत / ब्लॉक (मध्यवर्ती स्तर)**: उप्र क्षेत्र पंचायत तथा जिला पंचायत अधिनियम, 1961।\n   - **प्रमुख**: ब्लॉक प्रमुख (क्षेत्र पंचायत सदस्यों - BDC द्वारा अप्रत्यक्ष निर्वाचन)।\n   - **प्रशासनिक अधिकारी**: खंड विकास अधिकारी (BDO)।\n3. **जिला पंचायत (शीर्ष स्तर)**:\n   - **प्रमुख**: जिला पंचायत अध्यक्ष (जिला पंचायत सदस्यों द्वारा अप्रत्यक्ष निर्वाचन)।\n   - **प्रशासनिक अधिकारी**: मुख्य विकास अधिकारी (CDO) / अपर मुख्य अधिकारी (AMA)।",
+          "en": "### UP 3-Tier System\n• Gram Panchayat (UP Panchayati Raj Act 1947): Gram Pradhan elected directly; VDO is official secretary.\n• Kshettra Panchayat: Block Pramukh elected indirectly by BDC members; BDO is executive.\n• Zila Panchayat: Zila Panchayat President elected indirectly; CDO/AMA is executive."
+        }
+      },
+      {
+        "sectionId": "sec-up-lokayukta-janhit",
+        "heading": {
+          "hi": "3. उत्तर प्रदेश लोकायुक्त एवं जनहित गारंटी अधिनियम 2011",
+          "en": "3. UP Lokayukta Act 1975 & Public Services Guarantee Act 2011"
+        },
+        "bodyMarkdown": {
+          "hi": "### उत्तर प्रदेश लोकायुक्त एवं उप-लोकायुक्त अधिनियम, 1975\n• **गठन**: राज्य में सार्वजनिक जीवन में भ्रष्टाचार की जांच हेतु राजस्थान व महाराष्ट्र के बाद उत्तर प्रदेश ने 1975 में अधिनियम पारित किया।\n• **नियुक्ति**: राज्यपाल द्वारा उच्च न्यायालय के मुख्य न्यायाधीश तथा विधानसभा में विपक्ष के नेता से परामर्श के बाद।\n• **कार्यकाल**: वर्तमान में 8 वर्ष (संशोधन उपरांत)।\n• **जांच का दायरा**: राज्य के मंत्री, विधायक, निगमों के अध्यक्ष एवं लोक सेवक। (नोट: मुख्यमंत्री एवं न्यायपालिका इसके क्षेत्राधिकार से बाहर हैं)।\n\n### उत्तर प्रदेश जनहित गारंटी अधिनियम, 2011 (Right to Service)\n• नागरिकों को निश्चित समय-सीमा में सरकारी सेवाएं (जाति, आय, निवास प्रमाण पत्र, खतौनी, राशन कार्ड) प्राप्त करने का विधिक अधिकार।\n• **विफलता पर दंड**: सेवा प्रदाता अधिकारी द्वारा निर्धारित अवधि में कार्य न करने पर ₹250 प्रति दिन से लेकर अधिकतम ₹5,000 तक का अर्थदंड संबंधित अधिकारी के वेतन से काटा जा सकता है।\n• **अपील तंत्र**: प्रथम अपीलीय प्राधिकारी (30 दिन) तथा द्वितीय अपीलीय प्राधिकारी (अंतिम निर्णय)।",
+          "en": "### UP Lokayukta & RTS Legislation\n• UP Lokayukta Act 1975: 8-year tenure; investigates corruption of ministers and public servants.\n• UP Public Services Guarantee Act 2011: Time-bound delivery of 200+ services with financial penalty on defaulting officers."
+        }
+      }
+    ],
+    "upSpecialAngle": {
+      "hi": "उत्तर प्रदेश देश का सर्वाधिक 57,700 से अधिक ग्राम पंचायतों वाला राज्य है। प्रदेश ने पंचायती राज में महिलाओं की सहभागिता बढ़ाने हेतु 'रानी लक्ष्मीबाई महिला सशक्तीकरण पुरस्कार' तथा पंचायतों के डिजिटलीकरण हेतु प्रत्येक ग्राम पंचायत में 'पंचायत सचिवालय' व 'पंचायत सहायक' की नियुक्ति की है।",
+      "en": "UP hosts 57,700+ Gram Panchayats. Established dedicated Panchayat Secretariats with Panchayat Sahayaks across all villages."
+    },
+    "highYieldFactSheet": [
+      {
+        "termOrFact": {
+          "hi": "उत्तर प्रदेश पंचायती राज अधिनियम",
+          "en": "UP Panchayati Raj Act"
+        },
+        "explanation": {
+          "hi": "वर्ष 1947 में पारित हुआ और 15 अगस्त 1947 से लागू हुआ।",
+          "en": "Passed in 1947, enforced from 15 August 1947."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "राज्य निर्वाचन आयोग का गठन (अनुच्छेद 243K)",
+          "en": "State Election Commission"
+        },
+        "explanation": {
+          "hi": "उत्तर प्रदेश में राज्य निर्वाचन आयोग की स्थापना 23 अप्रैल 1994 को की गई।",
+          "en": "Established in UP on 23 April 1994 for local bodies elections."
+        }
+      },
+      {
+        "termOrFact": {
+          "hi": "ई-डिस्ट्रिक्ट पोर्टल उत्तर प्रदेश",
+          "en": "e-District UP Portal"
+        },
+        "explanation": {
+          "hi": "नागरिक सेवाओं के ऑनलाइन प्रदाय हेतु एकल खिड़की व्यवस्था।",
+          "en": "Single window digital portal for state certificate services."
+        }
+      }
+    ]
   }
 ]

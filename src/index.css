@@ -2,6 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Kruti Dev 010 (Remington Typewriter Web Font) */
+@font-face {
+  font-family: 'Kruti Dev 010';
+  src: url('/fonts/Kruti_Dev_010.ttf') format('truetype'),
+       url('./assets/fonts/Kruti_Dev_010.ttf') format('truetype'),
+       url('https://db.onlinewebfonts.com/t/10bd12c5355b7908ff560a74c30584d5.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Mangal (Inscript Unicode Web Font) */
+@font-face {
+  font-family: 'Mangal';
+  src: local('Mangal'),
+       url('https://fonts.gstatic.com/s/notosansdevanagari/v25/XRXW3I6Li01BKofA-suk5jv7.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-krutidev {
+  font-family: 'Kruti Dev 010', 'Noto Sans Devanagari', sans-serif !important;
+}
+
+.font-mangal {
+  font-family: 'Mangal', 'Noto Sans Devanagari', sans-serif !important;
+}
+
 @layer base {
   html {
     font-feature-settings: "cv02", "cv03", "cv04", "cv11";
