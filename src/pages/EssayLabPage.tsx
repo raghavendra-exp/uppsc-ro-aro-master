@@ -8,12 +8,16 @@ import {
   CheckSquare, 
   AlertCircle, 
   Shuffle, 
-  ChevronRight,
-  TrendingUp,
-  Landmark,
-  Share2,
-  Award,
-  Layers
+  ChevronRight, 
+  TrendingUp, 
+  Landmark, 
+  Share2, 
+  Award, 
+  Layers,
+  Search,
+  FileCheck2,
+  Copy,
+  Check
 } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import essayTopicsData from '../data/essay-topics.json';
@@ -24,16 +28,26 @@ export const EssayLabPage: React.FC = () => {
   const [selectedSection, setSelectedSection] = useState<'SECTION_1_800W' | 'SECTION_2_1200W'>('SECTION_1_800W');
   const [selectedTopicId, setSelectedTopicId] = useState<string>('essay-sec1-science-01');
   const [essayText, setEssayText] = useState<string>('');
-  const [activeTab, setActiveTab] = useState<'framework' | 'writing' | 'my-essays'>('framework');
+  const [activeTab, setActiveTab] = useState<'framework' | 'model-essay' | 'writing'>('framework');
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [copiedModel, setCopiedModel] = useState<boolean>(false);
   
   // Timer state (90 minutes practice per essay for 3-hour 2-essay exam)
   const [timerSeconds, setTimerSeconds] = useState<number>(5400);
   const [timerRunning, setTimerRunning] = useState<boolean>(false);
   const [savedSuccess, setSavedSuccess] = useState<boolean>(false);
 
-  const sectionTopics = essayTopicsData.filter(e => (e as any).mainsSection === selectedSection);
-  const activeTopic = essayTopicsData.find(e => e.id === selectedTopicId) || sectionTopics[0] || essayTopicsData[0];
+  const sectionTopics = essayTopicsData.filter(e => {
+    const matchesSection = (e as any).mainsSection === selectedSection;
+    if (!searchQuery.trim()) return matchesSection;
+    const q = searchQuery.toLowerCase();
+    const titleMatch = e.title.hi.toLowerCase().includes(q) || e.title.en.toLowerCase().includes(q);
+    const domainMatch = ((e as any).domain || '').toLowerCase().includes(q);
+    const keywordMatch = (e.keywords || []).some(k => k.toLowerCase().includes(q));
+    return matchesSection && (titleMatch || domainMatch || keywordMatch);
+  });
 
+  const activeTopic = essayTopicsData.find(e => e.id === selectedTopicId) || sectionTopics[0] || essayTopicsData[0];
   const targetWordCount = activeTopic.wordCountLimit || (selectedSection === 'SECTION_1_800W' ? 800 : 1200);
 
   useEffect(() => {
@@ -65,12 +79,20 @@ export const EssayLabPage: React.FC = () => {
   };
 
   const handleRandomTopic = () => {
+    if (sectionTopics.length === 0) return;
     const randomIdx = Math.floor(Math.random() * sectionTopics.length);
     setSelectedTopicId(sectionTopics[randomIdx].id);
   };
 
+  const handleCopyModel = () => {
+    if (!activeTopic.modelEssay) return;
+    navigator.clipboard.writeText(activeTopic.modelEssay[language]);
+    setCopiedModel(true);
+    setTimeout(() => setCopiedModel(false), 2500);
+  };
+
   return (
-    <div className="space-y-6 pb-12">
+    <div className="space-y-6 pb-16">
       {/* Header */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-4 border-b border-slate-200 dark:border-slate-800 gap-3">
         <div>
@@ -84,13 +106,13 @@ export const EssayLabPage: React.FC = () => {
           </div>
           <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
             {language === 'hi'
-              ? 'आधिकारिक 2026 पैटर्न: 2 अनिवार्य निबन्ध (खण्ड 1: 80 अंक / 800 शब्द + खण्ड 2: 120 अंक / 1200 शब्द), कुल 3 घंटे।'
-              : 'Official 2026 Pattern: 2 Mandatory Essays (Section 1: 80M / 800 words + Section 2: 120M / 1200 words), 3 Hours.'}
+              ? 'आधिकारिक 2026 पैटर्न: 2 अनिवार्य निबन्ध (खण्ड 1: 80 अंक / 800 शब्द + खण्ड 2: 120 अंक / 1200 शब्द), कुल 3 घंटे। 20 विस्तृत प्रत्याशित विषय व आदर्श मॉडल निबन्ध।'
+              : 'Official 2026 Pattern: 2 Mandatory Essays (Section 1: 80M / 800w + Section 2: 120M / 1200w), 3 Hours. 20 expected topics with full model essays.'}
           </p>
         </div>
 
         {/* View Switcher */}
-        <div className="flex items-center space-x-1.5 self-start sm:self-center">
+        <div className="flex flex-wrap items-center gap-1.5 self-start sm:self-center">
           <button
             onClick={handleRandomTopic}
             className="px-3 py-1.5 rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 hover:bg-slate-50 text-xs font-semibold text-slate-700 dark:text-slate-200 flex items-center space-x-1 transition-colors"
@@ -108,7 +130,18 @@ export const EssayLabPage: React.FC = () => {
                   : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
               }`}
             >
-              {language === 'hi' ? 'वैचारिक रूपरेखा' : 'Essay Blueprint'}
+              {language === 'hi' ? 'वैचारिक रूपरेखा' : 'Blueprint'}
+            </button>
+            <button
+              onClick={() => setActiveTab('model-essay')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center space-x-1 ${
+                activeTab === 'model-essay'
+                  ? 'bg-white dark:bg-slate-700 text-indigo-600 dark:text-indigo-400 shadow-sm'
+                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+              }`}
+            >
+              <FileCheck2 className="w-3.5 h-3.5 text-emerald-500" />
+              <span>{language === 'hi' ? 'मॉडल पूर्ण निबन्ध' : 'Model Essay'}</span>
             </button>
             <button
               onClick={() => setActiveTab('writing')}
@@ -118,7 +151,7 @@ export const EssayLabPage: React.FC = () => {
                   : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
               }`}
             >
-              {language === 'hi' ? `लेखन अभ्यास (${targetWordCount} शब्द)` : `Write (${targetWordCount}w)`}
+              {language === 'hi' ? `लेखन अभ्यास` : `Write`}
             </button>
           </div>
         </div>
@@ -151,7 +184,9 @@ export const EssayLabPage: React.FC = () => {
               {language === 'hi' ? 'विज्ञान, पर्यावरण, अर्थव्यवस्था, कृषि एवं प्राकृतिक आपदाएं' : 'Science, Env, Economy, Agri & Disasters'}
             </h3>
             <p className="text-[11px] text-slate-500 mt-1">
-              4 विषयों में से किसी 1 विषय पर 800 शब्दों में संतुलित विश्लेषणात्मक निबंध।
+              {language === 'hi' 
+                ? '4 विनिर्दिष्ट क्षेत्रों में से 1 विषय पर 800 शब्दों में संतुलित विश्लेषणात्मक निबंध।'
+                : '1 essay out of 4 domains in 800 words.'}
             </p>
           </div>
         </button>
@@ -181,39 +216,67 @@ export const EssayLabPage: React.FC = () => {
               {language === 'hi' ? 'साहित्य, संस्कृति, सामाजिक-राजनीतिक, अंतर्राष्ट्रीय एवं योजनाएं' : 'Literature, Culture, Polity, Global Affairs & Schemes'}
             </h3>
             <p className="text-[11px] text-slate-500 mt-1">
-              4 विषयों में से किसी 1 विषय पर 1200 शब्दों में गहन वैचारिक एवं बहु-आयामी निबंध।
+              {language === 'hi' 
+                ? '4 विनिर्दिष्ट क्षेत्रों में से 1 विषय पर 1200 शब्दों में गहन वैचारिक एवं बहु-आयामी निबंध।'
+                : '1 essay out of 4 domains in 1200 words.'}
             </p>
           </div>
         </button>
       </div>
 
-      {/* Topic Selector Chips for Current Section */}
-      <div className="flex items-center space-x-2 overflow-x-auto pb-2">
-        {sectionTopics.map(topic => (
-          <button
-            key={topic.id}
-            onClick={() => setSelectedTopicId(topic.id)}
-            className={`px-3.5 py-2 rounded-xl text-xs font-bold transition-all whitespace-nowrap border ${
-              selectedTopicId === topic.id
-                ? 'bg-slate-900 dark:bg-white text-white dark:text-slate-900 border-transparent shadow-sm'
-                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-800 hover:border-slate-300'
-            }`}
-          >
-            {topic.title[language]}
-          </button>
-        ))}
+      {/* Search & Topic Selector Bar */}
+      <div className="space-y-3">
+        <div className="flex items-center justify-between gap-3">
+          <div className="relative flex-1 max-w-md">
+            <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder={language === 'hi' ? 'निबंध विषय खोजें (जैसे एआई, पर्यटन, महिला, न्याय, साहित्य)...' : 'Search essay topics...'}
+              className="w-full pl-9 pr-3 py-2 text-xs rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500"
+            />
+          </div>
+          <span className="text-xs text-slate-500 font-mono">
+            {sectionTopics.length} {language === 'hi' ? 'प्रत्याशित विषय उपलब्ध' : 'Topics Available'}
+          </span>
+        </div>
+
+        {/* Topic Selector Chips */}
+        <div className="flex items-center space-x-2 overflow-x-auto pb-2 scrollbar-none">
+          {sectionTopics.map(topic => {
+            const hasModel = !!(topic as any).modelEssay;
+            const isSelected = selectedTopicId === topic.id;
+            return (
+              <button
+                key={topic.id}
+                onClick={() => setSelectedTopicId(topic.id)}
+                className={`px-3.5 py-2 rounded-xl text-xs font-bold transition-all whitespace-nowrap border flex items-center space-x-1.5 ${
+                  isSelected
+                    ? 'bg-slate-900 dark:bg-white text-white dark:text-slate-900 border-transparent shadow-sm'
+                    : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-800 hover:border-slate-300'
+                }`}
+              >
+                <span>{topic.title[language]}</span>
+                {hasModel && (
+                  <span className={`w-2 h-2 rounded-full ${isSelected ? 'bg-emerald-400 dark:bg-emerald-600' : 'bg-emerald-500'}`} title="मॉडल निबंध उपलब्ध" />
+                )}
+              </button>
+            );
+          })}
+        </div>
       </div>
 
       {/* Tab 1: Structural Essay Blueprint */}
       {activeTab === 'framework' && (
         <div className="space-y-6">
-          <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-6 space-y-4 shadow-sm">
-            <div className="flex flex-wrap items-center justify-between gap-2 pb-3 border-b border-slate-100 dark:border-slate-800">
-              <div className="space-y-0.5">
-                <span className="text-[10px] font-bold uppercase text-indigo-600 dark:text-indigo-400 font-mono">
+          <div className="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-6 sm:p-7 space-y-5 shadow-sm">
+            <div className="flex flex-wrap items-center justify-between gap-2 pb-4 border-b border-slate-100 dark:border-slate-800">
+              <div className="space-y-1">
+                <span className="text-[10px] font-bold uppercase text-indigo-600 dark:text-indigo-400 font-mono bg-indigo-50 dark:bg-indigo-950/60 px-2 py-0.5 rounded">
                   {(activeTopic as any).domain || (activeTopic as any).categoryLabel?.[language]}
                 </span>
-                <h2 className="text-lg font-bold text-slate-900 dark:text-white">
+                <h2 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">
                   {activeTopic.title[language]}
                 </h2>
               </div>
@@ -227,21 +290,22 @@ export const EssayLabPage: React.FC = () => {
               </div>
             </div>
 
-            <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/50 text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
-              <strong>विषय की अंतर्दृष्टि:</strong> {activeTopic.understanding[language]}
+            <div className="p-4 rounded-2xl bg-slate-50 dark:bg-slate-800/50 text-xs sm:text-sm text-slate-700 dark:text-slate-300 leading-relaxed font-hindi border border-slate-200/80 dark:border-slate-700/60">
+              <strong className="text-slate-900 dark:text-white block mb-1">विषय की वैचारिक अंतर्दृष्टि (Understanding):</strong> 
+              {activeTopic.understanding[language]}
             </div>
 
             {/* Dimensional Points Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               {activeTopic.dimensions.map((dim, idx) => (
-                <div key={idx} className="p-4 rounded-xl border border-slate-200 dark:border-slate-800 space-y-2 bg-slate-50/30 dark:bg-slate-800/20">
+                <div key={idx} className="p-4 rounded-2xl border border-slate-200 dark:border-slate-800 space-y-2 bg-slate-50/40 dark:bg-slate-800/20">
                   <h4 className="text-xs font-bold text-indigo-700 dark:text-indigo-400 uppercase tracking-wide flex items-center space-x-1.5">
                     <Layers className="w-3.5 h-3.5" />
                     <span>{dim.dimension[language]}</span>
                   </h4>
-                  <ul className="space-y-1 text-xs text-slate-600 dark:text-slate-300 font-hindi">
+                  <ul className="space-y-1.5 text-xs text-slate-600 dark:text-slate-300 font-hindi">
                     {dim.points.map((pt, pIdx) => (
-                      <li key={pIdx} className="flex items-start space-x-1.5">
+                      <li key={pIdx} className="flex items-start space-x-2">
                         <span className="text-indigo-500 font-bold">•</span>
                         <span>{pt[language]}</span>
                       </li>
@@ -252,15 +316,15 @@ export const EssayLabPage: React.FC = () => {
             </div>
 
             {/* UP Perspective Box */}
-            <div className="p-4 rounded-xl bg-amber-50/70 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/60 space-y-2">
+            <div className="p-4 rounded-2xl bg-amber-50/70 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/60 space-y-2">
               <h4 className="text-xs font-bold text-amber-800 dark:text-amber-300 uppercase tracking-wider flex items-center space-x-1.5">
                 <Landmark className="w-4 h-4" />
                 <span>{language === 'hi' ? 'उत्तर प्रदेश विशिष्ट परिप्रेक्ष्य (UP Perspective)' : 'Uttar Pradesh Specific Context'}</span>
               </h4>
-              <ul className="space-y-1 text-xs text-amber-950 dark:text-amber-200 font-hindi">
+              <ul className="space-y-1.5 text-xs text-amber-950 dark:text-amber-200 font-hindi">
                 {activeTopic.upPerspective.map((up, idx) => (
-                  <li key={idx} className="flex items-start space-x-1.5">
-                    <span className="font-bold">✓</span>
+                  <li key={idx} className="flex items-start space-x-2">
+                    <span className="font-bold text-emerald-600">✓</span>
                     <span>{up[language]}</span>
                   </li>
                 ))}
@@ -273,9 +337,9 @@ export const EssayLabPage: React.FC = () => {
                 <h4 className="text-xs font-bold text-slate-700 dark:text-slate-300 uppercase tracking-wider">
                   {language === 'hi' ? 'उपयोगी उद्धरण एवं सूक्तियां (Quotations):' : 'Key Quotations:'}
                 </h4>
-                <div className="space-y-1.5">
+                <div className="space-y-2">
                   {activeTopic.quotations.map((q, idx) => (
-                    <blockquote key={idx} className="text-xs italic text-indigo-900 dark:text-indigo-300 bg-indigo-50/50 dark:bg-indigo-950/20 p-2.5 rounded-lg border-l-4 border-indigo-500 font-hindi">
+                    <blockquote key={idx} className="text-xs sm:text-sm italic text-indigo-900 dark:text-indigo-300 bg-indigo-50/50 dark:bg-indigo-950/20 p-3 rounded-xl border-l-4 border-indigo-500 font-hindi">
                       "{q}"
                     </blockquote>
                   ))}
@@ -286,7 +350,70 @@ export const EssayLabPage: React.FC = () => {
         </div>
       )}
 
-      {/* Tab 2: Interactive Writing Workspace */}
+      {/* Tab 2: Full Model Essay */}
+      {activeTab === 'model-essay' && (
+        <div className="space-y-6">
+          <div className="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-6 sm:p-8 space-y-6 shadow-sm">
+            <div className="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-slate-100 dark:border-slate-800">
+              <div>
+                <span className="text-[10px] font-bold uppercase text-emerald-600 dark:text-emerald-400 font-mono bg-emerald-50 dark:bg-emerald-950/60 px-2 py-0.5 rounded">
+                  आदर्श मॉडल निबन्ध (Official Model Exemplar)
+                </span>
+                <h2 className="text-lg sm:text-2xl font-black text-slate-900 dark:text-white mt-1">
+                  {activeTopic.title[language]}
+                </h2>
+                <span className="text-xs text-slate-500 mt-0.5 block">
+                  शब्द सीमा: {targetWordCount} शब्द • मानक हिन्दी वर्तनी एवं PESTLE आयामों से युक्त
+                </span>
+              </div>
+
+              <button
+                onClick={handleCopyModel}
+                disabled={!activeTopic.modelEssay}
+                className="flex items-center space-x-1.5 px-3.5 py-2 rounded-xl text-xs font-bold bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 transition-colors shadow-sm"
+              >
+                {copiedModel ? <Check className="w-4 h-4 text-emerald-500" /> : <Copy className="w-4 h-4" />}
+                <span>{copiedModel ? 'प्रतिलिपि बनाई गई!' : 'निबन्ध कॉपी करें'}</span>
+              </button>
+            </div>
+
+            {activeTopic.modelEssay ? (
+              <div className="prose dark:prose-invert max-w-none text-slate-800 dark:text-slate-200 font-hindi text-sm sm:text-base leading-relaxed space-y-4">
+                {activeTopic.modelEssay[language].split('\n\n').map((paragraph, pIdx) => {
+                  if (paragraph.startsWith('### ')) {
+                    return (
+                      <h3 key={pIdx} className="text-base sm:text-lg font-bold text-indigo-700 dark:text-indigo-400 pt-3 border-b border-slate-100 dark:border-slate-800 pb-1">
+                        {paragraph.replace('### ', '')}
+                      </h3>
+                    );
+                  }
+                  if (paragraph.startsWith('1. ') || paragraph.startsWith('2. ') || paragraph.startsWith('3. ') || paragraph.startsWith('• ')) {
+                    return (
+                      <div key={pIdx} className="pl-3 sm:pl-4 border-l-2 border-indigo-400 dark:border-indigo-600 my-2 space-y-1">
+                        {paragraph.split('\n').map((line, lIdx) => (
+                          <p key={lIdx} className="my-1">{line}</p>
+                        ))}
+                      </div>
+                    );
+                  }
+                  return (
+                    <p key={pIdx} className="text-justify leading-loose">
+                      {paragraph}
+                    </p>
+                  );
+                })}
+              </div>
+            ) : (
+              <div className="p-8 text-center text-slate-500 font-hindi space-y-2">
+                <AlertCircle className="w-8 h-8 text-amber-500 mx-auto" />
+                <p>इस विषय का पूर्ण मॉडल निबंध शीघ्र ही अद्यतन किया जा रहा है। कृपया 'वैचारिक रूपरेखा' टैब से मुख्य बिंदु देखें।</p>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
+      {/* Tab 3: Interactive Writing Workspace */}
       {activeTab === 'writing' && (
         <div className="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-6 space-y-4 shadow-sm">
           {/* Writing Toolbar */}

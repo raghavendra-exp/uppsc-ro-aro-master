@@ -20,7 +20,7 @@ import adminVocabData from '../data/admin-vocab.json';
 
 export const DraftingPage: React.FC = () => {
   const { language, saveDraftAttempt, progress } = useApp();
-  const [activeTab, setActiveTab] = useState<'correspondence' | 'simulator' | 'vocab' | 'idioms'>('correspondence');
+  const [activeTab, setActiveTab] = useState<'correspondence' | 'simulator' | 'vocab' | 'idioms' | 'manak-vyakaran'>('correspondence');
   const [selectedDocId, setSelectedDocId] = useState<string>('draft-official-letter');
   
   // Simulator state
@@ -171,7 +171,8 @@ export const DraftingPage: React.FC = () => {
         {/* Tab Navigation */}
         <div className="flex items-center space-x-1 bg-slate-100 dark:bg-slate-800 p-1 rounded-xl overflow-x-auto scrollbar-none self-start sm:self-center">
           {[
-            { id: 'correspondence', label: { hi: 'पत्राचार पुस्तकालय', en: 'Letter Formats' } },
+            { id: 'correspondence', label: { hi: 'पत्राचार पुस्तकालय (10 प्रारूप)', en: 'Letter Formats (10)' } },
+            { id: 'manak-vyakaran', label: { hi: 'केन्द्रीय मानक व्याकरण', en: 'Manak Grammar Rules' } },
             { id: 'simulator', label: { hi: 'आलेखन सिमुलेटर', en: 'Writing Simulator' } },
             { id: 'vocab', label: { hi: 'प्रशासनिक शब्दावली', en: 'Admin Vocab' } },
             { id: 'idioms', label: { hi: 'मुहावरे व लोकोक्तियाँ', en: 'Idioms' } }
@@ -503,6 +504,193 @@ export const DraftingPage: React.FC = () => {
                 </div>
               </div>
             ))}
+          </div>
+        </div>
+      )}
+
+      {/* Tab 5: Central Hindi Directorate Standard Grammar & Orthography */}
+      {activeTab === 'manak-vyakaran' && (
+        <div className="space-y-6">
+          {/* Header Banner */}
+          <div className="bg-gradient-to-r from-rose-700 via-rose-800 to-slate-900 text-white rounded-3xl p-6 sm:p-7 shadow-lg relative overflow-hidden">
+            <div className="relative z-10 max-w-4xl space-y-2">
+              <span className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-rose-500/20 border border-rose-400/30 text-rose-200 text-xs font-semibold">
+                <BookOpen className="w-3.5 h-3.5" />
+                <span>शिक्षा मंत्रालय, भारत सरकार — केन्द्रीय हिन्दी निदेशालय नियमावली</span>
+              </span>
+              <h2 className="text-xl sm:text-2xl font-black">
+                {language === 'hi' 
+                  ? 'मानक देवनागरी लिपि एवं हिन्दी वर्तनी नियमावली (Manak Hindi Vyakaran)' 
+                  : 'Official Standard Hindi Orthography & Grammar Manual'}
+              </h2>
+              <p className="text-rose-100/90 text-xs sm:text-sm leading-relaxed">
+                {language === 'hi'
+                  ? 'उत्तर प्रदेश लोक सेवा आयोग (UPPSC) तथा उत्तर प्रदेश सचिवालय में शासकीय आलेखन एवं शुद्धि हेतु अनिवार्य मानक नियम। संयुक्त वर्ण, रेफ, अनुस्वार vs पंचमाक्षर, क्रिया-रूप तथा 40 सर्वाधिक पूछे जाने वाले शुद्ध वर्तनी शब्द।'
+                  : 'Mandatory standard orthography rules for UPPSC RO/ARO and UP Secretariat drafting. Conjuncts, reph, anusvara vs nasal consonants, verb forms and high-yield spelling rules.'}
+              </p>
+            </div>
+          </div>
+
+          {/* 10 Golden Standard Rules Grid */}
+          <div className="space-y-3">
+            <h3 className="text-sm font-bold text-slate-900 dark:text-white uppercase tracking-wider flex items-center space-x-2">
+              <Sparkles className="w-4 h-4 text-rose-600" />
+              <span>केन्द्रीय हिन्दी निदेशालय के 10 आधारभूत मानक वर्तनी नियम:</span>
+            </h3>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 1: खड़ी पाई वाले 22 व्यंजन
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  खड़ी पाई वाले व्यंजनों (ख्, ग्, घ्, च्, ज्, त्, थ्, ध्, न्, प्, ब्, भ्, म्, य्, ल्, व्, श्, ष्, स् आदि) का संयुक्त रूप बनाते समय उनकी <strong>खड़ी पाई हटा दी जाती है</strong>।<br />
+                  <span className="text-emerald-700 dark:text-emerald-400 font-semibold">• मानक रूप:</span> ख्याति, लग्न, अच्छा, राज्य, पत्ता, तथ्य, ध्यान, न्यस्त, प्यार, डिब्बा, रम्य, श्लोक, रास्ता।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 2: बिना पाई वाले व्यंजन (क्, फ्)
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  'क्' और 'फ्' के संयुक्त रूपों में दाईं ओर नीचे झुकी हुई सूंड को आधा काट दिया जाता है।<br />
+                  <span className="text-emerald-700 dark:text-emerald-400 font-semibold">• मानक रूप:</span> पक्का, दफ्तर, क्यारी, हफ्ता (क् क या फ् त रूप अमानक हैं)।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 3: गोल पेंदी व्यंजन में हलन्त (्)
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  ट्, ठ्, ड्, ढ्, द्, ह् के संयुक्त रूपों में नीचे हलन्त का प्रयोग ही मानक है। पुराने संयुक्त रूपों के स्थान पर हलन्त रूप को प्राथमिकता दें।<br />
+                  <span className="text-emerald-700 dark:text-emerald-400 font-semibold">• मानक रूप:</span> चिह्न (चिन्ह अशुद्ध), ब्रह्मा (ब्रम्हा अशुद्ध), विद्या, पद्य, गद्य, लट्टू, पाठ्य, गड्ढा।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 4: रेफ (र्) एवं पदेन (्र) के नियम
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  स्वर-रहित 'र्' (रेफ) सदैव बाद वाले वर्ण के सिर पर (शिरोरेखा के ऊपर) लिखा जाएगा।<br />
+                  <span className="text-emerald-700 dark:text-emerald-400 font-semibold">• मानक रूप:</span> धर्म, कर्म, <strong>आशीर्वाद</strong> ('व' पर रेफ, 'श' पर नहीं), पुनर्जन्म। ट/ड के नीचे पदेन: ट्रक, राष्ट्र।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 5: अनुस्वार (ं) बनाम पंचमाक्षर
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  समान वर्ग के स्पर्श व्यंजन से पूर्व पंचमाक्षर के स्थान पर अनुस्वार ही मानक है (गंगा, चंचल, ठंडा, दंत, चंपा)।<br />
+                  <span className="text-rose-600 font-bold">• अनिवार्य अपवाद:</span> पंचमाक्षर द्वित्व होने पर आधा वर्ण ही लिखा जाएगा: <strong>वाङ्मय</strong> (वांग्मय अमानक), <strong>अन्न</strong>, <strong>सम्मेलन</strong>, <strong>जन्म</strong>, <strong>पुण्य</strong>।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 6: चंद्रबिंदु (ँ) और अनुस्वार (ं)
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  अनुनासिक स्वरों हेतु चंद्रबिंदु ही मानक है। शिरोरेखा पर मात्रा न होने पर चंद्रबिंदु ही लगेगा (आँख, चाँद, गाँव, माँ, हँसना)।<br />
+                  <span className="text-slate-500">• अपवाद:</span> शिरोरेखा के ऊपर मात्रा होने पर स्थान के अभाव में केवल बिंदु लगता है (मैं, गोंद, ईंट, कहीं, भैंस)।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 7: 'ए/ये' एवं 'ई/यी' का मानक रूप
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  भूतकालिक क्रियाओं में स्वर रूप ही मानक हैं:<br />
+                  <span className="text-emerald-700 dark:text-emerald-400 font-bold">• शुद्ध (मानक):</span> <strong>आए, गए, हुए, खाए, दिए, लिए, पिए</strong><br />
+                  <span className="text-rose-600 font-bold">• अमानक (अशुद्ध):</span> आये, गये, हुये, खाये, दिये<br />
+                  <span className="text-amber-700 dark:text-amber-400">• अव्यय:</span> <strong>'लिए'</strong> एवं <strong>'चाहिए'</strong> ही शुद्ध हैं ('लिये', 'चाहिये' अमानक हैं)।
+                </p>
+              </div>
+
+              <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-2">
+                <span className="text-xs font-bold text-rose-600 dark:text-rose-400 block font-mono">
+                  नियम 8: योजक चिह्न (Hyphen) एवं परसर्ग
+                </span>
+                <p className="text-xs text-slate-700 dark:text-slate-300 leading-relaxed font-hindi">
+                  • द्वंद्व समास व तुलनात्मक अव्यय में योजक: माता-पिता, रात-दिन, चाँद-सा चेहरा।<br />
+                  • परसर्ग (कारक चिह्न): संज्ञा से सदैव अलग (राम ने, वृक्ष पर); सर्वनाम से मिलाकर (उसने, मुझको); दो परसर्ग होने पर पहला मिलाकर, दूसरा अलग (उसके लिए, इनमें से)।
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* 40 High-Yield Orthography Table */}
+          <div className="bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-5 sm:p-6 space-y-4 shadow-sm">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800 gap-2">
+              <div>
+                <h3 className="text-base font-bold text-slate-900 dark:text-white">
+                  UPPSC विगत 15 वर्षों की 40 सर्वाधिक भ्रामक वर्तनी: अशुद्ध बनाम मानक शुद्ध
+                </h3>
+                <p className="text-xs text-slate-500">
+                  आयोग द्वारा प्रारंभिक एवं मुख्य परीक्षा में बार-बार पूछे जाने वाले तकनीकी शब्द
+                </p>
+              </div>
+              <span className="text-xs font-bold text-emerald-700 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/40 px-3 py-1 rounded-full border border-emerald-300 dark:border-emerald-800">
+                100% मानक रूप
+              </span>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2.5 text-xs">
+              {[
+                { wrong: 'उज्जवल / उज्वल', right: 'उज्ज्वल', rule: 'दो आधा ज (उत् + ज्वल)' },
+                { wrong: 'कवियित्री / कवीयत्री', right: 'कवयित्री', rule: 'कव + यित्री' },
+                { wrong: 'रचियता', right: 'रचयिता', rule: 'रच + यिता' },
+                { wrong: 'श्रृंगार', right: 'शृंगार', rule: 'श पर केवल ऋ' },
+                { wrong: 'अनुग्रहीत', right: 'अनुगृहीत', rule: 'ग पर ऋ + ह पर ई' },
+                { wrong: 'आश्रिवाद / आशिरवाद', right: 'आशीर्वाद', rule: 'व पर रेफ र्' },
+                { wrong: 'ज्योत्सना', right: 'ज्योत्स्ना', rule: 'आधा त + आधा स' },
+                { wrong: 'अंताक्षरी', right: 'अंत्याक्षरी', rule: 'अंत्य + अक्षरी' },
+                { wrong: 'कुमुदनी', right: 'कुमुदिनी', rule: 'द पर ह्रस्व इ' },
+                { wrong: 'पूज्यनीय', right: 'पूजनीय / पूज्य', rule: 'पूज्यनीय अशुद्ध' },
+                { wrong: 'आधीन', right: 'अधीन', rule: 'ह्रस्व अ' },
+                { wrong: 'बारात', right: 'वरयात्रा / बरात', rule: 'बरात शुद्ध' },
+                { wrong: 'वांग्मय', right: 'वाङ्मय', rule: 'ङ् + मय' },
+                { wrong: 'गये / आये', right: 'गए / आए', rule: 'स्वर रूप मानक' },
+                { wrong: 'लिये / चाहिये', right: 'लिए / चाहिए', rule: 'ए रूप मानक' },
+                { wrong: 'मिष्ठान', right: 'मिष्ठान्न', rule: 'मिष्ट + अन्न' },
+                { wrong: 'अहिल्या', right: 'अहल्या', rule: 'अहल्या शुद्ध' },
+                { wrong: 'द्वारिका', right: 'द्वारका', rule: 'द्वारका शुद्ध' },
+                { wrong: 'मैथलीशरण', right: 'मैथिलीशरण', rule: 'थ पर इ' },
+                { wrong: 'अत्याधिक', right: 'अत्यधिक', rule: 'अति + अधिक' },
+                { wrong: 'गत्यावरोध', right: 'गत्यवरोध', rule: 'गति + अवरोध' },
+                { wrong: 'अनाधिकार', right: 'अनधिकार', rule: 'अन् + अधिकार' },
+                { wrong: 'उपरोक्त', right: 'उपर्युक्त', rule: 'उपरी + उक्त' },
+                { wrong: 'सदृश्य', right: 'सदृश', rule: 'सदृश शुद्ध' },
+                { wrong: 'सुश्रुषा', right: 'सुश्रूषा', rule: 'श्रू पर दीर्घ ऊ' },
+                { wrong: 'जिजीविषा', right: 'जीजीविषा', rule: 'जी + जी + विषा' },
+                { wrong: 'पुनरावलोकन', right: 'पुनरवलोकन', rule: 'पुनर् + अवलोकन' },
+                { wrong: 'विरहणी', right: 'विरहिणी', rule: 'ह पर ह्रस्व इ' },
+                { wrong: 'प्रज्वल्लित', right: 'प्रज्वलित', rule: 'एक ज + ल' },
+                { wrong: 'श्रीमति', right: 'श्रीमती', rule: 'त पर दीर्घ ई' },
+                { wrong: 'दम्पति', right: 'दंपती', rule: 'त पर दीर्घ ई' },
+                { wrong: 'दवाइयां (दवाईयां)', right: 'दवाइयाँ', rule: 'ह्रस्व इ + याँ' },
+                { wrong: 'कालिदास (कालीदास)', right: 'कालिदास', rule: 'ल पर ह्रस्व इ' },
+                { wrong: 'कौशल्या', right: 'कौशल्या / कोशल्या', rule: 'श तालव्य' },
+                { wrong: 'जागृत', right: 'जाग्रत', rule: 'जाग्रत अवस्था' },
+                { wrong: 'अनुदित', right: 'अनूदित', rule: 'अन् + उदित' },
+                { wrong: 'प्रफुल्लित', right: 'प्रफुल्ल', rule: 'प्रफुल्ल शुद्ध' },
+                { wrong: 'मुमुक्ष', right: 'मुमुक्षु', rule: 'मोक्ष का इच्छुक' },
+                { wrong: 'यज्ञवल्क्य', right: 'याज्ञवल्क्य', rule: 'याज्ञवल्क्य' },
+                { wrong: 'तदोपरांत', right: 'तदुपरांत', rule: 'तत् + उपरांत' }
+              ].map((item, idx) => (
+                <div key={idx} className="p-2.5 rounded-xl border border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/30 space-y-1">
+                  <div className="flex items-center justify-between">
+                    <span className="text-[11px] text-rose-500 line-through">{item.wrong}</span>
+                    <span className="text-xs font-bold text-emerald-600 dark:text-emerald-400 font-hindi">{item.right}</span>
+                  </div>
+                  <span className="text-[10px] text-slate-400 block truncate">{item.rule}</span>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       )}

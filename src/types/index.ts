@@ -201,6 +201,7 @@ export interface EssayTopic {
   quotations: string[];
   commonPitfalls: BilingualText[];
   checklist: BilingualText[];
+  modelEssay?: BilingualText;
 }
 
 export interface MainsDescriptiveQuestion {
