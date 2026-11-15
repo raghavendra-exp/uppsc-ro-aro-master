@@ -15,8 +15,14 @@
       "en": "Analyzes Industry 4.0, productivity gains, technological unemployment vs new skill creation, and ethical AI governance."
     },
     "introductionFramework": [
-      { "hi": "स्टीफन हॉकिंग या सुंदर पिचाई के कथन से आरंभ: 'एआई मानवता के लिए बिजली या आग की खोज से भी अधिक गहरा प्रभावकारी परिवर्तन है'।", "en": "Begin with profound quote on AI as general-purpose foundational technology." },
-      { "hi": "भारत की राष्ट्रीय रणनीति 'AI for All' (NITI Aayog) का संदर्भ प्रस्तुत करें।", "en": "Cite NITI Aayog's 'AI for All' national mission." }
+      {
+        "hi": "स्टीफन हॉकिंग या सुंदर पिचाई के कथन से आरंभ: 'एआई मानवता के लिए बिजली या आग की खोज से भी अधिक गहरा प्रभावकारी परिवर्तन है'।",
+        "en": "Begin with profound quote on AI as general-purpose foundational technology."
+      },
+      {
+        "hi": "भारत की राष्ट्रीय रणनीति 'AI for All' (NITI Aayog) का संदर्भ प्रस्तुत करें।",
+        "en": "Cite NITI Aayog's 'AI for All' national mission."
+      }
     ],
     "backgroundContext": {
       "hi": "स्वास्थ्य, कृषि (प्रेसिजन फार्मिंग), रक्षा और प्रशासन में जनरेटिव एआई तथा रोबोटिक्स का तीव्र गति से प्रवेश।",
@@ -24,60 +30,121 @@
     },
     "dimensions": [
       {
-        "dimension": { "hi": "आर्थिक एवं विनिर्माण आयाम", "en": "Economic & Manufacturing Dimension" },
+        "dimension": {
+          "hi": "आर्थिक एवं विनिर्माण आयाम",
+          "en": "Economic & Manufacturing Dimension"
+        },
         "points": [
-          { "hi": "उत्पादकता में तीव्र वृद्धि, विनिर्माण में शून्य-दोष उत्पादन, लॉजिस्टिक्स व आपूर्ति श्रृंखला का स्वतः संचालन।", "en": "Hyper-productivity, zero-defect automated manufacturing, supply chain optimization." }
+          {
+            "hi": "उत्पादकता में तीव्र वृद्धि, विनिर्माण में शून्य-दोष उत्पादन, लॉजिस्टिक्स व आपूर्ति श्रृंखला का स्वतः संचालन।",
+            "en": "Hyper-productivity, zero-defect automated manufacturing, supply chain optimization."
+          }
         ]
       },
       {
-        "dimension": { "hi": "रोजगार एवं कार्यबल रूपांतरण", "en": "Employment & Workforce Transformation" },
+        "dimension": {
+          "hi": "रोजगार एवं कार्यबल रूपांतरण",
+          "en": "Employment & Workforce Transformation"
+        },
         "points": [
-          { "hi": "परंपरागत बीपीओ, डेटा एंट्री व शारीरिक श्रम वाले कार्यों में विस्थापन की आशंका; साइबर सुरक्षा, एआई ट्रेनिंग और डेटा साइंस में नए उच्च-वेतन रोजगार।", "en": "Displacement risks in routine clerical/BPO tasks vs emergence of high-value AI auditing and data science roles." }
+          {
+            "hi": "परंपरागत बीपीओ, डेटा एंट्री व शारीरिक श्रम वाले कार्यों में विस्थापन की आशंका; साइबर सुरक्षा, एआई ट्रेनिंग और डेटा साइंस में नए उच्च-वेतन रोजगार।",
+            "en": "Displacement risks in routine clerical/BPO tasks vs emergence of high-value AI auditing and data science roles."
+          }
         ]
       },
       {
-        "dimension": { "hi": "शासन एवं जन-कल्याण आयाम", "en": "Governance & Citizen Welfare Dimension" },
+        "dimension": {
+          "hi": "शासन एवं जन-कल्याण आयाम",
+          "en": "Governance & Citizen Welfare Dimension"
+        },
         "points": [
-          { "hi": "सरकारी सेवाओं में पारदर्शिता, चेहरे की पहचान (FRT), आयुष्मान भारत में एआई डायग्नोस्टिक्स, किसान ई-मित्र।", "en": "Facial recognition in PDS, AI diagnostics in Ayushman Bharat, automated welfare grievance redressal." }
+          {
+            "hi": "सरकारी सेवाओं में पारदर्शिता, चेहरे की पहचान (FRT), आयुष्मान भारत में एआई डायग्नोस्टिक्स, किसान ई-मित्र।",
+            "en": "Facial recognition in PDS, AI diagnostics in Ayushman Bharat, automated welfare grievance redressal."
+          }
         ]
       },
       {
-        "dimension": { "hi": "नैतिक एवं सुरक्षा संबंधी चुनौतियां", "en": "Ethical & Security Challenges" },
+        "dimension": {
+          "hi": "नैतिक एवं सुरक्षा संबंधी चुनौतियां",
+          "en": "Ethical & Security Challenges"
+        },
         "points": [
-          { "hi": "डीपफेक, साइबर युद्ध, एल्गोरिदमिक पूर्वाग्रह, डिजिटल विभाजन तथा रोबोटिक्स में घातक स्वायत्त हथियार प्रणाली (LAWS)।", "en": "Deepfakes, Lethal Autonomous Weapon Systems (LAWS), algorithmic bias, surveillance capitalism." }
+          {
+            "hi": "डीपफेक, साइबर युद्ध, एल्गोरिदमिक पूर्वाग्रह, डिजिटल विभाजन तथा रोबोटिक्स में घातक स्वायत्त हथियार प्रणाली (LAWS)।",
+            "en": "Deepfakes, Lethal Autonomous Weapon Systems (LAWS), algorithmic bias, surveillance capitalism."
+          }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "तकनीक मानव की स्थानापन्न (Substitute) नहीं, बल्कि पूरक (Enabler) बननी चाहिए। 'मानव-केंद्रित एआई' (Human-centric AI) ही स्थाई समाधान है।", "en": "Technology must augment human capability rather than replace human agency." }
+      {
+        "hi": "तकनीक मानव की स्थानापन्न (Substitute) नहीं, बल्कि पूरक (Enabler) बननी चाहिए। 'मानव-केंद्रित एआई' (Human-centric AI) ही स्थाई समाधान है।",
+        "en": "Technology must augment human capability rather than replace human agency."
+      }
     ],
     "relevantFactsAndData": [
-      { "hi": "नीति आयोग का अनुमान: 2035 तक भारतीय अर्थव्यवस्था में AI का योगदान $967 बिलियन हो सकता है।", "en": "NITI Aayog projects AI will add $967 billion to the Indian economy by 2035." }
+      {
+        "hi": "नीति आयोग का अनुमान: 2035 तक भारतीय अर्थव्यवस्था में AI का योगदान $967 बिलियन हो सकता है।",
+        "en": "NITI Aayog projects AI will add $967 billion to the Indian economy by 2035."
+      }
     ],
     "govtInitiatives": [
-      { "hi": "इंडिया एआई मिशन (₹10,372 करोड़), डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम (DPDPA 2023), राष्ट्रीय रोबोटिक्स रणनीति।", "en": "IndiaAI Mission (₹10,372 Cr), Digital Personal Data Protection Act 2023, National Strategy for Robotics." }
+      {
+        "hi": "इंडिया एआई मिशन (₹10,372 करोड़), डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम (DPDPA 2023), राष्ट्रीय रोबोटिक्स रणनीति।",
+        "en": "IndiaAI Mission (₹10,372 Cr), Digital Personal Data Protection Act 2023, National Strategy for Robotics."
+      }
     ],
     "upPerspective": [
-      { "hi": "उत्तर प्रदेश: लखनऊ में देश का पहला 'एआई सिटी' (AI City Lucknow) विकास परियोजना; नोएडा व ग्रेटर नोएडा में डेटा सेंटर हब; यूपी 112 में आपातकालीन प्रतिक्रिया हेतु प्रेडिक्टिव पुलिसिंग।", "en": "UP: India's first AI City planned at Lucknow; Data Center hub in Greater Noida; predictive emergency analytics in UP-112." }
+      {
+        "hi": "उत्तर प्रदेश: लखनऊ में देश का पहला 'एआई सिटी' (AI City Lucknow) विकास परियोजना; नोएडा व ग्रेटर नोएडा में डेटा सेंटर हब; यूपी 112 में आपातकालीन प्रतिक्रिया हेतु प्रेडिक्टिव पुलिसिंग।",
+        "en": "UP: India's first AI City planned at Lucknow; Data Center hub in Greater Noida; predictive emergency analytics in UP-112."
+      }
     ],
     "wayForward": [
-      { "hi": "व्यापक री-स्किलिंग एवं अप-स्किलिंग मिशन, विद्यालयों में कोडिंग व स्टेम (STEM) शिक्षा, मजबूत विधिक व नैतिक नियामक ढांचा।", "en": "Large-scale workforce reskilling, school STEM literacy, and statutory ethical AI guardrails." }
+      {
+        "hi": "व्यापक री-स्किलिंग एवं अप-स्किलिंग मिशन, विद्यालयों में कोडिंग व स्टेम (STEM) शिक्षा, मजबूत विधिक व नैतिक नियामक ढांचा।",
+        "en": "Large-scale workforce reskilling, school STEM literacy, and statutory ethical AI guardrails."
+      }
     ],
     "conclusionFramework": [
-      { "hi": "एआई एक शक्तिशाली उपकरण है। यदि इसका नियंत्रण मानवीय मूल्यों, न्याय और समावेशिता के साथ किया जाए तो यह 'विकसित भारत 2047' का सबसे बड़ा इंजन सिद्ध होगा।", "en": "AI steered by human ethics and constitutional justice will be the premier catalyst for Viksit Bharat 2047." }
+      {
+        "hi": "एआई एक शक्तिशाली उपकरण है। यदि इसका नियंत्रण मानवीय मूल्यों, न्याय और समावेशिता के साथ किया जाए तो यह 'विकसित भारत 2047' का सबसे बड़ा इंजन सिद्ध होगा।",
+        "en": "AI steered by human ethics and constitutional justice will be the premier catalyst for Viksit Bharat 2047."
+      }
     ],
-    "keywords": ["चतुर्थ औद्योगिक क्रांति", "मानव-केंद्रित एआई", "एआई सिटी लखनऊ", "इंडिया एआई मिशन", "डेटा संप्रभुता", "नैतिक रूपरेखा"],
+    "keywords": [
+      "चतुर्थ औद्योगिक क्रांति",
+      "मानव-केंद्रित एआई",
+      "एआई सिटी लखनऊ",
+      "इंडिया एआई मिशन",
+      "डेटा संप्रभुता",
+      "नैतिक रूपरेखा"
+    ],
     "quotations": [
       "मशीनें कभी भी मानवीय संवेदना, अंतरात्मा और नैतिक विवेक का विकल्प नहीं बन सकतीं।",
       "तकनीक जब तक वंचितों के आंसू पोंछने में काम न आए, तब तक वह पूर्ण नहीं है।"
     ],
     "commonPitfalls": [
-      { "hi": "केवल तकनीकी शब्दावली का अत्यधिक उपयोग करना और सामाजिक-आर्थिक प्रभावों की उपेक्षा करना।", "en": "Over-indexing on tech jargon while ignoring socio-economic and employment realities." }
+      {
+        "hi": "केवल तकनीकी शब्दावली का अत्यधिक उपयोग करना और सामाजिक-आर्थिक प्रभावों की उपेक्षा करना।",
+        "en": "Over-indexing on tech jargon while ignoring socio-economic and employment realities."
+      }
     ],
     "checklist": [
-      { "hi": "क्या NITI Aayog की 'AI for All' रणनीति का उल्लेख है?", "en": "Mentioned NITI Aayog's AI for All?" },
-      { "hi": "क्या उत्तर प्रदेश के लखनऊ AI City या डेटा सेंटर का संदर्भ दिया?", "en": "Referenced UP's Lucknow AI City or Data Centers?" },
-      { "hi": "क्या 800 शब्द सीमा के भीतर संतुलित निष्कर्ष निकाला?", "en": "Maintained strict 800-word discipline with constructive conclusion?" }
+      {
+        "hi": "क्या NITI Aayog की 'AI for All' रणनीति का उल्लेख है?",
+        "en": "Mentioned NITI Aayog's AI for All?"
+      },
+      {
+        "hi": "क्या उत्तर प्रदेश के लखनऊ AI City या डेटा सेंटर का संदर्भ दिया?",
+        "en": "Referenced UP's Lucknow AI City or Data Centers?"
+      },
+      {
+        "hi": "क्या 800 शब्द सीमा के भीतर संतुलित निष्कर्ष निकाला?",
+        "en": "Maintained strict 800-word discipline with constructive conclusion?"
+      }
     ]
   },
   {
@@ -96,8 +163,14 @@
       "en": "Assesses the transition from reactive relief to proactive Disaster Risk Reduction (DRR) and Sendai Framework."
     },
     "introductionFramework": [
-      { "hi": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस के कथन से आरंभ: 'ग्लोबल वार्मिंग का युग समाप्त हो चुका है; अब ग्लोबल बॉयलिंग का युग शुरू हो गया है'।", "en": "Open with UN Secretary-General's warning on global boiling and extreme climate events." },
-      { "hi": "आपदा और जोखिम के मध्य संबंध को परिभाषित करें।", "en": "Define Disaster Risk = (Hazard x Vulnerability) / Capacity." }
+      {
+        "hi": "संयुक्त राष्ट्र महासचिव एंटोनियो गुटेरेस के कथन से आरंभ: 'ग्लोबल वार्मिंग का युग समाप्त हो चुका है; अब ग्लोबल बॉयलिंग का युग शुरू हो गया है'।",
+        "en": "Open with UN Secretary-General's warning on global boiling and extreme climate events."
+      },
+      {
+        "hi": "आपदा और जोखिम के मध्य संबंध को परिभाषित करें।",
+        "en": "Define Disaster Risk = (Hazard x Vulnerability) / Capacity."
+      }
     ],
     "backgroundContext": {
       "hi": "भारत का 58% भूभाग भूकंपीय रूप से संवेदनशील, 12% क्षेत्र बाढ़ प्रवण, 68% कृषि भूमि सूखे से प्रभावित तथा 7516 किमी लंबी तटरेखा चक्रवातों से सुभेद्य।",
@@ -105,52 +178,104 @@
     },
     "dimensions": [
       {
-        "dimension": { "hi": "भौगोलिक एवं पर्यावरणीय आयाम", "en": "Geographical & Environmental Dimension" },
+        "dimension": {
+          "hi": "भौगोलिक एवं पर्यावरणीय आयाम",
+          "en": "Geographical & Environmental Dimension"
+        },
         "points": [
-          { "hi": "हिमालयी पारिस्थितिकी में भूस्खलन व ग्लेशियल लेक आउटबर्स्ट फ्लड्स (GLOF); पश्चिमी विक्षोभ और मानसूनी अनिश्चितता।", "en": "Himalayan fragility, landslides, GLOF, erratic western disturbances." }
+          {
+            "hi": "हिमालयी पारिस्थितिकी में भूस्खलन व ग्लेशियल लेक आउटबर्स्ट फ्लड्स (GLOF); पश्चिमी विक्षोभ और मानसूनी अनिश्चितता।",
+            "en": "Himalayan fragility, landslides, GLOF, erratic western disturbances."
+          }
         ]
       },
       {
-        "dimension": { "hi": "आपदा प्रबंधन चक्र (Disaster Management Cycle)", "en": "Disaster Management Cycle" },
+        "dimension": {
+          "hi": "आपदा प्रबंधन चक्र (Disaster Management Cycle)",
+          "en": "Disaster Management Cycle"
+        },
         "points": [
-          { "hi": "तैयारी (पूर्व-चेतावनी, मौसम रडार) → त्वरित बचाव (NDRF/SDRF) → राहत वितरण → लचीला पुनर्निर्माण (Build Back Better)।", "en": "Preparedness (Doppler radars) → Response (NDRF) → Relief → Resilient Reconstruction." }
+          {
+            "hi": "तैयारी (पूर्व-चेतावनी, मौसम रडार) → त्वरित बचाव (NDRF/SDRF) → राहत वितरण → लचीला पुनर्निर्माण (Build Back Better)।",
+            "en": "Preparedness (Doppler radars) → Response (NDRF) → Relief → Resilient Reconstruction."
+          }
         ]
       },
       {
-        "dimension": { "hi": "आर्थिक एवं कृषि प्रभाव", "en": "Economic & Agricultural Impact" },
+        "dimension": {
+          "hi": "आर्थिक एवं कृषि प्रभाव",
+          "en": "Economic & Agricultural Impact"
+        },
         "points": [
-          { "hi": "जीडीपी को प्रत्यक्ष नुकसान, फसल क्षति, ग्रामीण ऋणग्रस्तता एवं आपदा जनित विस्थापन।", "en": "GDP destruction, crop losses, distress rural migration." }
+          {
+            "hi": "जीडीपी को प्रत्यक्ष नुकसान, फसल क्षति, ग्रामीण ऋणग्रस्तता एवं आपदा जनित विस्थापन।",
+            "en": "GDP destruction, crop losses, distress rural migration."
+          }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "आपदाएं प्राकृतिक हो सकती हैं, किंतु उनकी भयावहता मानवीय अनियोजित विकास, वनों की कटाई और अतिक्रमण का परिणाम है।", "en": "Hazards may be natural, but disasters are exacerbated by unplanned development and ecological degradation." }
+      {
+        "hi": "आपदाएं प्राकृतिक हो सकती हैं, किंतु उनकी भयावहता मानवीय अनियोजित विकास, वनों की कटाई और अतिक्रमण का परिणाम है।",
+        "en": "Hazards may be natural, but disasters are exacerbated by unplanned development and ecological degradation."
+      }
     ],
     "relevantFactsAndData": [
-      { "hi": "सेंडाई फ्रेमवर्क (2015-2030) के 4 स्तंभ और प्रधानमंत्री का 10-सूत्रीय आपदा जोखिम एजेंडा।", "en": "Sendai Framework (2015-2030) priorities and PM's 10-Point DRR Agenda." }
+      {
+        "hi": "सेंडाई फ्रेमवर्क (2015-2030) के 4 स्तंभ और प्रधानमंत्री का 10-सूत्रीय आपदा जोखिम एजेंडा।",
+        "en": "Sendai Framework (2015-2030) priorities and PM's 10-Point DRR Agenda."
+      }
     ],
     "govtInitiatives": [
-      { "hi": "आपदा प्रबंधन अधिनियम 2005, NDMA, राष्ट्रीय आपदा मोचन बल (NDRF), आपदा रोधी अवसंरचना गठबंधन (CDRI)।", "en": "Disaster Management Act 2005, NDMA, NDRF, Coalition for Disaster Resilient Infrastructure (CDRI)." }
+      {
+        "hi": "आपदा प्रबंधन अधिनियम 2005, NDMA, राष्ट्रीय आपदा मोचन बल (NDRF), आपदा रोधी अवसंरचना गठबंधन (CDRI)।",
+        "en": "Disaster Management Act 2005, NDMA, NDRF, Coalition for Disaster Resilient Infrastructure (CDRI)."
+      }
     ],
     "upPerspective": [
-      { "hi": "उत्तर प्रदेश: पूर्वी उ.प्र. (तराई क्षेत्र) में घाघरा, राप्ती और गंडक की वार्षिक बाढ़; बुंदेलखंड में दीर्घकालिक सूखा एवं भूजल संकट; राहत आयुक्त कार्यालय द्वारा 'राहत पोर्टल' और अर्ली वार्निंग सायरन नेटवर्क।", "en": "UP: Eastern UP annual floods (Rapti, Ghaghra, Gandak); Bundelkhand chronic drought; UP Relief Commissioner's Raahat Portal." }
+      {
+        "hi": "उत्तर प्रदेश: पूर्वी उ.प्र. (तराई क्षेत्र) में घाघरा, राप्ती और गंडक की वार्षिक बाढ़; बुंदेलखंड में दीर्घकालिक सूखा एवं भूजल संकट; राहत आयुक्त कार्यालय द्वारा 'राहत पोर्टल' और अर्ली वार्निंग सायरन नेटवर्क।",
+        "en": "UP: Eastern UP annual floods (Rapti, Ghaghra, Gandak); Bundelkhand chronic drought; UP Relief Commissioner's Raahat Portal."
+      }
     ],
     "wayForward": [
-      { "hi": "प्रकृति-आधारित समाधान (Nature-based solutions), मैंग्रोव व वेटलैंड्स का पुनरुद्धार, जलवायु-सहिष्णु कृषि, जिला स्तरीय सामुदायिक स्वयंसेवकों (आपदा मित्र) का सशक्तिकरण।", "en": "Nature-based solutions, climate-resilient agriculture, empowerment of community Aapda Mitra volunteers." }
+      {
+        "hi": "प्रकृति-आधारित समाधान (Nature-based solutions), मैंग्रोव व वेटलैंड्स का पुनरुद्धार, जलवायु-सहिष्णु कृषि, जिला स्तरीय सामुदायिक स्वयंसेवकों (आपदा मित्र) का सशक्तिकरण।",
+        "en": "Nature-based solutions, climate-resilient agriculture, empowerment of community Aapda Mitra volunteers."
+      }
     ],
     "conclusionFramework": [
-      { "hi": "प्रकृति के साथ संघर्ष नहीं, सह-अस्तित्व ही मानव जाति की रक्षा कर सकता है। सेंडाई फ्रेमवर्क का अक्षरशः पालन ही सुरक्षित भारत का मार्ग है।", "en": "Coexistence with ecology rather than conquest will secure civilizational resilience." }
+      {
+        "hi": "प्रकृति के साथ संघर्ष नहीं, सह-अस्तित्व ही मानव जाति की रक्षा कर सकता है। सेंडाई फ्रेमवर्क का अक्षरशः पालन ही सुरक्षित भारत का मार्ग है।",
+        "en": "Coexistence with ecology rather than conquest will secure civilizational resilience."
+      }
     ],
-    "keywords": ["आपदा प्रबंधन चक्र", "सेंडाई फ्रेमवर्क", "बिल्ड बैक बेटर", "एनडीआरएफ", "बुंदेलखंड सूखा", "सीडीआरआई"],
+    "keywords": [
+      "आपदा प्रबंधन चक्र",
+      "सेंडाई फ्रेमवर्क",
+      "बिल्ड बैक बेटर",
+      "एनडीआरएफ",
+      "बुंदेलखंड सूखा",
+      "सीडीआरआई"
+    ],
     "quotations": [
       "पृथ्वी सभी की आवश्यकताओं की पूर्ति कर सकती है, किंतु किसी के लालच की नहीं। — महात्मा गांधी"
     ],
     "commonPitfalls": [
-      { "hi": "केवल बाढ़ या भूकंप का वर्णन करना और आपदा प्रबंधन चक्र (Mitigation, Response, Recovery) के तकनीकी चरणों को छोड़ देना।", "en": "Merely describing damages without explaining the institutional Disaster Management Cycle." }
+      {
+        "hi": "केवल बाढ़ या भूकंप का वर्णन करना और आपदा प्रबंधन चक्र (Mitigation, Response, Recovery) के तकनीकी चरणों को छोड़ देना।",
+        "en": "Merely describing damages without explaining the institutional Disaster Management Cycle."
+      }
     ],
     "checklist": [
-      { "hi": "क्या आपदा प्रबंधन चक्र के चारों चरण शामिल हैं?", "en": "Explained all 4 phases of Disaster Cycle?" },
-      { "hi": "क्या पूर्वी उ.प्र. बाढ़ और बुंदेलखंड सूखे का विशिष्ट उल्लेख है?", "en": "Included Eastern UP floods & Bundelkhand drought?" }
+      {
+        "hi": "क्या आपदा प्रबंधन चक्र के चारों चरण शामिल हैं?",
+        "en": "Explained all 4 phases of Disaster Cycle?"
+      },
+      {
+        "hi": "क्या पूर्वी उ.प्र. बाढ़ और बुंदेलखंड सूखे का विशिष्ट उल्लेख है?",
+        "en": "Included Eastern UP floods & Bundelkhand drought?"
+      }
     ]
   },
   {
@@ -169,8 +294,14 @@
       "en": "A 1200-word analytical exploration of Upanishadic universal brotherhood, cosmopolitan diplomacy, and India's soft power."
     },
     "introductionFramework": [
-      { "hi": "महोपनिषद् के श्लोक से भव्य आरंभ: 'अयं निजः परो वेति गणना लघुचेतसाम्। उदारचरितानां तु वसुधैव कुटुम्बकम्॥'", "en": "Open with classical Maha Upanishad verse defining universal fraternity." },
-      { "hi": "भारत की जी-20 अध्यक्षता का आधिकारिक आदर्श वाक्य 'एक पृथ्वी, एक कुटुम्ब, एक भविष्य' (One Earth, One Family, One Future) के वैश्विक संदर्भ से जोड़ें।", "en": "Connect to G20 diplomatic motto: 'One Earth, One Family, One Future'." }
+      {
+        "hi": "महोपनिषद् के श्लोक से भव्य आरंभ: 'अयं निजः परो वेति गणना लघुचेतसाम्। उदारचरितानां तु वसुधैव कुटुम्बकम्॥'",
+        "en": "Open with classical Maha Upanishad verse defining universal fraternity."
+      },
+      {
+        "hi": "भारत की जी-20 अध्यक्षता का आधिकारिक आदर्श वाक्य 'एक पृथ्वी, एक कुटुम्ब, एक भविष्य' (One Earth, One Family, One Future) के वैश्विक संदर्भ से जोड़ें।",
+        "en": "Connect to G20 diplomatic motto: 'One Earth, One Family, One Future'."
+      }
     ],
     "backgroundContext": {
       "hi": "वैदिक काल से लेकर आधुनिक युग तक भारत ने कभी साम्राज्यवादी विस्तार नहीं किया, बल्कि 'सत्यमेव जयते' और 'अहिंसा परमो धर्मः' के नैतिक संदेश को विश्व में प्रसारित किया।",
@@ -178,60 +309,118 @@
     },
     "dimensions": [
       {
-        "dimension": { "hi": "दार्शनिक एवं आध्यात्मिक आयाम", "en": "Philosophical & Spiritual Dimension" },
+        "dimension": {
+          "hi": "दार्शनिक एवं आध्यात्मिक आयाम",
+          "en": "Philosophical & Spiritual Dimension"
+        },
         "points": [
-          { "hi": "अद्वैत वेदांत (शंकराचार्य): समस्त जीवों में एक ही ब्रह्म का निवास; प्राणीमात्र के प्रति करुणा एवं आत्मीयता।", "en": "Advaita Vedanta: Unity of all cosmic existence, empathy for all sentient life." }
+          {
+            "hi": "अद्वैत वेदांत (शंकराचार्य): समस्त जीवों में एक ही ब्रह्म का निवास; प्राणीमात्र के प्रति करुणा एवं आत्मीयता।",
+            "en": "Advaita Vedanta: Unity of all cosmic existence, empathy for all sentient life."
+          }
         ]
       },
       {
-        "dimension": { "hi": "सांस्कृतिक एवं ऐतिहासिक सहिष्णुता", "en": "Cultural & Historical Pluralism" },
+        "dimension": {
+          "hi": "सांस्कृतिक एवं ऐतिहासिक सहिष्णुता",
+          "en": "Cultural & Historical Pluralism"
+        },
         "points": [
-          { "hi": "पारसियों, यहूदियों, तिब्बतियों को शरण; विभिन्न धर्मों, जातियों व संस्कृतियों का भारत में गंगा-जमुनी समागम।", "en": "Historic sanctuary to Parsis, Jews, Tibetans; composite Ganga-Jamuni syncretism." }
+          {
+            "hi": "पारसियों, यहूदियों, तिब्बतियों को शरण; विभिन्न धर्मों, जातियों व संस्कृतियों का भारत में गंगा-जमुनी समागम।",
+            "en": "Historic sanctuary to Parsis, Jews, Tibetans; composite Ganga-Jamuni syncretism."
+          }
         ]
       },
       {
-        "dimension": { "hi": "विदेश नीति एवं वैश्विक कूटनीतिक आयाम", "en": "Foreign Policy & Geopolitical Soft Power" },
+        "dimension": {
+          "hi": "विदेश नीति एवं वैश्विक कूटनीतिक आयाम",
+          "en": "Foreign Policy & Geopolitical Soft Power"
+        },
         "points": [
-          { "hi": "'वैक्सीन मैत्री', आपदाओं में 'ऑपरेशन दोस्त', ग्लोबल साउथ की आवाज बनना, अंतर्राष्ट्रीय सौर गठबंधन (ISA) व मिशन लाइफ (LiFE)।", "en": "Vaccine Maitri, Operation Dost, championing the Global South, International Solar Alliance." }
+          {
+            "hi": "'वैक्सीन मैत्री', आपदाओं में 'ऑपरेशन दोस्त', ग्लोबल साउथ की आवाज बनना, अंतर्राष्ट्रीय सौर गठबंधन (ISA) व मिशन लाइफ (LiFE)।",
+            "en": "Vaccine Maitri, Operation Dost, championing the Global South, International Solar Alliance."
+          }
         ]
       },
       {
-        "dimension": { "hi": "आधुनिक विश्व की चुनौतियां एवं भारतीय समाधान", "en": "Contemporary Crises & Indic Solutions" },
+        "dimension": {
+          "hi": "आधुनिक विश्व की चुनौतियां एवं भारतीय समाधान",
+          "en": "Contemporary Crises & Indic Solutions"
+        },
         "points": [
-          { "hi": "भू-राजनीतिक संघर्ष (यूक्रेन, मध्य पूर्व), जलवायु संकट, संकीर्ण राष्ट्रवाद और आतंकवाद का समाधान एकात्म मानव दर्शन में निहित है।", "en": "Antidote to polarising geopolitics, xenophobia, ecological devastation and war." }
+          {
+            "hi": "भू-राजनीतिक संघर्ष (यूक्रेन, मध्य पूर्व), जलवायु संकट, संकीर्ण राष्ट्रवाद और आतंकवाद का समाधान एकात्म मानव दर्शन में निहित है।",
+            "en": "Antidote to polarising geopolitics, xenophobia, ecological devastation and war."
+          }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "वसुधैव कुटुम्बकम् केवल एक आकर्षक नारा नहीं, बल्कि 21वीं सदी में मानव अस्तित्व की अनिवार्य शर्त (Prerequisite for Survival) है।", "en": "Universal fraternity is not rhetoric, but an existential imperative for planetary survival." }
+      {
+        "hi": "वसुधैव कुटुम्बकम् केवल एक आकर्षक नारा नहीं, बल्कि 21वीं सदी में मानव अस्तित्व की अनिवार्य शर्त (Prerequisite for Survival) है।",
+        "en": "Universal fraternity is not rhetoric, but an existential imperative for planetary survival."
+      }
     ],
     "relevantFactsAndData": [
-      { "hi": "भारत द्वारा 100 से अधिक देशों को कोविड टीकों का निर्यात, पर्यावरण संरक्षण हेतु 'मिशन LiFE' (Lifestyle for Environment)।", "en": "Export of vaccines to 100+ nations; Mission LiFE lifestyle philosophy embraced globally." }
+      {
+        "hi": "भारत द्वारा 100 से अधिक देशों को कोविड टीकों का निर्यात, पर्यावरण संरक्षण हेतु 'मिशन LiFE' (Lifestyle for Environment)।",
+        "en": "Export of vaccines to 100+ nations; Mission LiFE lifestyle philosophy embraced globally."
+      }
     ],
     "govtInitiatives": [
-      { "hi": "अंतर्राष्ट्रीय योग दिवस (21 जून), अंतर्राष्ट्रीय सौर गठबंधन, आपदा रोधी अवसंरचना गठबंधन (CDRI), राष्ट्रीय पांडुलिपि मिशन।", "en": "International Day of Yoga, International Solar Alliance, CDRI, National Manuscripts Mission." }
+      {
+        "hi": "अंतर्राष्ट्रीय योग दिवस (21 जून), अंतर्राष्ट्रीय सौर गठबंधन, आपदा रोधी अवसंरचना गठबंधन (CDRI), राष्ट्रीय पांडुलिपि मिशन।",
+        "en": "International Day of Yoga, International Solar Alliance, CDRI, National Manuscripts Mission."
+      }
     ],
     "upPerspective": [
-      { "hi": "उत्तर प्रदेश: काशी (विश्व की प्राचीनतम जीवंत सांस्कृतिक नगरी), प्रयागराज (महाकुंभ - मानवता की अमूर्त सांस्कृतिक धरोहर), अयोध्या (मर्यादा पुरुषोत्तम राम का समरसता संदेश), सारनाथ (भगवान बुद्ध का प्रथम धम्मचक्र प्रवर्तन)।", "en": "UP as cultural epicenter: Kashi, Prayagraj Mahakumbh (UNESCO Intangible Heritage), Ayodhya, Sarnath." }
+      {
+        "hi": "उत्तर प्रदेश: काशी (विश्व की प्राचीनतम जीवंत सांस्कृतिक नगरी), प्रयागराज (महाकुंभ - मानवता की अमूर्त सांस्कृतिक धरोहर), अयोध्या (मर्यादा पुरुषोत्तम राम का समरसता संदेश), सारनाथ (भगवान बुद्ध का प्रथम धम्मचक्र प्रवर्तन)।",
+        "en": "UP as cultural epicenter: Kashi, Prayagraj Mahakumbh (UNESCO Intangible Heritage), Ayodhya, Sarnath."
+      }
     ],
     "wayForward": [
-      { "hi": "शैक्षिक पाठ्यक्रमों में भारतीय ज्ञान प्रणाली (IKS) का समावेशन, सांस्कृतिक कूटनीति का सुदृढ़ीकरण, वैश्विक संस्थाओं (UNSC) में सुधार।", "en": "Mainstreaming Indian Knowledge Systems (IKS), strengthening cultural diplomacy, UN multilateral reforms." }
+      {
+        "hi": "शैक्षिक पाठ्यक्रमों में भारतीय ज्ञान प्रणाली (IKS) का समावेशन, सांस्कृतिक कूटनीति का सुदृढ़ीकरण, वैश्विक संस्थाओं (UNSC) में सुधार।",
+        "en": "Mainstreaming Indian Knowledge Systems (IKS), strengthening cultural diplomacy, UN multilateral reforms."
+      }
     ],
     "conclusionFramework": [
-      { "hi": "'सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः' के वैश्विक मंगलाचरण के साथ समापन। जब विश्व युद्ध और स्वार्थ में जल रहा हो, तब भारत का सांस्कृतिक दर्शन ही विश्व बंधुत्व का शीतल अमृत प्रदान कर सकता है।", "en": "Conclude with Sarve Bhavantu Sukhinah: When global order fractures, India's cultural compass offers healing fraternity." }
+      {
+        "hi": "'सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः' के वैश्विक मंगलाचरण के साथ समापन। जब विश्व युद्ध और स्वार्थ में जल रहा हो, तब भारत का सांस्कृतिक दर्शन ही विश्व बंधुत्व का शीतल अमृत प्रदान कर सकता है।",
+        "en": "Conclude with Sarve Bhavantu Sukhinah: When global order fractures, India's cultural compass offers healing fraternity."
+      }
     ],
-    "keywords": ["वसुधैव कुटुम्बकम्", "महाकुंभ प्रयागराज", "गंगा-जमुनी तहजीब", "मिशन लाइफ", "वैक्सीन मैत्री", "सॉफ्ट पावर"],
+    "keywords": [
+      "वसुधैव कुटुम्बकम्",
+      "महाकुंभ प्रयागराज",
+      "गंगा-जमुनी तहजीब",
+      "मिशन लाइफ",
+      "वैक्सीन मैत्री",
+      "सॉफ्ट पावर"
+    ],
     "quotations": [
       "अयं निजः परो वेति गणना लघुचेतसाम्। उदारचरितानां तु वसुधैव कुटुम्बकम्॥ — महोपनिषद्",
       "सत्य एक है, विद्वान उसे विभिन्न नामों से पुकारते हैं (एकं सद् विप्रा बहुधा वदन्ति)। — ऋग्वेद",
       "भारत केवल एक भूमि का टुकड़ा नहीं, वह मानवता की चेतना का विस्तार है। — स्वामी विवेकानंद"
     ],
     "commonPitfalls": [
-      { "hi": "1200 शब्दों की आवश्यकता में पुनरावृत्ति करना; विभिन्न आयामों (दार्शनिक, कूटनीतिक, पर्यावरणीय, यूपी विशेष) में संतुलित विभाजन न करना।", "en": "Repetitive writing; failing to articulate multi-layered philosophical, diplomatic, environmental and UP dimensions across 1200 words." }
+      {
+        "hi": "1200 शब्दों की आवश्यकता में पुनरावृत्ति करना; विभिन्न आयामों (दार्शनिक, कूटनीतिक, पर्यावरणीय, यूपी विशेष) में संतुलित विभाजन न करना।",
+        "en": "Repetitive writing; failing to articulate multi-layered philosophical, diplomatic, environmental and UP dimensions across 1200 words."
+      }
     ],
     "checklist": [
-      { "hi": "क्या 1200 शब्द सीमा का सम्मान करते हुए 6-8 स्पष्ट पैराग्राफ लिखे हैं?", "en": "Structured across comprehensive multi-dimensional sections for 1200 words?" },
-      { "hi": "क्या उपनिषदिक श्लोक, जी20 थीम एवं काशी/प्रयागराज का उल्लेख है?", "en": "Included Upanishadic verses, G20 theme and Kashi/Prayagraj heritage?" }
+      {
+        "hi": "क्या 1200 शब्द सीमा का सम्मान करते हुए 6-8 स्पष्ट पैराग्राफ लिखे हैं?",
+        "en": "Structured across comprehensive multi-dimensional sections for 1200 words?"
+      },
+      {
+        "hi": "क्या उपनिषदिक श्लोक, जी20 थीम एवं काशी/प्रयागराज का उल्लेख है?",
+        "en": "Included Upanishadic verses, G20 theme and Kashi/Prayagraj heritage?"
+      }
     ]
   },
   {
@@ -250,8 +439,14 @@
       "en": "Examines Viksit Bharat 2047 blueprint, PM Gati Shakti, multimodal infrastructure, and UP's $1 Trillion economy roadmap."
     },
     "introductionFramework": [
-      { "hi": "प्रधानमंत्री के 'पंच प्रण' और 2047 तक भारत को विकसित राष्ट्र बनाने के राष्ट्रीय संकल्प से आरंभ करें।", "en": "Open with PM's 'Panch Pran' and the civilizational mission of Viksit Bharat by 2047." },
-      { "hi": "आर्थिक विकास में अवसंरचना (Infrastructure) को 'विकास का गुणक' (Multiplier of Growth) सिद्ध करें।", "en": "Establish infrastructure as the non-negotiable growth multiplier." }
+      {
+        "hi": "प्रधानमंत्री के 'पंच प्रण' और 2047 तक भारत को विकसित राष्ट्र बनाने के राष्ट्रीय संकल्प से आरंभ करें।",
+        "en": "Open with PM's 'Panch Pran' and the civilizational mission of Viksit Bharat by 2047."
+      },
+      {
+        "hi": "आर्थिक विकास में अवसंरचना (Infrastructure) को 'विकास का गुणक' (Multiplier of Growth) सिद्ध करें।",
+        "en": "Establish infrastructure as the non-negotiable growth multiplier."
+      }
     ],
     "backgroundContext": {
       "hi": "भारत विश्व की 5वीं सबसे बड़ी अर्थव्यवस्था है; वैश्विक आपूर्ति श्रृंखलाओं के चीन-प्लस-वन विविधीकरण का ऐतिहासिक लाभ उठाने का स्वर्णिम अवसर।",
@@ -259,59 +454,754 @@
     },
     "dimensions": [
       {
-        "dimension": { "hi": "मल्टीमॉडल अवसंरचना एवं पीएम गति शक्ति", "en": "Multimodal Logistics & PM Gati Shakti" },
+        "dimension": {
+          "hi": "मल्टीमॉडल अवसंरचना एवं पीएम गति शक्ति",
+          "en": "Multimodal Logistics & PM Gati Shakti"
+        },
         "points": [
-          { "hi": "समन्वित योजना निर्माण, सड़क, रेल, जलमार्ग एवं बंदरगाहों का एकीकृत नेटवर्क; लॉजिस्टिक्स लागत को जीडीपी के 14% से घटाकर 8% करना।", "en": "Synchronized planning across roads, railways, ports to slash logistics costs from 14% to 8%." }
+          {
+            "hi": "समन्वित योजना निर्माण, सड़क, रेल, जलमार्ग एवं बंदरगाहों का एकीकृत नेटवर्क; लॉजिस्टिक्स लागत को जीडीपी के 14% से घटाकर 8% करना।",
+            "en": "Synchronized planning across roads, railways, ports to slash logistics costs from 14% to 8%."
+          }
         ]
       },
       {
-        "dimension": { "hi": "औद्योगिक एवं माल ढुलाई गलियारे (Freight Corridors)", "en": "Dedicated Freight Corridors (DFCs)" },
+        "dimension": {
+          "hi": "औद्योगिक एवं माल ढुलाई गलियारे (Freight Corridors)",
+          "en": "Dedicated Freight Corridors (DFCs)"
+        },
         "points": [
-          { "hi": "ईस्टर्न डीएफसी (EDFC) और वेस्टर्न डीएफसी (WDFC); औद्योगिक क्लस्टरों से बंदरगाहों तक माल परिवहन समय में 50% कमी।", "en": "EDFC and WDFC dramatically reducing transit times from heartland to maritime gateways." }
+          {
+            "hi": "ईस्टर्न डीएफसी (EDFC) और वेस्टर्न डीएफसी (WDFC); औद्योगिक क्लस्टरों से बंदरगाहों तक माल परिवहन समय में 50% कमी।",
+            "en": "EDFC and WDFC dramatically reducing transit times from heartland to maritime gateways."
+          }
         ]
       },
       {
-        "dimension": { "hi": "उत्तर प्रदेश: भारत का विकास इंजन (Growth Engine of India)", "en": "UP as National Growth Engine" },
+        "dimension": {
+          "hi": "उत्तर प्रदेश: भारत का विकास इंजन (Growth Engine of India)",
+          "en": "UP as National Growth Engine"
+        },
         "points": [
-          { "hi": "देश का 'एक्सप्रेसवे प्रदेश' (पूर्वांचल, बुंदेलखंड, गंगा, आगरा-लखनऊ एक्सप्रेसवे); जेवर (नोएडा) इंटरनेशनल एयरपोर्ट; डिफेंस इंडस्ट्रियल कॉरिडोर (लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़, चित्रकूट)।", "en": "UP as Expressway Capital, Jewar International Airport, and UP Defence Industrial Corridor (6 nodes)." }
+          {
+            "hi": "देश का 'एक्सप्रेसवे प्रदेश' (पूर्वांचल, बुंदेलखंड, गंगा, आगरा-लखनऊ एक्सप्रेसवे); जेवर (नोएडा) इंटरनेशनल एयरपोर्ट; डिफेंस इंडस्ट्रियल कॉरिडोर (लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़, चित्रकूट)।",
+            "en": "UP as Expressway Capital, Jewar International Airport, and UP Defence Industrial Corridor (6 nodes)."
+          }
         ]
       },
       {
-        "dimension": { "hi": "मानव पूंजी एवं समावेशी विकास", "en": "Human Capital & Inclusive Growth" },
+        "dimension": {
+          "hi": "मानव पूंजी एवं समावेशी विकास",
+          "en": "Human Capital & Inclusive Growth"
+        },
         "points": [
-          { "hi": "अधोसंरचना विकास के साथ-साथ शिक्षा, स्वास्थ्य, कौशल विकास और ग्रामीण सशक्तिकरण का समन्वय अनिवार्य है।", "en": "Bridging physical infrastructure with health, skilling, and rural income generation." }
+          {
+            "hi": "अधोसंरचना विकास के साथ-साथ शिक्षा, स्वास्थ्य, कौशल विकास और ग्रामीण सशक्तिकरण का समन्वय अनिवार्य है।",
+            "en": "Bridging physical infrastructure with health, skilling, and rural income generation."
+          }
         ]
       }
     ],
     "keyArguments": [
-      { "hi": "उत्तर प्रदेश के बिना भारत का विकसित राष्ट्र बनना असंभव है। देश की 17% आबादी वाले राज्य का $1 ट्रिलियन का लक्ष्य राष्ट्रीय लक्ष्य की रीढ़ है।", "en": "India cannot become a developed nation without UP prosperous; UP's $1T goal is the bedrock of the national target." }
+      {
+        "hi": "उत्तर प्रदेश के बिना भारत का विकसित राष्ट्र बनना असंभव है। देश की 17% आबादी वाले राज्य का $1 ट्रिलियन का लक्ष्य राष्ट्रीय लक्ष्य की रीढ़ है।",
+        "en": "India cannot become a developed nation without UP prosperous; UP's $1T goal is the bedrock of the national target."
+      }
     ],
     "relevantFactsAndData": [
-      { "hi": "केंद्रीय बजट में ₹11.11 लाख करोड़ का पूंजीगत व्यय (Capex); यूपी में 40 लाख करोड़ से अधिक के निवेश प्रस्ताव (GIS 2023)।", "en": "Record ₹11.11 Lakh Cr Capex outlay; UP Global Investors Summit garnering ₹40 Lakh Cr+ MoUs." }
+      {
+        "hi": "केंद्रीय बजट में ₹11.11 लाख करोड़ का पूंजीगत व्यय (Capex); यूपी में 40 लाख करोड़ से अधिक के निवेश प्रस्ताव (GIS 2023)।",
+        "en": "Record ₹11.11 Lakh Cr Capex outlay; UP Global Investors Summit garnering ₹40 Lakh Cr+ MoUs."
+      }
     ],
     "govtInitiatives": [
-      { "hi": "पीएम गति शक्ति राष्ट्रीय मास्टर प्लान, राष्ट्रीय लॉजिस्टिक्स नीति, भारतमाला, सागरमाला, मेक इन इंडिया, पीएलआई (PLI) योजनाएं।", "en": "PM Gati Shakti, National Logistics Policy, Bharatmala, Sagarmala, PLI schemes." }
+      {
+        "hi": "पीएम गति शक्ति राष्ट्रीय मास्टर प्लान, राष्ट्रीय लॉजिस्टिक्स नीति, भारतमाला, सागरमाला, मेक इन इंडिया, पीएलआई (PLI) योजनाएं।",
+        "en": "PM Gati Shakti, National Logistics Policy, Bharatmala, Sagarmala, PLI schemes."
+      }
     ],
     "upPerspective": [
-      { "hi": "उ.प्र. का 'एक जिला एक उत्पाद' (ODOP), जल जीवन मिशन में देश में प्रथम स्थान, वाराणसी में मल्टीमॉडल इनलैंड वाटरवे टर्मिनल (NW-1), सौर ऊर्जा पार्क (बुंदेलखंड)।", "en": "UP ODOP global exports, National Waterway 1 terminal at Varanasi, Bundelkhand solar parks." }
+      {
+        "hi": "उ.प्र. का 'एक जिला एक उत्पाद' (ODOP), जल जीवन मिशन में देश में प्रथम स्थान, वाराणसी में मल्टीमॉडल इनलैंड वाटरवे टर्मिनल (NW-1), सौर ऊर्जा पार्क (बुंदेलखंड)।",
+        "en": "UP ODOP global exports, National Waterway 1 terminal at Varanasi, Bundelkhand solar parks."
+      }
     ],
     "wayForward": [
-      { "hi": "भूमि अधिग्रहण प्रक्रियाओं का सरलीकरण, पर्यावरणीय स्थिरता के साथ हरित अवसंरचना (Green Infra), अनुसंधान व नवाचार (R&D) में निवेश।", "en": "Streamlining land records, green resilient infra, and boosting R&D investments." }
+      {
+        "hi": "भूमि अधिग्रहण प्रक्रियाओं का सरलीकरण, पर्यावरणीय स्थिरता के साथ हरित अवसंरचना (Green Infra), अनुसंधान व नवाचार (R&D) में निवेश।",
+        "en": "Streamlining land records, green resilient infra, and boosting R&D investments."
+      }
     ],
     "conclusionFramework": [
-      { "hi": "जब आधुनिक अवसंरचना, कुशल युवा और पारदर्शी सुशासन एक साथ मिलते हैं, तब राष्ट्र का उत्कर्ष निश्चित होता है। 2047 का विकसित भारत इसी की नींव पर खड़ा होगा।", "en": "Synchronized infrastructure, empowered demographic dividend, and transparent governance will materialize Viksit Bharat." }
+      {
+        "hi": "जब आधुनिक अवसंरचना, कुशल युवा और पारदर्शी सुशासन एक साथ मिलते हैं, तब राष्ट्र का उत्कर्ष निश्चित होता है। 2047 का विकसित भारत इसी की नींव पर खड़ा होगा।",
+        "en": "Synchronized infrastructure, empowered demographic dividend, and transparent governance will materialize Viksit Bharat."
+      }
     ],
-    "keywords": ["विकसित भारत 2047", "पीएम गति शक्ति", "ईस्टर्न डीएफसी", "डिफेंस कॉरिडोर", "जेवर एयरपोर्ट", "एक ट्रिलियन डॉलर"],
+    "keywords": [
+      "विकसित भारत 2047",
+      "पीएम गति शक्ति",
+      "ईस्टर्न डीएफसी",
+      "डिफेंस कॉरिडोर",
+      "जेवर एयरपोर्ट",
+      "एक ट्रिलियन डॉलर"
+    ],
     "quotations": [
       "अवसंरचना केवल कंक्रीट और स्टील नहीं है, यह करोड़ों नागरिकों की आकांक्षाओं को जोड़ने वाला सेतु है।",
       "उत्तम सड़कें और त्वरित संचार ही किसी सभ्यता की प्रगति का थर्मामीटर हैं।"
     ],
     "commonPitfalls": [
-      { "hi": "केवल राष्ट्रीय स्तर के आंकड़ों तक सीमित रहना और उत्तर प्रदेश के बुनियादी ढांचे व विशिष्ट परियोजनाओं का उल्लेख न करना।", "en": "Restricting only to national statistics while ignoring UP's expressways, airports, and industrial corridor nodes." }
+      {
+        "hi": "केवल राष्ट्रीय स्तर के आंकड़ों तक सीमित रहना और उत्तर प्रदेश के बुनियादी ढांचे व विशिष्ट परियोजनाओं का उल्लेख न करना।",
+        "en": "Restricting only to national statistics while ignoring UP's expressways, airports, and industrial corridor nodes."
+      }
     ],
     "checklist": [
-      { "hi": "क्या 1200 शब्दों का गहन विश्लेषणात्मक प्रारूप पूरा किया गया?", "en": "Covered 1200-word comprehensive framework?" },
-      { "hi": "क्या उत्तर प्रदेश के डिफेंस कॉरिडोर के 6 नोड्स और एक्सप्रेसवे का उल्लेख है?", "en": "Mentioned UP's 6 defense corridor nodes and expressways?" }
+      {
+        "hi": "क्या 1200 शब्दों का गहन विश्लेषणात्मक प्रारूप पूरा किया गया?",
+        "en": "Covered 1200-word comprehensive framework?"
+      },
+      {
+        "hi": "क्या उत्तर प्रदेश के डिफेंस कॉरिडोर के 6 नोड्स और एक्सप्रेसवे का उल्लेख है?",
+        "en": "Mentioned UP's 6 defense corridor nodes and expressways?"
+      }
+    ]
+  },
+  {
+    "id": "essay-sec1-economy-03",
+    "mainsSection": "SECTION_1_800W",
+    "domain": "आर्थिक क्षेत्र (Economic Sphere: 5 Trillion Economy, MSME, Manufacturing)",
+    "title": {
+      "hi": "5 ट्रिलियन डॉलर अर्थव्यवस्था की ओर भारत: विनिर्माण क्षेत्र, MSME एवं रोजगार सृजन की चुनौतियाँ",
+      "en": "India Towards a $5 Trillion Economy: Manufacturing, MSMEs & Employment Generation"
+    },
+    "marks": 80,
+    "wordCountLimit": 800,
+    "timeLimitMinutes": 60,
+    "understanding": {
+      "hi": "भारत को 5 ट्रिलियन डॉलर की जीडीपी बनने के लिए सेवा क्षेत्र के साथ-साथ विनिर्माण (Manufacturing) एवं सूक्ष्म, लघु व मध्यम उद्यमों (MSMEs) को जीडीपी में 25% हिस्सेदारी तक पहुंचाना होगा तथा जनसांख्यिकीय लाभांश को गुणवत्तापूर्ण रोजगार में बदलना होगा।",
+      "en": "Achieving a $5 trillion GDP requires escalating manufacturing and MSME share to 25% of GDP while translating India's demographic dividend into productive, high-wage employment."
+    },
+    "introductionFramework": [
+      {
+        "hi": "प्रसिद्ध अर्थशास्त्रीय दृष्टिकोण: 'आर्थिक संवृद्धि तब तक अर्थहीन है, जब तक कि वह रोजगारविहीन संवृद्धि (Jobless Growth) से मुक्त होकर समावेशी न बने।'",
+        "en": "Economic imperative: Growth without employment generation creates hollow prosperity; manufacturing is the bridge."
+      },
+      {
+        "hi": "वर्तमान स्थिति: भारत विश्व की 5वीं सबसे बड़ी अर्थव्यवस्था है (लगभग $3.75 ट्रिलियन), किंतु विनिर्माण का जीडीपी में योगदान लगभग 15-16% पर अटका हुआ है।",
+        "en": "Current status: India is 5th largest economy ($3.75T), but manufacturing stagnates at ~16% of GDP."
+      }
+    ],
+    "backgroundContext": {
+      "hi": "मेक इन इंडिया (2014) और उत्पादन लिंक्ड प्रोत्साहन (PLI) योजनाओं के बावजूद वैश्विक आपूर्ति श्रृंखलाओं में भारत की हिस्सेदारी तथा असंगठित क्षेत्र से संगठित क्षेत्र की ओर संक्रमण अभी भी संक्रमण काल में है।",
+      "en": "Despite Make in India and PLI schemes across 14 sectors, global supply chain integration and formalization of MSMEs remain key bottlenecks."
+    },
+    "dimensions": [
+      {
+        "dimension": {
+          "hi": "आर्थिक एवं ढांचागत आयाम",
+          "en": "Economic & Infrastructure Dimension"
+        },
+        "points": [
+          {
+            "hi": "लॉजिस्टिक्स लागत को जीडीपी के 14% से घटाकर 8% करने हेतु 'पीएम गति शक्ति' राष्ट्रीय मास्टर प्लान का क्रियान्वयन।",
+            "en": "PM Gati Shakti lowering logistics cost from 14% to 8% of GDP."
+          },
+          {
+            "hi": "14 प्रमुख क्षेत्रों (इलेक्ट्रॉनिक्स, ऑटोमोबाइल, फार्मा) में उत्पादन आधारित प्रोत्साहन (PLI) योजना द्वारा घरेलू मूल्य संवर्धन।",
+            "en": "PLI schemes driving domestic value addition in electronics, auto, pharma."
+          }
+        ]
+      },
+      {
+        "dimension": {
+          "hi": "MSME एवं रोजगार आयाम",
+          "en": "MSME & Labour Dimension"
+        },
+        "points": [
+          {
+            "hi": "MSME क्षेत्र भारत के कुल निर्यात का 40% और 11 करोड़ से अधिक गैर-कृषि रोजगार सृजित करता है; ऋण (Credit Gap) एवं तकनीकी उन्नयन की आवश्यकता।",
+            "en": "MSMEs provide 110M non-farm jobs and 40% exports; need subsidized credit access."
+          },
+          {
+            "hi": "श्रम संहिताओं (Labour Codes) का सरलीकरण और ई-श्रम पोर्टल द्वारा गिग वर्कर्स व असंगठित श्रमिकों का पंजीकरण।",
+            "en": "Labor code consolidation and e-Shram social security registry."
+          }
+        ]
+      }
+    ],
+    "keyArguments": [
+      {
+        "hi": "केवल सेवा क्षेत्र (IT/BFSI) पर अत्यधिक निर्भरता भारत के 45% कृषि कार्यबल को अवशोषित नहीं कर सकती; श्रम-सघन विनिर्माण (वस्त्र, चमड़ा, खिलौने) अनिवार्य है।",
+        "en": "Service-led growth cannot absorb 45% farm workforce; labor-intensive manufacturing is vital."
+      },
+      {
+        "hi": "डिजिटल सार्वजनिक अवसंरचना (UPI, ONDC, GeM पोर्टल) से सूक्ष्म उद्यमों को राष्ट्रव्यापी बाजार सुलभ हुआ है।",
+        "en": "Digital public infrastructure (ONDC, GeM) democratizes national market access for small enterprises."
+      }
+    ],
+    "relevantFactsAndData": [
+      {
+        "hi": "भारत की वर्तमान जीडीपी: ~$3.75 ट्रिलियन (विश्व में 5वां स्थान)।",
+        "en": "India GDP ~$3.75 Trillion (5th globally)."
+      },
+      {
+        "hi": "कुल कार्यबल: ~57 करोड़, जिसमें 45% से अधिक कृषि में कार्यरत हैं।",
+        "en": "Total workforce ~570 million, >45% in agriculture."
+      },
+      {
+        "hi": "MSME उद्यमों की संख्या: 6.3 करोड़ से अधिक।",
+        "en": "Over 63 million MSME enterprises in India."
+      }
+    ],
+    "govtInitiatives": [
+      {
+        "hi": "उत्पादन संबद्ध प्रोत्साहन योजना (PLI Scheme - 14 क्षेत्र)",
+        "en": "Production Linked Incentive (PLI)"
+      },
+      {
+        "hi": "पीएम गति शक्ति राष्ट्रीय मास्टर प्लान",
+        "en": "PM Gati Shakti National Master Plan"
+      },
+      {
+        "hi": "उद्यम पोर्टल (Udyam Portal) एवं आपातकालीन क्रेडिट लाइन (ECLGS)",
+        "en": "Udyam Portal & Emergency Credit Line"
+      },
+      {
+        "hi": "राष्ट्रीय लॉजिस्टिक्स नीति (NLP 2022)",
+        "en": "National Logistics Policy 2022"
+      }
+    ],
+    "upPerspective": [
+      {
+        "hi": "उत्तर प्रदेश ने वर्ष 2027 तक $1 ट्रिलियन अर्थव्यवस्था बनने का महत्वाकांक्षी संकल्प लिया है।",
+        "en": "UP vision to become a $1 Trillion economy by 2027."
+      },
+      {
+        "hi": "'एक जनपद एक उत्पाद' (ODOP) योजना ने 75 जिलों के पारंपरिक हस्तशिल्प एवं कुटीर उद्योगों को वैश्विक बाजार दिया है (भदोही कालीन, मुरादाबाद पीतल, कन्नौज इत्र)।",
+        "en": "ODOP scheme empowering traditional crafts across 75 districts."
+      },
+      {
+        "hi": "डिफेंस इंडस्ट्रियल कॉरिडोर (लखनऊ, कानपुर, झांसी, आगरा, अलीगढ़, चित्रकूट) तथा जेवर अंतरराष्ट्रीय हवाई अड्डा विनिर्माण के नए केंद्र हैं।",
+        "en": "UP Defence Corridor (6 nodes) and Jewar Airport transforming manufacturing logistics."
+      }
+    ],
+    "wayForward": [
+      {
+        "hi": "अनुसंधान एवं विकास (R&D) पर सकल खर्च को जीडीपी के 0.7% से बढ़ाकर कम से कम 2% करना।",
+        "en": "Increase R&D expenditure from 0.7% to at least 2% of GDP."
+      },
+      {
+        "hi": "कौशल विकास (Skill India) को उद्योग 4.0 (AI, रोबोटिक्स, 3D प्रिंटिंग) के अनुरूप पुनर्परिभाषित करना।",
+        "en": "Align vocational skilling with Industry 4.0 demands."
+      }
+    ],
+    "conclusionFramework": [
+      {
+        "hi": "'आत्मनिर्भर भारत' का लक्ष्य किसी बंद अर्थव्यवस्था का निर्माण नहीं, बल्कि वैश्विक मूल्य श्रृंखलाओं में एक अपरिहार्य शक्ति बनना है। 5 ट्रिलियन डॉलर केवल एक आंकड़ा नहीं, बल्कि 140 करोड़ भारतीयों के जीवन स्तर, गरिमा और समृद्धि का पैमाना है।",
+        "en": "Atmanirbhar Bharat represents global integration, not autarky; $5 trillion is the benchmark for universal citizen dignity."
+      }
+    ],
+    "keywords": [
+      "$5 Trillion Economy",
+      "PLI Scheme",
+      "PM Gati Shakti",
+      "MSME",
+      "ODOP",
+      "Demographic Dividend",
+      "Logistics Cost"
+    ],
+    "quotations": [
+      "संवृद्धि का सच्चा पैमाना यह नहीं है कि अमीरों के पास कितना धन है, बल्कि यह है कि सबसे कमजोर व्यक्ति को कितना सम्मान और रोजगार मिला है। (महात्मा गांधी)",
+      "उद्योग और वाणिज्य किसी राष्ट्र की रीढ़ हैं, जिस पर उसकी संप्रभुता टिकी होती है।"
+    ],
+    "commonPitfalls": [
+      {
+        "hi": "केवल आंकड़े रटने से बचें; विनिर्माण की जमीनी समस्याओं (भूमि अधिग्रहण, बिजली दरें, जटिल श्रम कानून) का विश्लेषण अवश्य करें।",
+        "en": "Do not merely regurgitate numbers; analyze structural ground realities like land, power, and compliance."
+      }
+    ],
+    "checklist": [
+      {
+        "hi": "क्या विनिर्माण, सेवा एवं कृषि तीनों क्षेत्रों का तुलनात्मक संतुलन प्रस्तुत किया गया?",
+        "en": "Balanced sectoral comparison included?"
+      },
+      {
+        "hi": "क्या उत्तर प्रदेश की $1 ट्रिलियन महत्वाकांक्षा और ODOP का उल्लेख है?",
+        "en": "UP $1T vision and ODOP cited?"
+      }
+    ]
+  },
+  {
+    "id": "essay-sec1-agri-trade-04",
+    "mainsSection": "SECTION_1_800W",
+    "domain": "कृषि, उद्योग एवं व्यापार (Agriculture, Industry & Trade: Millets, Food Security, MSP)",
+    "title": {
+      "hi": "भारतीय कृषि में 'श्री अन्न' (मिलेट्स) एवं प्राकृतिक खेती: खाद्य एवं पोषण सुरक्षा का सतत मार्ग",
+      "en": "Millets ('Shree Anna') and Natural Farming in Indian Agriculture: Sustainable Food Security"
+    },
+    "marks": 80,
+    "wordCountLimit": 800,
+    "timeLimitMinutes": 60,
+    "understanding": {
+      "hi": "हरित क्रांति की रासायनिक व जल-सघन सीमाओं के उपरांत, कम पानी में उगने वाले मोटे अनाज (ज्वार, बाजरा, रागी) और शून्य-बजट प्राकृतिक खेती भारतीय किसानों को जलवायु संकट और मिट्टी के क्षरण से उबारने का सबसे सशक्त माध्यम हैं।",
+      "en": "Post-Green Revolution chemical fatigue and water scarcity necessitate a paradigm shift towards coarse grains (Millets) and chemical-free natural farming."
+    },
+    "introductionFramework": [
+      {
+        "hi": "अथर्ववेद का सूत्र: 'माता भूमिः पुत्रोऽहं पृथिव्याः' (भूमि मेरी माता है और मैं पृथ्वी का पुत्र हूँ)।",
+        "en": "Atharvaveda invocation: 'Earth is my mother, and I am her child' emphasizing soil stewardship."
+      },
+      {
+        "hi": "संयुक्त राष्ट्र द्वारा वर्ष 2023 को 'अंतरराष्ट्रीय पोषक अनाज वर्ष' (International Year of Millets) घोषित करना भारत के सतत कृषि नेतृत्व का प्रमाण है।",
+        "en": "UN International Year of Millets 2023 certified India's agrarian sustainability leadership."
+      }
+    ],
+    "backgroundContext": {
+      "hi": "भारत में भूजल का 85% भाग कृषि में खर्च होता है, जिसमें धान और गन्ना सर्वाधिक जल सोखते हैं। रासायनिक उर्वरकों के अत्यधिक प्रयोग से मिट्टी की उर्वरता में भारी गिरावट आई है।",
+      "en": "85% groundwater consumed in irrigation; intensive monoculture (wheat-rice) induces chemical soil toxicity."
+    },
+    "dimensions": [
+      {
+        "dimension": {
+          "hi": "कृषि-पारिस्थितिक एवं पोषण आयाम",
+          "en": "Agro-Ecological & Nutrition Dimension"
+        },
+        "points": [
+          {
+            "hi": "मिलेट्स को 70% कम पानी की आवश्यकता होती है तथा ये 45°C तक का उच्च तापमान सहन कर सकते हैं (Climate-resilient superfood)।",
+            "en": "Millets require 70% less water and withstand extreme temperatures."
+          },
+          {
+            "hi": "आयरन, जिंक, कैल्शियम, उच्च फाइबर और कम ग्लाइसेमिक इंडेक्स के कारण कुपोषण और जीवनशैली जनित रोगों (मधुमेह) से मुक्ति।",
+            "en": "Nutrient density combating hidden hunger, stunting, and diabetes."
+          }
+        ]
+      },
+      {
+        "dimension": {
+          "hi": "आर्थिक एवं व्यापारिक आयाम",
+          "en": "Economic & Trade Dimension"
+        },
+        "points": [
+          {
+            "hi": "भारत विश्व का सबसे बड़ा मिलेट्स उत्पादक (वैश्विक उत्पादन का लगभग 20%) और दूसरा सबसे बड़ा निर्यातक है।",
+            "en": "India produces 20% of world millets, emerging as global export hub."
+          },
+          {
+            "hi": "प्राकृतिक खेती (जीवामृत, बीजामृत) से किसानों की इनपुट लागत शून्य हो जाती है, जिससे शुद्ध आय में वृद्धि होती है।",
+            "en": "Zero Budget Natural Farming inputs reduce farm debt and enhance net profits."
+          }
+        ]
+      }
+    ],
+    "keyArguments": [
+      {
+        "hi": "खाद्य सुरक्षा (Food Security) केवल पेट भरने तक सीमित नहीं हो सकती; इसे 'पोषण सुरक्षा' (Nutritional Security) में रूपांतरित करना होगा।",
+        "en": "Food security must transcend caloric adequacy into comprehensive nutritional sovereignty."
+      },
+      {
+        "hi": "मध्याह्न भोजन (PM-POSHAN) और सार्वजनिक वितरण प्रणाली (PDS) में मोटे अनाजों को अनिवार्य करने से मांग चक्र सुदृढ़ होगा।",
+        "en": "Integrating millets into Mid-Day Meals and PDS creates guaranteed domestic demand."
+      }
+    ],
+    "relevantFactsAndData": [
+      {
+        "hi": "भारत में मिलेट्स का वार्षिक उत्पादन: लगभग 1.7 करोड़ टन।",
+        "en": "Annual millets production in India ~17 million metric tonnes."
+      },
+      {
+        "hi": "उत्तर प्रदेश में बुंदेलखंड के 7 जिलों में 100% प्राकृतिक खेती क्लस्टर स्थापित किए जा रहे हैं।",
+        "en": "Bundelkhand region in UP designated as 100% natural farming corridor."
+      }
+    ],
+    "govtInitiatives": [
+      {
+        "hi": "श्री अन्न मिशन (भारतीय कदन्न अनुसंधान संस्थान, हैदराबाद को वैश्विक उत्कृष्टता केंद्र बनाया गया)",
+        "en": "National Shree Anna Mission (IIMR Hyderabad as CoE)"
+      },
+      {
+        "hi": "परम्परागत कृषि विकास योजना (PKVY) एवं भारतीय प्राकृतिक कृषि पद्धति (BPKP)",
+        "en": "Paramparagat Krishi Vikas Yojana"
+      },
+      {
+        "hi": "मिलेट्स पर MSP में भारी वृद्धि (बाजरा, रागी, ज्वार)",
+        "en": "Substantial MSP hikes for coarse cereals"
+      }
+    ],
+    "upPerspective": [
+      {
+        "hi": "उत्तर प्रदेश बाजरा उत्पादन में देश में द्वितीय स्थान पर है।",
+        "en": "UP ranks 2nd in India in Bajra (Pearl Millet) production."
+      },
+      {
+        "hi": "बुंदेलखंड प्राकृतिक खेती कॉरिडोर: 47 विकासखंडों में जैविक व गौ-आधारित खेती को प्रोत्साहन।",
+        "en": "Bundelkhand natural farming corridor covering 47 blocks."
+      },
+      {
+        "hi": "'एक जनपद एक उत्पाद' (ODOP) के अंतर्गत सिद्धार्थनगर का सुगंधित 'काला नमक चावल' (बुद्ध का महाप्रसाद) वैश्विक निर्यात हो रहा है।",
+        "en": "Siddharthnagar's Kala Namak Rice promoted globally under ODOP."
+      }
+    ],
+    "wayForward": [
+      {
+        "hi": "मिलेट्स आधारित खाद्य प्रसंस्करण इकाइयों (Food Processing Startups) और किसान उत्पादक संगठनों (FPOs) को वित्तीय संबल।",
+        "en": "Promote millet food processing startups and FPO supply chains."
+      },
+      {
+        "hi": "प्राकृतिक खेती उत्पादों के लिए ब्लॉक स्तर पर प्रमाणित परीक्षण प्रयोगशालाएं और जैविक ब्रांडिंग।",
+        "en": "Establish certified organic testing labs and brand equity for natural farm produce."
+      }
+    ],
+    "conclusionFramework": [
+      {
+        "hi": "एम.एस. स्वामीनाथन का अमर वाक्य — 'यदि कृषि असफल होती है, तो देश में कुछ भी सफल नहीं हो सकता।' श्री अन्न और प्राकृतिक खेती केवल कृषि की पद्धतियां नहीं हैं, बल्कि यह धरती माता के साथ सामंजस्य बैठाकर आने वाली पीढ़ियों के अस्तित्व को सुरक्षित रखने का भारतीय दर्शन है।",
+        "en": "Swaminathan's timeless axiom: If agriculture fails, nothing else can succeed. Shree Anna harmonizes food sovereignty with ecological resilience."
+      }
+    ],
+    "keywords": [
+      "Shree Anna",
+      "Millets",
+      "Natural Farming",
+      "Nutritional Security",
+      "Bundelkhand Corridor",
+      "Climate Resilient",
+      "Zero Budget"
+    ],
+    "quotations": [
+      "कृषिमूलं हि जीवनम्। (कृषि ही समस्त जीवन का मूल आधार है)",
+      "प्रकृति के साथ संघर्ष कर कोई सभ्यता नहीं बच सकी; प्रकृति का संरक्षण ही मानवता का संरक्षण है।"
+    ],
+    "commonPitfalls": [
+      {
+        "hi": "मिलेट्स को केवल गरीबों का अनाज बताने की भूल न करें; इसे भविष्य के सुपरफूड और जलवायु सुरक्षा कवच के रूप में प्रस्तुत करें।",
+        "en": "Never label millets as poor man's food; frame them as climate-resilient superfoods."
+      }
+    ],
+    "checklist": [
+      {
+        "hi": "क्या संयुक्त राष्ट्र के अंतरराष्ट्रीय मिलेट्स वर्ष का उल्लेख है?",
+        "en": "UN Year of Millets cited?"
+      },
+      {
+        "hi": "क्या उत्तर प्रदेश के बुंदेलखंड प्राकृतिक खेती कॉरिडोर का संदर्भ आया?",
+        "en": "Bundelkhand UP corridor included?"
+      }
+    ]
+  },
+  {
+    "id": "essay-sec2-social-political-03",
+    "mainsSection": "SECTION_2_1200W",
+    "domain": "सामाजिक एवं राजनीतिक क्षेत्र (Social & Political Sphere: Democracy, Electoral Reforms, Federalism)",
+    "title": {
+      "hi": "'एक राष्ट्र, एक चुनाव' (One Nation, One Election): भारतीय संघवाद, लोकतंत्र एवं नीतिगत निरंतरता का परीक्षण",
+      "en": "One Nation, One Election: Examining Indian Federalism, Democratic Ethos & Policy Continuity"
+    },
+    "marks": 120,
+    "wordCountLimit": 1200,
+    "timeLimitMinutes": 90,
+    "understanding": {
+      "hi": "लोकसभा और राज्य विधानसभाओं के चुनाव एक साथ कराने की अवधारणा के पक्ष में वित्तीय मितव्ययिता, नीतिगत निरंतरता और प्रशासनिक दक्षता के तर्क हैं, जबकि विपक्ष में संघवाद की विविधता, क्षेत्रीय मुद्दों की उपेक्षा और संवैधानिक संशोधन की जटिलताएं हैं।",
+      "en": "Simultaneous elections offer financial economy, governance continuity, and administrative efficiency, yet spark debates regarding federal diversity and regional voice dilution."
+    },
+    "introductionFramework": [
+      {
+        "hi": "ऐतिहासिक पृष्ठभूमि: भारत में 1952, 1957, 1962 और 1967 के प्रथम चार आम चुनाव एक साथ (Simultaneous) ही संपन्न हुए थे; 1968-69 में समयपूर्व विधानसभाओं के विघटन से यह चक्र टूटा।",
+        "en": "Historical precedent: Simultaneous elections were the established norm in India during 1952, 1957, 1962, and 1967."
+      },
+      {
+        "hi": "पूर्व राष्ट्रपति रामनाथ कोविंद की अध्यक्षता में गठित उच्चस्तरीय समिति (HLC) की रिपोर्ट (2024) ने इस बहस को राष्ट्रीय विमर्श के केंद्र में ला खड़ा किया है।",
+        "en": "The High-Level Committee report chaired by former President Ram Nath Kovind (2024) placed simultaneous polls at center of constitutional reforms."
+      }
+    ],
+    "backgroundContext": {
+      "hi": "वर्तमान में भारत में प्रतिवर्ष औसतन 4 से 6 राज्यों में चुनाव होते हैं। लगातार चुनावी चक्र के कारण वर्ष के 6-8 महीने आदर्श आचार संहिता (MCC) प्रभावी रहती है, जिससे नीतिगत निर्णय और विकास कार्य अवरुद्ध होते हैं।",
+      "en": "Perpetual election cycles cause Model Code of Conduct paralysis for 6-8 months annually, straining security forces and public finances."
+    },
+    "dimensions": [
+      {
+        "dimension": {
+          "hi": "प्रशासनिक एवं वित्तीय आयाम",
+          "en": "Administrative & Financial Dimension"
+        },
+        "points": [
+          {
+            "hi": "चुनाव आयोग एवं राजनीतिक दलों का अनुमानित चुनावी खर्च ₹60,000 करोड़ से अधिक हो चुका है; एक साथ चुनाव से सार्वजनिक धन की भारी बचत होगी।",
+            "en": "Consolidated poll expenditure exceeds Rs 60,000 crores; single-cycle saves colossal public funds."
+          },
+          {
+            "hi": "सुरक्षा बलों (CAPF) और शिक्षकों/सरकारी कर्मचारियों की बारंबार चुनावी तैनाती से आंतरिक सुरक्षा और शिक्षा व्यवस्था पर प्रतिकूल प्रभाव पड़ता है।",
+            "en": "Repeated deployment of security forces and teachers disrupts education and core governance."
+          }
+        ]
+      },
+      {
+        "dimension": {
+          "hi": "संवैधानिक एवं संघीय आयाम",
+          "en": "Constitutional & Federal Dimension"
+        },
+        "points": [
+          {
+            "hi": "संविधान के अनुच्छेद 83 (संसद की अवधि), 85 (विघटन), 172 (विधानसभा की अवधि), 174 एवं 356 में संशोधन तथा राज्यों की सहमति (अनुच्छेद 368) की आवश्यकता।",
+            "en": "Requires amendments to Articles 83, 85, 172, 174, 356 and state ratifications under Art 368."
+          },
+          {
+            "hi": "आशंका कि राष्ट्रीय मुद्दे राज्यस्तरीय स्थानीय मुद्दों पर हावी हो सकते हैं, जिससे क्षेत्रीय दलों और संघवाद के संतुलन को आघात पहुंच सकता है।",
+            "en": "Concerns that national waves could overshadow regional bread-and-butter developmental issues."
+          }
+        ]
+      }
+    ],
+    "keyArguments": [
+      {
+        "hi": "नीतिगत पक्षाघात (Policy Paralysis) से मुक्ति: सरकारें लोकलुभावन घोषणाओं (Populist Freebies) के दबाव से मुक्त होकर 5 वर्ष तक कठोर एवं दीर्घकालिक आर्थिक सुधार कर सकेंगी।",
+        "en": "Liberates governments from short-term populist myopias, enabling enduring structural economic reforms."
+      },
+      {
+        "hi": "मतदाता थकान (Voter Fatigue) में कमी आएगी और मतदान प्रतिशत में उल्लेखनीय वृद्धि होगी।",
+        "en": "Reduces voter fatigue and elevates national aggregate voter turnout."
+      }
+    ],
+    "relevantFactsAndData": [
+      {
+        "hi": "विधि आयोग की 170वीं (1999) एवं मसौदा रिपोर्ट (2018) ने एक साथ चुनाव कराने की प्रबल संस्तुति की थी।",
+        "en": "Law Commission 170th Report (1999) & 2018 draft report strongly recommended simultaneous elections."
+      },
+      {
+        "hi": "कोविंद समिति की संस्तुति: दो चरणों में लागू करना — प्रथम चरण में लोकसभा व विधानसभाएं; द्वितीय चरण में 100 दिन के भीतर स्थानीय निकाय चुनाव।",
+        "en": "Kovind panel recommended two-step roll-out: Lok Sabha + Assemblies, followed by local bodies within 100 days."
+      }
+    ],
+    "govtInitiatives": [
+      {
+        "hi": "उच्चस्तरीय समिति (High-Level Committee on ONOE) की विस्तृत संस्तुतियां स्वीकृत",
+        "en": "Kovind High-Level Committee report endorsed"
+      },
+      {
+        "hi": "एकल मतदाता सूची (Common Electoral Roll) एवं एकल मतदाता पहचान पत्र की तैयारी",
+        "en": "Common Electoral Roll initiative across all tiers"
+      }
+    ],
+    "upPerspective": [
+      {
+        "hi": "उत्तर प्रदेश 80 लोकसभा सीटों और 403 विधानसभा सीटों के साथ भारत का सबसे विशाल राजनीतिक क्षेत्र है।",
+        "en": "UP holds 80 Lok Sabha and 403 Assembly seats - largest political battlefield."
+      },
+      {
+        "hi": "यूपी में लगातार चुनावों के कारण प्रशासनिक मशीनरी और पुलिस बल का एक बड़ा हिस्सा निरंतर सुरक्षा व्यवस्था में व्यस्त रहता है।",
+        "en": "Continuous polls in UP pin down massive police and administrative personnel year-round."
+      },
+      {
+        "hi": "एक साथ चुनाव होने से उत्तर प्रदेश में $1 ट्रिलियन अर्थव्यवस्था और अवसंरचना परियोजनाओं (एक्सप्रेसवे, कॉरिडोर) को निर्बाध गति मिलेगी।",
+        "en": "Simultaneous polling allows uninterrupted execution of UP's $1T infrastructure agenda."
+      }
+    ],
+    "wayForward": [
+      {
+        "hi": "संसद में सभी राजनीतिक दलों के साथ व्यापक सर्वसम्मति (Consensus Building) का निर्माण।",
+        "en": "Broad-based political consensus building across regional stakeholders."
+      },
+      {
+        "hi": "त्रिशंकु विधानसभा या अविश्वास प्रस्ताव की स्थिति में 'रचनात्मक अविश्वास प्रस्ताव' (Constructive Vote of No-Confidence - जर्मन मॉडल) अपनाना।",
+        "en": "Adopting Constructive Vote of No-Confidence (German model) to prevent mid-term dissolutions."
+      }
+    ],
+    "conclusionFramework": [
+      {
+        "hi": "डॉ. बी.आर. अम्बेडकर ने कहा था — 'संविधान चाहे कितना भी अच्छा क्यों न हो, वह अंततः बुरा साबित होगा यदि उसे चलाने वाले लोग बुरे हों।' एक राष्ट्र, एक चुनाव भारतीय लोकतंत्र के परिपक्व होने का प्रतीक है, जिसे संघीय स्वायत्तता और लोकतांत्रिक शुचिता का सम्मान करते हुए चरणबद्ध तरीके से लागू किया जाना चाहिए।",
+        "en": "Ambedkar's words on constitutional resilience: Simultaneous elections mark the maturation of the Republic, balancing federal vitality with fiscal frugality."
+      }
+    ],
+    "keywords": [
+      "One Nation One Election",
+      "Kovind Committee",
+      "Federalism",
+      "Model Code of Conduct",
+      "Policy Paralysis",
+      "Article 368",
+      "Common Electoral Roll"
+    ],
+    "quotations": [
+      "संविधान केवल वकीलों का दस्तावेज नहीं है, यह जीवन जीने का माध्यम है। (डॉ. बी.आर. अम्बेडकर)",
+      "लोकतंत्र का वास्तविक अर्थ केवल मतदान नहीं, बल्कि निरंतर उत्तरदायी और कार्यकुशल शासन है।"
+    ],
+    "commonPitfalls": [
+      {
+        "hi": "निबंध को केवल राजनीतिक विवाद न बनाएं; इसके संवैधानिक अनुच्छेदों (83, 85, 172, 356) और जर्मनी/दक्षिण अफ्रीका के वैश्विक उदाहरणों का समावेश करें।",
+        "en": "Do not reduce essay to partisan polemics; cite Articles 83, 172, 356 and German/South African models."
+      }
+    ],
+    "checklist": [
+      {
+        "hi": "क्या कोविंद समिति की संस्तुतियों का विश्लेषण किया गया?",
+        "en": "Kovind Committee points analyzed?"
+      },
+      {
+        "hi": "क्या संघवाद और क्षेत्रीय दलों की चिंताओं का निष्पक्ष समाधान दिया गया?",
+        "en": "Federal concerns addressed constructively?"
+      }
+    ]
+  },
+  {
+    "id": "essay-sec2-international-04",
+    "mainsSection": "SECTION_2_1200W",
+    "domain": "राष्ट्रीय एवं अन्तर्राष्ट्रीय घटनाचक्र (National & International Affairs: Geopolitics, Global South, Multipolar World)",
+    "title": {
+      "hi": "बदलते वैश्विक भू-राजनीतिक परिदृश्य में भारत: 'विश्वमित्र', ग्लोबल साउथ का नेतृत्व और बहुध्रुवीय व्यवस्था",
+      "en": "India in a Shifting Geopolitical Landscape: 'Vishwabandhu', Global South Leadership & Multipolar Order"
+    },
+    "marks": 120,
+    "wordCountLimit": 1200,
+    "timeLimitMinutes": 90,
+    "understanding": {
+      "hi": "शीतयुद्धोत्तर एकध्रुवीय विश्व के अवसान और नए शीतयुद्ध (यूक्रेन, पश्चिम एशिया) के तनावों के मध्य भारत ने रणनीतिक स्वायत्तता (Strategic Autonomy) अपनाते हुए स्वयं को 'विश्वमित्र' (Friend of the World) और विकासशील देशों (Global South) की सशक्त आवाज के रूप में स्थापित किया है।",
+      "en": "Amidst fracturing great-power rivalries, India champions Strategic Autonomy, positioning itself as 'Vishwabandhu' and an indispensable bridging power for the Global South."
+    },
+    "introductionFramework": [
+      {
+        "hi": "कौटिल्य के अर्थशास्त्र का शाश्वत सिद्धांत: 'विदेश नीति का अंतिम साध्य राष्ट्रहित की सुरक्षा और समृद्धि है।' (योगक्षेम)",
+        "en": "Kautilyan diplomacy core: The paramount goal of statecraft is national security and welfare (Yogakshema)."
+      },
+      {
+        "hi": "G20 की भारत की ऐतिहासिक अध्यक्षता (नई दिल्ली घोषणापत्र) तथा अफ्रीकन यूनियन (AU) को स्थायी सदस्यता दिलाना भारत के कूटनीतिक प्रभाव का चरमोत्कर्ष है।",
+        "en": "Historic G20 New Delhi Declaration and inducting the African Union cemented India's role as premier Global South champion."
+      }
+    ],
+    "backgroundContext": {
+      "hi": "वर्तमान वैश्विक व्यवस्था संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) के पक्षाघात, व्यापार संरक्षणवाद, जलवायु संकट और बहुपक्षीय संस्थाओं की साख में गिरावट से जूझ रही है। भारत बहुध्रुवीय विश्व में 'नियम-आधारित व्यवस्था' का पक्षधर है।",
+      "en": "Multilateral paralysis, supply-chain weaponization, and wars in Eurasia/Middle East demand an ethical, rule-based multipolar order."
+    },
+    "dimensions": [
+      {
+        "dimension": {
+          "hi": "रणनीतिक स्वायत्तता एवं बहु-संलग्नता",
+          "en": "Strategic Autonomy & Multi-Alignment"
+        },
+        "points": [
+          {
+            "hi": "गुटनिरपेक्षता (Non-Alignment) से बहु-संलग्नता (Multi-Alignment) की ओर: क्वाड (QUAD), ब्रिक्स (BRICS), एससीओ (SCO) और आई2यू2 (I2U2) में एक साथ संतुलित भागीदारी।",
+            "en": "Transition from non-alignment to multi-alignment: Balancing QUAD, BRICS, SCO, and I2U2."
+          },
+          {
+            "hi": "रूस-यूक्रेन संघर्ष में पश्चिमी प्रतिबंधों के दबाव के बावजूद राष्ट्रीय ऊर्जा सुरक्षा (रूसी कच्चा तेल) की संप्रभु रक्षा।",
+            "en": "Safeguarding national energy security while maintaining high-level peace diplomacy."
+          }
+        ]
+      },
+      {
+        "dimension": {
+          "hi": "ग्लोबल साउथ एवं आर्थिक गलियारे",
+          "en": "Global South & Strategic Corridors"
+        },
+        "points": [
+          {
+            "hi": "'वॉयस ऑफ ग्लोबल साउथ' शिखर सम्मेलनों का सफल आयोजन; विकासशील देशों के ऋण संकट, खाद्य व ऊर्जा सुरक्षा की वकालत।",
+            "en": "Hosting Voice of Global South Summits addressing debt distress, food, and fertilizer crises."
+          },
+          {
+            "hi": "भारत-मध्य पूर्व-यूरोप आर्थिक गलियारा (IMEC) और अंतरराष्ट्रीय उत्तर-दक्षिण परिवहन गलियारा (INSTC) द्वारा वैकल्पिक वैश्विक व्यापार मार्ग।",
+            "en": "IMEC and INSTC corridors securing alternative trans-continental trade arteries."
+          }
+        ]
+      }
+    ],
+    "keyArguments": [
+      {
+        "hi": "भारत गुटों का हिस्सा बनने की बजाय 'समाधान प्रदाता' (Solution Provider) और शांति का सेतु बन रहा है ('यह युद्ध का युग नहीं है')।",
+        "en": "India acts as a solution-provider and bridge builder: 'Today's era is not an era of war'."
+      },
+      {
+        "hi": "वैक्सीन मैत्री, डिजिटल सार्वजनिक अवसंरचना (DPI) और अंतरराष्ट्रीय सौर गठबंधन (ISA) भारत की सॉफ्ट पावर और जन-केंद्रित वैश्वीकरण के प्रमाण हैं।",
+        "en": "Vaccine Maitri, Digital Public Infrastructure, and International Solar Alliance redefine soft power."
+      }
+    ],
+    "relevantFactsAndData": [
+      {
+        "hi": "G20 नई दिल्ली शिखर सम्मेलन 2023: 100% सर्वसम्मति से घोषणापत्र पारित।",
+        "en": "100% consensus in G20 New Delhi Declaration 2023."
+      },
+      {
+        "hi": "अंतरराष्ट्रीय सौर गठबंधन (ISA): 100 से अधिक सदस्य देशों के साथ मुख्यालय गुरुग्राम (भारत)।",
+        "en": "International Solar Alliance (ISA) with HQ in Gurugram, India."
+      },
+      {
+        "hi": "संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) में भारत 8 बार अस्थायी सदस्य रह चुका है; G4 देशों के साथ स्थायी सदस्यता का मजबूत दावेदार।",
+        "en": "8-time UNSC non-permanent member; G4 partner championing reformed multilateralism."
+      }
+    ],
+    "govtInitiatives": [
+      {
+        "hi": "नेबरहुड फर्स्ट (Neighbourhood First) एवं एक्ट ईस्ट (Act East) नीतियां",
+        "en": "Neighbourhood First & Act East Policies"
+      },
+      {
+        "hi": "सागर (SAGAR - Security and Growth for All in the Region) दृष्टिकोण",
+        "en": "SAGAR Doctrine for Indian Ocean Region"
+      },
+      {
+        "hi": "मिशन लाइफ (LiFE - Lifestyle for Environment)",
+        "en": "Mission LiFE global climate movement"
+      }
+    ],
+    "upPerspective": [
+      {
+        "hi": "G20 की 11 महत्वपूर्ण बैठकें उत्तर प्रदेश के 4 शहरों (वाराणसी, लखनऊ, आगरा, ग्रेटर नोएडा) में संपन्न हुईं, जिसने राज्य की वैश्विक ब्रांडिंग की।",
+        "en": "UP hosted 11 crucial G20 meetings across Varanasi, Lucknow, Agra, and Greater Noida."
+      },
+      {
+        "hi": "वाराणसी संस्कृति मंत्रियों की बैठक में 'काशी संस्कृति कार्ययोजना' (Kashi Culture Pathway) अंगीकार की गई।",
+        "en": "Adoption of landmark 'Kashi Culture Pathway' at Varanasi ministerial."
+      },
+      {
+        "hi": "उत्तर प्रदेश का हस्तशिल्प और ODOP उत्पाद वैश्विक कूटनीतिक उपहारों (Diplomatic gifts) के रूप में विश्व नेताओं को भेंट किए गए।",
+        "en": "UP ODOP artifacts presented to global dignitaries as cultural diplomacy ambassador."
+      }
+    ],
+    "wayForward": [
+      {
+        "hi": "संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) और ब्रेटन वुड्स संस्थाओं में अनिवार्य ढांचागत सुधार (Reformed Multilateralism)।",
+        "en": "Institutionalizing Reformed Multilateralism at UNSC and Bretton Woods."
+      },
+      {
+        "hi": "घरेलू विनिर्माण और प्रौद्योगिकी (सेमीकंडक्टर, रक्षा उत्पादन) में आत्मनिर्भरता से भू-राजनीतिक शक्ति में वृद्धि।",
+        "en": "Backing diplomacy with domestic semiconductor and defense manufacturing capabilities."
+      }
+    ],
+    "conclusionFramework": [
+      {
+        "hi": "ऋग्वेद की अमर ऋचा — 'आ नो भद्राः क्रतवो यन्तु विश्वतः' (हमारे पास सभी दिशाओं से कल्याणकारी विचार आएं)। भारत आज केवल एक राष्ट्र-राज्य नहीं, बल्कि एक सभ्यतागत शक्ति (Civilizational State) के रूप में वसुधैव कुटुम्बकम् के शाश्वत संदेश के साथ 21वीं सदी के बहुध्रुवीय विश्व का नैतिक प्रकाशस्तंभ बन रहा है।",
+        "en": "Rigvedic invocation of universal wisdom: India stands as a civilizational power steering the 21st century towards Vasudhaiva Kutumbakam."
+      }
+    ],
+    "keywords": [
+      "Global South",
+      "Vishwabandhu",
+      "Strategic Autonomy",
+      "IMEC",
+      "G20 New Delhi",
+      "Multi-Alignment",
+      "UNSC Reforms",
+      "Kashi Pathway"
+    ],
+    "quotations": [
+      "यह युद्ध का युग नहीं है। (प्रधानमंत्री का वैश्विक आह्वान)",
+      "वसुधैव कुटुम्बकम् — एक पृथ्वी, एक परिवार, एक भविष्य।"
+    ],
+    "commonPitfalls": [
+      {
+        "hi": "निबंध को केवल भारत-पाकिस्तान या भारत-चीन सीमा विवाद तक सीमित न रखें; वैश्विक आर्थिक व्यवस्था, तकनीकी कूटनीति और ग्लोबल साउथ पर ध्यान केंद्रित करें।",
+        "en": "Do not confine scope to neighborhood conflicts; address global governance, tech diplomacy, and Global South leadership."
+      }
+    ],
+    "checklist": [
+      {
+        "hi": "क्या G20 नई दिल्ली और अफ्रीकी संघ की सदस्यता का उल्लेख है?",
+        "en": "G20 and African Union inclusion mentioned?"
+      },
+      {
+        "hi": "क्या उत्तर प्रदेश में आयोजित बैठकों (काशी कल्चर पाथवे) का संदर्भ शामिल है?",
+        "en": "UP G20 meetings and Kashi Culture Pathway cited?"
+      }
     ]
   }
 ]

@@ -53,8 +53,8 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice, 
           </div>
           <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1">
             {language === 'hi' 
-              ? 'प्रारंभिक (200 अंक) एवं मुख्य परीक्षा (400 अंक) का संपूर्ण प्रामाणिक पाठ्यक्रम एवं तुलना' 
-              : 'Complete verified syllabus hierarchy for Prelims (200 Marks) and Mains (400 Marks)'}
+              ? 'प्रारंभिक (200 अंक) एवं मुख्य परीक्षा (800 अंक) का संपूर्ण प्रामाणिक पाठ्यक्रम एवं तुलना' 
+              : 'Complete verified syllabus hierarchy for Prelims (200 Marks) and Mains (800 Marks)'}
           </p>
         </div>
 
@@ -249,12 +249,38 @@ export const SyllabusPage: React.FC<SyllabusPageProps> = ({ onNavigatePractice, 
 
                     {/* Mains Conventional Sections */}
                     {paper.sections && (
-                      <div className="space-y-3">
+                      <div className="space-y-4">
                         {paper.sections.map((sec: any, sIdx: number) => (
-                          <div key={sIdx} className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/40 border border-slate-200/80 dark:border-slate-800 space-y-2">
-                            <h4 className="text-xs sm:text-sm font-bold text-amber-700 dark:text-amber-400">
-                              {sec.title[language]}
-                            </h4>
+                          <div key={sIdx} className="p-4 rounded-xl bg-slate-50 dark:bg-slate-800/40 border border-slate-200/80 dark:border-slate-800 space-y-3">
+                            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-1 pb-2 border-b border-slate-200/60 dark:border-slate-700/60">
+                              <h4 className="text-sm font-bold text-amber-700 dark:text-amber-400">
+                                {sec.title ? sec.title[language] : sec.section}
+                              </h4>
+                              {(sec.marks || sec.wordLimit) && (
+                                <span className="text-[11px] font-semibold text-emerald-700 dark:text-emerald-400 bg-emerald-100 dark:bg-emerald-950/60 px-2 py-0.5 rounded self-start sm:self-auto font-mono">
+                                  {sec.marks ? `${sec.marks} ${language === 'hi' ? 'अंक' : 'Marks'}` : ''}
+                                  {sec.wordLimit ? ` • ${sec.wordLimit} ${language === 'hi' ? 'शब्द' : 'Words'}` : ''}
+                                </span>
+                              )}
+                            </div>
+                            
+                            {sec.instructions && (
+                              <p className="text-xs text-slate-600 dark:text-slate-400 italic">
+                                {sec.instructions[language]}
+                              </p>
+                            )}
+
+                            {sec.domains && (
+                              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs">
+                                {sec.domains.map((dom: any, dIdx: number) => (
+                                  <div key={dIdx} className="p-2.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 flex items-start space-x-2 text-slate-800 dark:text-slate-200">
+                                    <span className="text-amber-600 font-bold">•</span>
+                                    <span className="leading-relaxed font-medium">{dom.title[language]}</span>
+                                  </div>
+                                ))}
+                              </div>
+                            )}
+
                             {sec.items && (
                               <ul className="space-y-1.5 text-xs text-slate-700 dark:text-slate-300 pl-2">
                                 {sec.items.map((it: any, itIdx: number) => (

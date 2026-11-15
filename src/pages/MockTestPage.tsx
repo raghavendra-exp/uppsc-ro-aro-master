@@ -64,10 +64,10 @@ export const MockTestPage: React.FC = () => {
     },
     {
       id: 'mains-gs-120',
-      title: { hi: 'मुख्य परीक्षा GS 120 प्रश्न (पेपर 1)', en: 'Mains GS 120-Q (Paper 1)' },
+      title: { hi: 'उच्च-स्तरीय जीएस मास्टर अभ्यास (120 प्रश्न)', en: 'Advanced GS Master Drill (120-Q)' },
       questionCount: 120,
       durationMinutes: 120,
-      description: { hi: 'मुख्य परीक्षा स्तर के 120 विश्लेषणात्मक प्रश्न (120 अंक)', en: '120 analytical questions for Mains Paper 1' }
+      description: { hi: 'इतिहास, राजव्यवस्था, भूगोल, अर्थव्यवस्था, विज्ञान एवं UP GK के 120 उच्च-स्तरीय विश्लेषणात्मक प्रश्न (120 अंक)', en: '120 advanced multi-disciplinary analytical questions for in-depth mastery' }
     }
   ];
 

@@ -1392,38 +1392,38 @@
   {
     "id": "tut-mains-essay-mastery",
     "stage": "MAINS",
-    "paper": "MAINS_PAPER_3_DRAFTING_VOCAB",
+    "paper": "MAINS_PAPER_4_ESSAY",
     "moduleTitle": {
-      "hi": "खंड 7: मुख्य परीक्षा सामान्य हिन्दी निबन्ध (Mains Hindi Essay: 120 Marks Master Guide)",
-      "en": "Module 7: Mains Hindi Essay (120 Marks Comprehensive Guide)"
+      "hi": "खंड 7: मुख्य परीक्षा प्रश्नपत्र-4 हिन्दी निबन्ध (Mains Paper IV: 200 Marks Official Guide)",
+      "en": "Module 7: Mains Paper IV Hindi Essay (200 Marks Official 2026 Guide)"
     },
     "chapterNumber": "अध्याय 7.1",
     "title": {
-      "hi": "UPPSC RO/ARO मुख्य परीक्षा निबन्ध लेखन: 90+ अंक प्राप्ति का अचूक वैज्ञानिक खाका",
-      "en": "Mastering UPPSC RO/ARO Mains Essay: Blueprint for 90+ Score in 120 Marks"
+      "hi": "UPPSC RO/ARO मुख्य परीक्षा निबन्ध लेखन: 150+ अंक प्राप्ति का अचूक वैज्ञानिक खाका",
+      "en": "Mastering UPPSC RO/ARO Mains Essay: Blueprint for 150+ Score in 200 Marks (2026 Pattern)"
     },
     "subtitle": {
-      "hi": "3 खण्ड, 600 शब्द सीमा, 40-40 अंक के 3 निबन्ध — भूमिका, आयाम विस्तार (PESTLE), उत्तर प्रदेश विशिष्ट उदाहरण एवं निष्कर्ष",
-      "en": "3 Sections, 600 Words Each, 40 Marks x 3 Essays = 120 Marks; Structural Blueprints & Quotes"
+      "hi": "2 खण्ड, 2 अनिवार्य निबन्ध (खण्ड 1: 80 अंक / 800 शब्द + खण्ड 2: 120 अंक / 1200 शब्द = कुल 200 अंक), PESTLE संरचना एवं यूपी केस स्टडीज",
+      "en": "2 Sections, 2 Mandatory Essays (Section 1: 80M / 800 Words + Section 2: 120M / 1200 Words = 200 Marks), PESTLE Framework & UP Case Studies"
     },
-    "estimatedStudyTimeMinutes": 45,
-    "weightageQuestions": "120 अंक (3 निबन्ध × 40 अंक = मुख्य परीक्षा का 30% भारांक)",
+    "estimatedStudyTimeMinutes": 50,
+    "weightageQuestions": "200 अंक (2 निबन्ध: 80 अंक + 120 अंक = मुख्य परीक्षा 800 अंक का 25% भारांक)",
     "importance": "CRITICAL",
     "learningObjectives": [
       {
-        "hi": "RO/ARO निबन्ध प्रश्न-पत्र के तीनों खण्डों (साहित्य/समाज, विज्ञान/अर्थव्यवस्था/कृषि, आपदा/राष्ट्रीय योजनाएं) का विश्लेषण।",
-        "en": "Decode 3 mandatory sections of RO/ARO Essay Paper (Literature, Tech/Agri, Disasters/Schemes)."
+        "hi": "नवीनतम 2026 अधिसूचना (Advt A-4/E-1/2026) के अनुसार निबन्ध प्रश्न-पत्र के दोनों खण्डों के 8 क्षेत्रों का विश्लेषण।",
+        "en": "Decode the 8 domains across both sections of Paper IV under official 2026 notification."
       },
       {
-        "hi": "600 शब्दों के निबन्ध का वैज्ञानिक विभाजन: प्रस्तावना (75 शब्द), मुख्य भाग (450 शब्द), निष्कर्ष (75 शब्द)।",
-        "en": "Structure 600-word essay: Introduction (75w), Body (450w), Conclusion (75w)."
+        "hi": "खण्ड 1 (800 शब्द / 80 अंक) एवं खण्ड 2 (1200 शब्द / 120 अंक) का वैज्ञानिक समय एवं शब्द विभाजन।",
+        "en": "Master time and word allocation for Section 1 (800w / 80M) and Section 2 (1200w / 120M)."
       },
       {
         "hi": "PESTLE उपागम (राजनीतिक, आर्थिक, सामाजिक, तकनीकी, विधिक, पर्यावरणीय) द्वारा बहुआयामी लेखन।",
-        "en": "Deploy PESTLE framework to guarantee multi-dimensional content coverage."
+        "en": "Deploy PESTLE framework to guarantee multi-dimensional content depth and balance."
       },
       {
-        "hi": "उत्तर प्रदेश सरकार की प्रमुख फ्लैगशिप योजनाओं एवं प्रासंगिक सूक्तियों/श्लोकों का सटीक संयोजन।",
+        "hi": "उत्तर प्रदेश सरकार की प्रमुख फ्लैगशिप योजनाओं (ODOP, एक्सप्रेसवे, मिशन शक्ति) एवं प्रासंगिक सूक्तियों का सटीक संयोजन।",
         "en": "Seamlessly integrate UP flagship initiatives and high-scoring Hindi/Sanskrit quotations."
       }
     ],
@@ -1431,23 +1431,23 @@
       {
         "sectionId": "ess-sec-1",
         "heading": {
-          "hi": "1. RO/ARO मुख्य परीक्षा निबन्ध प्रश्न-पत्र की संरचना एवं समय प्रबंधन",
-          "en": "1. Exam Pattern, Section Demarcation & Time Allocation"
+          "hi": "1. RO/ARO 2026 आधिकारिक निबन्ध प्रश्न-पत्र (प्रश्नपत्र-4 • 200 अंक) की संरचना एवं समय प्रबंधन",
+          "en": "1. Exam Pattern, Section Demarcation & Time Allocation (Paper IV • 200 Marks)"
         },
         "bodyMarkdown": {
-          "hi": "**प्रश्न-पत्र संरचना (Total 120 Marks):**\nमुख्य परीक्षा में निबन्ध का एक स्वतंत्र 3 घंटे (180 मिनट) का प्रश्न-पत्र होता है, जिसमें कुल **3 खण्ड** होते हैं। प्रत्येक खण्ड में से 1-1 विषय चुनकर कुल **3 निबन्ध** लिखने होते हैं:\n\n1. **खण्ड 'क' (साहित्य और संस्कृति / सामाजिक क्षेत्र / राजनीतिक क्षेत्र) — 40 अंक (शब्द सीमा: 600 शब्द)**\n   • *संभावित विषय:* साहित्य समाज का दर्पण है, भारतीय संस्कृति में विविधता में एकता, भारतीय राजनीति में गठबंधन एवं शुचिता, महिला सशक्तिकरण के सामाजिक आयाम।\n2. **खण्ड 'ख' (विज्ञान, पर्यावरण एवं प्रौद्योगिकी / आर्थिक क्षेत्र / कृषि एवं व्यापार) — 40 अंक (शब्द सीमा: 600 शब्द)**\n   • *संभावित विषय:* आर्टिफिशियल इंटेलिजेंस: अवसर और चुनौतियाँ, भारत की 5 ट्रिलियन डॉलर अर्थव्यवस्था की राह, भारतीय कृषि: जलवायु संकट एवं खाद्य सुरक्षा, नवीकरणीय ऊर्जा एवं सतत विकास।\n3. **खण्ड 'ग' (राष्ट्रीय एवं अंतर्राष्ट्रीय घटनाक्रम / प्राकृतिक आपदाएं / राष्ट्रीय विकास योजनाएं) — 40 अंक (शब्द सीमा: 600 शब्द)**\n   • *संभावित विषय:* भूस्खलन एवं शहरी बाढ़: मानवजनित या प्राकृतिक, वैश्विक भू-राजनीति में भारत की बढ़ती धमक (G20 से ग्लोबल साउथ तक), विकसित भारत @2047: संकल्प और चुनौतियाँ, आत्मनिर्भर भारत अभियान।\n\n**समय प्रबंधन का स्वर्णिम सूत्र (180 मिनट):**\n• प्रत्येक निबन्ध हेतु निर्धारित समय: **60 मिनट**\n  - प्रथम 10 मिनट: विषय का चयन, विचार मंथन (Brainstorming), रफ ड्राफ्ट/माइक्रो-सिनॉप्सिस तैयार करना।\n  - अगले 45 मिनट: मुख्य निबन्ध लेखन (लगभग 500-600 शब्द, सुपाठ्य लिखावट में)।\n  - अंतिम 5 मिनट: पुनरावलोकन (Proofreading), वर्तनी व विराम-चिह्न सुधार, मुख्य कीवर्ड्स को अंडरलाइन करना।",
-          "en": "**Official Pattern (120 Marks / 3 Hours):**\nCandidates must write 3 essays (one from each section) in Hindi, 600 words each (40 marks x 3 = 120 marks):\n- **Section A:** Literature & Culture / Social Sphere / Political Sphere (40 Marks).\n- **Section B:** Science, Environment & Technology / Economic Sphere / Agriculture & Trade (40 Marks).\n- **Section C:** National & International Events / Natural Disasters / National Development Plans (40 Marks).\n- **Time Strategy:** 60 minutes per essay = 10 mins brain-storming + 45 mins drafting + 5 mins reviewing."
+          "hi": "**प्रश्न-पत्र संरचना (Total 200 Marks / 3 Hours):**\nउत्तर प्रदेश लोक सेवा आयोग के नवीनतम आधिकारिक विज्ञापन (सं. A-4/E-1/2026) के अनुसार मुख्य परीक्षा में हिन्दी निबन्ध एक स्वतंत्र 3 घंटे का प्रश्न-पत्र है। इसमें कुल **दो खण्ड (Two Sections)** होते हैं और प्रत्येक खण्ड में से एक-एक विषय चुनकर कुल **2 निबन्ध** लिखना अनिवार्य है:\n\n1. **प्रथम खण्ड (Section 1) — 80 अंक (शब्द सीमा: 800 शब्द)**\n   दिए गए 4 क्षेत्रों में से किसी 1 विषय पर 800 शब्दों में 80 अंक का निबन्ध लिखना होता है:\n   • *क्षेत्र 1:* विज्ञान, पर्यावरण एवं प्रौद्योगिकी (Science, Environment & Technology - जैसे: AI, अंतरिक्ष मिशन, नवीकरणीय ऊर्जा)\n   • *क्षेत्र 2:* आर्थिक क्षेत्र (Economic Sphere - जैसे: 5 ट्रिलियन डॉलर अर्थव्यवस्था, MSME, विनिर्माण क्रांति)\n   • *क्षेत्र 3:* कृषि, उद्योग एवं व्यापार (Agriculture, Industry & Trade - जैसे: श्री अन्न / मिलेट्स, प्राकृतिक खेती, MSP)\n   • *क्षेत्र 4:* प्राकृतिक आपदाएं - भूस्खलन, भूकम्प, बाढ़, सूखा आदि (Natural Disasters - जैसे: हिमालयी भूस्खलन, शहरी बाढ़, NDMA प्रबंधन)\n\n2. **द्वितीय खण्ड (Section 2) — 120 अंक (शब्द सीमा: 1200 शब्द)**\n   दिए गए 4 क्षेत्रों में से किसी 1 विषय पर 1200 शब्दों में 120 अंक का गहन विश्लेषणात्मक निबन्ध लिखना होता है:\n   • *क्षेत्र 1:* साहित्य एवं संस्कृति (Literature & Culture - जैसे: भारतीय संस्कृति में वसुधैव कुटुम्बकम्, साहित्य और समाज)\n   • *क्षेत्र 2:* सामाजिक एवं राजनीतिक क्षेत्र (Social & Political Sphere - जैसे: एक राष्ट्र एक चुनाव, महिला सशक्तिकरण, सामाजिक न्याय)\n   • *क्षेत्र 3:* राष्ट्रीय एवं अन्तर्राष्ट्रीय घटनाचक्र (National & International Affairs - जैसे: ग्लोबल साउथ का नेतृत्व, बदलते वैश्विक समीकरण)\n   • *क्षेत्र 4:* राष्ट्रीय विकास-योजनाएं एवं परियोजनाएं (National Development Schemes & Projects - जैसे: विकसित भारत @2047, गति शक्ति, आत्मनिर्भर भारत)\n\n**समय प्रबंधन का 180 मिनट का स्वर्णिम सूत्र:**\n• **प्रथम खण्ड (800 शब्द / 80 अंक):** कुल 70 मिनट (10 मिनट विचार-मंथन + 55 मिनट लेखन + 5 मिनट पुनरावलोकन)।\n• **द्वितीय खण्ड (1200 शब्द / 120 अंक):** कुल 100 मिनट (15 मिनट गहन रूपरेखा + 80 मिनट लेखन + 5 मिनट अंतिम समीक्षा)।\n• शेष 10 मिनट: दोनों निबंधों के मुख्य शीर्षकों, सूक्तियों और कीवर्ड्स को पेंसिल/काली स्याही से रेखांकित (Underline) करना।",
+          "en": "**Official 2026 Pattern (Paper IV • 200 Marks / 3 Hours):**\nUnder official Advt A-4/E-1/2026, Paper IV comprises TWO sections, requiring 2 mandatory essays:\n- **Section 1 (80 Marks / 800 Words):** Choose 1 from 4 domains:\n  1. Science, Environment & Technology\n  2. Economic Sphere\n  3. Agriculture, Industry & Trade\n  4. Natural Disasters (Floods, Droughts, Landslides, Earthquakes)\n- **Section 2 (120 Marks / 1200 Words):** Choose 1 from 4 domains:\n  1. Literature & Culture\n  2. Social & Political Sphere\n  3. National & International Affairs\n  4. National Development Schemes & Projects\n- **Time Strategy (180 mins):** 70 mins for Section 1 (800w) + 100 mins for Section 2 (1200w) + 10 mins buffer."
         }
       },
       {
         "sectionId": "ess-sec-2",
         "heading": {
-          "hi": "2. 600 शब्दों के निबन्ध का आदर्श वैज्ञानिक खाका (The 3-Tier Blueprint)",
-          "en": "2. The 3-Tier Essay Architectural Formula (Intro-Body-Conclusion)"
+          "hi": "2. 800 शब्द (खण्ड 1) एवं 1200 शब्द (खण्ड 2) के निबन्ध का आदर्श वैज्ञानिक खाका",
+          "en": "2. Architectural Blueprint for 800-Word and 1200-Word Essays (PESTLE Model)"
         },
         "bodyMarkdown": {
-          "hi": "**1. प्रस्तावना / भूमिका (Introduction: 75-80 शब्द):**\n• कभी भी नीरस या घिसी-पिटी भाषा से शुरुआत न करें।\n• **आरंभ की विधियां:**\n  a) *प्रासंगिक श्लोक / काव्य पंक्ति:* (उदा. 'अंधकार है वहां जहां आदित्य नहीं है, मुर्दा है वह देश जहां साहित्य नहीं है' - साहित्य विषय पर)।\n  b) *ज्वलंत समसामयिक घटना:* किसी राष्ट्रीय/अंतरराष्ट्रीय रिपोर्ट, सूचकांक (Index) या हालिया कानून का संदर्भ।\n  c) *परिभाषा एवं विषय की प्रासंगिकता:* विषय के मूल मर्म को परिभाषित करते हुए वर्तमान समय में उसकी महत्ता को स्थापित करना।\n\n**2. मुख्य भाग (Body Paragraphs: 420-450 शब्द - PESTLE उपागम):**\nमुख्य भाग को 5 से 6 छोटे पैराग्राफों में विभाजित करें। प्रत्येक पैराग्राफ एक विशिष्ट आयाम प्रस्तुत करे:\n• **P (Political - राजनीतिक):** शासन व्यवस्था, नीति निर्माण, लोकतंत्र, जवाबदेही।\n• **E (Economic - आर्थिक):** बजट आवंटन, रोजगार, GDP वृद्धि, गरीबी उन्मूलन, लागत-लाभ।\n• **S (Social - सामाजिक):** लैंगिक समानता, वंचित वर्ग, स्वास्थ्य, शिक्षा, जीवन स्तर।\n• **T (Technological - तकनीकी):** डिजिटल गवर्नेंस, AI, ऑटोमेशन, डेटा सुरक्षा।\n• **L (Legal - विधिक):** संवैधानिक प्रावधान (अनुच्छेद), संसद द्वारा पारित अधिनियम, सर्वोच्च न्यायालय के निर्णय।\n• **E (Environmental - पर्यावरणीय):** जलवायु परिवर्तन, कार्बन उत्सर्जन, सतत विकास लक्ष्य (SDGs)।\n*नोट:* केवल समस्याएं न गिनाएं; सरकार के प्रयास (योजनाएं) एवं व्यावहारिक समाधान (Way Forward) अवश्य प्रस्तुत करें।\n\n**3. निष्कर्ष (Conclusion: 70-80 शब्द):**\n• निष्कर्ष कभी भी निराशावादी नहीं होना चाहिए।\n• भारत के संवैधानिक मूल्यों, 'अमृत काल', आत्मनिर्भर भारत तथा 'सर्वे भवन्तु सुखिनः' के उदात्त दर्शन के साथ एक भविष्योन्मुखी (Forward-looking & Visionary) अंत करें।",
-          "en": "**The 3-Tier Architecture:**\n1. **Introduction (75-80 words):** Hook the examiner with a poignant shloka, couplet, or contemporary global report context.\n2. **Body (420-450 words - PESTLE Model):** Deploy Political, Economic, Social, Technological, Legal, and Environmental dimensions across interconnected paragraphs. Always balance critique with government initiatives and constructive policy solutions.\n3. **Conclusion (70-80 words):** Positive, forward-looking, synthesizing constitutional ethics, Amrit Kaal vision 2047, and Vasudhaiva Kutumbakam."
+          "hi": "**1. खण्ड 1 निबन्ध संरचना (800 शब्द / 80 अंक):**\n• **प्रस्तावना (100 शब्द):** विषय का सारगर्भित उद्घाटन, प्रासंगिक श्लोक / सूक्ति / हालिया राष्ट्रीय रिपोर्ट या घटना का उल्लेख।\n• **मुख्य भाग (600 शब्द - 4 से 5 पैराग्राफ):** \n  - *पैराग्राफ 1:* ऐतिहासिक परिप्रेक्ष्य व अवधारणा की गहराई।\n  - *पैराग्राफ 2:* वर्तमान संकट / चुनौतियाँ (आंकड़ों व प्रामाणिक रिपोर्ट सहित)।\n  - *पैराग्राफ 3:* सरकारी नीतियां एवं राष्ट्रीय-अंतरराष्ट्रीय प्रयास।\n  - *पैराग्राफ 4:* **उत्तर प्रदेश का विशेष संदर्भ (UP Perspective - 5-8 अतिरिक्त अंक दिलाने वाली कुंजी!)**।\n  - *पैराग्राफ 5:* व्यावहारिक समाधान व नीतिगत सुझाव (Way Forward)।\n• **निष्कर्ष (100 शब्द):** सकारात्मक, भविष्योन्मुखी एवं दूरदर्शी उपसंहार।\n\n**2. खण्ड 2 निबन्ध संरचना (1200 शब्द / 120 अंक - उच्चतम भारांक!):**\n• **प्रस्तावना (150 शब्द):** दार्शनिक या सभ्यतागत पृष्ठभूमि, संविधान की प्रस्तावना या वैश्विक परिप्रेक्ष्य के साथ भव्य आरंभ।\n• **मुख्य भाग (900 शब्द - बहुआयामी PESTLE उपागम):**\n  - **P (Political/Constitutional):** शासन, लोकतंत्र, संघीय ढांचा, जवाबदेही।\n  - **E (Economic/Financial):** संवृद्धि, रोजगार, बजट, वैश्विक मूल्य श्रृंखला।\n  - **S (Social/Cultural):** वंचित वर्ग, लैंगिक समानता, सामाजिक समरसता, जनसांख्यिकी।\n  - **T (Technological/Digital):** डिजिटल शासन, नवाचार, AI, नैतिक चुनौतियां।\n  - **L (Legal/Judicial):** संवैधानिक अनुच्छेद, विधायी अधिनियम, न्यायिक निर्णय।\n  - **E (Environmental/Ethical):** पारिस्थितिकी संतुलन, सतत विकास लक्ष्य (SDGs), नैतिक मूल्य।\n  - **UP Angle:** उत्तर प्रदेश की फ्लैगशिप योजनाएं व राज्यस्तरीय आंकड़े।\n• **निष्कर्ष (150 शब्द):** 'अमृत काल', आत्मनिर्भर भारत, और 'सर्वे भवन्तु सुखिनः' के संकल्प के साथ सशक्त अंत।",
+          "en": "**Structural Blueprints:**\n1. **800-Word Essay (Section 1 • 80 Marks):** Intro (100w) -> Core Analysis & Issues (300w) -> Govt Schemes & UP Perspective (200w) -> Solutions (100w) -> Visionary Conclusion (100w).\n2. **1200-Word Essay (Section 2 • 120 Marks):** Comprehensive philosophical opening (150w) -> Exhaustive 6-dimensional PESTLE decomposition (900w) incorporating statutory articles, case laws, data, and UP specifics -> Visionary, aspirational Amrit Kaal conclusion (150w)."
         }
       },
       {
@@ -1457,14 +1457,14 @@
           "en": "3. High-Scoring Model Essay Blueprint: Indian Agriculture & Food Security"
         },
         "bodyMarkdown": {
-          "hi": "**निबन्ध शीर्षक:** \"भारतीय कृषि: जलवायु परिवर्तन की चुनौतियाँ एवं खाद्य सुरक्षा का भविष्य\" (खण्ड ख)\n\n• **प्रस्तावना (Intro):** \n  *\"कृषिमूलं हि जीवनम्\"* — भारत केवल एक राष्ट्र नहीं, बल्कि एक कृषि संस्कृति है। 140 करोड़ आबादी की खाद्य सुरक्षा तथा 45% से अधिक कार्यबल की आजीविका कृषि पर निर्भर है। किंतु वर्तमान में ग्लोबल वार्मिंग, अनियमित मानसून तथा अल-नीनो के प्रभाव ने भारतीय कृषि के समक्ष अस्तित्वगत संकट खड़ा कर दिया है।\n• **आयाम 1 (चुनौतियाँ):** \n  तापमान में वृद्धि से गेहूं की उत्पादकता पर प्रतिकूल प्रभाव (Heat waves), भूजल स्तर का गिरना (पंजाब व पश्चिमी यूपी में संकट), रासायनिक खादों के अत्यधिक प्रयोग से मृदा की उर्वरता में ह्रास।\n• **आयाम 2 (सरकारी पहल):** \n  PM-KISAN द्वारा आय संबल, प्रधानमंत्री फसल बीमा योजना (PMFBY), मृदा स्वास्थ्य कार्ड योजना, नैनो यूरिया का प्रयोग, परम्परागत कृषि विकास योजना (जैविक खेती)।\n• **आयाम 3 (श्री अन्न / मिलेट्स क्रांति):** \n  मोटे अनाज (ज्वार, बाजरा, रागी) कम पानी में उगते हैं और जलवायु प्रतिरोधी हैं। अंतरराष्ट्रीय मिलेट्स वर्ष 2023 से पोषण सुरक्षा को बढ़ावा।\n• **आयाम 4 (उत्तर प्रदेश परिप्रेक्ष्य):** \n  यूपी का देश के कुल खाद्यान्न उत्पादन में 18% योगदान। 'एक जनपद एक उत्पाद' (ODOP) के तहत काला नमक चावल (सिद्धार्थनगर), आंवला (प्रतापगढ़)। बुंदेलखंड में प्राकृतिक खेती कॉरिडोर का विकास।\n• **निष्कर्ष (Conclusion):** \n  एम.एस. स्वामीनाथन का कथन — *\"यदि कृषि असफल होती है, तो देश में कुछ भी सफल नहीं हो सकता।\"* प्रौद्योगिकी (एग्री-ड्रोन, AI आधारित मौसम भविष्यवाणी) और पारंपरिक ज्ञान के संगम से ही भारत 2047 तक 'विश्व का अन्नदाता' बन सकेगा।",
-          "en": "**Model Essay Skeleton: Indian Agriculture & Climate Crisis (Section B)**\n- Intro: 'Krishimoolam Hi Jeevanam' - Agriculture sustains 1.4 billion people and 45% workforce, facing extreme climate stress.\n- Crisis Dimensions: Heatwaves lowering wheat yields, groundwater depletion in Western UP, chemical imbalance.\n- National Policy Shield: PM-KISAN, PMFBY, Soil Health Card, Nano Urea, Paramparagat Krishi.\n- Millets Revolution: Climate-resilient coarse grains ensuring nutritional security.\n- UP State Anchorage: 18% contribution to national foodgrain pool, ODOP black salt rice (Siddharthnagar), Bundelkhand organic corridor.\n- Visionary Outro: Swaminathan's dictum on agrarian primacy coupled with agri-drones and sustainable soil stewardship."
+          "hi": "**निबन्ध शीर्षक:** \"भारतीय कृषि: जलवायु परिवर्तन की चुनौतियाँ एवं खाद्य सुरक्षा का भविष्य\" (खण्ड 1)\n\n• **प्रस्तावना (Intro):** \n  *\"कृषिमूलं हि जीवनम्\"* — भारत केवल एक राष्ट्र नहीं, बल्कि एक कृषि संस्कृति है। 140 करोड़ आबादी की खाद्य सुरक्षा तथा 45% से अधिक कार्यबल की आजीविका कृषि पर निर्भर है। किंतु वर्तमान में ग्लोबल वार्मिंग, अनियमित मानसून तथा अल-नीनो के प्रभाव ने भारतीय कृषि के समक्ष अस्तित्वगत संकट खड़ा कर दिया है।\n• **आयाम 1 (चुनौतियाँ):** \n  तापमान में वृद्धि से गेहूं की उत्पादकता पर प्रतिकूल प्रभाव (Heat waves), भूजल स्तर का गिरना (पंजाब व पश्चिमी यूपी में संकट), रासायनिक खादों के अत्यधिक प्रयोग से मृदा की उर्वरता में ह्रास।\n• **आयाम 2 (सरकारी पहल):** \n  PM-KISAN द्वारा आय संबल, प्रधानमंत्री फसल बीमा योजना (PMFBY), मृदा स्वास्थ्य कार्ड योजना, नैनो यूरिया का प्रयोग, परम्परागत कृषि विकास योजना (जैविक खेती)।\n• **आयाम 3 (श्री अन्न / मिलेट्स क्रांति):** \n  मोटे अनाज (ज्वार, बाजरा, रागी) कम पानी में उगते हैं और जलवायु प्रतिरोधी हैं। अंतरराष्ट्रीय मिलेट्स वर्ष से पोषण सुरक्षा को बढ़ावा।\n• **आयाम 4 (उत्तर प्रदेश परिप्रेक्ष्य):** \n  यूपी का देश के कुल खाद्यान्न उत्पादन में 18% योगदान। 'एक जनपद एक उत्पाद' (ODOP) के तहत काला नमक चावल (सिद्धार्थनगर), आंवला (प्रतापगढ़)। बुंदेलखंड में 47 विकासखंडों में प्राकृतिक खेती कॉरिडोर का विकास।\n• **निष्कर्ष (Conclusion):** \n  एम.एस. स्वामीनाथन का कथन — *\"यदि कृषि असफल होती है, तो देश में कुछ भी सफल नहीं हो सकता।\"* प्रौद्योगिकी (एग्री-ड्रोन, AI आधारित मौसम भविष्यवाणी) और पारंपरिक ज्ञान के संगम से ही भारत 2047 तक 'विश्व का अन्नदाता' बन सकेगा।",
+          "en": "**Model Essay Skeleton: Indian Agriculture & Climate Crisis (Section 1)**\n- Intro: 'Krishimoolam Hi Jeevanam' - Agriculture sustains 1.4 billion people and 45% workforce, facing extreme climate stress.\n- Crisis Dimensions: Heatwaves lowering wheat yields, groundwater depletion in Western UP, chemical imbalance.\n- National Policy Shield: PM-KISAN, PMFBY, Soil Health Card, Nano Urea, Paramparagat Krishi.\n- Millets Revolution: Climate-resilient coarse grains ensuring nutritional security.\n- UP State Anchorage: 18% contribution to national foodgrain pool, ODOP black salt rice (Siddharthnagar), Bundelkhand organic corridor.\n- Visionary Outro: Swaminathan's dictum on agrarian primacy coupled with agri-drones and sustainable soil stewardship."
         }
       }
     ],
     "upSpecialAngle": {
-      "hi": "यूपीपीएससी के निबन्ध में उत्तर प्रदेश के संदर्भों, आंकड़ों तथा योजनाओं (जैसे 'मिशन शक्ति', 'कन्या सुमंगला योजना', 'एक जनपद एक उत्पाद - ODOP', 'एक्सप्रेसवे नेटवर्क - गंगा व पूर्वांचल एक्सप्रेसवे', 'इन्वेस्टर्स समिट') को स्वाभाविक रूप से समाहित करने पर सामान्य निबन्ध की तुलना में **5 से 8 अतिरिक्त अंक** मिलते हैं।",
-      "en": "Infusing authentic UP context, state schemes (Mission Shakti, ODOP, Kanya Sumangala, Ganga Expressway) in essays awards candidates a distinctive 5-8 marks competitive edge over generic competitors."
+      "hi": "यूपीपीएससी के 200 अंक के निबन्ध प्रश्नपत्र में उत्तर प्रदेश के संदर्भों, आंकड़ों तथा योजनाओं (जैसे 'मिशन शक्ति', 'एक जनपद एक उत्पाद - ODOP', 'एक्सप्रेसवे नेटवर्क - पूर्वांचल व गंगा एक्सप्रेसवे', 'बुंदेलखंड प्राकृतिक खेती कॉरिडोर', 'जेवर अंतरराष्ट्रीय हवाई अड्डा') को स्वाभाविक रूप से समाहित करने पर सामान्य निबन्ध की तुलना में **15 से 20 अतिरिक्त अंक** मिलते हैं।",
+      "en": "Infusing authentic UP context, state schemes (Mission Shakti, ODOP, Bundelkhand Natural Farming Corridor, Ganga Expressway) awards candidates a distinctive 15-20 marks competitive edge in the 200-mark paper."
     },
     "highYieldFactSheet": [
       {
@@ -1511,58 +1511,58 @@
     "masterRevisionTable": {
       "headers": [
         "निबन्ध खण्ड",
-        "विषय क्षेत्र",
-        "उच्च-प्राथमिकता संभावित विषय",
-        "महत्वपूर्ण सरकारी योजनाएं / आयोग रिपोर्ट"
+        "आधिकारिक क्षेत्र (Domains)",
+        "शब्द सीमा एवं अंक",
+        "उच्च-प्राथमिकता 2026 संभावित विषय"
       ],
       "rows": [
         [
-          "खण्ड 'क' (40 अंक)",
-          "साहित्य एवं संस्कृति",
-          "भारतीय संस्कृति का वैश्विक प्रसार एवं वसुधैव कुटुम्बकम्",
-          "यूनेस्को अमूर्त सांस्कृतिक विरासत (कुंभ मेला, योग)"
+          "प्रथम खण्ड (Section 1)",
+          "1. विज्ञान, पर्यावरण एवं प्रौद्योगिकी",
+          "800 शब्द • 80 अंक",
+          "कृत्रिम बुद्धिमत्ता (AI) और रोबोटिक्स: अवसर एवं नैतिक चुनौतियाँ"
         ],
         [
-          "खण्ड 'क' (40 अंक)",
-          "सामाजिक क्षेत्र",
-          "महिला सशक्तिकरण: आधी आबादी का संपूर्ण उत्कर्ष",
-          "मिशन शक्ति (UP), बेटी बचाओ बेटी पढ़ाओ, महिला आरक्षण अधिनियम 2023"
+          "प्रथम खण्ड (Section 1)",
+          "2. आर्थिक क्षेत्र",
+          "800 शब्द • 80 अंक",
+          "5 ट्रिलियन डॉलर अर्थव्यवस्था की ओर भारत: विनिर्माण एवं MSME की भूमिका"
         ],
         [
-          "खण्ड 'क' (40 अंक)",
-          "राजनीतिक क्षेत्र",
-          "एक राष्ट्र, एक चुनाव: औचित्य, लाभ एवं चुनौतियां",
-          "पूर्व राष्ट्रपति रामनाथ कोविंद उच्चस्तरीय समिति रिपोर्ट"
+          "प्रथम खण्ड (Section 1)",
+          "3. कृषि, उद्योग एवं व्यापार",
+          "800 शब्द • 80 अंक",
+          "भारतीय कृषि में 'श्री अन्न' (मिलेट्स) एवं प्राकृतिक खेती का भविष्य"
         ],
         [
-          "खण्ड 'ख' (40 अंक)",
-          "विज्ञान एवं प्रौद्योगिकी",
-          "आर्टिफिशियल इंटेलिजेंस (AI): वरदान या मानवीय अस्तित्व पर संकट",
-          "राष्ट्रीय AI रणनीति (NITI आयोग), डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम 2023"
+          "प्रथम खण्ड (Section 1)",
+          "4. प्राकृतिक आपदाएं",
+          "800 शब्द • 80 अंक",
+          "जलवायु परिवर्तन और आपदा प्रबंधन: हिमालयी भूस्खलन व शहरी बाढ़"
         ],
         [
-          "खण्ड 'ख' (40 अंक)",
-          "आर्थिक क्षेत्र",
-          "5 ट्रिलियन डॉलर अर्थव्यवस्था एवं रोजगार सृजन की राह",
-          "मेक इन इंडिया, गति शक्ति मिशन, PLI स्कीम्स, यूपी $1 Trillion विजन"
+          "द्वितीय खण्ड (Section 2)",
+          "1. साहित्य एवं संस्कृति",
+          "1200 शब्द • 120 अंक",
+          "भारतीय संस्कृति में 'वसुधैव कुटुम्बकम्' और 'सर्वे भवन्तु सुखिनः' का शाश्वत संदेश"
         ],
         [
-          "खण्ड 'ख' (40 अंक)",
-          "कृषि एवं पर्यावरण",
-          "प्राकृतिक खेती एवं श्री अन्न: खाद्य और पोषण सुरक्षा का समाधान",
-          "मिलेट्स मिशन, राष्ट्रीय सतत कृषि मिशन, PM-KISAN"
+          "द्वितीय खण्ड (Section 2)",
+          "2. सामाजिक एवं राजनीतिक क्षेत्र",
+          "1200 शब्द • 120 अंक",
+          "'एक राष्ट्र, एक चुनाव': भारतीय संघवाद, लोकतंत्र एवं नीतिगत निरंतरता"
         ],
         [
-          "खण्ड 'ग' (40 अंक)",
-          "आपदा प्रबंधन",
-          "शहरी बाढ़ एवं भूस्खलन: अनियोजित विकास का प्रतिफल",
-          "NDMA दिशानिर्देश, जोशीमठ व वायनाड भूस्खलन केस स्टडी, स्मार्ट सिटी मिशन"
+          "द्वितीय खण्ड (Section 2)",
+          "3. राष्ट्रीय एवं अन्तर्राष्ट्रीय घटनाचक्र",
+          "1200 शब्द • 120 अंक",
+          "बदलते वैश्विक भू-राजनीतिक परिदृश्य में भारत: ग्लोबल साउथ का नैतिक नेतृत्व"
         ],
         [
-          "खण्ड 'ग' (40 अंक)",
-          "राष्ट्रीय विकास योजना",
-          "विकसित भारत @2047: विकसित राष्ट्र की परिकल्पना और रोडमैप",
-          "अमृत काल कार्ययोजना, पंच प्रण, राष्ट्रीय अवसंरचना पाइपलाइन (NIP)"
+          "द्वितीय खण्ड (Section 2)",
+          "4. राष्ट्रीय विकास-योजनाएं एवं परियोजनाएं",
+          "1200 शब्द • 120 अंक",
+          "'विकसित भारत @2047': अधोसंरचना क्रांति, आत्मनिर्भरता एवं समावेशी विकास"
         ]
       ]
     }

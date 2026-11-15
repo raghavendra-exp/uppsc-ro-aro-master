@@ -88,7 +88,7 @@ export const Footer: React.FC = () => {
             </h4>
             <ul className="space-y-1 text-xs text-slate-400">
               <li>• {language === 'hi' ? 'प्रारंभिक: 140 GS + 60 हिन्दी (200 अंक)' : 'Prelims: 140 GS + 60 Hindi (200 Marks)'}</li>
-              <li>• {language === 'hi' ? 'मुख्य: 120 GS + 160 हिन्दी/आलेखन + 120 निबंध' : 'Mains: 120 GS + 160 Drafting + 120 Essay (400 Marks)'}</li>
+              <li>• {language === 'hi' ? 'मुख्य: 800 अंक (GS-I 200 + GS-II 200 + हिन्दी/आलेखन 200 + निबंध 200)' : 'Mains: 800 Marks (GS-I 200 + GS-II 200 + Drafting 200 + Essay 200)'}</li>
               <li>• {language === 'hi' ? 'ऋणात्मक अंकन:' : 'Negative Marking:'} 1/3 (0.33)</li>
               <li>• {language === 'hi' ? 'ARO टंकण: 25 श.प्र.मि. हिन्दी (कुर्तिदेव / मंगल)' : 'ARO Typing: 25 wpm Hindi (Kruti Dev / Mangal)'}</li>
               <li>• {language === 'hi' ? 'साक्षात्कार: कोई साक्षात्कार नहीं (सीधा चयन)' : 'Interview: No Interview (Merit Based)'}</li>

@@ -2,7 +2,10 @@
   {
     "id": "draft-official-letter",
     "slug": "official-letter",
-    "title": { "hi": "शासकीय पत्र (सरकारी पत्र)", "en": "Official Letter (Government Letter)" },
+    "title": {
+      "hi": "शासकीय पत्र (सरकारी पत्र)",
+      "en": "Official Letter (Government Letter)"
+    },
     "hindiName": "शासकीय पत्र",
     "marks": 8,
     "purpose": {
@@ -10,26 +13,68 @@
       "en": "Formal administrative communication between Govts, subordinate departments, constitutional bodies or public."
     },
     "formatGuide": {
-      "heading": { "hi": "शीर्ष पर 'उत्तर प्रदेश शासन' या विभाग का नाम, पत्र संख्या एवं दिनांक/स्थान।", "en": "Top center: Govt of UP / Department name, Letter No., Place & Date." },
-      "subjectLine": { "hi": "विषय: संक्षिप्त, स्पष्ट एवं रेखांकित।", "en": "Subject: Concise, unambiguous, and underlined." },
-      "reference": { "hi": "यदि पूर्व पत्र का संदर्भ हो तो 'संदर्भ: ...' उल्लिखित करें।", "en": "Reference: Quote previous communication if applicable." },
-      "salutation": { "hi": "महोदय / महोदया (बाईं ओर)।", "en": "Sir / Madam (Left-aligned)." },
+      "heading": {
+        "hi": "शीर्ष पर 'उत्तर प्रदेश शासन' या विभाग का नाम, पत्र संख्या एवं दिनांक/स्थान।",
+        "en": "Top center: Govt of UP / Department name, Letter No., Place & Date."
+      },
+      "subjectLine": {
+        "hi": "विषय: संक्षिप्त, स्पष्ट एवं रेखांकित।",
+        "en": "Subject: Concise, unambiguous, and underlined."
+      },
+      "reference": {
+        "hi": "यदि पूर्व पत्र का संदर्भ हो तो 'संदर्भ: ...' उल्लिखित करें।",
+        "en": "Reference: Quote previous communication if applicable."
+      },
+      "salutation": {
+        "hi": "महोदय / महोदया (बाईं ओर)।",
+        "en": "Sir / Madam (Left-aligned)."
+      },
       "bodyStructure": [
-        { "hi": "प्रथम प्रस्तर (Paragraph 1): 'मुझे यह कहने का निदेश हुआ है कि...' से प्रारंभ।", "en": "Opening: Strictly starts with 'I am directed to convey that...'" },
-        { "hi": "द्वितीय प्रस्तर (Paragraph 2): मुख्य तथ्य, आंकड़े या निर्देश (प्रस्तर सं. 2, 3...) क्रमवार।", "en": "Body: Sequential numbered paragraphs (2, 3...) containing operative directives." },
-        { "hi": "अंतिम प्रस्तर: संक्षेप में कार्रवाई की अपेक्षा।", "en": "Closing para: Action required, compliance timeframe." }
+        {
+          "hi": "प्रथम प्रस्तर (Paragraph 1): 'मुझे यह कहने का निदेश हुआ है कि...' से प्रारंभ।",
+          "en": "Opening: Strictly starts with 'I am directed to convey that...'"
+        },
+        {
+          "hi": "द्वितीय प्रस्तर (Paragraph 2): मुख्य तथ्य, आंकड़े या निर्देश (प्रस्तर सं. 2, 3...) क्रमवार।",
+          "en": "Body: Sequential numbered paragraphs (2, 3...) containing operative directives."
+        },
+        {
+          "hi": "अंतिम प्रस्तर: संक्षेप में कार्रवाई की अपेक्षा।",
+          "en": "Closing para: Action required, compliance timeframe."
+        }
       ],
-      "subscription": { "hi": "भवदीय (दाहिनी ओर नीचे)। 'आपका विश्वासी' का प्रयोग कदापि न करें।", "en": "Subscription: 'भवदीय' (Yours faithfully). Never use 'आपका विश्वासी'." },
-      "authoritySignature": { "hi": "(हस्ताक्षर), (क.ख.ग.), पदनाम (उदा. अनुभाग अधिकारी / विशेष सचिव)।", "en": "(Signature), Name/Code, Designation." },
-      "distributionCopy": { "hi": "संख्या एवं दिनांक तदैव। प्रतिलिपि निम्नलिखित को सूचनार्थ एवं आवश्यक कार्यवाही हेतु प्रेषित...", "en": "Endorsement: 'संख्या एवं दिनांक तदैव'. Copy forwarded for info and necessary action." }
+      "subscription": {
+        "hi": "भवदीय (दाहिनी ओर नीचे)। 'आपका विश्वासी' का प्रयोग कदापि न करें।",
+        "en": "Subscription: 'भवदीय' (Yours faithfully). Never use 'आपका विश्वासी'."
+      },
+      "authoritySignature": {
+        "hi": "(हस्ताक्षर), (क.ख.ग.), पदनाम (उदा. अनुभाग अधिकारी / विशेष सचिव)।",
+        "en": "(Signature), Name/Code, Designation."
+      },
+      "distributionCopy": {
+        "hi": "संख्या एवं दिनांक तदैव। प्रतिलिपि निम्नलिखित को सूचनार्थ एवं आवश्यक कार्यवाही हेतु प्रेषित...",
+        "en": "Endorsement: 'संख्या एवं दिनांक तदैव'. Copy forwarded for info and necessary action."
+      }
     },
     "keyRules": [
-      { "hi": "भाषा पूर्णतः तटस्थ, औपचारिक, अन्य पुरुष (Third Person) में होनी चाहिए। 'मैं' का प्रयोग न करें।", "en": "Language must be strictly neutral, formal, third person ('I am directed', never 'I want')." },
-      { "hi": "प्रथम प्रस्तर पर संख्या नहीं डाली जाती, दूसरे प्रस्तर से '2', '3' संख्या अंकित करते हैं।", "en": "First paragraph never bears number '1'; numbering starts from second paragraph." }
+      {
+        "hi": "भाषा पूर्णतः तटस्थ, औपचारिक, अन्य पुरुष (Third Person) में होनी चाहिए। 'मैं' का प्रयोग न करें।",
+        "en": "Language must be strictly neutral, formal, third person ('I am directed', never 'I want')."
+      },
+      {
+        "hi": "प्रथम प्रस्तर पर संख्या नहीं डाली जाती, दूसरे प्रस्तर से '2', '3' संख्या अंकित करते हैं।",
+        "en": "First paragraph never bears number '1'; numbering starts from second paragraph."
+      }
     ],
     "commonMistakes": [
-      { "hi": "परीक्षा में अपना वास्तविक नाम या अनुक्रमांक लिखना (क.ख.ग. लिखना चाहिए)।", "en": "Writing actual name or roll number (always use generic placeholder like क.ख.ग.)." },
-      { "hi": "आत्मीय या व्यक्तिगत संबोधन जैसे 'प्रिय' का प्रयोग शासकीय पत्र में करना।", "en": "Using informal salutation like 'Dear' in purely formal official letter." }
+      {
+        "hi": "परीक्षा में अपना वास्तविक नाम या अनुक्रमांक लिखना (क.ख.ग. लिखना चाहिए)।",
+        "en": "Writing actual name or roll number (always use generic placeholder like क.ख.ग.)."
+      },
+      {
+        "hi": "आत्मीय या व्यक्तिगत संबोधन जैसे 'प्रिय' का प्रयोग शासकीय पत्र में करना।",
+        "en": "Using informal salutation like 'Dear' in purely formal official letter."
+      }
     ],
     "modelDraft": {
       "title": "शासकीय पत्र का मानक प्रारूप",
@@ -41,14 +86,25 @@
         "hi": "उत्तर प्रदेश शासन के गृह विभाग की ओर से समस्त जिलाधिकारियों को प्रदेश में कांवड़ यात्रा के दौरान सुरक्षा एवं शांति व्यवस्था सुनिश्चित करने हेतु एक शासकीय पत्र का प्रारूप तैयार कीजिए।",
         "en": "Draft an Official Letter from Home Dept, Govt of UP to all DMs to ensure law & order and public safety during the Kanwar Yatra."
       },
-      "requiredElements": ["संख्या", "प्रेषक", "सेवा में", "विषय", "महोदय", "मुझे यह कहने का निदेश हुआ है", "भवदीय"],
+      "requiredElements": [
+        "संख्या",
+        "प्रेषक",
+        "सेवा में",
+        "विषय",
+        "महोदय",
+        "मुझे यह कहने का निदेश हुआ है",
+        "भवदीय"
+      ],
       "sampleSolution": "संख्या: 852/गृह-सुरक्षा-2026..."
     }
   },
   {
     "id": "draft-demi-official-letter",
     "slug": "demi-official-letter",
-    "title": { "hi": "अर्धशासकीय पत्र (D.O. Letter)", "en": "Demi-Official Letter (D.O. Letter)" },
+    "title": {
+      "hi": "अर्धशासकीय पत्र (D.O. Letter)",
+      "en": "Demi-Official Letter (D.O. Letter)"
+    },
     "hindiName": "अर्धशासकीय पत्र",
     "marks": 8,
     "purpose": {
@@ -56,25 +112,64 @@
       "en": "Communication between officers of equal/comparable rank to draw personal attention to expedite matters or maintain secrecy."
     },
     "formatGuide": {
-      "heading": { "hi": "ऊपर बाईं ओर अर्धशासकीय पत्र संख्या। दाईं ओर प्रेषक का नाम, पदनाम एवं कार्यालय का पता व दिनांक।", "en": "Top left: D.O. Letter No. Top right: Sender name, designation, address & date." },
-      "subjectLine": { "hi": "विषय साधारणतः नहीं लिखा जाता (अथवा अनौपचारिक रूप से संक्षिप्त)।", "en": "Subject line is usually omitted or kept brief/informal." },
-      "reference": { "hi": "पूर्व व्यक्तिगत बातचीत या पत्र का उल्लेख।", "en": "References prior discussions or personal communications." },
-      "salutation": { "hi": "प्रिय श्री/श्रीमती [नाम] जी या प्रिय मित्र (संबोधन में 'प्रिय' अनिवार्य)।", "en": "Salutation: 'प्रिय श्री ... जी' (Dear Mr. ...)." },
+      "heading": {
+        "hi": "ऊपर बाईं ओर अर्धशासकीय पत्र संख्या। दाईं ओर प्रेषक का नाम, पदनाम एवं कार्यालय का पता व दिनांक।",
+        "en": "Top left: D.O. Letter No. Top right: Sender name, designation, address & date."
+      },
+      "subjectLine": {
+        "hi": "विषय साधारणतः नहीं लिखा जाता (अथवा अनौपचारिक रूप से संक्षिप्त)।",
+        "en": "Subject line is usually omitted or kept brief/informal."
+      },
+      "reference": {
+        "hi": "पूर्व व्यक्तिगत बातचीत या पत्र का उल्लेख।",
+        "en": "References prior discussions or personal communications."
+      },
+      "salutation": {
+        "hi": "प्रिय श्री/श्रीमती [नाम] जी या प्रिय मित्र (संबोधन में 'प्रिय' अनिवार्य)।",
+        "en": "Salutation: 'प्रिय श्री ... जी' (Dear Mr. ...)."
+      },
       "bodyStructure": [
-        { "hi": "प्रथम पुरुष ('मैं') एवं मध्यम पुरुष ('आप') का प्रयोग होता है। 'मुझे आपका ध्यान... आकृष्ट करना है'।", "en": "Written in First Person ('I') and Second Person ('You')." },
-        { "hi": "भाषा आत्मीय, शिष्टाचारपूर्ण किंतु शासकीय मर्यादा से युक्त होती है।", "en": "Tone is cordial, personal yet administratively decorous." }
+        {
+          "hi": "प्रथम पुरुष ('मैं') एवं मध्यम पुरुष ('आप') का प्रयोग होता है। 'मुझे आपका ध्यान... आकृष्ट करना है'।",
+          "en": "Written in First Person ('I') and Second Person ('You')."
+        },
+        {
+          "hi": "भाषा आत्मीय, शिष्टाचारपूर्ण किंतु शासकीय मर्यादा से युक्त होती है।",
+          "en": "Tone is cordial, personal yet administratively decorous."
+        }
       ],
-      "subscription": { "hi": "'शुभकामनाओं सहित' / 'सद्भावनाओं सहित' आपका / भवदीय।", "en": "Subscription: 'शुभकामनाओं सहित, आपका' (With warm regards, Yours)." },
-      "authoritySignature": { "hi": "केवल हस्ताक्षर (कोष्ठक में नाम नहीं लिखा जाता क्योंकि शीर्ष पर नाम पहले से मुद्रित होता है)।", "en": "Signature only (no typed name below signature as name is already on top)." },
-      "distributionCopy": { "hi": "प्राप्तकर्ता का नाम, पदनाम एवं पूरा पता पत्र के सबसे नीचे बाईं ओर लिखा जाता है।", "en": "Recipient's Name, Designation and Full Address placed at the bottom left corner." }
+      "subscription": {
+        "hi": "'शुभकामनाओं सहित' / 'सद्भावनाओं सहित' आपका / भवदीय।",
+        "en": "Subscription: 'शुभकामनाओं सहित, आपका' (With warm regards, Yours)."
+      },
+      "authoritySignature": {
+        "hi": "केवल हस्ताक्षर (कोष्ठक में नाम नहीं लिखा जाता क्योंकि शीर्ष पर नाम पहले से मुद्रित होता है)।",
+        "en": "Signature only (no typed name below signature as name is already on top)."
+      },
+      "distributionCopy": {
+        "hi": "प्राप्तकर्ता का नाम, पदनाम एवं पूरा पता पत्र के सबसे नीचे बाईं ओर लिखा जाता है।",
+        "en": "Recipient's Name, Designation and Full Address placed at the bottom left corner."
+      }
     },
     "keyRules": [
-      { "hi": "शासकीय पत्र और अर्धशासकीय पत्र में मुख्य अंतर: इसमें प्रेषक का नाम शीर्ष पर दाईं ओर और प्रापक का नाम सबसे नीचे बाईं ओर होता है।", "en": "Key distinction: Sender info on top-right; Recipient info at bottom-left." },
-      { "hi": "प्रतिलिपि साधारणतः अर्धशासकीय पत्र में नहीं भेजी जाती।", "en": "Endorsements/copies are rarely attached in DO letters." }
+      {
+        "hi": "शासकीय पत्र और अर्धशासकीय पत्र में मुख्य अंतर: इसमें प्रेषक का नाम शीर्ष पर दाईं ओर और प्रापक का नाम सबसे नीचे बाईं ओर होता है।",
+        "en": "Key distinction: Sender info on top-right; Recipient info at bottom-left."
+      },
+      {
+        "hi": "प्रतिलिपि साधारणतः अर्धशासकीय पत्र में नहीं भेजी जाती।",
+        "en": "Endorsements/copies are rarely attached in DO letters."
+      }
     ],
     "commonMistakes": [
-      { "hi": "महोदय लिखना (DO पत्र में 'प्रिय श्री...' लिखना चाहिए)।", "en": "Using formal 'महोदय' instead of personal 'प्रिय श्री...'." },
-      { "hi": "'मुझे निदेश हुआ है' लिखना (DO में 'मैं आपसे अनुरोध करता हूँ' लिखा जाता है)।", "en": "Using 'मुझे निदेश हुआ है' - DO letters reflect personal authority of the writer." }
+      {
+        "hi": "महोदय लिखना (DO पत्र में 'प्रिय श्री...' लिखना चाहिए)।",
+        "en": "Using formal 'महोदय' instead of personal 'प्रिय श्री...'."
+      },
+      {
+        "hi": "'मुझे निदेश हुआ है' लिखना (DO में 'मैं आपसे अनुरोध करता हूँ' लिखा जाता है)।",
+        "en": "Using 'मुझे निदेश हुआ है' - DO letters reflect personal authority of the writer."
+      }
     ],
     "modelDraft": {
       "title": "अर्धशासकीय पत्र का प्रामाणिक प्रारूप",
@@ -86,14 +181,23 @@
         "hi": "प्रमुख सचिव, चिकित्सा एवं स्वास्थ्य विभाग की ओर से मंडलायुक्त, गोरखपुर को जापानी इन्सेफेलाइटिस (दिमागी बुखार) की रोकथाम हेतु स्वच्छता अभियान तेज करने के लिए एक अर्धशासकीय पत्र लिखिए।",
         "en": "Draft a D.O. Letter from Principal Secretary (Health) to Divisional Commissioner, Gorakhpur regarding vector-borne disease preventive drive."
       },
-      "requiredElements": ["अर्ध.शा. पत्र सं.", "प्रिय श्री", "सद्भावनाओं सहित", "आपका", "नीचे बाईं ओर प्रापक का पता"],
+      "requiredElements": [
+        "अर्ध.शा. पत्र सं.",
+        "प्रिय श्री",
+        "सद्भावनाओं सहित",
+        "आपका",
+        "नीचे बाईं ओर प्रापक का पता"
+      ],
       "sampleSolution": "अर्ध.शा. पत्र सं. 142/स्वास्थ्य-डीओ/2026..."
     }
   },
   {
     "id": "draft-office-memo",
     "slug": "office-memorandum",
-    "title": { "hi": "कार्यालय ज्ञाप (Office Memorandum)", "en": "Office Memorandum (O.M.)" },
+    "title": {
+      "hi": "कार्यालय ज्ञाप (Office Memorandum)",
+      "en": "Office Memorandum (O.M.)"
+    },
     "hindiName": "कार्यालय ज्ञाप",
     "marks": 8,
     "purpose": {
@@ -101,25 +205,64 @@
       "en": "Inter-departmental communication within Govt or instructions to staff regarding conditions of service, rules and orders."
     },
     "formatGuide": {
-      "heading": { "hi": "शीर्ष पर 'उत्तर प्रदेश शासन' व अनुभाग का नाम, संख्या एवं बीच में बड़े अक्षरों में 'कार्यालय ज्ञाप'।", "en": "Top center: 'उत्तर प्रदेश शासन', Section, Memo No., and heading 'कार्यालय ज्ञाप'." },
-      "subjectLine": { "hi": "विषय केंद्र में स्पष्ट अक्षरों में लिखा जाता है।", "en": "Subject clearly stated below date/place." },
-      "reference": { "hi": "आवश्यक होने पर संदर्भ अंकित होता है।", "en": "Reference included if applicable." },
-      "salutation": { "hi": "संबोधन (महोदय/प्रिय आदि) पूर्णतः वर्जित है।", "en": "NO salutation (Never use 'महोदय' or 'Sir')." },
+      "heading": {
+        "hi": "शीर्ष पर 'उत्तर प्रदेश शासन' व अनुभाग का नाम, संख्या एवं बीच में बड़े अक्षरों में 'कार्यालय ज्ञाप'।",
+        "en": "Top center: 'उत्तर प्रदेश शासन', Section, Memo No., and heading 'कार्यालय ज्ञाप'."
+      },
+      "subjectLine": {
+        "hi": "विषय केंद्र में स्पष्ट अक्षरों में लिखा जाता है।",
+        "en": "Subject clearly stated below date/place."
+      },
+      "reference": {
+        "hi": "आवश्यक होने पर संदर्भ अंकित होता है।",
+        "en": "Reference included if applicable."
+      },
+      "salutation": {
+        "hi": "संबोधन (महोदय/प्रिय आदि) पूर्णतः वर्जित है।",
+        "en": "NO salutation (Never use 'महोदय' or 'Sir')."
+      },
       "bodyStructure": [
-        { "hi": "अन्य पुरुष में लिखा जाता है। 'एतद्द्वारा सूचित किया जाता है कि...' या 'अधोहस्ताक्षरी को यह कहने का निदेश हुआ है...'", "en": "Drafted in passive/third person: 'It is hereby notified that...'." },
-        { "hi": "सीधे मुख्य निर्णय या नियम का विवरण दिया जाता है।", "en": "Operative order stated directly with clarity." }
+        {
+          "hi": "अन्य पुरुष में लिखा जाता है। 'एतद्द्वारा सूचित किया जाता है कि...' या 'अधोहस्ताक्षरी को यह कहने का निदेश हुआ है...'",
+          "en": "Drafted in passive/third person: 'It is hereby notified that...'."
+        },
+        {
+          "hi": "सीधे मुख्य निर्णय या नियम का विवरण दिया जाता है।",
+          "en": "Operative order stated directly with clarity."
+        }
       ],
-      "subscription": { "hi": "प्रशस्ति या अंत में 'भवदीय' नहीं लिखा जाता। केवल हस्ताक्षर, नाम एवं पदनाम।", "en": "NO subscription ('भवदीय' prohibited). Only Signature, Name, Designation." },
-      "authoritySignature": { "hi": "(हस्ताक्षर), (क.ख.ग.), पदनाम (दाहिनी ओर)।", "en": "(Signature), (Name), Designation on right." },
-      "distributionCopy": { "hi": "नीचे बाईं ओर: 'समस्त संबंधित अनुभाग / अधिकारी गण'।", "en": "Bottom left: Addressed to departments/sections concerned." }
+      "subscription": {
+        "hi": "प्रशस्ति या अंत में 'भवदीय' नहीं लिखा जाता। केवल हस्ताक्षर, नाम एवं पदनाम।",
+        "en": "NO subscription ('भवदीय' prohibited). Only Signature, Name, Designation."
+      },
+      "authoritySignature": {
+        "hi": "(हस्ताक्षर), (क.ख.ग.), पदनाम (दाहिनी ओर)।",
+        "en": "(Signature), (Name), Designation on right."
+      },
+      "distributionCopy": {
+        "hi": "नीचे बाईं ओर: 'समस्त संबंधित अनुभाग / अधिकारी गण'।",
+        "en": "Bottom left: Addressed to departments/sections concerned."
+      }
     },
     "keyRules": [
-      { "hi": "कार्यालय ज्ञाप में न कोई संबोधन (महोदय) होता है और न ही कोई अधोलेख (भवदीय)।", "en": "OM strictly contains neither salutation ('महोदय') nor subscription ('भवदीय')." },
-      { "hi": "अहंकारविहीन व आदेशात्मक भाषा से परे सूचनात्मक लहजा होता है।", "en": "Tone is informative and statutory rather than conversational." }
+      {
+        "hi": "कार्यालय ज्ञाप में न कोई संबोधन (महोदय) होता है और न ही कोई अधोलेख (भवदीय)।",
+        "en": "OM strictly contains neither salutation ('महोदय') nor subscription ('भवदीय')."
+      },
+      {
+        "hi": "अहंकारविहीन व आदेशात्मक भाषा से परे सूचनात्मक लहजा होता है।",
+        "en": "Tone is informative and statutory rather than conversational."
+      }
     ],
     "commonMistakes": [
-      { "hi": "'सेवा में' या 'महोदय' लिख देना (यह सबसे गंभीर त्रुटि है)।", "en": "Adding 'सेवा में' or 'महोदय' - instant mark deduction." },
-      { "hi": "अंत में 'भवदीय' लिख देना।", "en": "Writing 'भवदीय' at bottom." }
+      {
+        "hi": "'सेवा में' या 'महोदय' लिख देना (यह सबसे गंभीर त्रुटि है)।",
+        "en": "Adding 'सेवा में' or 'महोदय' - instant mark deduction."
+      },
+      {
+        "hi": "अंत में 'भवदीय' लिख देना।",
+        "en": "Writing 'भवदीय' at bottom."
+      }
     ],
     "modelDraft": {
       "title": "कार्यालय ज्ञाप का मानक प्रारूप",
@@ -131,14 +274,24 @@
         "hi": "सचिवालय में ग्रीष्मकालीन कार्य समय परिवर्तन (प्रातः 9:00 से सायं 5:00 बजे) के संबंध में कार्मिक विभाग की ओर से एक कार्यालय ज्ञाप का प्रारूप तैयार कीजिए।",
         "en": "Draft an Office Memorandum on behalf of Dept of Personnel announcing summer office timings in the Secretariat."
       },
-      "requiredElements": ["कार्यालय ज्ञाप", "संख्या", "उत्तर प्रदेश शासन", "एतद्द्वारा", "बिना महोदय", "बिना भवदीय"],
+      "requiredElements": [
+        "कार्यालय ज्ञाप",
+        "संख्या",
+        "उत्तर प्रदेश शासन",
+        "एतद्द्वारा",
+        "बिना महोदय",
+        "बिना भवदीय"
+      ],
       "sampleSolution": "संख्या: 405/कार्मिक-2-2026..."
     }
   },
   {
     "id": "draft-circular",
     "slug": "circular",
-    "title": { "hi": "परिपत्र (Circular / गश्ती पत्र)", "en": "Circular (Paripatra)" },
+    "title": {
+      "hi": "परिपत्र (Circular / गश्ती पत्र)",
+      "en": "Circular (Paripatra)"
+    },
     "hindiName": "परिपत्र",
     "marks": 8,
     "purpose": {
@@ -146,20 +299,44 @@
       "en": "When a single government directive, rule or circular note is simultaneously communicated to multiple departments/officers."
     },
     "formatGuide": {
-      "heading": { "hi": "संख्या, प्रेषक, सेवा में (समस्त मंडलायुक्त/जिलाधिकारी आदि), अनुभाग, स्थान व दिनांक।", "en": "Number, Sender, Recipient (All Divisional Commissioners/DMs), Section, Place/Date." },
-      "subjectLine": { "hi": "विषय रेखांकित।", "en": "Subject line prominently displayed." },
-      "salutation": { "hi": "महोदय (यदि पत्र रूप में हो)।", "en": "Sir / Madam (in letter format)." },
+      "heading": {
+        "hi": "संख्या, प्रेषक, सेवा में (समस्त मंडलायुक्त/जिलाधिकारी आदि), अनुभाग, स्थान व दिनांक।",
+        "en": "Number, Sender, Recipient (All Divisional Commissioners/DMs), Section, Place/Date."
+      },
+      "subjectLine": {
+        "hi": "विषय रेखांकित।",
+        "en": "Subject line prominently displayed."
+      },
+      "salutation": {
+        "hi": "महोदय (यदि पत्र रूप में हो)।",
+        "en": "Sir / Madam (in letter format)."
+      },
       "bodyStructure": [
-        { "hi": "सभी को समान रूप से लागू होने वाले सामान्य अनुदेश।", "en": "Universal operating instructions applicable across all offices." }
+        {
+          "hi": "सभी को समान रूप से लागू होने वाले सामान्य अनुदेश।",
+          "en": "Universal operating instructions applicable across all offices."
+        }
       ],
-      "subscription": { "hi": "भवदीय, (हस्ताक्षर), नाम, पदनाम।", "en": "Yours faithfully, Signature, Name, Designation." },
-      "authoritySignature": { "hi": "सक्षम प्राधिकारी का हस्ताक्षर।", "en": "Signature of Competent Authority." }
+      "subscription": {
+        "hi": "भवदीय, (हस्ताक्षर), नाम, पदनाम।",
+        "en": "Yours faithfully, Signature, Name, Designation."
+      },
+      "authoritySignature": {
+        "hi": "सक्षम प्राधिकारी का हस्ताक्षर।",
+        "en": "Signature of Competent Authority."
+      }
     },
     "keyRules": [
-      { "hi": "परिपत्र 'गश्ती पत्र' होता है। इसमें प्रापक व्यक्तिगत न होकर 'समस्त विभागाध्यक्ष / समस्त जिलाधिकारी' जैसे सामूहिक संबोधन होते हैं।", "en": "Collective addressees: 'All Heads of Departments / All District Magistrates'." }
+      {
+        "hi": "परिपत्र 'गश्ती पत्र' होता है। इसमें प्रापक व्यक्तिगत न होकर 'समस्त विभागाध्यक्ष / समस्त जिलाधिकारी' जैसे सामूहिक संबोधन होते हैं।",
+        "en": "Collective addressees: 'All Heads of Departments / All District Magistrates'."
+      }
     ],
     "commonMistakes": [
-      { "hi": "प्रापक में किसी एक व्यक्ति का नाम लिख देना।", "en": "Targeting a specific single officer instead of collective administration." }
+      {
+        "hi": "प्रापक में किसी एक व्यक्ति का नाम लिख देना।",
+        "en": "Targeting a specific single officer instead of collective administration."
+      }
     ],
     "modelDraft": {
       "title": "परिपत्र का मानक प्रारूप",
@@ -171,14 +348,22 @@
         "hi": "मुख्य सचिव की ओर से प्रदेश के समस्त कार्यालयों में सिंगल यूज प्लास्टिक पर पूर्ण प्रतिबंध लागू करने हेतु एक परिपत्र का प्रारूप बनाइए।",
         "en": "Draft a Circular from Chief Secretary to all UP Govt offices for total ban on Single Use Plastic."
       },
-      "requiredElements": ["परिपत्र", "समस्त विभागाध्यक्ष", "मुख्य सचिव", "समान निर्देश"],
+      "requiredElements": [
+        "परिपत्र",
+        "समस्त विभागाध्यक्ष",
+        "मुख्य सचिव",
+        "समान निर्देश"
+      ],
       "sampleSolution": "संख्या: 204/पर्यावरण-परिपत्र/2026..."
     }
   },
   {
     "id": "draft-tabular-precis",
     "slug": "tabular-precis",
-    "title": { "hi": "शासकीय पत्र का सारणी रूप में सार-लेखन (Tabular Précis)", "en": "Tabular Précis of Official Letter" },
+    "title": {
+      "hi": "शासकीय पत्र का सारणी रूप में सार-लेखन (Tabular Précis)",
+      "en": "Tabular Précis of Official Letter"
+    },
     "hindiName": "सारणी रूप सार-लेखन",
     "marks": 15,
     "purpose": {
@@ -186,21 +371,48 @@
       "en": "Mandatory 15-mark question in RO/ARO Mains Paper 2: Condensing complex official letters into standard government tabular columns."
     },
     "formatGuide": {
-      "heading": { "hi": "सारणी का शीर्षक: 'सरकारी पत्र संख्या ... का सारणी रूप (टेबुलर फॉर्म)'।", "en": "Table Title: 'सरकारी पत्र संख्या ... का सारणी रूप'." },
-      "subjectLine": { "hi": "तालिका के 5 या 6 मानक स्तंभ (Columns) बनाए जाते हैं।", "en": "5 or 6 standard columns." },
-      "reference": { "hi": "स्तंभ 1: क्रम संख्या | स्तंभ 2: पत्र संख्या एवं दिनांक | स्तंभ 3: प्रेषक | स्तंभ 4: प्रापक (सेवा में) | स्तंभ 5: विषय | स्तंभ 6: सार (संक्षिप्त विवरण)।", "en": "Col 1: S.No | Col 2: Letter No. & Date | Col 3: Sender | Col 4: Recipient | Col 5: Subject | Col 6: Gist / Purport." },
+      "heading": {
+        "hi": "सारणी का शीर्षक: 'सरकारी पत्र संख्या ... का सारणी रूप (टेबुलर फॉर्म)'।",
+        "en": "Table Title: 'सरकारी पत्र संख्या ... का सारणी रूप'."
+      },
+      "subjectLine": {
+        "hi": "तालिका के 5 या 6 मानक स्तंभ (Columns) बनाए जाते हैं।",
+        "en": "5 or 6 standard columns."
+      },
+      "reference": {
+        "hi": "स्तंभ 1: क्रम संख्या | स्तंभ 2: पत्र संख्या एवं दिनांक | स्तंभ 3: प्रेषक | स्तंभ 4: प्रापक (सेवा में) | स्तंभ 5: विषय | स्तंभ 6: सार (संक्षिप्त विवरण)।",
+        "en": "Col 1: S.No | Col 2: Letter No. & Date | Col 3: Sender | Col 4: Recipient | Col 5: Subject | Col 6: Gist / Purport."
+      },
       "bodyStructure": [
-        { "hi": "स्तंभ 6 (सार) सबसे महत्वपूर्ण है: पत्र के आदेश, शर्ते एवं अंतिम निर्देश को बुलेट बिंदुओं में सारगर्भित लिखना होता है।", "en": "Col 6 is paramount: capture operative conditions, funding, deadlines crisply." }
+        {
+          "hi": "स्तंभ 6 (सार) सबसे महत्वपूर्ण है: पत्र के आदेश, शर्ते एवं अंतिम निर्देश को बुलेट बिंदुओं में सारगर्भित लिखना होता है।",
+          "en": "Col 6 is paramount: capture operative conditions, funding, deadlines crisply."
+        }
       ],
-      "subscription": { "hi": "तालिका के अंत में कोई हस्ताक्षर नहीं होता।", "en": "No signature inside the table." },
-      "authoritySignature": { "hi": "पूर्णतः व्यवस्थित रेखाचित्र व स्वच्छता।", "en": "Neat geometric borders with sharp text alignment." }
+      "subscription": {
+        "hi": "तालिका के अंत में कोई हस्ताक्षर नहीं होता।",
+        "en": "No signature inside the table."
+      },
+      "authoritySignature": {
+        "hi": "पूर्णतः व्यवस्थित रेखाचित्र व स्वच्छता।",
+        "en": "Neat geometric borders with sharp text alignment."
+      }
     },
     "keyRules": [
-      { "hi": "पत्र की अनावश्यक भाषा को छोड़ते हुए केवल कार्यकारी अंशों को सार वाले खाने में लिखना चाहिए।", "en": "Eliminate bureaucratic verbosity; extract only core decisions and duties." }
+      {
+        "hi": "पत्र की अनावश्यक भाषा को छोड़ते हुए केवल कार्यकारी अंशों को सार वाले खाने में लिखना चाहिए।",
+        "en": "Eliminate bureaucratic verbosity; extract only core decisions and duties."
+      }
     ],
     "commonMistakes": [
-      { "hi": "सार वाले कॉलम में पूरा पत्र ही ज्यों का त्यों उतार देना (संक्षिप्त करना आवश्यक है)।", "en": "Copying entire sentences verbatim into the summary column without condensing." },
-      { "hi": "पत्र संख्या या दिनांक लिखना भूल जाना।", "en": "Omitting letter number or date in Col 2." }
+      {
+        "hi": "सार वाले कॉलम में पूरा पत्र ही ज्यों का त्यों उतार देना (संक्षिप्त करना आवश्यक है)।",
+        "en": "Copying entire sentences verbatim into the summary column without condensing."
+      },
+      {
+        "hi": "पत्र संख्या या दिनांक लिखना भूल जाना।",
+        "en": "Omitting letter number or date in Col 2."
+      }
     ],
     "modelDraft": {
       "title": "शासकीय पत्र के सारणी रूप का आदर्श मॉडल",
@@ -212,8 +424,489 @@
         "hi": "दिए गए स्वास्थ्य विभाग के पत्र का सारणी रूप में सार तैयार कीजिए जिसमें प्राथमिक स्वास्थ्य केंद्रों पर 24x7 प्रसव सुविधा उपलब्ध कराने का आदेश दिया गया है।",
         "en": "Prepare Tabular Précis of Health Dept order mandating 24x7 delivery care at PHCs."
       },
-      "requiredElements": ["क्रम सं.", "पत्र सं. व दिनांक", "प्रेषक", "प्रापक", "विषय", "सार"],
+      "requiredElements": [
+        "क्रम सं.",
+        "पत्र सं. व दिनांक",
+        "प्रेषक",
+        "प्रापक",
+        "विषय",
+        "सार"
+      ],
       "sampleSolution": "तालिका निर्माण: स्तंभ 1 से 6..."
+    }
+  },
+  {
+    "id": "draft-office-order",
+    "slug": "office-order",
+    "title": {
+      "hi": "कार्यालय आदेश (Office Order)",
+      "en": "Office Order"
+    },
+    "hindiName": "कार्यालय आदेश",
+    "marks": 10,
+    "purpose": {
+      "hi": "सचिवालय अथवा किसी विभाग/कार्यालय के आंतरिक कर्मचारियों के पदस्थापन, स्थानांतरण, अवकाश स्वीकृति, कार्य-विभाजन या आंतरिक प्रशासनिक नियमों की सूचना देने हेतु।",
+      "en": "Internal administrative directives regarding postings, transfers, leave sanction, distribution of work, or service conditions within an office or department."
+    },
+    "formatGuide": {
+      "heading": {
+        "hi": "सर्वोच्च मध्य में कार्यालय/विभाग का नाम, नीचे पत्रांक एवं दाईं ओर स्थान व दिनांक।",
+        "en": "Top center: Department/Office name, Dispatch number below, Place & Date on right."
+      },
+      "subjectLine": {
+        "hi": "कार्यालय आदेश में औपचारिक 'विषय' लिखना अनिवार्य नहीं होता; सीधे शीर्षक 'कार्यालय आदेश' लिखा जाता है।",
+        "en": "In Office Order, explicit 'Subject' is generally omitted; heading 'कार्यालय आदेश' is centered."
+      },
+      "reference": {
+        "hi": "यदि किसी पूर्व आदेश अथवा कर्मचारी के प्रार्थना पत्र के क्रम में हो तो उसका संक्षिप्त संदर्भ आदेश के प्रारंभ में दिया जाता है।",
+        "en": "Brief reference to prior orders or employee representation at the opening."
+      },
+      "salutation": {
+        "hi": "कोई संबोधन (महोदय/प्रिय श्री आदि) नहीं होता। यह पूर्णतः तटस्थ एवं निर्देशात्मक भाषा में होता है।",
+        "en": "No salutation (महोदय or प्रिय श्री is strictly prohibited). Tone is objective and authoritative."
+      },
+      "bodyStructure": [
+        {
+          "hi": "सीधे आदेश का विवरण दिया जाता है (जैसे: 'श्री रमेश वर्मा, समीक्षा अधिकारी को एतद्द्वारा तात्कालिक प्रभाव से... पदस्थापित किया जाता है')।",
+          "en": "Direct operational directive starting with employee designation and assigned duty."
+        },
+        {
+          "hi": "यदि कोई प्रशासनिक शर्त या वेतन-भत्ता प्रतिबंध हो तो प्रस्तर 2 में स्पष्ट उल्लेख।",
+          "en": "Subsequent numbered clause specifying administrative terms, conditions or allowances."
+        }
+      ],
+      "subscription": {
+        "hi": "कोई शिष्टाचार शब्द (भवदीय/आपका) नहीं होता। दाईं ओर सक्षम अधिकारी के हस्ताक्षर, नाम व पदनाम।",
+        "en": "No formal subscription like भवदीय. Directly signed by competent authority with designation on right."
+      },
+      "authoritySignature": {
+        "hi": "हस्ताक्षर (क.ख.ग.) / पदनाम / विभाग का नाम।",
+        "en": "Signature / Designation / Department."
+      },
+      "distributionCopy": {
+        "hi": "बाईं ओर नीचे 'प्रतिलिपि निम्नलिखित को सूचनार्थ एवं आवश्यक कार्यवाही हेतु प्रेषित:' देकर संबंधित अधिकारियों/अनुभागों की सूची।",
+        "en": "Endorsement block on bottom-left: 'Copy forwarded for information and necessary action to:'"
+      }
+    },
+    "keyRules": [
+      {
+        "hi": "कार्यालय आदेश का प्रसार केवल कार्यालय के आंतरिक कर्मचारियों तक सीमित होता है; बाह्य व्यक्तियों को यह नहीं भेजा जाता।",
+        "en": "Applicable strictly to internal personnel; never addressed to external general public."
+      },
+      {
+        "hi": "इसमें संबोधन (महोदय) और अधोलेखा (भवदीय) का प्रयोग सर्वथा वर्जित है।",
+        "en": "Salutation (महोदय) and Subscription (भवदीय) are strictly barred."
+      },
+      {
+        "hi": "इसकी भाषा आज्ञापरक एवं अन्य पुरुष (Third Person) में होती है।",
+        "en": "Language is authoritative and phrased in third person."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "hi": "कार्यालय आदेश में 'महोदय' संबोधन अथवा 'भवदीय' लिख देना (सबसे गंभीर त्रुटि)।",
+        "en": "Using 'महोदय' salutation or 'भवदीय' subscription in Office Order."
+      },
+      {
+        "hi": "कार्यालय के बाहर के किसी व्यक्ति या गैर-सरकारी संगठन को सीधे कार्यालय आदेश प्रेषित करना।",
+        "en": "Addressing an office order to an external non-governmental entity."
+      }
+    ],
+    "modelDraft": {
+      "title": "कार्यालय आदेश का प्रामाणिक प्रारूप (Secretariat Standard)",
+      "hindiContent": "                                      उत्तर प्रदेश शासन\n                                   कार्मिक एवं नियुक्ति अनुभाग-1\nसंख्या: 452/कार्मिक-1/2026\n                                                                          लखनऊ: दिनांक 15 नवंबर, 2026\n\n                                        कार्यालय आदेश\n\nश्री रमेश चन्द्र वर्मा, समीक्षा अधिकारी, गृह (पुलिस) अनुभाग-3, उत्तर प्रदेश सचिवालय, लखनऊ को तात्कालिक प्रभाव से जनहित में उनके वर्तमान पद के कार्यभार के साथ-साथ सचिवालय प्रशासन अनुभाग-2 का अतिरिक्त कार्यभार सौंपा जाता है।\n\n2- श्री वर्मा को इस अतिरिक्त कार्यभार हेतु शासन द्वारा अनुमन्य कोई अतिरिक्त वेतन अथवा भत्ता देय नहीं होगा।\n\n                                                                                     हस्ताक्षर\n                                                                                    (क. ख. ग.)\n                                                                                    विशेष सचिव,\n                                                                                उत्तर प्रदेश शासन।\n\nसंख्या एवं दिनांक तदैव।\nप्रतिलिपि निम्नलिखित को सूचनार्थ एवं आवश्यक कार्यवाही हेतु प्रेषित:-\n1- प्रमुख सचिव, सचिवालय प्रशासन विभाग, उत्तर प्रदेश शासन।\n2- संयुक्त सचिव, गृह (पुलिस) विभाग, उत्तर प्रदेश शासन।\n3- संबंधित अधिकारी (श्री रमेश चन्द्र वर्मा, समीक्षा अधिकारी)।\n4- लेखा अनुभाग, सचिवालय प्रशासन विभाग।\n5- गार्ड फाइल।\n\n                                                                                     आज्ञा से,\n                                                                                     हस्ताक्षर\n                                                                                    (क. ख. ग.)\n                                                                                    विशेष सचिव।",
+      "englishExplanation": "Standard UP Secretariat Office Order formatting with department header, order number, direct directive without salutation/subscription, and endorsement copies."
+    },
+    "practiceTask": {
+      "prompt": {
+        "hi": "उत्तर प्रदेश सचिवालय में कार्यरत एक समीक्षा अधिकारी को जनहित में अन्य अनुभाग का अतिरिक्त कार्यभार सौंपने हेतु कार्मिक विभाग की ओर से एक कार्यालय आदेश का प्रारूप तैयार कीजिए।",
+        "en": "Draft an Office Order from Personnel Department assigning additional charge of another section to a Review Officer in public interest."
+      },
+      "requiredElements": [
+        "शीर्ष पर उत्तर प्रदेश शासन एवं अनुभाग",
+        "पत्रांक एवं दिनांक",
+        "मध्य में शीर्षक 'कार्यालय आदेश'",
+        "संबोधन (महोदय) और भवदीय का पूर्ण अभाव",
+        "सक्षम प्राधिकारी के हस्ताक्षर व पदनाम",
+        "प्रतिलिपि पृष्ठांकन ब्लॉक"
+      ],
+      "sampleSolution": "Follow the standard model draft given in the reference tab."
+    }
+  },
+  {
+    "id": "draft-reminder",
+    "slug": "reminder",
+    "title": {
+      "hi": "अनुस्मारक / स्मरण पत्र (Reminder)",
+      "en": "Reminder / Anusmarak"
+    },
+    "hindiName": "अनुस्मारक (स्मरण पत्र)",
+    "marks": 10,
+    "purpose": {
+      "hi": "जब किसी पूर्व प्रेषित पत्र, शासनादेश या निर्देश पर नियत समय बीत जाने के बाद भी वांछित उत्तर या कार्यवाही प्राप्त न हुई हो, तब संबंधित अधिकारी को स्मरण कराने हेतु।",
+      "en": "Sent when no response or action has been received on a previously dispatched official letter within stipulated timelines."
+    },
+    "formatGuide": {
+      "heading": {
+        "hi": "मूल पत्र के प्रारूप (शासकीय अथवा अर्धशासकीय) के अनुसार शीर्षक व पत्रांक, जिसके नीचे कोष्ठक में '(अनुस्मारक-1)' अंकित किया जाता है।",
+        "en": "Follows parent letter format with '(अनुस्मारक-1)' bracketed below dispatch number."
+      },
+      "subjectLine": {
+        "hi": "मूल पत्र का ही विषय ज्यों का त्यों लिखा जाता है।",
+        "en": "Exact subject line of original dispatch is retained."
+      },
+      "reference": {
+        "hi": "मूल पत्र संख्या एवं दिनांक का अनिवार्यतः स्पष्ट उल्लेख किया जाता है।",
+        "en": "Mandatory citation of original letter number and date in reference block."
+      },
+      "salutation": {
+        "hi": "यदि शासकीय प्रारूप में हो तो 'महोदय'; यदि अर्धशासकीय प्रारूप में हो तो 'प्रिय श्री...'",
+        "en": "Formal 'महोदय' if in official letter format; cordial 'प्रिय श्री...' if in D.O. format."
+      },
+      "bodyStructure": [
+        {
+          "hi": "प्रथम प्रस्तर: पूर्व पत्र के पत्रांक व दिनांक का संदर्भ देते हुए अपेक्षित सूचना का स्मरण।",
+          "en": "Opening clause citing previous dispatch number and date."
+        },
+        {
+          "hi": "द्वितीय प्रस्तर: समयावधि बीत जाने पर भी आख्या अप्राप्त रहने का उल्लेख एवं अविलंब प्रेषण का निर्देश।",
+          "en": "Operative directive requesting immediate dispatch of pending report."
+        }
+      ],
+      "subscription": {
+        "hi": "शासकीय में 'भवदीय' तथा अर्धशासकीय में 'आपका / सद्भावनाओं सहित'।",
+        "en": "Formal भवदीय (Official) or आपका (D.O.)."
+      },
+      "authoritySignature": {
+        "hi": "हस्ताक्षर, नाम एवं पदनाम।",
+        "en": "Signature, Name, Designation."
+      },
+      "distributionCopy": {
+        "hi": "यदि आवश्यक हो तो उच्चाधिकारियों को सूचनार्थ प्रतिलिपि।",
+        "en": "Endorsement copies where hierarchical escalation is needed."
+      }
+    },
+    "keyRules": [
+      {
+        "hi": "अनुस्मारक की भाषा शिष्ट परंतु दृढ़ होनी चाहिए। इसमें अनावश्यक विस्तार नहीं होता।",
+        "en": "Tone must remain courteous yet firm, avoiding verbose re-narration of facts."
+      },
+      {
+        "hi": "पूर्व पत्र का पत्रांक एवं दिनांक देना अनिवार्य है, अन्यथा अनुस्मारक का विधिक प्रयोजन सिद्ध नहीं होता।",
+        "en": "Quoting original letter number and dispatch date is statutorily mandatory."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "hi": "मूल पत्र की संख्या और दिनांक का उल्लेख न करना।",
+        "en": "Omitting the original dispatch letter number and date."
+      },
+      {
+        "hi": "शीर्षक में (अनुस्मारक-1) न लिखना, जिससे यह सामान्य पत्र प्रतीत होता है।",
+        "en": "Failing to mark '(अनुस्मारक-1)' next to the letter reference."
+      }
+    ],
+    "modelDraft": {
+      "title": "अनुस्मारक (शासकीय प्रारूप) का प्रामाणिक उदाहरण",
+      "hindiContent": "                                      उत्तर प्रदेश शासन\n                                   राजस्व अनुभाग-4, लखनऊ\n\nसंख्या: 108(1)/रा-4/2026 (अनुस्मारक-1)\n\nप्रेषक,\n    क. ख. ग.,\n    विशेष सचिव,\n    उत्तर प्रदेश शासन।\nसेवा में,\n    समस्त जिलाधिकारी,\n    उत्तर प्रदेश।\n\n                                                                          दिनांक: 15 नवंबर, 2026\n\nविषय: बाढ़ राहत वितरण एवं पुनर्वास योजना 2026 की समीक्षा आख्या प्रेषण के संबंध में।\n\nमहोदय,\n    कृपया उपर्युक्त विषयक शासन के समसंख्यक पत्र दिनांक 15 अक्टूबर, 2026 का संदर्भ ग्रहण करने का कष्ट करें, जिसके द्वारा जनपदवार बाढ़ राहत वितरण की प्रगति आख्या एक सप्ताह के भीतर उपलब्ध कराने के निर्देश दिए गए थे।\n\n2- अत्यंत खेद का विषय है कि एक माह व्यतीत हो जाने के उपरांत भी आपके जनपद से अपेक्षित आख्या शासन को अब तक अप्राप्त है।\n\n3- अतः आपसे पुनः अनुरोध है कि उक्त वांछित आख्या विशेष वाहक अथवा ई-मेल द्वारा तीन दिवस के भीतर शासन को अनिवार्य रूप से उपलब्ध कराना सुनिश्चित करें, ताकि उच्च स्तर पर होने वाली समीक्षा बैठक में अद्यतन स्थिति से माननीय मुख्यमंत्री जी को अवगत कराया जा सके।\n\n                                                                                     भवदीय,\n                                                                                     हस्ताक्षर\n                                                                                    (क. ख. ग.)\n                                                                                    विशेष सचिव।",
+      "englishExplanation": "Official Reminder format citing original dispatch reference, expressing non-receipt of timely compliance, and setting firm 3-day deadline."
+    },
+    "practiceTask": {
+      "prompt": {
+        "hi": "शासन द्वारा जनपदों से मांगी गई विकास योजनाओं की प्रगति आख्या समय से अप्राप्त होने पर समस्त जिलाधिकारियों को भेजे जाने वाले एक अनुस्मारक का प्रारूप तैयार कीजिए।",
+        "en": "Draft a Reminder letter addressed to all District Magistrates urging expedited submission of pending developmental progress reports."
+      },
+      "requiredElements": [
+        "पत्रांक के साथ (अनुस्मारक-1) का अंकन",
+        "प्रेषक व सेवा में ब्लॉक",
+        "पूर्व पत्र संख्या एवं दिनांक का अनिवार्य संदर्भ",
+        "कठोर व शिष्ट भाषा में समय-सीमा का निर्धारण",
+        "भवदीय एवं हस्ताक्षर"
+      ],
+      "sampleSolution": "Follow the standard reminder draft structure."
+    }
+  },
+  {
+    "id": "draft-notification-release",
+    "slug": "notification-release",
+    "title": {
+      "hi": "विज्ञप्ति / अधिसूचना (Notification / Press Release)",
+      "en": "Notification / Press Release"
+    },
+    "hindiName": "विज्ञप्ति / अधिसूचना",
+    "marks": 10,
+    "purpose": {
+      "hi": "जब शासन या आयोग द्वारा कोई परीक्षा तिथि, परिणाम, नीति, नियम, सेवा शर्तें अथवा सामान्य जनता व अभ्यर्थियों से संबंधित महत्वपूर्ण सूचनाएं आधिकारिक गजट में प्रकाशित कर सार्वजनिक करनी हों।",
+      "en": "Issued to publish statutes, rules, public examinations, recruitment notices, or government policy decisions officially in the Government Gazette."
+    },
+    "formatGuide": {
+      "heading": {
+        "hi": "शीर्ष पर 'उत्तर प्रदेश लोक सेवा आयोग / शासन', पत्रांक, स्थान एवं दिनांक। नीचे मध्य में 'विज्ञप्ति' अथवा 'अधिसूचना'।",
+        "en": "Header with UPPSC / UP Govt, Department name, dispatch number, place and date. Centered title: 'विज्ञप्ति'."
+      },
+      "subjectLine": {
+        "hi": "विज्ञप्ति में अलग से विषय पंक्ति नहीं लिखी जाती; सीधे मुख्य वक्तव्य से प्रारंभ होता है।",
+        "en": "Standalone subject line is typically omitted; announcement opens with formal decree."
+      },
+      "reference": {
+        "hi": "यदि किसी पूर्व अधिसूचना अथवा विज्ञापन के संदर्भ में हो तो प्रथम पंक्ति में विज्ञापन संख्या का संदर्भ।",
+        "en": "Referenced within opening clause citing advertisement number."
+      },
+      "salutation": {
+        "hi": "संबोधन (महोदय आदि) पूर्णतः अनुपस्थित रहता है क्योंकि यह सर्वसाधारण हेतु होता है।",
+        "en": "No salutation (महोदय is absent) as it addresses the general public/candidates."
+      },
+      "bodyStructure": [
+        {
+          "hi": "सर्वसाधारण एवं अभ्यर्थियों के सूचनार्थ एतद्द्वारा अधिसूचित किया जाता है कि... (विधिक व स्पष्ट विवरण)।",
+          "en": "Opening: 'It is hereby notified for information of candidates that...'"
+        },
+        {
+          "hi": "प्रवेश पत्र डाउनलोड करने की तिथि, परीक्षा समय एवं अनुदेशों का क्रमिक विवरण।",
+          "en": "Numbered procedural steps detailing admit card downloads, entry instructions, identity documents."
+        }
+      ],
+      "subscription": {
+        "hi": "कोई भवदीय नहीं; सीधे 'आज्ञा से' सक्षम अधिकारी के हस्ताक्षर व पदनाम।",
+        "en": "Signed under formal authority ('आज्ञा से') with designation."
+      },
+      "authoritySignature": {
+        "hi": "आज्ञा से / हस्ताक्षर / (क.ख.ग.) / सचिव।",
+        "en": "By Order / Signature / Secretary."
+      },
+      "distributionCopy": {
+        "hi": "अधीक्षक, राजकीय मुद्रणालय (गजट में प्रकाशनार्थ), सूचना निदेशक (प्रेस में निशुल्क प्रकाशनार्थ)।",
+        "en": "Superintendent Govt Press (for Gazette publication), Director Information (for press coverage)."
+      }
+    },
+    "keyRules": [
+      {
+        "hi": "अधिसूचना अनिवार्य रूप से उत्तर प्रदेश के असाधारण गजट में प्रकाशित होती है और इसका विधिक प्रभाव होता है।",
+        "en": "Statutorily published in Official Gazette with legislative enforceability."
+      },
+      {
+        "hi": "भाषा अत्यंत गंभीर, वैधानिक, औपचारिक एवं अन्य पुरुष में होनी चाहिए।",
+        "en": "Language is strictly formal, legalistic, and objective."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "hi": "विज्ञप्ति में प्रेषक और सेवा में लिखना (विज्ञप्ति सर्वसाधारण हेतु होती है, इसमें प्रेषक/सेवा में नहीं होता)।",
+        "en": "Adding 'प्रेषक / सेवा में' block (press communique has no individual recipient)."
+      },
+      {
+        "hi": "महोदय अथवा भवदीय का प्रयोग करना।",
+        "en": "Using salutation or subscription in press notifications."
+      }
+    ],
+    "modelDraft": {
+      "title": "लोक सेवा आयोग विज्ञप्ति का प्रामाणिक प्रारूप",
+      "hindiContent": "                         उत्तर प्रदेश लोक सेवा आयोग, प्रयागराज\n\nसंख्या: 185/02/ई-1/2026\n                                                                        प्रयागराज: दिनांक 15 नवंबर, 2026\n\n                                           विज्ञप्ति\n\nसर्वसाधारण एवं विशेषकर अभ्यर्थियों के सूचनार्थ एतद्द्वारा अधिसूचित किया जाता है कि आयोग के विज्ञापन संख्या: A-4/E-1/2026 के अंतर्गत विज्ञापित समीक्षा अधिकारी/सहायक समीक्षा अधिकारी आदि (सामान्य/विशेष चयन) प्रारंभिक परीक्षा-2026 का आयोजन उत्तर प्रदेश के विभिन्न जनपदों में दिनांक 22 फरवरी, 2027 (रविवार) को पूर्वान्ह 09:30 से 12:30 बजे तक एकल सत्र में संपन्न कराया जाएगा।\n\n2- अभ्यर्थी आयोग की आधिकारिक वेबसाइट (https://uppsc.up.nic.in) से अपने O.T.R. नंबर के माध्यम से परीक्षा तिथि से 10 दिन पूर्व अपना ई-प्रवेश पत्र (Admit Card) डाउनलोड कर सकेंगे। डाक द्वारा कोई भी प्रवेश पत्र प्रेषित नहीं किया जाएगा।\n\n3- परीक्षा केंद्र पर अभ्यर्थियों को ई-प्रवेश पत्र के साथ मूल पहचान पत्र (आधार कार्ड/पैन कार्ड) तथा दो पासपोर्ट साइज छायाचित्र लाना अनिवार्य होगा।\n\n                                                                                     आज्ञा से,\n                                                                                     हस्ताक्षर\n                                                                                    (क. ख. ग.)\n                                                                                      सचिव।",
+      "englishExplanation": "Standard Commission press communique notifying examination schedule and admit card access via OTR portal."
+    },
+    "practiceTask": {
+      "prompt": {
+        "hi": "उत्तर प्रदेश लोक सेवा आयोग द्वारा आरओ/एआरओ प्रारंभिक परीक्षा-2026 की तिथि एवं ई-प्रवेश पत्र जारी करने की सूचना देने हेतु एक प्रेस विज्ञप्ति का प्रारूप तैयार कीजिए।",
+        "en": "Draft a Press Communique from UPPSC notifying the exam date and e-Admit Card release schedule for RO/ARO Preliminary Exam 2026."
+      },
+      "requiredElements": [
+        "आयोग का नाम शीर्ष पर",
+        "पत्रांक, स्थान व दिनांक",
+        "मध्य में शीर्षक 'विज्ञप्ति'",
+        "प्रेषक/सेवा में और महोदय/भवदीय का पूर्ण अभाव",
+        "आज्ञा से, सचिव के हस्ताक्षर"
+      ],
+      "sampleSolution": "Follow the official communique model draft."
+    }
+  },
+  {
+    "id": "draft-noting",
+    "slug": "noting",
+    "title": {
+      "hi": "टिप्पण लेखन (Secretariat File Noting)",
+      "en": "File Noting"
+    },
+    "hindiName": "टिप्पण (Noting)",
+    "marks": 10,
+    "purpose": {
+      "hi": "सचिवालय में किसी पत्रावली पर विचारणीय विषय के निस्तारण, पूर्व दृष्टांतों की खोज, नियमों की व्याख्या एवं सक्षम अधिकारी के अनुमोदनार्थ संस्तुति प्रस्तुत करने हेतु।",
+      "en": "Internal analytical deliberation on a government file outlining facts, rules, precedents, and concrete recommendations for ministerial approval."
+    },
+    "formatGuide": {
+      "heading": {
+        "hi": "पत्रावली संख्या शीर्ष पर। बाईं ओर हाशिए में संदर्भ (पृष्ठ संख्या/पताका)।",
+        "en": "File number at top. Left margin records cross-references and flags."
+      },
+      "subjectLine": {
+        "hi": "विचारार्थ विषय (Subject for Consideration) संक्षिप्त रूप में।",
+        "en": "Clear subject line specifying issue under submission."
+      },
+      "reference": {
+        "hi": "प्राप्त पत्र/प्रार्थना पत्र (पताका 'क') एवं संबंधित सेवा नियमावली (पताका 'ख')।",
+        "en": "Exhibits flagged as Flag 'A' (Incoming Dak), Flag 'B' (Service Rules)."
+      },
+      "salutation": {
+        "hi": "कोई संबोधन नहीं होता।",
+        "en": "No salutation."
+      },
+      "bodyStructure": [
+        {
+          "hi": "प्रकरण का संक्षिप्त इतिहास एवं प्राप्त पत्र का संदर्भ।",
+          "en": "Brief chronological history of the case citing Flag A."
+        },
+        {
+          "hi": "सुसंगत सेवा नियमों, शासनादेशों व पूर्व दृष्टांतों का विधिक परीक्षण।",
+          "en": "Legal examination citing statutory service rules and precedents."
+        },
+        {
+          "hi": "निर्णय हेतु सक्षम प्राधिकारी के सम्मुख स्पष्ट प्रस्ताव व अनुशंसा।",
+          "en": "Definite operational proposal submitted for approval."
+        }
+      ],
+      "subscription": {
+        "hi": "बाईं ओर समीक्षा अधिकारी के हस्ताक्षर व पदनाम। दाईं ओर उच्चाधिकारियों के हस्ताक्षर हेतु स्थान।",
+        "en": "RO signs on left margin; hierarchy endorses on right."
+      },
+      "authoritySignature": {
+        "hi": "हस्ताक्षर (समीक्षा अधिकारी) -> अनुभाग अधिकारी -> उप सचिव -> प्रमुख सचिव।",
+        "en": "Review Officer -> Section Officer -> Joint Secretary -> Secretary."
+      }
+    },
+    "keyRules": [
+      {
+        "hi": "समीक्षा अधिकारी का दायित्व है कि वह पत्रावली पर तथ्य निष्पक्ष, त्रुटिहीन एवं नियमों के दायरे में प्रस्तुत करे।",
+        "en": "RO must present statutory facts objectively and without personal bias."
+      },
+      {
+        "hi": "टिप्पणी में अनावश्यक पुनरावृत्ति नहीं होनी चाहिए; निर्णय हेतु विकल्प स्पष्ट होने चाहिए।",
+        "en": "Brevity, precision, and clarity of recommendation are essential."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "hi": "टिप्पणी में अपनी व्यक्तिगत राय थोपना (केवल नियमों और साक्ष्यों के आधार पर संस्तुति होनी चाहिए)।",
+        "en": "Injecting personal bias rather than statutory evidence and service rule citations."
+      },
+      {
+        "hi": "पताकाओं (Flags) का संदर्भ न देना।",
+        "en": "Omitting cross-reference flags (Flag A, Flag B) for attached documents."
+      }
+    ],
+    "modelDraft": {
+      "title": "सचिवालय सारगर्भित टिप्पणी का प्रामाणिक प्रारूप",
+      "hindiContent": "उत्तर प्रदेश शासन\nसचिवालय प्रशासन अनुभाग-3\nपत्रावली संख्या: 204/सा-3/2026\n\nविषय: कनिष्ठ सहायकों की वरिष्ठता सूची एवं पदोन्नति के संबंध में।\n\nपताका 'क' पर अनुभाग के अंतर्गत कार्यरत कनिष्ठ सहायकों द्वारा सहायक समीक्षा अधिकारी के रिक्त पदों पर पदोन्नति हेतु प्रस्तुत प्रत्यावेदन विचारार्थ प्रस्तुत है।\n\n2- इस संबंध में उत्तर प्रदेश सचिवालय अवर सेवा नियमावली, 1999 (यथासंशोधित) के नियम-8(2) का अवलोकन करने का कष्ट करें (पताका 'ख')। नियमानुसार, कनिष्ठ सहायक पद पर 05 वर्ष की नियमित सेवा पूर्ण करने वाले कार्मिक ही सहायक समीक्षा अधिकारी पद पर चयन समिति द्वारा पदोन्नति हेतु अर्ह होते हैं।\n\n3- विभागीय सेवा अभिलेखों के परीक्षण से स्पष्ट है कि आवेदक 04 कार्मिकों ने दिनांक 31 मार्च, 2026 को उक्त 05 वर्ष की अनिवार्य अर्हकारी सेवा पूर्ण कर ली है तथा उनके विरुद्ध कोई सतर्कता जांच अथवा विभागीय अनुशासनिक कार्यवाही लंबित नहीं है।\n\n4- प्रस्ताव:\nयदि अनुमोदन प्राप्त हो, तो अर्ह 04 कार्मिकों के चरित्र पंजिका एवं कार्य मूल्यांकन आख्या सहित विभागीय चयन समिति (DPC) के समक्ष प्रकरण प्रस्तुत करने हेतु अग्रेतर कार्यवाही की जाए।\n\nहस्ताक्षर                                                                               हस्ताक्षर\n(क. ख. ग.)                                                                           (अनुभाग अधिकारी)\nसमीक्षा अधिकारी                                                                         16/11/2026\n15/11/2026\n\n                                                 हस्ताक्षर\n                                                (उप सचिव)\n                                                17/11/2026",
+      "englishExplanation": "Substantive file note written by Review Officer citing service rules, examining eligibility of officials, and proposing concrete action for Section Officer and Deputy Secretary endorsement."
+    },
+    "practiceTask": {
+      "prompt": {
+        "hi": "सचिवालय प्रशासन अनुभाग में कार्यरत कर्मचारियों के पदोन्नति प्रकरण पर नियमों एवं पूर्व दृष्टांतों का परीक्षण करते हुए सक्षम प्राधिकारी के अनुमोदनार्थ एक सारगर्भित टिप्पणी (Substantive Note) लिखिए।",
+        "en": "Write a substantive file noting examining promotional eligibility under secretariat subordinate service rules for competent authority approval."
+      },
+      "requiredElements": [
+        "पत्रावली संख्या एवं विषय",
+        "पताकाओं (Flag A, Flag B) का उल्लेख",
+        "सेवा नियमावली 1999 के नियम का संदर्भ",
+        "स्पष्ट प्रस्ताव प्रस्तर",
+        "समीक्षा अधिकारी एवं अनुभाग अधिकारी का हस्ताक्षर ब्लॉक"
+      ],
+      "sampleSolution": "Follow the standard Secretariat noting model draft."
+    }
+  },
+  {
+    "id": "draft-report",
+    "slug": "report",
+    "title": {
+      "hi": "प्रतिवेदन / प्रशासनिक जांच आख्या (Report)",
+      "en": "Administrative Report"
+    },
+    "hindiName": "प्रतिवेदन (रिपोर्ट)",
+    "marks": 10,
+    "purpose": {
+      "hi": "किसी घटना, योजना की प्रगति, दुर्घटना, वित्तीय अनियमितता अथवा विशेष प्रशासनिक समस्या की स्थल जांच कर वस्तुस्थिति एवं संस्तुतियों सहित उच्चाधिकारी को आख्या प्रस्तुत करने हेतु।",
+      "en": "Comprehensive administrative fact-finding inquiry report submitted to higher authorities detailing findings, evidentiary analysis, and recommendations."
+    },
+    "formatGuide": {
+      "heading": {
+        "hi": "शीर्ष पर 'प्रतिवेदन' अथवा 'जांच आख्या', जांच अधिकारी/समिति का नाम, पत्रांक एवं दिनांक।",
+        "en": "Header: 'प्रतिवेदन / जांच आख्या', Committee/Officer designation, reference and date."
+      },
+      "subjectLine": {
+        "hi": "जांच का विषय एवं संदर्भित शासनादेश संख्या।",
+        "en": "Subject of investigation and cited Government Order."
+      },
+      "reference": {
+        "hi": "शासनादेश संख्या जिसके द्वारा जांच अधिकारी को नामित किया गया था।",
+        "en": "Statutory order mandating the committee or inquiry officer."
+      },
+      "salutation": {
+        "hi": "सेवा में, प्रेषक-प्राप्तकर्ता का औपचारिक उल्लेख।",
+        "en": "Formal addressing to appointing/requisitioning authority."
+      },
+      "bodyStructure": [
+        {
+          "hi": "प्रस्तावना: जांच का आदेश, जांच दल का गठन एवं कार्यक्षेत्र।",
+          "en": "Introduction: Mandating government order and scope of inquiry."
+        },
+        {
+          "hi": "स्थल निरीक्षण, साक्ष्य संकलन एवं बयान दर्ज करने का विवरण।",
+          "en": "Methodology: Physical site inspection and recorded testimonies."
+        },
+        {
+          "hi": "जांच में पाए गए बिंदुवार तथ्य (Findings) एवं निष्कर्ष (Conclusion)।",
+          "en": "Findings & conclusions based on audited measurement books."
+        },
+        {
+          "hi": "भविष्य हेतु सुधारात्मक एवं दंडात्मक संस्तुतियाँ (Recommendations)।",
+          "en": "Actionable disciplinary and systemic recommendations."
+        }
+      ],
+      "subscription": {
+        "hi": "जांच अधिकारी / समिति के समस्त सदस्यों के पूर्ण हस्ताक्षर, नाम एवं पदनाम।",
+        "en": "Full signatures of inquiry officer / committee members on bottom right."
+      },
+      "authoritySignature": {
+        "hi": "हस्ताक्षर / जांच अधिकारी / पदनाम।",
+        "en": "Signature / Inquiry Officer / Designation."
+      }
+    },
+    "keyRules": [
+      {
+        "hi": "प्रतिवेदन पूर्णतः साक्ष्य-आधारित, तटस्थ और तथ्यात्मक होना चाहिए; इसमें पूर्वाग्रह का कोई स्थान नहीं होता।",
+        "en": "Must be strictly evidence-based, impartial, and devoid of subjective assumptions."
+      },
+      {
+        "hi": "संस्तुतियां स्पष्ट, व्यावहारिक एवं लागू करने योग्य होनी चाहिए।",
+        "en": "Recommendations must be actionable, legally sound, and pragmatic."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "hi": "जांच के केवल निष्कर्ष लिख देना और संस्तुतियां (Recommendations) न देना।",
+        "en": "Ending the report with findings without furnishing actionable recommendations."
+      },
+      {
+        "hi": "शासनादेश संदर्भ और साक्ष्य संकलन विधि का अभाव होना।",
+        "en": "Omitting the mandating government order number or inspection dates."
+      }
+    ],
+    "modelDraft": {
+      "title": "प्रशासनिक जांच प्रतिवेदन का प्रामाणिक प्रारूप",
+      "hindiContent": "                                      उत्तर प्रदेश शासन\n                                  ग्राम्य विकास विभाग, लखनऊ\n\nसंख्या: 88/ग्रा-वि/जांच/2026\n                                                                          दिनांक: 15 नवंबर, 2026\n\nसेवा में,\n    प्रमुख सचिव,\n    ग्राम्य विकास विभाग,\n    उत्तर प्रदेश शासन, लखनऊ।\n\nविषय: जनपद सीतापुर के विकासखंड खैराबाद में अमृत सरोवर निर्माण में कथित अनियमितता विषयक जांच प्रतिवेदन।\n\nमहोदय,\n    कृपया उपर्युक्त विषयक शासनादेश संख्या: 412/ग्रा-वि/2026 दिनांक 20 अक्टूबर, 2026 का संदर्भ ग्रहण करने का कष्ट करें, जिसके द्वारा अधोहस्ताक्षरी को उक्त प्रकरण की स्थलीय जांच हेतु नामित किया गया था। जांचोपरांत विस्तृत प्रतिवेदन निम्नवत प्रस्तुत है:\n\n1. स्थल निरीक्षण एवं साक्ष्य संकलन:\nअधोहस्ताक्षरी द्वारा दिनांक 02 व 03 नवंबर, 2026 को विकासखंड खैराबाद अंतर्गत 05 ग्राम पंचायतों के अमृत सरोवरों का तकनीकी टीम के साथ भौतिक निरीक्षण किया गया तथा संबंधित ग्राम प्रधानों, पंचायत सचिवों व ग्रामीणों के बयान दर्ज किए गए।\n\n2. जांच में पाए गए प्रमुख तथ्य:\n(क) स्वीकृत प्राक्कलन के सापेक्ष 02 सरोवरों पर मिट्टी खुदाई एवं तटबंध सुदृढ़ीकरण का कार्य संतोषजनक पाया गया।\n(ख) ग्राम पंचायत 'बरई' में सरोवर की परिधि पर पाथ-वे निर्माण में प्रयुक्त ईंटों एवं सीमेंट की गुणवत्ता निर्धारित मानकों के अनुरूप नहीं पाई गई।\n(ग) मस्टरोल एवं वित्तीय अभिलेखों के मिलान में ₹3,45,000/- की सामग्री खरीद हेतु सक्षम प्राधिकारी का अग्रिम अनुमोदन उपलब्ध नहीं था।\n\n3. निष्कर्ष:\nकार्य की गुणवत्ता में आंशिक शिथिलता तथा वित्तीय नियमों की अनदेखी के लिए संबंधित ग्राम विकास अधिकारी एवं तकनीकी सहायक प्रत्यक्ष रूप से प्रथम दृष्टया उत्तरदायी पाए गए हैं।\n\n4. संस्तुतियां:\n(i) संबंधित ग्राम विकास अधिकारी एवं तकनीकी सहायक के विरुद्ध अनुशासनिक कार्यवाही प्रारंभ की जाए।\n(ii) अमानक निर्माण कार्य को कार्यदायी संस्था द्वारा स्वयं के व्यय पर पुनः मानक के अनुरूप कराया जाए।\n(iii) गुणवत्ता नियंत्रण प्रयोगशाला से सामग्री की जांच रिपोर्ट आने तक अंतिम देयकों का भुगतान स्थगित रखा जाए।\n\n                                                                                     भवदीय,\n                                                                                     हस्ताक्षर\n                                                                                    (क. ख. ग.)\n                                                                                    संयुक्त सचिव एवं जांच अधिकारी,\n                                                                                    ग्राम्य विकास विभाग, उ.प्र. शासन।",
+      "englishExplanation": "Inquiry report covering 4 sections: Mandate -> Site Inspection & Evidence -> Specific Findings -> Actionable Recommendations."
+    },
+    "practiceTask": {
+      "prompt": {
+        "hi": "ग्रामीण विकास योजना के क्रियान्वयन में गुणवत्ता संबंधी शिकायतों की जांच हेतु नियुक्त जांच अधिकारी के रूप में शासन को प्रस्तुत किए जाने वाले एक विस्तृत जांच प्रतिवेदन का प्रारूप तैयार कीजिए।",
+        "en": "Draft an administrative inquiry report submitted to the Principal Secretary regarding ground inspection of rural developmental schemes."
+      },
+      "requiredElements": [
+        "विभाग का नाम, पत्रांक एवं दिनांक",
+        "जांच शासनादेश का संदर्भ",
+        "स्थल निरीक्षण एवं साक्ष्य संकलन",
+        "पाए गए तथ्य एवं निष्कर्ष",
+        "स्पष्ट सुधारात्मक संस्तुतियां"
+      ],
+      "sampleSolution": "Follow the standard inquiry report model draft."
     }
   }
 ]

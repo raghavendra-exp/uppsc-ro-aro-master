@@ -282,31 +282,59 @@ export const Home: React.FC<HomeProps> = ({ onNavigateTab }) => {
             </div>
           </div>
 
-          <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 space-y-2">
+          <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 space-y-2">
             <div className="flex justify-between font-semibold text-slate-800 dark:text-slate-200">
-              <span>{language === 'hi' ? 'मुख्य परीक्षा पेपर-2 (हिन्दी एवं आलेखन)' : 'Mains Paper 2 (Hindi & Drafting)'}</span>
-              <span className="text-emerald-600 dark:text-emerald-400 font-mono">160/160 (100%)</span>
+              <span>{language === 'hi' ? 'मुख्य परीक्षा पेपर-1 (सामान्य अध्ययन-I वर्णनात्मक)' : 'Mains Paper 1 (General Studies - I Descriptive)'}</span>
+              <span className="text-emerald-600 dark:text-emerald-400 font-mono">200/200 M</span>
             </div>
             <div className="w-full h-2.5 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
               <div className="h-full bg-emerald-500 rounded-full w-full" />
             </div>
             <div className="flex justify-between text-[11px] text-slate-500">
-              <span>सारणी रूप • 9 पत्राचार प्रारूप • प्रशासनिक शब्दावली • कम्प्यूटर</span>
-              <span>Part A + B</span>
+              <span>इतिहास • समाज • भूगोल • आपदा प्रबंधन • विज्ञान व प्रौद्योगिकी</span>
+              <span>20 Qs (10x8M + 10x12M)</span>
             </div>
           </div>
 
-          <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 space-y-2">
+          <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 space-y-2">
             <div className="flex justify-between font-semibold text-slate-800 dark:text-slate-200">
-              <span>{language === 'hi' ? 'मुख्य परीक्षा पेपर-3 (हिन्दी निबंध 600 शब्द)' : 'Mains Paper 3 (Hindi Essay 600 Words)'}</span>
-              <span className="text-emerald-600 dark:text-emerald-400 font-mono">120/120 (100%)</span>
+              <span>{language === 'hi' ? 'मुख्य परीक्षा पेपर-2 (सामान्य अध्ययन-II वर्णनात्मक)' : 'Mains Paper 2 (General Studies - II Descriptive)'}</span>
+              <span className="text-emerald-600 dark:text-emerald-400 font-mono">200/200 M</span>
             </div>
             <div className="w-full h-2.5 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
               <div className="h-full bg-emerald-500 rounded-full w-full" />
             </div>
             <div className="flex justify-between text-[11px] text-slate-500">
-              <span>खंड क (साहित्य) • खंड ख (विज्ञान/अर्थ) • खंड ग (आपदा/योजनाएं)</span>
-              <span>3 Essays</span>
+              <span>संविधान • शासन • अर्थव्यवस्था • कृषि • नीतिशास्त्र एवं सत्यनिष्ठा</span>
+              <span>20 Qs (10x8M + 10x12M)</span>
+            </div>
+          </div>
+
+          <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 space-y-2">
+            <div className="flex justify-between font-semibold text-slate-800 dark:text-slate-200">
+              <span>{language === 'hi' ? 'मुख्य परीक्षा पेपर-3 (सामान्य हिन्दी एवं आलेखन)' : 'Mains Paper 3 (General Hindi & Drafting)'}</span>
+              <span className="text-emerald-600 dark:text-emerald-400 font-mono">200/200 M</span>
+            </div>
+            <div className="w-full h-2.5 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
+              <div className="h-full bg-emerald-500 rounded-full w-full" />
+            </div>
+            <div className="flex justify-between text-[11px] text-slate-500">
+              <span>संक्षेपण • सारणी रूप • 9 पत्राचार • पारिभाषिक • मुहावरे • व्याकरण • कम्प्यूटर</span>
+              <span>8 Questions (200 M)</span>
+            </div>
+          </div>
+
+          <div className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200/80 dark:border-slate-800 space-y-2">
+            <div className="flex justify-between font-semibold text-slate-800 dark:text-slate-200">
+              <span>{language === 'hi' ? 'मुख्य परीक्षा पेपर-4 (हिन्दी निबन्ध 2-स्तरीय)' : 'Mains Paper 4 (Hindi Essay 2-Tier)'}</span>
+              <span className="text-emerald-600 dark:text-emerald-400 font-mono">200/200 M</span>
+            </div>
+            <div className="w-full h-2.5 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
+              <div className="h-full bg-emerald-500 rounded-full w-full" />
+            </div>
+            <div className="flex justify-between text-[11px] text-slate-500">
+              <span>खण्ड 1 (80M / 800 शब्द) + खण्ड 2 (120M / 1200 शब्द)</span>
+              <span>2 Essays (200 M)</span>
             </div>
           </div>
         </div>

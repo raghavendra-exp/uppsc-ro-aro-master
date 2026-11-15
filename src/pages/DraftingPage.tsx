@@ -71,11 +71,12 @@ export const DraftingPage: React.FC = () => {
     });
 
     // 4. Salutation / Specific Protocol Check
-    if (activeDoc.slug === 'office-memorandum') {
-      // In OM, 'महोदय' is prohibited!
+    const noSalutationList = ['office-memorandum', 'office-order', 'notification-release', 'noting'];
+    if (noSalutationList.includes(activeDoc.slug)) {
+      // In OM, Office Order, Notification, Noting - 'महोदय' is prohibited!
       const hasProhibitedSir = /महोदय|sir/i.test(text);
       checks.push({
-        label: language === 'hi' ? 'कार्यालय ज्ञाप में महोदय वर्जित है (सफलतापूर्वक पालन किया गया)' : 'No salutation used in Office Memorandum (Correct)',
+        label: language === 'hi' ? `${activeDoc.hindiName} में महोदय संबोधन वर्जित है (सफलतापूर्वक पालन किया गया)` : `No salutation used in ${activeDoc.hindiName} (Correct)`,
         pass: !hasProhibitedSir
       });
     } else if (activeDoc.slug === 'demi-official-letter') {
@@ -87,16 +88,17 @@ export const DraftingPage: React.FC = () => {
     } else {
       const hasSir = /महोदय|महोदया|sir/i.test(text);
       checks.push({
-        label: language === 'hi' ? 'शासकीय पत्र में "महोदय" संबोधन उपस्थित है' : 'Formal salutation "महोदय" present',
+        label: language === 'hi' ? 'शासकीय पत्र / प्रारूप में "महोदय" संबोधन उपस्थित है' : 'Formal salutation "महोदय" present',
         pass: hasSir
       });
     }
 
     // 5. Subscription Check
-    if (activeDoc.slug === 'office-memorandum') {
+    const noBhavdiyaList = ['office-memorandum', 'office-order', 'notification-release', 'noting'];
+    if (noBhavdiyaList.includes(activeDoc.slug)) {
       const hasBhavdiya = /भवदीय/i.test(text);
       checks.push({
-        label: language === 'hi' ? 'कार्यालय ज्ञाप में "भवदीय" का प्रयोग नहीं किया गया (सही)' : 'No subscription "भवदीय" in O.M. (Correct)',
+        label: language === 'hi' ? `${activeDoc.hindiName} में "भवदीय" का प्रयोग नहीं किया गया (आज्ञा से/सीधे हस्ताक्षर सही)` : `No subscription "भवदीय" in ${activeDoc.hindiName} (Correct)`,
         pass: !hasBhavdiya
       });
     } else if (activeDoc.slug === 'demi-official-letter') {

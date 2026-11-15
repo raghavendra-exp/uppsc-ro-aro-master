@@ -153,5 +153,112 @@
       "Cites specific UP initiatives like Kisan Pathshala / AgriStack (3 marks)",
       "Structured presentation within 75 words (1 mark)"
     ]
+  },
+  {
+    "id": "mq-gs1-society-women-01",
+    "paper": "GS_PAPER_1",
+    "subject": "Indian Society",
+    "type": "SHORT_ANSWER",
+    "marks": 8,
+    "wordLimit": 75,
+    "question": {
+      "hi": "भारतीय समाज में महिला संगठनों की भूमिका एवं महिला सशक्तिकरण में उनके योगदान का संक्षिप्त मूल्यांकन कीजिए।",
+      "en": "Briefly evaluate the role of women's organizations in Indian society and their contribution to women's empowerment."
+    },
+    "modelAnswer": {
+      "hi": "भारतीय समाज में महिला संगठन (जैसे सेवा/SEWA, अखिल भारतीय महिला सम्मेलन) सामाजिक न्याय और सशक्तिकरण के प्रमुख प्रेरक रहे हैं:\n1. **विधिक एवं सामाजिक सुधार:** घरेलू हिंसा अधिनियम (2005), कार्यस्थल पर लैंगिक उत्पीड़न (PoSH) कानून तथा दहेज विरोधी आंदोलनों में अग्रणी भूमिका।\n2. **आर्थिक स्वावलंबन:** स्वयं सहायता समूहों (SHGs) के माध्यम से सूक्ष्म वित्त (Microfinance), आजीविका संवर्धन तथा महिला श्रम अधिकारों की सुरक्षा।\n3. **उत्तर प्रदेश परिप्रेक्ष्य:** राज्य में 'मिशन शक्ति' एवं 'राज्य ग्रामीण आजीविका मिशन' (UPSRLM) के अंतर्गत गठित 8 लाख से अधिक महिला स्वयं सहायता समूहों ने ग्रामीण नेतृत्व एवं आर्थिक आत्मनिर्भरता को अभूतपूर्व गति दी है।",
+      "en": "Women's organizations in India (e.g., SEWA, AIWC) have been catalyst agents for social transformation:\n1. Legal Advocacy: Spearheaded campaigns leading to Domestic Violence Act 2005, PoSH Act, and anti-dowry awareness.\n2. Economic Self-Reliance: Promoting Self-Help Groups (SHGs), microfinance access, and informal labour rights.\n3. UP Context: Over 8 lakh SHGs under Mission Shakti & UPSRLM have transformed rural grassroots leadership and economic resilience."
+    },
+    "structureBreakdown": {
+      "intro": "महिला संगठनों का परिचय व महत्व (15 शब्द)",
+      "body": "प्रमुख उपलब्धियां: कानूनी, आर्थिक व सामाजिक आयाम (45 शब्द)",
+      "conclusion": "यूपी मिशन शक्ति व भावी दिशा (15 शब्द)"
+    },
+    "examinerRubric": [
+      "प्रमुख महिला संगठनों (उदा. SEWA) का सटीक उल्लेख",
+      "विधिक सुधारों और स्वयं सहायता समूहों (SHG) की भूमिका",
+      "उत्तर प्रदेश के विशिष्ट संदर्भ (मिशन शक्ति) का समावेश",
+      "75 शब्द सीमा एवं संतुलित संरचना"
+    ]
+  },
+  {
+    "id": "mq-gs1-geo-drainage-02",
+    "paper": "GS_PAPER_1",
+    "subject": "Geography of India",
+    "type": "LONG_ANSWER",
+    "marks": 12,
+    "wordLimit": 125,
+    "question": {
+      "hi": "हिमालयी नदी तंत्र तथा प्रायद्वीपीय नदी तंत्र के मध्य भू-आकृतिक एवं अपवाह संबंधी प्रमुख अंतरों को स्पष्ट कीजिए।",
+      "en": "Elucidate the fundamental physiographic and drainage differences between the Himalayan river system and the Peninsular river system."
+    },
+    "modelAnswer": {
+      "hi": "भारत का अपवाह तंत्र भू-गर्भीय इतिहास और भौगोलिक संरचना के आधार पर दो सुस्पष्ट प्रणालियों में विभक्त है:\n\n| तुलनात्मक आधार | हिमालयी नदी तंत्र (उदा. गंगा, सिंधु, ब्रह्मपुत्र) | प्रायद्वीपीय नदी तंत्र (उदा. गोदावरी, कृष्णा, नर्मदा) |\n|---|---|---|\n| **1. उद्गम एवं आयु** | युवा, नवीन वलित पर्वत (हिमनद उद्गम); अत्यधिक अपरदनकारी। | प्रौढ़, प्राचीन गोंडवाना भूखंड की नदियां; आधार तल प्राप्त। |\n| **2. जल उपलब्धता** | **सदावाहिनी (Perennial):** ग्रीष्म में हिमनद पिघलने तथा वर्षा ऋतु में मानसून दोनों से जल प्राप्ति। | **मौसमी (Seasonal / Rain-fed):** मुख्यतः दक्षिण-पश्चिम मानसून वर्षा पर निर्भर (अपवाद: कावेरी)। |\n| **3. घाटी का स्वरूप** | गहरी 'V' आकार की घाटियाँ, गॉर्ज एवं जलप्रपात; मैदानी भाग में विसर्प (Meanders) व गोखुर झीलें। | उथली, चौड़ी एवं संतुलित ढाल वाली घाटियाँ; विसर्पों का अभाव। |\n| **4. मुहाने का स्वरूप** | विशाल डेल्टा निर्माण (जैसे सुंदरबन डेल्टा)। | पूर्ववाहिनी नदियां डेल्टा तथा पश्चिमवाहिनी नदियां (नर्मदा, तापी) **एश्चुअरी/ज्वारनदमुख** बनाती हैं। |\n\n**निष्कर्ष:** हिमालयी नदियां उत्तर प्रदेश सहित उत्तरी मैदानों की सघन कृषि एवं जलविद्युत का आधार हैं, जबकि प्रायद्वीपीय नदियां कठोर भू-संरचना के कारण मौसमी सिंचाई एवं स्थानीय आवश्यकताओं को पोषित करती हैं।",
+      "en": "India's drainage network is divided into two distinct geological systems:\n1. Origin & Stage: Himalayan rivers originate from glaciers in young fold mountains with vigorous erosion (youthful); Peninsular rivers flow over mature, stable Gondwana plateau near graded profiles.\n2. Perenniality: Himalayan rivers are perennial (fed by snowmelt + monsoons); Peninsular rivers are predominantly seasonal and rain-fed (except Cauvery).\n3. Valley Morphology: Himalayan rivers carve deep V-shaped valleys, gorges, and extensive meanders/oxbow lakes; Peninsular rivers feature shallow, graded, broad valleys.\n4. River Mouths: Himalayan rivers construct vast arcuate deltas (Sundarbans); Peninsular rivers form deltas on East Coast and Estuaries on West Coast (Narmada, Tapi).\nConclusion: Himalayan drainage forms the fertile agricultural lifeline of the Gangetic plain, whereas Peninsular drainage supports tank irrigation and regional hydrology."
+    },
+    "structureBreakdown": {
+      "intro": "अपवाह तंत्र का संक्षिप्त भू-आकृतिक वर्गीकरण (20 शब्द)",
+      "body": "4 प्रमुख बिंदुओं (आयु, जल प्रकृति, घाटी, मुहाना) पर तुलनात्मक तालिका (85 शब्द)",
+      "conclusion": "कृषि व आर्थिक उपयोगिता पर समन्वित निष्कर्ष (20 शब्द)"
+    },
+    "examinerRubric": [
+      "सदावाहिनी बनाम मौसमी अंतर का स्पष्ट रेखांकन",
+      "गॉर्ज/विसर्प बनाम उथली घाटियों का भू-आकृतिक उल्लेख",
+      "एश्चुअरी बनाम डेल्टा का सटीक विभेद",
+      "125 शब्द सीमा व सारणीबद्ध प्रभावी प्रस्तुति"
+    ]
+  },
+  {
+    "id": "mq-gs2-polity-local-gov-01",
+    "paper": "GS_PAPER_2",
+    "subject": "Indian Polity",
+    "type": "LONG_ANSWER",
+    "marks": 12,
+    "wordLimit": 125,
+    "question": {
+      "hi": "73वें संविधान संशोधन अधिनियम, 1992 ने ग्रामीण भारत में लोकतांत्रिक विकेंद्रीकरण और महिला सशक्तिकरण को किस प्रकार सुदृढ़ किया है? विवेचना कीजिए।",
+      "en": "How has the 73rd Constitutional Amendment Act, 1992 strengthened democratic decentralization and women empowerment in rural India? Discuss."
+    },
+    "modelAnswer": {
+      "hi": "73वें संविधान संशोधन (1992) ने भाग-IX एवं 11वीं अनुसूची जोड़कर त्रि-स्तरीय पंचायती राज को संवैधानिक दर्जा प्रदान किया, जिसने ग्रामीण भारत में सत्ता को जन-जन तक पहुंचाया:\n\n1. **संवैधानिक विकेंद्रीकरण:** ग्राम सभा को प्रत्यक्ष लोकतंत्र की प्राथमिक इकाई बनाया गया; राज्य निर्वाचन आयोग (अनुच्छेद 243K) द्वारा प्रत्येक 5 वर्ष में नियमित चुनाव तथा राज्य वित्त आयोग (अनुच्छेद 243I) द्वारा वित्तीय संसाधन अंतरण सुनिश्चित हुआ।\n2. **महिला सशक्तिकरण का क्रांतिकारी कदम:** अनुच्छेद 243D(3) के अंतर्गत पंचायती राज संस्थाओं में महिलाओं हेतु **न्यूनतम 33% आरक्षण** (अध्यक्ष पदों सहित) अनिवार्य किया गया। वर्तमान में 14 लाख से अधिक निर्वाचित महिला प्रतिनिधि (EWRs) ग्रामीण शासन का नेतृत्व कर रही हैं।\n3. **चुनौतियाँ एवं उत्तर प्रदेश परिप्रेक्ष्य:** 'प्रधान पति' (Proxy rule) की प्रथा तथा सीमित वित्तीय अधिकार (3Fs: Functions, Funds, Functionaries) प्रमुख बाधाएं हैं। उ.प्र. सरकार ने 'स्मार्ट पंचायत' पहल, ग्राम सचिवालयों की स्थापना तथा ई-ग्राम स्वराज पोर्टल द्वारा पारदर्शिता बढ़ाई है।\n\n**निष्कर्ष:** 73वां संशोधन केवल प्रशासनिक पुनर्गठन नहीं, बल्कि ग्रामीण हाशियों पर खड़े वर्गों की राजनीतिक आवाज बना है, जिसे वित्तीय स्वायत्तता देकर पूर्ण रूप से सार्थक किया जाना आवश्यक है।",
+      "en": "The 73rd Constitutional Amendment Act (1992) granted constitutional recognition to 3-tier Panchayati Raj institutions (Part IX & 11th Schedule), institutionalizing participatory democracy:\n1. Democratic Decentralization: Gram Sabha established as direct democracy foundation; State Election Commission (Art 243K) mandates regular quinquennial elections; State Finance Commission (Art 243I) ensures devolutions across 29 subjects.\n2. Women Empowerment: Article 243D(3) mandated minimum 33% reservation for women in all tiers and chairperson seats, bringing over 1.4 million Elected Women Representatives (EWRs) into governance.\n3. UP Experience & Challenges: Overcoming 'Sarpanch Pati' syndrome through mandatory training, Village Secretariats (Gram Sachivalaya), and digital budgeting via e-GramSwaraj.\nConclusion: Deepening local fiscal devolution (3Fs) is essential to realize the true spirit of grassroots Swaraj envisioned by Mahatma Gandhi."
+    },
+    "structureBreakdown": {
+      "intro": "73वें संशोधन व भाग-9 का संवैधानिक संदर्भ (20 शब्द)",
+      "body": "संस्थागत विकेंद्रीकरण + महिला आरक्षण (अनु. 243D) + चुनौतियाँ (85 शब्द)",
+      "conclusion": "यूपी ग्राम सचिवालय व गांधीवादी दृष्टिकोण पर निष्कर्ष (20 शब्द)"
+    },
+    "examinerRubric": [
+      "अनुच्छेद 243D (महिला आरक्षण) व 11वीं अनुसूची का उल्लेख",
+      "राज्य निर्वाचन आयोग व राज्य वित्त आयोग की भूमिका",
+      "प्रधान-पति व वित्तीय कमी जैसी व्यावहारिक चुनौतियों का उल्लेख",
+      "125 शब्द सीमा व संतुलित विधिक भाषा"
+    ]
+  },
+  {
+    "id": "mq-gs2-ethics-impartiality-02",
+    "paper": "GS_PAPER_2",
+    "subject": "Ethics and Integrity",
+    "type": "SHORT_ANSWER",
+    "marks": 8,
+    "wordLimit": 75,
+    "question": {
+      "hi": "लोक सेवा में 'तटस्थता' (Neutrality) एवं 'गैर-पक्षपात' (Non-partisanship) के नैतिक महत्व को स्पष्ट कीजिए।",
+      "en": "Explain the ethical significance of 'Neutrality' and 'Non-partisanship' in Civil Services."
+    },
+    "modelAnswer": {
+      "hi": "लोक सेवा में 'तटस्थता' और 'गैर-पक्षपात' प्रशासनिक शुचिता एवं लोक विश्वास के आधारस्तंभ हैं:\n1. **राजनीतिक तटस्थता (Political Neutrality):** सिविल सेवक को अपनी राजनीतिक प्राथमिकताओं से परे रहकर सत्तारूढ़ दल की नीतियों का निष्पक्ष एवं व्यावसायिक क्रियान्वयन करना चाहिए (नोलन समिति सिद्धांत)।\n2. **गैर-पक्षपात (Non-partisanship):** जाति, धर्म, क्षेत्र अथवा व्यक्तिगत संबंध के आधार पर किसी भी प्रकार का भेदभाव किए बिना, केवल विधिक नियमों एवं योग्यता (Merit) के आधार पर निर्णय लेना।\n3. **महत्व:** यह लोकतांत्रिक संस्थाओं की साख बनाए रखता है तथा सुनिश्चित करता है कि कल्याणकारी योजनाओं का लाभ बिना किसी दबाव के अंतिम पंक्ति के व्यक्ति तक पहुंचे।",
+      "en": "Neutrality and non-partisanship constitute the ethical bedrock of public administration (Nolan Committee standards):\n1. Political Neutrality: Civil servants execute policies of duly elected governments faithfully and professionally, regardless of personal political convictions.\n2. Non-Partisanship: Decisions are driven purely by constitutional law, merit, and evidence, excluding bias based on caste, religion, or patronage.\n3. Systemic Significance: Preserves public credibility in bureaucracy and guarantees equitable delivery of public services to the most marginalized."
+    },
+    "structureBreakdown": {
+      "intro": "अवधारणा की परिभाषा व नोलन सिद्धांत (15 शब्द)",
+      "body": "तटस्थता बनाम गैर-पक्षपात के व्यावहारिक आयाम (45 शब्द)",
+      "conclusion": "लोक विश्वास व संवैधानिक शुचिता (15 शब्द)"
+    },
+    "examinerRubric": [
+      "तटस्थता (राजनीतिक) एवं गैर-पक्षपात (सामाजिक-वैयक्तिक) का सटीक विभेद",
+      "नोलन समिति अथवा संवैधानिक नैतिकता का संदर्भ",
+      "सटीक 75 शब्द सीमा में प्रभावी उत्तर"
+    ]
   }
 ]
